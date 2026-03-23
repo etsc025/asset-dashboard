@@ -2471,5 +2471,98 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化でアジア株急落、原油100ドル突破も米株はトランプ発言で反発"
     }
+  },
+  {
+    "timestamp": "2026-03-24 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米株反発、トランプ大統領がイラン攻撃延期を表明",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイランとの対話が「建設的」でありイラン電力施設への攻撃を延期すると発表。これを受けダウは745ポイント上昇し、S&P500は1.4%、ナスダックは1.5%上昇",
+          "affected_sectors": [
+            "エネルギー",
+            "株式全般",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本・韓国株式市場が大幅下落、アジア太平洋でリスク回避",
+          "country": "日本・韓国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢を受けアジア株式市場が急落。日経平均は約5%下落、韓国総合株価指数は6%以上下落。一時取引停止も発生",
+          "affected_sectors": [
+            "株式全般",
+            "半導体",
+            "輸出関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が三桁台を回復、ホルムズ海峡封鎖継続",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "WTI原油先物が99.42ドル、ブレント原油が113.08ドルまで上昇。イラン新最高指導者がホルムズ海峡封鎖継続を宣言",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要中央銀行が金利据え置きを決定、インフレ監視強化",
+          "country": "米国・日本・欧州",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Fed（3.5-3.75%）、日銀（0.75%）、ECB（2.0%）が金利据え置き。中東情勢によるエネルギー価格上昇を注視",
+          "affected_sectors": [
+            "金融",
+            "債券",
+            "通貨"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ECBが2026年のインフレ見通しを2.6%に上方修正",
+          "country": "欧州",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ラガルドECB総裁が中東紛争の影響で2026年平均インフレ率を2.6%に上方修正。利上げリスクが急激に上昇",
+          "affected_sectors": [
+            "債券",
+            "銀行",
+            "ユーロ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国国債利回りが2008年以来の高水準、インフレ懸念拡大",
+          "country": "英国",
+          "category": "債券",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "英国10年債利回りが2008年金融危機以来の高水準に上昇。エネルギー価格上昇によるインフレ懸念でギルト市場が急落",
+          "affected_sectors": [
+            "債券",
+            "英ポンド",
+            "不動産"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ発言で米株反発も、アジア市場は中東リスクで大幅下落継続"
+    }
   }
 ]
