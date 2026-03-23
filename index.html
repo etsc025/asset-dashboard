@@ -250,17 +250,22 @@ async function fetchAll(){
     {time:'05:10',label:'デイリーレビュー',min:5*60+10},
     {time:'06:05',label:'GitHub更新',min:6*60+5},
   ];
+  // 現在時刻から前後2時間以内のみ完了/次の予定を判定
+  // 過去でも実行済みログがない場合は「待機中」表示
   const remaining = schedules.filter(s=>s.min>current);
   const next = remaining.length>0?remaining[0]:null;
   document.getElementById('scheduleArea').innerHTML = schedules.map(s=>{
-    const done   = s.min<=current;
+    // 完了判定: 現在時刻から30分以内に通過した場合のみ完了扱い
+    const minutesAgo = current - s.min;
+    const done   = minutesAgo >= 0 && minutesAgo <= 30;
     const isNext = next&&s.min===next.min;
+    const isPast = s.min < current && !done;
     return `<div class="schedule-row">
-      <span style="color:${done?'#8b949e':isNext?'#f59e0b':'#e6edf3'};">
-        ${done?'✅':isNext?'▶️':'⏳'} ${s.time} ${s.label}
+      <span style="color:${done?'#22c55e':isNext?'#f59e0b':isPast?'#30363d':'#e6edf3'};">
+        ${done?'✅':isNext?'▶️':isPast?'⬜':'⏳'} ${s.time} ${s.label}
       </span>
-      <span style="color:${done?'#22c55e':'#8b949e'};font-size:11px;">
-        ${done?'完了':isNext?'次の予定':'待機中'}
+      <span style="color:${done?'#22c55e':isNext?'#f59e0b':'#8b949e'};font-size:11px;">
+        ${done?'実行済み':isNext?'次の予定':isPast?'本日終了':'待機中'}
       </span>
     </div>`;
   }).join('');
