@@ -276,11 +276,21 @@ async function fetchAll(){
 
   // ニュース
   const newsLogs   = Array.isArray(news)?news:[];
-  const latestNews = newsLogs.length>0?newsLogs[newsLogs.length-1]:null;
-  const newsItems  = latestNews?(latestNews.data?.breaking_news||[]):[];
+  // 最新1時間以内のニュースを取得
+  const now3 = new Date();
+  const oneHourAgo = new Date(now3.getTime() - 60*60*1000);
+  const recentLogs = newsLogs.filter(log=>{
+    const logTime = new Date(log.timestamp);
+    return logTime >= oneHourAgo;
+  });
+  // 最新ログを優先、なければ直近ログを使用
+  const targetLog  = recentLogs.length>0 ? recentLogs[recentLogs.length-1] : (newsLogs.length>0?newsLogs[newsLogs.length-1]:null);
+  const newsItems  = targetLog?(targetLog.data?.breaking_news||[]):[];
+  const newsTime   = targetLog?targetLog.timestamp:'';
   const newsArea   = document.getElementById('newsArea');
   if(newsItems.length>0){
-    newsArea.innerHTML = newsItems.slice(0,5).map(n=>{
+    const timeLabel = newsTime ? `<div style="color:#8b949e;font-size:11px;margin-bottom:8px;">📡 取得時刻: ${newsTime}</div>` : '';
+    newsArea.innerHTML = timeLabel + newsItems.slice(0,10).map(n=>{
       const cls = n.impact==='HIGH'?'news-high':n.impact==='MEDIUM'?'news-medium':'news-low';
       return `<div class="news-item ${cls}">
         <span style="color:#8b949e;">[${n.country||''}] ${n.impact||''}</span>
