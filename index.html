@@ -285,7 +285,13 @@ async function fetchAll(){
   });
   // 最新ログを優先、なければ直近ログを使用
   const targetLog  = recentLogs.length>0 ? recentLogs[recentLogs.length-1] : (newsLogs.length>0?newsLogs[newsLogs.length-1]:null);
-  const newsItems  = targetLog?(targetLog.data?.breaking_news||[]):[];
+  // ブレイキングニュースを優先（HIGH→MEDIUM→LOW順）
+  const allNews = targetLog?(targetLog.data?.breaking_news||[]):[];
+  const newsItems = [
+    ...allNews.filter(n=>n.impact==='HIGH'),
+    ...allNews.filter(n=>n.impact==='MEDIUM'),
+    ...allNews.filter(n=>n.impact==='LOW'),
+  ];
   const newsTime   = targetLog?targetLog.timestamp:'';
   const newsArea   = document.getElementById('newsArea');
   if(newsItems.length>0){
