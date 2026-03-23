@@ -2381,5 +2381,95 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "<cite index=\"12-6,12-9\">トランプ・イラン対話開始で原油急落、市場はリスクオン転換の兆し</cite>"
     }
+  },
+  {
+    "timestamp": "2026-03-24 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "アジア太平洋市場急落、日経平均5%下落",
+          "country": "日本・韓国・オーストラリア",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争激化を受け、日経平均が5%近く下落。韓国Kospiは6%超の急落で一時取引停止。オーストラリアASX200も2.4%下落。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領、イラン攻撃停止発言で米株反発",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイラン電力施設攻撃停止を発表。ダウ629ポイント上昇（1.4%）、S&P500は1.2%、ナスダック1.3%上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格100ドル突破、WTI・ブレント共に上昇",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡封鎖続行でWTI先物99.42ドル（1.4%上昇）、ブレント113.08ドル（0.8%上昇）。100ドル台定着の可能性。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国国債利回り2008年以来最高水準",
+          "country": "イギリス",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インフレ懸念でギルト市場売り圧力強まる。政府借入コストが金融危機以来の高水準に上昇。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
+          "country": "日本・アメリカ",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バフェット氏の日本進出拡大。ナショナル・インデムニティ経由で東京海上の2.49%株式取得。戦略的パートナーシップ締結。",
+          "affected_sectors": [
+            "保険",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "半導体株警戒、SMH 369ドル下抜けリスク",
+          "country": "アメリカ",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "VanEck半導体ETF（SMH）が369ドル下抜けで半導体株大幅調整の可能性。メモリ・光学関連株に警戒必要。",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化でアジア株急落、原油100ドル突破も米株はトランプ発言で反発"
+    }
   }
 ]
