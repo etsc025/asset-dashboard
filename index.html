@@ -252,14 +252,18 @@ async function fetchAll(){
   ];
   // 現在時刻から前後2時間以内のみ完了/次の予定を判定
   // 過去でも実行済みログがない場合は「待機中」表示
-  const remaining = schedules.filter(s=>s.min>current);
-  const next = remaining.length>0?remaining[0]:null;
-  document.getElementById('scheduleArea').innerHTML = schedules.map(s=>{
-    // 完了判定: 現在時刻から30分以内に通過した場合のみ完了扱い
-    const minutesAgo = current - s.min;
-    const done   = minutesAgo >= 0 && minutesAgo <= 30;
-    const isNext = next&&s.min===next.min;
-    const isPast = s.min < current && !done;
+  // 07:00を1日のスタートとして正規化
+  const dayStart2  = 7*60;
+  const normMin2   = (m) => m >= dayStart2 ? m - dayStart2 : m + (24*60 - dayStart2);
+  const currentNorm2 = normMin2(current);
+  const schedulesN = schedules.map(s => ({...s, norm: normMin2(s.min)}));
+  const remaining2 = schedulesN.filter(s=>s.norm>currentNorm2);
+  const next2 = remaining2.length>0?remaining2[0]:null;
+  document.getElementById('scheduleArea').innerHTML = schedulesN.map(s=>{
+    const minsAgo = currentNorm2 - s.norm;
+    const done    = minsAgo >= 0 && minsAgo <= 30;
+    const isNext  = next2 && s.norm === next2.norm;
+    const isPast  = s.norm < currentNorm2 && !done;
     return `<div class="schedule-row">
       <span style="color:${done?'#22c55e':isNext?'#f59e0b':isPast?'#30363d':'#e6edf3'};">
         ${done?'✅':isNext?'▶️':isPast?'⬜':'⏳'} ${s.time} ${s.label}
