@@ -1,0 +1,45 @@
+{
+  "plan_name": "奥山家 資産運用マスタープラン",
+  "created": "2026-03-22",
+  "simulation_period": {
+    "months": ["2026-03", "2026-04", "2026-05"],
+    "investment": 1000000,
+    "living_expense": 0,
+    "note": "シミュレーション期間・実取引なし"
+  },
+  "real_investment": [
+    {"month": "2026-06", "target": 1000000, "living": 0},
+    {"month": "2026-07", "target": 1300000, "living": 0},
+    {"month": "2026-08", "target": 1290000, "living": 400000},
+    {"month": "2026-09", "target": 1277000, "living": 400000},
+    {"month": "2026-10", "target": 1260100, "living": 400000},
+    {"month": "2026-11", "target": 1238130, "living": 400000},
+    {"month": "2026-12", "target": 1209569, "living": 400000},
+    {"month": "2027-01", "target": 1172440, "living": 400000},
+    {"month": "2027-02", "target": 1124172, "living": 400000},
+    {"month": "2027-03", "target": 1061423, "living": 400000},
+    {"month": "2027-04", "target":  979850, "living": 400000},
+    {"month": "2027-05", "target":  873805, "living": 400000},
+    {"month": "2027-06", "target":  735947, "living": 400000},
+    {"month": "2027-07", "target":  556730, "living": 400000},
+    {"month": "2027-08", "target":  323750, "living": 400000},
+    {"month": "2027-09", "target":   20875, "living": 400000},
+    {"month": "2027-10", "target":  372863, "living": 400000},
+    {"month": "2027-11", "target":  884722, "living": 400000},
+    {"month": "2027-12", "target": 1550139, "living": 400000},
+    {"month": "2028-01", "target": 2415180, "living": 400000},
+    {"month": "2028-02", "target": 3539734, "living": 400000},
+    {"month": "2028-03", "target": 5001655, "living": 400000},
+    {"month": "2028-04", "target": 6902151, "living": 400000},
+    {"month": "2028-05", "target": 9372796, "living": 400000},
+    {"month": "2028-06", "target":12584635, "living": 400000}
+  ],
+  "key_milestones": [
+    {"month": "2026-07", "milestone": "¥1,300,000達成・実投資開始準備"},
+    {"month": "2026-08", "milestone": "生活費¥400,000/月を投資収益から移行開始"},
+    {"month": "2027-09", "milestone": "最大リスク月（¥20,875）・要注意"},
+    {"month": "2027-10", "milestone": "回復フェーズ開始"},
+    {"month": "2028-03", "milestone": "¥5,000,000超達成"},
+    {"month": "2028-06", "milestone": "¥12,584,635達成目標"}
+  ]
+}

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>奥山家 資産運用ダッシュボード</title>
+<style>
+* { box-sizing:border-box; margin:0; padding:0; }
+body { background:#0d1117; color:#e6edf3; font-family:-apple-system,sans-serif; padding:16px; }
+h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
+.subtitle { font-size:13px; color:#8b949e; margin-bottom:16px; }
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
+.card { background:#161b22; border:1px solid #30363d; border-radius:8px; padding:16px; }
+.card h2 { font-size:13px; color:#8b949e; margin-bottom:8px; }
+.full-width { grid-column:1/-1; }
+.green { color:#22c55e; }
+.red { color:#ef4444; }
+.yellow { color:#f59e0b; }
+.gray { color:#8b949e; }
+.kpi-row { display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:8px; margin-top:8px; }
+.kpi-box { background:#0d1117; border-radius:6px; padding:10px; text-align:center; border:1px solid #30363d; }
+.kpi-label { font-size:10px; color:#8b949e; margin-bottom:4px; }
+.kpi-value { font-size:18px; font-weight:700; }
+.progress-bar-bg { background:#21262d; border-radius:999px; height:12px; margin-top:6px; overflow:hidden; }
+.progress-bar { height:12px; border-radius:999px; transition:width 0.5s; }
+.bar-green { background:linear-gradient(90deg,#22c55e,#16a34a); }
+.bar-yellow { background:linear-gradient(90deg,#f59e0b,#d97706); }
+.bar-red { background:linear-gradient(90deg,#ef4444,#dc2626); }
+.schedule-row { display:flex; justify-content:space-between; padding:4px 0; font-size:12px; border-bottom:1px solid #21262d; }
+.news-item { padding:6px 0; border-bottom:1px solid #21262d; font-size:12px; }
+.news-high { border-left:3px solid #ef4444; padding-left:8px; }
+.news-medium { border-left:3px solid #f59e0b; padding-left:8px; }
+.news-low { border-left:3px solid #22c55e; padding-left:8px; }
+.margin-badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:10px; font-weight:700; }
+.badge-long { background:#22c55e22; color:#22c55e; border:1px solid #22c55e; }
+.badge-short { background:#ef444422; color:#ef4444; border:1px solid #ef4444; }
+.nav a { color:#58a6ff; font-size:13px; text-decoration:none; padding:4px 12px; border:1px solid #30363d; border-radius:6px; margin-right:8px; }
+.nav a:hover { background:#21262d; }
+.offline-note { background:#21262d; border:1px solid #f59e0b; border-radius:6px; padding:12px; margin-bottom:16px; font-size:12px; color:#f59e0b; }
+.table { width:100%; border-collapse:collapse; font-size:12px; }
+.table th { color:#8b949e; text-align:left; padding:4px 8px; border-bottom:1px solid #30363d; }
+.table td { padding:4px 8px; border-bottom:1px solid #21262d; }
+@media(max-width:600px){ .grid{grid-template-columns:1fr;} .kpi-row{grid-template-columns:1fr 1fr;} }
+</style>
+</head>
+<body>
+<h1>🏛️ 奥山家 資産運用ダッシュボード</h1>
+<div class="subtitle" id="lastUpdate">最終更新: --</div>
+
+<div class="nav" style="margin-bottom:16px;">
+  <a href="https://etsc025.github.io/stock-viewer/">📈 Stock Viewer</a>
+</div>
+
+<div class="offline-note">
+  ⚠️ データは毎朝6:05にMacから自動アップロードされます。リアルタイムではありません。
+</div>
+
+<div class="grid">
+  <!-- 月次進捗 -->
+  <div class="card full-width">
+    <h2>📊 月次進捗（目標: ¥1,300,000 / +30%）</h2>
+    <div class="kpi-row">
+      <div class="kpi-box">
+        <div class="kpi-label">現在総資産</div>
+        <div class="kpi-value" id="totalAsset">¥--</div>
+      </div>
+      <div class="kpi-box">
+        <div class="kpi-label">目標資産</div>
+        <div class="kpi-value yellow">¥1,300,000</div>
+      </div>
+      <div class="kpi-box">
+        <div class="kpi-label">月次リターン</div>
+        <div class="kpi-value" id="monthReturn">--%</div>
+      </div>
+      <div class="kpi-box">
+        <div class="kpi-label">Gap</div>
+        <div class="kpi-value" id="gapValue">--%</div>
+      </div>
+    </div>
+    <div style="margin-top:12px;">
+      <div style="display:flex;justify-content:space-between;font-size:11px;color:#8b949e;">
+        <span>進捗</span><span id="progressPct">0%</span>
+      </div>
+      <div class="progress-bar-bg">
+        <div class="progress-bar" id="progressBar" style="width:0%"></div>
+      </div>
+    </div>
+    <div style="display:flex;justify-content:space-between;margin-top:8px;font-size:12px;color:#8b949e;">
+      <span>現金: <span id="cashJpy" style="color:#e6edf3;">--</span></span>
+      <span>運用日数: <span id="runDays" style="color:#e6edf3;">--</span>日</span>
+      <span>締め日: <span style="color:#e6edf3;">2026/4/26</span></span>
+    </div>
+  </div>
+
+  <!-- 現物・信用 -->
+  <div class="card">
+    <h2>📈 現物ポートフォリオ</h2>
+    <div id="portfolioDetail" style="font-size:12px;">読み込み中...</div>
+  </div>
+
+  <div class="card">
+    <h2>💹 信用取引</h2>
+    <div id="marginDetail" style="font-size:12px;">読み込み中...</div>
+  </div>
+
+  <!-- HFT・デイリー -->
+  <div class="card">
+    <h2>🛡️ 市場警戒状態</h2>
+    <div id="hftStatus" style="font-size:13px;">読み込み中...</div>
+  </div>
+
+  <div class="card">
+    <h2>📋 本日の報告</h2>
+    <div id="dailySummary" style="font-size:12px;">読み込み中...</div>
+  </div>
+
+  <!-- マスタープラン -->
+  <div class="card full-width">
+    <h2>🗺️ マスタープラン進捗</h2>
+    <div id="masterPlan" style="font-size:12px;">読み込み中...</div>
+  </div>
+
+  <!-- スケジュール -->
+  <div class="card full-width">
+    <h2>⏰ 本日のスケジュール</h2>
+    <div id="scheduleArea"></div>
+  </div>
+
+  <!-- ニュース -->
+  <div class="card full-width">
+    <h2>📡 最新ニュース・アラート</h2>
+    <div id="newsArea" style="max-height:200px;overflow-y:auto;">読み込み中...</div>
+  </div>
+</div>
+
+<script>
+const BASE = 'https://etsc025.github.io/asset-dashboard/data/';
+
+async function loadJSON(file, def=null){
+  try {
+    const res = await fetch(BASE+file+'?t='+Date.now());
+    if(!res.ok) return def;
+    return await res.json();
+  } catch(e){ return def; }
+}
+
+async function fetchAll(){
+  const [portfolio, margin, hft, summary, master, news] = await Promise.all([
+    loadJSON('portfolio.json',        {cash_jpy:1000000,total_jpy:1000000,return_pct:0,pnl_jpy:0,days:0,positions:{}}),
+    loadJSON('margin_portfolio.json', {cash_jpy:1000000,margin_used_jpy:0,positions:{},short_positions:{},total_pnl_jpy:0}),
+    loadJSON('hft_state.json',        {level:'NORMAL',reasons:[],vix:null}),
+    loadJSON('daily_summary.json',    []),
+    loadJSON('master_plan.json',      {}),
+    loadJSON('news_log.json',         []),
+  ]);
+
+  // 月次進捗
+  const total    = portfolio.total_jpy||1000000;
+  const target   = 1300000;
+  const ret      = portfolio.return_pct||0;
+  const gap      = ret - 30.0;
+  const progress = Math.min(Math.max((total/target)*100,0),100);
+
+  document.getElementById('totalAsset').textContent = '¥'+total.toLocaleString();
+  document.getElementById('totalAsset').style.color = total>=target?'#22c55e':total>=1000000?'#f59e0b':'#ef4444';
+  document.getElementById('monthReturn').textContent = (ret>=0?'+':'')+ret.toFixed(2)+'%';
+  document.getElementById('monthReturn').style.color = ret>=0?'#22c55e':'#ef4444';
+  document.getElementById('gapValue').textContent = (gap>=0?'+':'')+gap.toFixed(2)+'%';
+  document.getElementById('gapValue').style.color = gap>=0?'#22c55e':gap>=-5?'#f59e0b':'#ef4444';
+  document.getElementById('progressPct').textContent = progress.toFixed(1)+'%';
+  document.getElementById('cashJpy').textContent = '¥'+(portfolio.cash_jpy||0).toLocaleString();
+  document.getElementById('runDays').textContent = portfolio.days||0;
+  const bar = document.getElementById('progressBar');
+  bar.style.width = progress.toFixed(1)+'%';
+  bar.className = 'progress-bar '+(progress>=100?'bar-green':progress>=70?'bar-yellow':'bar-red');
+
+  // 現物ポートフォリオ
+  const posCount = Object.keys(portfolio.positions||{}).length;
+  document.getElementById('portfolioDetail').innerHTML =
+    '<div style="margin-bottom:6px;">保有銘柄: <b style="color:#e6edf3;">'+posCount+'件</b></div>'+
+    '<div>損益: <b style="color:'+(ret>=0?'#22c55e':'#ef4444')+';">¥'+(portfolio.pnl_jpy||0).toLocaleString()+'</b></div>'+
+    (posCount>0?'<div style="margin-top:8px;">'+
+      Object.entries(portfolio.positions||{}).slice(0,5).map(([t,p])=>
+        `<div style="padding:2px 0;border-bottom:1px solid #21262d;">${t}: ${p.shares}株</div>`
+      ).join('')+'</div>':'<div style="color:#8b949e;margin-top:4px;">保有なし</div>');
+
+  // 信用取引
+  const longCount  = Object.keys(margin.positions||{}).length;
+  const shortCount = Object.keys(margin.short_positions||{}).length;
+  const available  = (margin.cash_jpy||0)-(margin.margin_used_jpy||0);
+  document.getElementById('marginDetail').innerHTML =
+    '<div style="margin-bottom:4px;">証拠金残高: <b style="color:#e6edf3;">¥'+(margin.cash_jpy||0).toLocaleString()+'</b></div>'+
+    '<div style="margin-bottom:4px;">利用可能: <b style="color:#22c55e;">¥'+available.toLocaleString()+'</b></div>'+
+    '<div style="margin-bottom:6px;">累計損益: <b style="color:'+(margin.total_pnl_jpy>=0?'#22c55e':'#ef4444')+';">¥'+(margin.total_pnl_jpy||0).toLocaleString()+'</b></div>'+
+    '<span class="margin-badge badge-long">LONG '+longCount+'件</span> '+
+    '<span class="margin-badge badge-short">SHORT '+shortCount+'件</span>';
+
+  // HFT警戒
+  const level  = hft.level||'NORMAL';
+  const colors = {CRITICAL:'#ef4444',HIGH:'#f97316',MEDIUM:'#f59e0b',NORMAL:'#22c55e'};
+  const icons  = {CRITICAL:'🔴',HIGH:'🟠',MEDIUM:'🟡',NORMAL:'🟢'};
+  const vix    = hft.vix?`VIX: ${hft.vix.vix_current} (${hft.vix.vix_change>0?'+':''}${(hft.vix.vix_change||0).toFixed(1)}%)`:'';
+  document.getElementById('hftStatus').innerHTML =
+    `<span style="color:${colors[level]};font-size:16px;font-weight:700;">${icons[level]} ${level}</span>`+
+    (vix?`<div style="margin-top:4px;color:#8b949e;font-size:11px;">${vix}</div>`:'');
+
+  // デイリーサマリー
+  const summaryArr = Array.isArray(summary)?summary:[];
+  const latestSum  = summaryArr.length>0?summaryArr[summaryArr.length-1]:null;
+  if(latestSum&&latestSum.report){
+    const r = latestSum.report;
+    document.getElementById('dailySummary').innerHTML =
+      (r.morning_greeting?`<div style="margin-bottom:6px;color:#58a6ff;">${r.morning_greeting}</div>`:'')+
+      (r.daily_result?`<div style="margin-bottom:4px;">${r.daily_result}</div>`:'')+
+      (r.today_strategy?`<div style="color:#8b949e;margin-top:4px;">${r.today_strategy}</div>`:'');
+  } else {
+    document.getElementById('dailySummary').innerHTML = '<div style="color:#8b949e;">本日の報告はまだありません</div>';
+  }
+
+  // マスタープラン
+  if(master&&master.key_milestones){
+    document.getElementById('masterPlan').innerHTML =
+      '<table class="table">'+
+      '<tr><th>マイルストーン</th><th>時期</th><th>状態</th></tr>'+
+      master.key_milestones.map(m=>{
+        const isPast = new Date(m.month+'-01') < new Date();
+        return `<tr>
+          <td>${m.milestone}</td>
+          <td style="color:#8b949e;">${m.month}</td>
+          <td>${isPast?'<span style="color:#22c55e;">✅ 通過</span>':'<span style="color:#f59e0b;">⏳ 予定</span>'}</td>
+        </tr>`;
+      }).join('')+
+      '</table>';
+  }
+
+  // スケジュール
+  const now2    = new Date();
+  const current = now2.getHours()*60+now2.getMinutes();
+  const schedules = [
+    {time:'07:00',label:'朝の収支報告',min:7*60},
+    {time:'08:15',label:'アジア市場前レビュー',min:8*60+15},
+    {time:'08:30',label:'アジア市場 警戒開始',min:8*60+30},
+    {time:'08:45',label:'アジア市場 収集開始',min:8*60+45},
+    {time:'15:15',label:'日本株 信用決済締切',min:15*60+15},
+    {time:'22:00',label:'米国向け早期警戒',min:22*60},
+    {time:'22:10',label:'HFT検知',min:22*60+10},
+    {time:'22:15',label:'米国市場前レビュー',min:22*60+15},
+    {time:'22:30',label:'米国市場 収集開始',min:22*60+30},
+    {time:'04:45',label:'米国株 信用決済締切',min:4*60+45},
+    {time:'05:10',label:'デイリーレビュー',min:5*60+10},
+    {time:'06:05',label:'GitHub更新',min:6*60+5},
+  ];
+  const remaining = schedules.filter(s=>s.min>current);
+  const next = remaining.length>0?remaining[0]:null;
+  document.getElementById('scheduleArea').innerHTML = schedules.map(s=>{
+    const done   = s.min<=current;
+    const isNext = next&&s.min===next.min;
+    return `<div class="schedule-row">
+      <span style="color:${done?'#8b949e':isNext?'#f59e0b':'#e6edf3'};">
+        ${done?'✅':isNext?'▶️':'⏳'} ${s.time} ${s.label}
+      </span>
+      <span style="color:${done?'#22c55e':'#8b949e'};font-size:11px;">
+        ${done?'完了':isNext?'次の予定':'待機中'}
+      </span>
+    </div>`;
+  }).join('');
+
+  // ニュース
+  const newsLogs   = Array.isArray(news)?news:[];
+  const latestNews = newsLogs.length>0?newsLogs[newsLogs.length-1]:null;
+  const newsItems  = latestNews?(latestNews.data?.breaking_news||[]):[];
+  const newsArea   = document.getElementById('newsArea');
+  if(newsItems.length>0){
+    newsArea.innerHTML = newsItems.slice(0,5).map(n=>{
+      const cls = n.impact==='HIGH'?'news-high':n.impact==='MEDIUM'?'news-medium':'news-low';
+      return `<div class="news-item ${cls}">
+        <span style="color:#8b949e;">[${n.country||''}] ${n.impact||''}</span>
+        <b> ${n.title||''}</b>
+        <div style="color:#8b949e;margin-top:2px;">${n.summary||''}</div>
+      </div>`;
+    }).join('');
+  } else {
+    newsArea.innerHTML = '<div style="color:#8b949e;font-size:12px;">最新ニュースデータなし</div>';
+  }
+
+  document.getElementById('lastUpdate').textContent =
+    '最終更新: '+new Date().toLocaleTimeString('ja-JP');
+}
+
+fetchAll();
+setInterval(fetchAll, 60000);
+</script>
+</body>
+</html>
