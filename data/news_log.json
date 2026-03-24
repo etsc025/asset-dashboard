@@ -7367,5 +7367,84 @@
       "market_sentiment": "RISK_ON",
       "top_alert": "トランプ氏の外交発言でリスクオン相場、原油急落・株式急騰"
     }
+  },
+  {
+    "timestamp": "2026-03-25 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン緊張緩和で株式市場が大幅反発、ダウ600ポイント急騰",
+          "country": "アメリカ",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領が米国とイランが『生産的な対話』を行ったと発言し、緊張緩和を受けて株式市場が大幅反発。",
+          "affected_sectors": [
+            "全般",
+            "エネルギー",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖で石油価格が急騰、1バレル91.77ドルに上昇",
+          "country": "中東地域",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランとの緊張によりホルムズ海峡が封鎖され、WTI原油は91.77ドル、Brentは97.32ドルまで急上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本銀行が政策金利を0.75%で据え置き、中東情勢への警戒感表明",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日銀は政策金利を据え置きながらも、中東情勢と油価上昇への監視強化を表明。円安圧力の懸念も。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "製造業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "OpenAIがMicrosoft依存リスクを開示、IPO前に投資家向け文書で警告",
+          "country": "アメリカ",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "OpenAIが上場準備資料でMicrosoftへの過度な依存をリスク要因として明記、AI投資に影響の可能性。",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "クラウド"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "カリフォルニア州でディーゼル価格が過去最高の1ガロン7ドル超え",
+          "country": "アメリカ",
+          "category": "商品",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東からの燃料輸入依存により、カリフォルニア州のディーゼル価格が記録的高値を更新。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "物流"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東緊張とホルムズ海峡封鎖による原油急騰が世界市場を直撃、要注意"
+    }
   }
 ]
