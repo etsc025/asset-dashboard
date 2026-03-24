@@ -6046,5 +6046,83 @@
       "market_sentiment": "RISK_ON",
       "top_alert": "トランプ・イラン対話でダウ631P急騰、原油11%下落"
     }
+  },
+  {
+    "timestamp": "2026-03-25 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東イラン紛争でホルムズ海峡封鎖、市場急落",
+          "country": "米国・中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ氏のイラン攻撃延期発言で米株は反発したが、ホルムズ海峡の航行停止により原油価格が高騰。アジア株は大幅下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空・運輸",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格急騰、WTI99ドル・ブレント113ドル突破",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東紛争の長期化懸念で原油先物が急騰。エネルギー供給リスクが金融市場全体に波及し、インフレ再燃への警戒感が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "素材",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア株軒並み大幅下落、日経5%安・韓国6%安",
+          "country": "日本・韓国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化でリスクオフの動きが加速。日経225が5%下落、韓国KOSPIが6%急落し、取引一時停止措置も発動された。",
+          "affected_sectors": [
+            "半導体",
+            "自動車",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀政策金利0.75%据え置き、中東情勢を注視",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日銀は中東情勢と原油価格急騰を理由に政策金利を据え置き。1名の委員は利上げを主張したが、地政学リスクを重視した判断。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "通信"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "バークシャーがトーキョーマリンに18億ドル投資",
+          "country": "日本・米国",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バフェット率いるバークシャーがトーキョーマリンに大型投資を発表。日本保険市場への長期的なコミットメントを示す。",
+          "affected_sectors": [
+            "保険",
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争によるホルムズ海峡封鎖で原油価格急騰、世界的株安"
+    }
   }
 ]
