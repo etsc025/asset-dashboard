@@ -6321,5 +6321,96 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "<cite index=\"6-5,6-9\">米イラン協議報告でダウ急騰も先物は下落継続、地政学リスク警戒</cite>"
     }
+  },
+  {
+    "timestamp": "2026-03-25 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イラン攻撃停止発表で株価急反発",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "<cite index=\"6-5,6-7,6-8\">トランプ大統領がイランへの攻撃停止を発表し、ダウ平均が631ポイント上昇、S&P500が1.15%、ナスダックが1.38%上昇</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格急落、WTI11%下落",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"9-27,6-24,6-25\">中東情勢緊張緩和期待で原油価格が急落、WTI先物が99.42ドル、ブレント113.08ドルまで下落</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア市場大幅続落、日経平均5%安",
+          "country": "日本",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"6-10,6-11,6-12\">中東紛争への懸念でアジア市場が急落、日経平均が5%、韓国KOSPI指数が6%下落</cite>",
+          "affected_sectors": [
+            "全セクター",
+            "半導体",
+            "輸出関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
+          "country": "日本",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "<cite index=\"6-26,6-27\">ウォーレン・バフェットのバークシャーが東京海上HDに18億ドル投資、2.49%の株式取得予定</cite>",
+          "affected_sectors": [
+            "保険",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ホルムズ海峡封鎖継続、湾岸諸国に深刻な影響",
+          "country": "中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"5-1,5-2,5-3\">ホルムズ海峡の通航停止が継続、1990年代以降で最大の湾岸経済への挑戦となる可能性</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀政策金利据え置き0.75%維持",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "<cite index=\"5-11,5-13\">日銀が政策金利0.75%を維持、中東情勢と原油価格上昇を注視すると発表</cite>",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ・イラン和平発言で米株急反発、原油11%急落"
+    }
   }
 ]
