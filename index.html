@@ -178,16 +178,28 @@ async function fetchAll(){
   bar.style.width = progress.toFixed(1)+'%';
   bar.className = 'progress-bar '+(progress>=100?'bar-green':progress>=70?'bar-yellow':'bar-red');
 
-  // 資金配分
-  const alloc = portfolio.allocation || {total:1000000, cash:400000, jp_margin:300000, us_margin:300000};
-  const cashPct    = Math.round(alloc.cash / alloc.total * 100);
-  const jpPct      = Math.round(alloc.jp_margin / alloc.total * 100);
-  const usPct      = Math.round(alloc.us_margin / alloc.total * 100);
+  // 資金配分（総資産ベースで実際の配分を計算）
+  const totalJpy   = portfolio.total_jpy || 1000000;
+  const cashJpy    = portfolio.cash_jpy  || 0;
+  const alloc      = portfolio.allocation || {total:1000000, jp_margin:300000, us_margin:300000};
+
+  // 実際のポジション金額を計算
+  let jpUsed = 0, usUsed = 0;
+  Object.entries(portfolio.positions||{}).forEach(([t,p]) => {
+    if(t.endsWith('.T') || t.endsWith('.KS') || t.endsWith('.HK')) jpUsed += p.cost_jpy||0;
+    else usUsed += p.cost_jpy||0;
+  });
+
+  const cashPct = Math.round(cashJpy / totalJpy * 100);
+  const jpPct   = Math.round(jpUsed  / totalJpy * 100);
+  const usPct   = Math.round(usUsed  / totalJpy * 100);
+
   document.getElementById('allocationArea').innerHTML = `
+    <div style="margin-bottom:4px;color:#8b949e;font-size:11px;">総資産 ¥${totalJpy.toLocaleString()} ベース</div>
     <div style="margin-bottom:12px;">
       <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-        <span style="color:#8b949e;font-size:13px;">現金担保</span>
-        <span style="color:#e6edf3;font-weight:600;">¥${alloc.cash.toLocaleString()} (${cashPct}%)</span>
+        <span style="color:#8b949e;font-size:13px;">現金・担保</span>
+        <span style="color:#f0c040;font-weight:600;">¥${cashJpy.toLocaleString()} (${cashPct}%)</span>
       </div>
       <div style="background:#21262d;border-radius:4px;height:8px;">
         <div style="background:#f0c040;width:${cashPct}%;height:8px;border-radius:4px;"></div>
@@ -195,20 +207,20 @@ async function fetchAll(){
     </div>
     <div style="margin-bottom:12px;">
       <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-        <span style="color:#8b949e;font-size:13px;">日本株信用</span>
-        <span style="color:#e6edf3;font-weight:600;">¥${alloc.jp_margin.toLocaleString()} (${jpPct}%)</span>
+        <span style="color:#8b949e;font-size:13px;">日本株信用（使用中）</span>
+        <span style="color:#3b82f6;font-weight:600;">¥${jpUsed.toLocaleString()} (${jpPct}%)</span>
       </div>
       <div style="background:#21262d;border-radius:4px;height:8px;">
-        <div style="background:#3b82f6;width:${jpPct}%;height:8px;border-radius:4px;"></div>
+        <div style="background:#3b82f6;width:${Math.min(jpPct,100)}%;height:8px;border-radius:4px;"></div>
       </div>
     </div>
     <div style="margin-bottom:4px;">
       <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
-        <span style="color:#8b949e;font-size:13px;">米国株信用</span>
-        <span style="color:#e6edf3;font-weight:600;">¥${alloc.us_margin.toLocaleString()} (${usPct}%)</span>
+        <span style="color:#8b949e;font-size:13px;">米国株信用（使用中）</span>
+        <span style="color:#22c55e;font-weight:600;">¥${usUsed.toLocaleString()} (${usPct}%)</span>
       </div>
       <div style="background:#21262d;border-radius:4px;height:8px;">
-        <div style="background:#22c55e;width:${usPct}%;height:8px;border-radius:4px;"></div>
+        <div style="background:#22c55e;width:${Math.min(usPct,100)}%;height:8px;border-radius:4px;"></div>
       </div>
     </div>`;
 
