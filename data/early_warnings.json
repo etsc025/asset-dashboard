@@ -2415,5 +2415,112 @@
       "total_put_vol": 2192,
       "total_call_vol": 926
     }
+  },
+  {
+    "timestamp": "2026-03-24 13:25",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に4件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-03-17",
+          "filer": [
+            "Will W Anthony  (CIK 0001396130)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-19",
+          "filer": [
+            "Mayer Erik M.  (CIK 0002106067)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-19",
+          "filer": [
+            "Hoker Richard A  (CIK 0001418975)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-19",
+          "filer": [
+            "Frost Bert A  (CIK 0001453096)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-03-24 13:25",
+    "ticker": "DELL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-03-20",
+          "filer": [
+            "Tunnell Jane  (CIK 0002016161)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-23",
+          "filer": [
+            "Sharp Richard Troy  (CIK 0002081802)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-17",
+          "filer": [
+            "Kennedy David Alan  (CIK 0002086800)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-17",
+          "filer": [
+            "Saavedra Jennifer D.  (CIK 0001850336)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-03-17",
+          "filer": [
+            "Scannell William F  (CIK 0001554376)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-03-24 13:25",
+    "ticker": "KLAC",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=2.37（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 2.37,
+      "pc_ratio_oi": 2.5,
+      "total_put_vol": 2192,
+      "total_call_vol": 926
+    }
   }
 ]
