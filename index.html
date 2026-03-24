@@ -44,8 +44,18 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
 </style>
 </head>
 <body>
-<h1>🏛️ 奥山家 資産運用ダッシュボード</h1>
-<div class="subtitle" id="lastUpdate">最終更新: --</div>
+<div style="display:flex;justify-content:space-between;align-items:flex-start;">
+  <div>
+    <h1>🏛️ 奥山家 資産運用ダッシュボード</h1>
+    <div class="subtitle" id="lastUpdate">最終更新: --</div>
+  </div>
+  <div style="text-align:center;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:10px 20px;min-width:140px;">
+    <div style="font-size:11px;color:#8b949e;margin-bottom:2px;">USD/JPY</div>
+    <div id="fxRateMain" style="font-size:26px;font-weight:700;color:#e6edf3;">--</div>
+    <div id="fxChangeMain" style="font-size:13px;margin-top:2px;color:#8b949e;">--</div>
+    <div id="fxTimeMain" style="font-size:10px;color:#8b949e;margin-top:2px;">--</div>
+  </div>
+</div>
 
 <div class="nav" style="margin-bottom:16px;">
   <a href="https://etsc025.github.io/stock-viewer/">📈 Stock Viewer</a>
@@ -358,6 +368,24 @@ async function fetchAll(){
     newsArea.innerHTML = '<div style="color:#8b949e;font-size:12px;">最新ニュースデータなし</div>';
   }
 
+  // 為替レートをヘッダーにも表示
+  fetch('https://api.exchangerate-api.com/v4/latest/USD')
+    .then(r=>r.json())
+    .then(data=>{
+      const rate = data.rates.JPY;
+      const el = document.getElementById('fxRateMain');
+      const time = document.getElementById('fxTimeMain');
+      if(el) el.textContent = rate ? rate.toFixed(2) : '--';
+      if(time) time.textContent = new Date().toLocaleTimeString('ja-JP');
+    }).catch(()=>{
+      // portfolio.jsonの為替レートを使用
+      fetch('data/portfolio.json?t='+Date.now())
+        .then(r=>r.json())
+        .then(p=>{
+          const el = document.getElementById('fxRateMain');
+          if(el && p.fx_rate) el.textContent = p.fx_rate.toFixed(2);
+        }).catch(()=>{});
+    });
   document.getElementById('lastUpdate').textContent =
     '最終更新: '+new Date().toLocaleTimeString('ja-JP');
 }
