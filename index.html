@@ -94,6 +94,10 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
 
   <!-- 現物・信用 -->
   <div class="card">
+    <h2>💰 資金配分</h2>
+    <div id="allocationArea"></div>
+  </div>
+  <div class="card">
     <h2>📈 現物ポートフォリオ</h2>
     <div id="portfolioDetail" style="font-size:12px;">読み込み中...</div>
   </div>
@@ -173,6 +177,40 @@ async function fetchAll(){
   const bar = document.getElementById('progressBar');
   bar.style.width = progress.toFixed(1)+'%';
   bar.className = 'progress-bar '+(progress>=100?'bar-green':progress>=70?'bar-yellow':'bar-red');
+
+  // 資金配分
+  const alloc = portfolio.allocation || {total:1000000, cash:400000, jp_margin:300000, us_margin:300000};
+  const cashPct    = Math.round(alloc.cash / alloc.total * 100);
+  const jpPct      = Math.round(alloc.jp_margin / alloc.total * 100);
+  const usPct      = Math.round(alloc.us_margin / alloc.total * 100);
+  document.getElementById('allocationArea').innerHTML = `
+    <div style="margin-bottom:12px;">
+      <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+        <span style="color:#8b949e;font-size:13px;">現金担保</span>
+        <span style="color:#e6edf3;font-weight:600;">¥${alloc.cash.toLocaleString()} (${cashPct}%)</span>
+      </div>
+      <div style="background:#21262d;border-radius:4px;height:8px;">
+        <div style="background:#f0c040;width:${cashPct}%;height:8px;border-radius:4px;"></div>
+      </div>
+    </div>
+    <div style="margin-bottom:12px;">
+      <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+        <span style="color:#8b949e;font-size:13px;">日本株信用</span>
+        <span style="color:#e6edf3;font-weight:600;">¥${alloc.jp_margin.toLocaleString()} (${jpPct}%)</span>
+      </div>
+      <div style="background:#21262d;border-radius:4px;height:8px;">
+        <div style="background:#3b82f6;width:${jpPct}%;height:8px;border-radius:4px;"></div>
+      </div>
+    </div>
+    <div style="margin-bottom:4px;">
+      <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+        <span style="color:#8b949e;font-size:13px;">米国株信用</span>
+        <span style="color:#e6edf3;font-weight:600;">¥${alloc.us_margin.toLocaleString()} (${usPct}%)</span>
+      </div>
+      <div style="background:#21262d;border-radius:4px;height:8px;">
+        <div style="background:#22c55e;width:${usPct}%;height:8px;border-radius:4px;"></div>
+      </div>
+    </div>`;
 
   // 現物ポートフォリオ
   const posCount = Object.keys(portfolio.positions||{}).length;
