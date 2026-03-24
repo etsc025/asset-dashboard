@@ -1,5 +1,5 @@
 {
-  "cash_jpy": 319307.0,
+  "cash_jpy": 294161.0,
   "positions": {
     "CF": {
       "shares": 2,
@@ -22,6 +22,16 @@
       "short": true,
       "margin_type": "general",
       "day_trade": false,
+      "target_pct": 5.5,
+      "stop_pct": -7.0
+    },
+    "DELL": {
+      "shares": 1,
+      "avg_price_usd": 157.72,
+      "buy_rate": 158.65,
+      "cost_jpy": 25022.0,
+      "buy_date": "2026-03-24",
+      "short": true,
       "target_pct": 5.5,
       "stop_pct": -7.0
     }
