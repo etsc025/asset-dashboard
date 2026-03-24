@@ -147,6 +147,48 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
     <div id="dailySummary" style="font-size:12px;">読み込み中...</div>
   </div>
 
+  <!-- 取引履歴 -->
+  <div class="card full-width">
+    <h2>📈 取引履歴（直近20件）</h2>
+    <div id="tradeHistory" style="overflow-x:auto;">
+      <table style="width:100%;border-collapse:collapse;font-size:12px;">
+        <thead>
+          <tr style="border-bottom:1px solid #30363d;color:#8b949e;">
+            <th style="padding:8px;text-align:left;">日時</th>
+            <th style="padding:8px;text-align:left;">銘柄</th>
+            <th style="padding:8px;text-align:left;">売買</th>
+            <th style="padding:8px;text-align:right;">価格</th>
+            <th style="padding:8px;text-align:right;">株数</th>
+            <th style="padding:8px;text-align:right;">損益</th>
+            <th style="padding:8px;text-align:right;">損益%</th>
+            <th style="padding:8px;text-align:left;">理由</th>
+          </tr>
+        </thead>
+        <tbody id="tradeTableBody">
+          <tr><td colspan="8" style="padding:8px;color:#8b949e;">取引履歴なし</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="margin-top:12px;display:grid;grid-template-columns:repeat(4,1fr);gap:8px;" id="tradeSummary">
+      <div style="background:#0d1117;border-radius:6px;padding:8px;text-align:center;">
+        <div style="font-size:11px;color:#8b949e;">総取引数</div>
+        <div id="totalTrades" style="font-size:18px;font-weight:700;">0</div>
+      </div>
+      <div style="background:#0d1117;border-radius:6px;padding:8px;text-align:center;">
+        <div style="font-size:11px;color:#8b949e;">勝率</div>
+        <div id="winRate" style="font-size:18px;font-weight:700;color:#22c55e;">0%</div>
+      </div>
+      <div style="background:#0d1117;border-radius:6px;padding:8px;text-align:center;">
+        <div style="font-size:11px;color:#8b949e;">累計損益</div>
+        <div id="totalPnl" style="font-size:18px;font-weight:700;">¥0</div>
+      </div>
+      <div style="background:#0d1117;border-radius:6px;padding:8px;text-align:center;">
+        <div style="font-size:11px;color:#8b949e;">勝ち取引</div>
+        <div id="winTrades" style="font-size:18px;font-weight:700;color:#22c55e;">0</div>
+      </div>
+    </div>
+  </div>
+
   <!-- マスタープラン -->
   <div class="card full-width">
     <h2>🗺️ マスタープラン進捗</h2>
@@ -415,6 +457,40 @@ async function fetchAll(){
       document.getElementById('apiMonthlyForecast').textContent = '予測: $'+(m.cost/Math.max(day,1)*30).toFixed(2)+'/月';
       document.getElementById('apiDailyTokens').textContent  = ((d.input||0)+(d.output||0)).toLocaleString();
       document.getElementById('apiMonthlyTokens').textContent = ((m.input||0)+(m.output||0)).toLocaleString();
+    }).catch(()=>{});
+  // 取引履歴の読み込み
+  fetch('data/trade_history.json?t='+Date.now())
+    .then(r=>r.json())
+    .then(data=>{
+      const tbody = document.getElementById('tradeTableBody');
+      const trades = data.trades || [];
+      if(trades.length === 0){
+        tbody.innerHTML = '<tr><td colspan="8" style="padding:8px;color:#8b949e;">取引履歴なし</td></tr>';
+      } else {
+        tbody.innerHTML = trades.reverse().map(t=>{
+          const pnl = parseFloat(t.pnl_jpy||0);
+          const pct = parseFloat(t.pnl_pct||0);
+          const color = pnl >= 0 ? '#22c55e' : '#ef4444';
+          const action = t.action === 'buy' ? '🟢買' : '🔴売';
+          return `<tr style="border-bottom:1px solid #21262d;">
+            <td style="padding:6px;">${t.date||''}</td>
+            <td style="padding:6px;font-weight:700;">${t.ticker||''}</td>
+            <td style="padding:6px;">${action}</td>
+            <td style="padding:6px;text-align:right;">$${parseFloat(t.price_usd||0).toFixed(2)}</td>
+            <td style="padding:6px;text-align:right;">${t.shares||0}株</td>
+            <td style="padding:6px;text-align:right;color:${color};">${pnl>=0?'+':''}¥${Math.round(pnl).toLocaleString()}</td>
+            <td style="padding:6px;text-align:right;color:${color};">${pct>=0?'+':''}${pct.toFixed(1)}%</td>
+            <td style="padding:6px;font-size:11px;color:#8b949e;">${t.reason||''}</td>
+          </tr>`;
+        }).join('');
+      }
+      const s = data.summary || {};
+      document.getElementById('totalTrades').textContent = s.total_trades||0;
+      document.getElementById('winRate').textContent = (s.win_rate||0)+'%';
+      const tp = s.total_pnl||0;
+      document.getElementById('totalPnl').textContent = (tp>=0?'+':'')+'¥'+Math.round(tp).toLocaleString();
+      document.getElementById('totalPnl').style.color = tp>=0?'#22c55e':'#ef4444';
+      document.getElementById('winTrades').textContent = s.win_trades||0;
     }).catch(()=>{});
   document.getElementById('lastUpdate').textContent =
     '最終更新: '+new Date().toLocaleTimeString('ja-JP');
