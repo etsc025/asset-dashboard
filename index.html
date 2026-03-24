@@ -368,24 +368,18 @@ async function fetchAll(){
     newsArea.innerHTML = '<div style="color:#8b949e;font-size:12px;">最新ニュースデータなし</div>';
   }
 
-  // 為替レートをヘッダーにも表示
-  fetch('https://api.exchangerate-api.com/v4/latest/USD')
+  // 為替レートをヘッダーに表示（portfolio.jsonから取得）
+  fetch('data/portfolio.json?t='+Date.now())
     .then(r=>r.json())
-    .then(data=>{
-      const rate = data.rates.JPY;
-      const el = document.getElementById('fxRateMain');
+    .then(p=>{
+      const rate = p.fx_rate || p.usd_jpy_rate;
+      const el   = document.getElementById('fxRateMain');
+      const chg  = document.getElementById('fxChangeMain');
       const time = document.getElementById('fxTimeMain');
-      if(el) el.textContent = rate ? rate.toFixed(2) : '--';
+      if(el && rate) el.textContent = parseFloat(rate).toFixed(2);
+      if(chg) chg.textContent = '対USD';
       if(time) time.textContent = new Date().toLocaleTimeString('ja-JP');
-    }).catch(()=>{
-      // portfolio.jsonの為替レートを使用
-      fetch('data/portfolio.json?t='+Date.now())
-        .then(r=>r.json())
-        .then(p=>{
-          const el = document.getElementById('fxRateMain');
-          if(el && p.fx_rate) el.textContent = p.fx_rate.toFixed(2);
-        }).catch(()=>{});
-    });
+    }).catch(()=>{});
   document.getElementById('lastUpdate').textContent =
     '最終更新: '+new Date().toLocaleTimeString('ja-JP');
 }
