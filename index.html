@@ -380,6 +380,23 @@ async function fetchAll(){
       if(chg) chg.textContent = '対USD';
       if(time) time.textContent = new Date().toLocaleTimeString('ja-JP');
     }).catch(()=>{});
+  // API使用量の読み込み
+  fetch('data/api_usage.json?t='+Date.now())
+    .then(r=>r.json())
+    .then(data=>{
+      const today = new Date().toISOString().slice(0,10);
+      const month = new Date().toISOString().slice(0,7);
+      const d = data.daily?.[today] || {input:0,output:0,cost:0,calls:0};
+      const m = data.monthly?.[month] || {input:0,output:0,cost:0,calls:0};
+      const day = new Date().getDate();
+      
+      document.getElementById('apiDailyCost').textContent   = '$'+d.cost.toFixed(4);
+      document.getElementById('apiDailyCalls').textContent  = d.calls+'回';
+      document.getElementById('apiMonthlyCost').textContent = '$'+m.cost.toFixed(4);
+      document.getElementById('apiMonthlyForecast').textContent = '予測: $'+(m.cost/Math.max(day,1)*30).toFixed(2)+'/月';
+      document.getElementById('apiDailyTokens').textContent  = ((d.input||0)+(d.output||0)).toLocaleString();
+      document.getElementById('apiMonthlyTokens').textContent = ((m.input||0)+(m.output||0)).toLocaleString();
+    }).catch(()=>{});
   document.getElementById('lastUpdate').textContent =
     '最終更新: '+new Date().toLocaleTimeString('ja-JP');
 }
