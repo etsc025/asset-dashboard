@@ -4552,5 +4552,83 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "<cite index=\"7-6,8-1\">中東紛争長期化なら世界景気後退懸念、ただし政治・経済圧力が沈静化要因</cite>"
     }
+  },
+  {
+    "timestamp": "2026-03-24 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、イラン衝突懸念緩和で急反発",
+          "country": "アメリカ",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイランとの「生産的な対話」を発表し、攻撃停止を表明。ダウ平均631ポイント上昇、S&P500とナスダックも1%超の上昇を記録。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格急騰、WTI99ドル台まで上昇",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡の航路封鎖継続により、WTI原油先物が99.42ドル、ブレント原油が113ドル台に急騰。エネルギー供給懸念が拡大。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア株式市場大幅下落、日韓で5%超安",
+          "country": "日本・韓国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化を受け、日経平均5%安、韓国KOSPI指数6%超下落。韓国取引所は一時売買停止措置を実施。",
+          "affected_sectors": [
+            "製造業",
+            "半導体",
+            "自動車"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀、政策金利0.75%で据え置き決定",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢と原油価格高騰を注視し、政策金利を据え置き。委員1名が利上げを主張する分かれた判断となった。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "公益事業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "バークシャー、東京海上に18億ドル投資",
+          "country": "日本・アメリカ",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バフェット率いるバークシャーが東京海上HDに18億ドル投資。日本保険市場への参入を拡大し、長期協力関係を構築。",
+          "affected_sectors": [
+            "保険",
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化でエネルギー価格急騰、アジア株式市場大幅安"
+    }
   }
 ]
