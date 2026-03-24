@@ -5355,5 +5355,96 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油100ドル接近、米株は対話期待で反発も警戒続く"
     }
+  },
+  {
+    "timestamp": "2026-03-24 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イラン攻撃停止発表で市場急反発",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領が米イラン間で「生産的な話し合い」があったと発表し、イランの電力施設への攻撃を停止すると表明。ダウ平均は631ポイント急騰、中東危機の緊張緩和期待が市場を押し上げ",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "エアライン"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖継続、原油価格高止まり",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争によるホルムズ海峡の通行停止が継続。WTI原油は99.42ドル、ブレント原油は113.08ドルまで上昇。湾岸諸国経済に1990年代以来最大の脅威との分析",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア太平洋株式市場大幅下落",
+          "country": "アジア",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日経平均5%下落、韓国コスピ6%超急落。中東情勢悪化を受けてリスク資産からの資金流出が加速。韓国取引所は一時売買停止措置を発動",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "自動車"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀、政策金利0.75%で据え置き決定",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日銀が中東情勢と原油価格上昇を注視し政策金利を据え置き。1名の政策委員が利上げを主張するも大勢は現状維持。地政学リスクが政策判断に影響",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "公益事業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "バークシャー、東京海上に18億ドル投資発表",
+          "country": "日本",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バフェット率いるバークシャーが東京海上に18億ドル投資し、2.49%の株式を取得。日本市場への投資拡大が継続、グローバル保険市場での提携強化が目的",
+          "affected_sectors": [
+            "保険",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "アポロ、プライベートクレジット解約要求に45%対応",
+          "country": "アメリカ",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "大手プライベートエクイティのアポロが、プライベートクレジットファンドからの解約要求の45%にしか応じられない状況。流動性懸念が高まる",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ・イラン協議報道で市場急反発も地政学リスク継続"
+    }
   }
 ]
