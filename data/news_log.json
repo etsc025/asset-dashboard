@@ -8713,5 +8713,83 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡封鎖で原油$97超、世界経済に深刻な供給ショック"
     }
+  },
+  {
+    "timestamp": "2026-03-25 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米FRB、金利据置き決定　中東情勢による不透明性を言及",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"11-1,11-4,13-2,13-25\">FRBは政策金利を3.5%-3.75%の範囲で据置きと決定。中東情勢の米経済への影響は不透明と言及</cite>",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "全体市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖継続、原油価格高騰で市場に圧力",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"21-1,21-4,25-7\">ブレント原油が一時126ドル超、1970年代以来最大のエネルギー供給混乱。イランは200ドル予想と警告</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAI、史上最大120億ドル調達完了　評価額84兆円超",
+          "country": "米国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "<cite index=\"37-16,37-26,39-12\">Amazon50億ドル、Nvidia・SoftBank各30億ドル投資。史上最大の民間資金調達</cite>",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "半導体"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Arm初の自社チップ発表　Meta等7社が顧客",
+          "country": "英国",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "<cite index=\"36-2,36-7,36-17\">35年ぶりの自社製AGI CPU発表。Meta、OpenAI、Cloudflareなど7社が初期顧客</cite>",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米株式市場下落　インフレ懸念とエネルギー価格高騰",
+          "country": "米国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"17-37,17-38\">ダウ768ポイント安、S&P500は1.36%下落、ナスダックは1.46%下落で引け</cite>",
+          "affected_sectors": [
+            "全体市場",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡封鎖継続でエネルギー危機深刻化、FRB利下げ期待後退"
+    }
   }
 ]
