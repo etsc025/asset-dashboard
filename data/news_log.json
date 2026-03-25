@@ -9319,5 +9319,97 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡封鎖継続、原油急騰で世界経済に1970年代以来最大の供給ショック"
     }
+  },
+  {
+    "timestamp": "2026-03-25 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン戦争で原油価格高騰、株式市場が動揺",
+          "country": "米国・イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"12-34,15-16\">米国とイランの戦争が4週目に突入し、原油価格上昇により株式市場が不安定化。S&P500は0.37%下落、ナスダックは0.84%下落</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "消費財",
+            "半導体"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRB金利据え置き決定、中東情勢の経済影響を懸念",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "<cite index=\"17-16,17-18\">FRBは中東情勢の不透明性を理由に政策金利を3.5%-3.75%に据え置き。パウエル議長は原油価格上昇によるインフレ圧力を警戒</cite>",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "公益"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア市場急落、日経225は5%下落で取引停止寸前",
+          "country": "日本・韓国",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"18-25,18-26\">日経225が5%急落、韓国KOSPI指数は6%下落。戦争リスクを嫌気した投資家が大幅な売りに転じる</cite>",
+          "affected_sectors": [
+            "全セクター",
+            "製造業",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ジェフリーズ株急騰、三井住友FGによる買収観測",
+          "country": "米国・日本",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "<cite index=\"15-1\">投資銀行ジェフリーズの株価が7%急騰。三井住友フィナンシャルグループによる買収検討報道が材料</cite>",
+          "affected_sectors": [
+            "金融",
+            "投資銀行"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "アポロ・グローバル、プライベートクレジット基金で解約制限",
+          "country": "米国",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"15-2,15-3\">アポロ・グローバルが主力プライベートクレジット基金で解約制限を実施。第1四半期の解約申請が上限の5%を超過</cite>",
+          "affected_sectors": [
+            "資産運用",
+            "プライベートエクイティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金・銀価格が急落、投機資金の巻き戻し加速",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"19-23,19-24\">金価格が6.3%下落し4285.70ドル、銀価格は7%下落。両貴金属とも年初来マイナスに転落</cite>",
+          "affected_sectors": [
+            "貴金属",
+            "鉱業",
+            "商品取引"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "<cite index=\"12-1,12-2\">FRBエコノミスト：原油150ドル突破なら経済活動大幅悪化、FRBはより困難な立場に</cite>"
+    }
   }
 ]
