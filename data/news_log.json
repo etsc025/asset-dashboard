@@ -12253,5 +12253,97 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡封鎖による史上最大のエネルギー危機とSpaceX史上最大IPO申請"
     }
+  },
+  {
+    "timestamp": "2026-03-26 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫でアジア株下落、テクノロジー株も重し",
+          "country": "アジア",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "MSCIアジア太平洋指数1%下落、イスラエルのイラン攻撃継続により中東停戦期待が後退。韓国テクノロジー株が特に下落",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アメリカ-イラン停戦交渉の不透明感で市場混乱",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "<cite index=\"12-3,12-4,12-5,12-6\">米株先物が下落、トランプ政権がイランに15項目和平案を送付も、イラン当局は米国との直接交渉を拒否</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "メモリ半導体株急落、Googleの圧縮技術発表で需要懸念",
+          "country": "韓国・日本",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"2-2,2-3\">SK Hynix最大6%下落、Kioxia4.4%下落。Google研究者が発表した新圧縮技術により需要減少懸念</cite>",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRB政策金利据え置き、中東情勢影響でハト派姿勢強化",
+          "country": "アメリカ",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "<cite index=\"6-14,6-23\">FRB議長パウエル氏が中東情勢の不確実性に言及、先物市場では金利据え置き確率99.1%に上昇</cite>",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ヘリウム供給途絶で半導体製造に影響",
+          "country": "カタール",
+          "category": "商品",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"6-1,6-2,6-3\">世界ヘリウム生産の3分の1を占めるカタールから出荷停止、半導体業界が消費量の5分の1を占め価格上昇懸念</cite>",
+          "affected_sectors": [
+            "半導体",
+            "製造業",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格変動激化、ブレント100ドル前後で推移",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "<cite index=\"16-3,17-21,17-22\">ブレント原油102ドル前後、WTI90ドル台で推移。前日大幅下落後に反発も停戦交渉不透明で不安定</cite>",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦交渉難航でアジア株急落、テクノロジー・半導体セクター大幅下落"
+    }
   }
 ]
