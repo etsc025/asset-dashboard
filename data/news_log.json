@@ -14020,5 +14020,84 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争激化で原油高騰、世界的なインフレと景気後退リスク増大。"
     }
+  },
+  {
+    "timestamp": "2026-03-30 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争で原油価格高騰、世界経済に重圧",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争とホルムズ海峡の供給中断により原油価格が急騰。インフレ加速と景気後退の懸念が高まり、世界経済に大きな下方圧力。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ムーディーズが米国景気後退確率を大幅引き上げ",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の雇用統計悪化とGDP下方修正を受け、ムーディーズが景気後退確率を49%に。原油高騰でさらに悪化懸念。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRB、金利据え置きも高インフレとエネルギー価格に警戒",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "FRBは金利を据え置き、インフレとエネルギー価格高騰による不確実性を指摘。2026年の利下げは一度のみの予測。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ナスダック、年初来10%下落でテクノロジー株に逆風",
+          "country": "USA",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ナスダック総合指数が年初来で10%下落。AI関連株は一部好調だが、高金利と高評価に重圧がかかる。",
+          "affected_sectors": [
+            "Technology",
+            "Growth Stocks"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国金融セクターが年初来で低迷、回復の兆しも",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国金融セクターが2026年に入り最もパフォーマンスが悪い。貸付緩和やAI効率化で今後回復する可能性も。",
+          "affected_sectors": [
+            "Financials",
+            "Banking",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "原油高騰、米景気後退懸念、地政学リスクが市場を支配。FRB動向に注視。"
+    }
   }
 ]
