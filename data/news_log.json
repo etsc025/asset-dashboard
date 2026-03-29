@@ -12437,5 +12437,56 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡封鎖による世界的供給網混乱、インフレ再燃リスク"
     }
+  },
+  {
+    "timestamp": "2026-03-29 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場が大幅下落、原油価格急騰で市場に懸念",
+          "country": "米国",
+          "category": "株式市場, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化と原油価格の高騰を受け、米国株式市場は大幅に下落。S&P 500は1.74%安、ナスダックは2.38%安となり、VIX指数も上昇。原油価格は96ドル台後半に急騰し、インフレ懸念と金融引き締め観測を強めている。",
+          "affected_sectors": [
+            "株式市場全般",
+            "エネルギー",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Samsung、AIメモリ供給を巡る労組ストライキの危機",
+          "country": "韓国",
+          "category": "テクノロジー, 労働, サプライチェーン",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Samsungの労組がストライキに踏み切る可能性があり、NvidiaのHBM4などAI向けメモリ供給に混乱が生じる恐れがある。これは半導体サプライチェーン全体に影響を与える可能性がある。",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー",
+            "エレクトロニクス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ソニー、PlayStation 5の価格を最大150ドル値上げ",
+          "country": "グローバル",
+          "category": "テクノロジー, 消費者向け製品, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ソニーは4月2日よりPlayStation 5の価格を最大150ドル引き上げると発表。世界的な経済情勢の圧力、米国の関税、メモリ価格の高騰が要因。",
+          "affected_sectors": [
+            "ゲーム産業",
+            "エレクトロニクス",
+            "消費財"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油急騰が世界経済に圧力、米国株大幅下落。"
+    }
   }
 ]
