@@ -450,18 +450,27 @@ async function fetchAll(){
     newsArea.innerHTML = '<div style="color:#8b949e;font-size:12px;">最新ニュースデータなし</div>';
   }
 
-  // 為替レートをヘッダーに表示（portfolio.jsonから取得）
-  fetch('data/portfolio.json?t='+Date.now())
+  // 為替レート: bot_ranking.jsonから取得（30分毎更新）
+  fetch('data/bot_ranking.json?t='+Date.now())
     .then(r=>r.json())
-    .then(p=>{
-      const rate = p.fx_rate || p.usd_jpy_rate;
+    .then(d=>{
+      const rate = d.usdjpy;
       const el   = document.getElementById('fxRateMain');
       const chg  = document.getElementById('fxChangeMain');
       const time = document.getElementById('fxTimeMain');
-      if(el && rate) el.textContent = parseFloat(rate).toFixed(2);
-      if(chg) chg.textContent = '対USD';
-      if(time) time.textContent = new Date().toLocaleTimeString('ja-JP');
-    }).catch(()=>{});
+      if(el && rate && rate > 100) el.textContent = parseFloat(rate).toFixed(2);
+      if(chg) chg.textContent = '円/USD';
+      if(time) time.textContent = new Date(d.timestamp).toLocaleTimeString('ja-JP');
+    }).catch(()=>{
+      // fallback: portfolio.json
+      fetch('data/portfolio.json?t='+Date.now())
+        .then(r=>r.json())
+        .then(p=>{
+          const rate = p.fx_rate || p.usd_jpy_rate;
+          const el = document.getElementById('fxRateMain');
+          if(el && rate) el.textContent = parseFloat(rate).toFixed(2);
+        }).catch(()=>{});
+    });
   // API使用量の読み込み
   fetch('data/api_usage.json?t='+Date.now())
     .then(r=>r.json())
