@@ -13634,5 +13634,58 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学的緊張の高まりとインフレ懸念が市場を圧迫。"
     }
+  },
+  {
+    "timestamp": "2026-03-29 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "原油価格急騰で市場に動揺、中東情勢の不確実性が高まる",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化により原油価格が急騰し、世界経済へのインフレ圧力と成長懸念が高まり、市場全体に動揺が広がっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学リスクの高まりを受け、世界の株式市場が続落",
+          "country": "Global",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の不確実性と原油価格の高騰を受け、米国の主要指数が調整局面入りするなど、世界の株式市場が下落基調。",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要中央銀行、中東情勢リスクを警戒し金融政策の現状維持を継続",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日銀、FRB、ECBなどは中東情勢とそれに伴うインフレ・景気下押しリスクを警戒し、当面の政策金利据え置きを示唆している。",
+          "affected_sectors": [
+            "Banking",
+            "Real Estate",
+            "Bond Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油価格急騰が市場を動揺させ、世界的株安と中央銀行の警戒姿勢続く。"
+    }
   }
 ]
