@@ -12881,5 +12881,69 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化が原油価格高騰と世界市場の下落を引き起こしています。"
     }
+  },
+  {
+    "timestamp": "2026-03-29 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、中東情勢と原油価格高騰で下落",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の悪化と原油価格の上昇を受け、米国株式市場は主要指数が下落し、5週連続のマイナスを記録。",
+          "affected_sectors": [
+            "テクノロジー",
+            "消費者裁量",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が大幅上昇、供給途絶懸念で中東情勢緊迫",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東での紛争継続とホルムズ海峡での混乱により原油価格が急騰。インフレ圧力が高まり、経済成長への懸念が拡大。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドルが安全資産として上昇、中東情勢の不確実性が要因",
+          "country": "グローバル",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東情勢の不確実性とインフレ懸念を背景に、米ドルが安全資産として強含み、他主要通貨に対して上昇している。",
+          "affected_sectors": [
+            "金融",
+            "輸出入"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本経済、原油高騰と中東紛争で懸念増大",
+          "country": "日本",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "エネルギー輸入依存度の高い日本は、原油価格高騰と中東紛争により企業コスト増や家計圧迫、経済成長鈍化の懸念に直面。",
+          "affected_sectors": [
+            "製造業",
+            "輸送",
+            "小売"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化、原油高騰が世界経済に圧力。株式市場下落、インフレ懸念増大。"
+    }
   }
 ]
