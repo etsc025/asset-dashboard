@@ -528,7 +528,8 @@ async function fetchAll(){
 
 
   // Bot ランキング読み込み
-  loadJSON('bot_ranking.json', null).then(data => {
+  fetch('data/bot_ranking.json?v=' + Date.now(), {cache: 'no-store', headers: {'Cache-Control': 'no-cache, no-store'}})
+    .then(r => r.json()).then(data => {
     if (!data || !data.ranking) return;
     document.getElementById('botRankDate').textContent = data.date || '';
     const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪'];
@@ -557,8 +558,9 @@ async function fetchAll(){
         </div>`;
     }).join('');
     document.getElementById('botRankingTable').innerHTML = rows || '<div style="color:#8b949e;font-size:12px;">データなし</div>';
-  }).catch(() => {
-    document.getElementById('botRankingTable').innerHTML = '<div style="color:#8b949e;font-size:12px;">ランキングデータ未取得</div>';
+  }).catch(e => {
+    console.log('bot_ranking fetch error:', e);
+    document.getElementById('botRankingTable').innerHTML = '<div style="color:#8b949e;font-size:12px;">ランキングデータ未取得（再読込してください）</div>';
   });
 
 fetchAll();
