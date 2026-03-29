@@ -522,7 +522,7 @@ async function fetchAll(){
   loadJSON('bot_ranking.json', null).then(data => {
     if (!data || !data.ranking) return;
     document.getElementById('botRankDate').textContent = data.date || '';
-    const medals = ['🥇','🥈','🥉','4️⃣','5️⃣','6️⃣','7️⃣','8️⃣','9️⃣','🔟','1️⃣1️⃣'];
+    const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪'];
     const rows = data.ranking.map((b, i) => {
       const ret  = (b.total_return * 100).toFixed(2);
       const mdd  = (b.mdd * 100).toFixed(2);
@@ -534,7 +534,7 @@ async function fetchAll(){
       return `
         <div style="padding:6px 0;border-bottom:1px solid #21262d;">
           <div style="display:flex;justify-content:space-between;align-items:center;">
-            <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace('Bot','B').replace('_',' ')}</strong></span>
+            <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace(/_/g,' ')}</strong></span>
             <span style="color:${retColor};font-weight:700;font-size:13px;">${ret>=0?'+':''}${ret}%</span>
           </div>
           <div style="display:flex;gap:12px;font-size:10px;color:#8b949e;margin-top:2px;">
