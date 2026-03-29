@@ -12488,5 +12488,69 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油急騰が世界経済に圧力、米国株大幅下落。"
     }
+  },
+  {
+    "timestamp": "2026-03-29 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化と原油価格上昇で米株大幅下落",
+          "country": "米国",
+          "category": "地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の不確実性と原油価格の高騰により、米国の主要株価指数は大きく下落し、インフレ懸念が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "テクノロジー",
+            "金融",
+            "消費裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州株、イラン攻撃延期にもかかわらず下落、地政学リスク継続",
+          "country": "欧州",
+          "category": "地政学, 株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランへの攻撃延期にも関わらず、地政学的な不確実性が払拭されず、欧州株式市場は下落した。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Anthropic AIモデル情報漏洩で米サイバーセキュリティ株急落",
+          "country": "米国",
+          "category": "テクノロジー, サイバーセキュリティ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "新しいAnthropic AIモデルの詳細が漏洩したとの報道を受け、米国のサイバーセキュリティ関連株が急落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "サイバーセキュリティ",
+            "AI"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "マレーシア、外国人労働者規制強化で人材流出の懸念",
+          "country": "マレーシア",
+          "category": "経済政策, 労働市場",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "マレーシア政府が外国人労働者の数を削減する計画を発表。現地雇用促進を図るも、人材流出の懸念が生じている。",
+          "affected_sectors": [
+            "テクノロジー",
+            "製造業",
+            "サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油価格高騰が世界経済の主要リスク。"
+    }
   }
 ]
