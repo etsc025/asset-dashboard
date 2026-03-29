@@ -41,6 +41,11 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
 .table th { color:#8b949e; text-align:left; padding:4px 8px; border-bottom:1px solid #30363d; }
 .table td { padding:4px 8px; border-bottom:1px solid #21262d; }
 @media(max-width:600px){ .grid{grid-template-columns:1fr;} .kpi-row{grid-template-columns:1fr 1fr;} }
+
+.rank-medal { font-size:16px; }
+.rank-bar { height:4px; border-radius:2px; background:#21262d; margin-top:4px; }
+.rank-bar-fill { height:100%; border-radius:2px; transition:width 0.5s; }
+.bot-tag { font-size:10px; padding:1px 5px; border-radius:3px; background:#21262d; color:#8b949e; }
 </style>
 </head>
 <body>
@@ -109,7 +114,23 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
   </div>
   <div class="card">
     <h2>📈 現物ポートフォリオ</h2>
-    <div id="portfolioDetail" style="font-size:12px;">読み込み中...</div>
+    
+  <!-- ===== AI Bot ランキング ===== -->
+  <div class="card" style="margin-bottom:12px;">
+    <h2>🤖 AI Bot 日次ランキング <span id="botRankDate" style="font-size:10px;color:#8b949e;"></span></h2>
+    <div id="botRankingTable">読み込み中...</div>
+    <div style="margin-top:8px;font-size:10px;color:#8b949e;">
+      スコア = 総利益30% + 勝率20% + MDD20% + Sharpe20% + 取引数10%
+    </div>
+  </div>
+
+  <!-- ===== Bot 資産推移（簡易） ===== -->
+  <div class="card" style="margin-bottom:12px;">
+    <h2>📈 上位3Bot 資産推移</h2>
+    <div id="botEquityChart" style="font-size:12px;color:#8b949e;">データ蓄積中...</div>
+  </div>
+
+<div id="portfolioDetail" style="font-size:12px;">読み込み中...</div>
   </div>
 
   <div class="card">
@@ -496,8 +517,43 @@ async function fetchAll(){
     '最終更新: '+new Date().toLocaleTimeString('ja-JP');
 }
 
+
+  // Bot ランキング読み込み
+  loadJSON('bot_ranking.json', null).then(data => {
+    if (!data || !data.ranking) return;
+    document.getElementById('botRankDate').textContent = data.date || '';
+    const medals = ['🥇','🥈','🥉','4️⃣','5️⃣','6️⃣','7️⃣','8️⃣','9️⃣','🔟','1️⃣1️⃣'];
+    const rows = data.ranking.map((b, i) => {
+      const ret  = (b.total_return * 100).toFixed(2);
+      const mdd  = (b.mdd * 100).toFixed(2);
+      const wr   = (b.win_rate * 100).toFixed(1);
+      const retColor = b.total_return >= 0 ? '#22c55e' : '#ef4444';
+      const mddColor = b.mdd <= -0.1 ? '#ef4444' : b.mdd <= -0.05 ? '#f59e0b' : '#8b949e';
+      const scoreBar = Math.round(b.score * 100);
+      const barColor = i === 0 ? '#f59e0b' : i === 1 ? '#9ca3af' : i === 2 ? '#b45309' : '#3b82f6';
+      return `
+        <div style="padding:6px 0;border-bottom:1px solid #21262d;">
+          <div style="display:flex;justify-content:space-between;align-items:center;">
+            <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace('Bot','B').replace('_',' ')}</strong></span>
+            <span style="color:${retColor};font-weight:700;font-size:13px;">${ret>=0?'+':''}${ret}%</span>
+          </div>
+          <div style="display:flex;gap:12px;font-size:10px;color:#8b949e;margin-top:2px;">
+            <span>勝率 <span style="color:#e6edf3;">${wr}%</span></span>
+            <span>MDD <span style="color:${mddColor};">${mdd}%</span></span>
+            <span>Sharpe <span style="color:#e6edf3;">${b.sharpe}</span></span>
+            <span>取引 <span style="color:#e6edf3;">${b.n_trades}件</span></span>
+            <span style="margin-left:auto;">Score <span style="color:#e6edf3;">${b.score}</span></span>
+          </div>
+          <div class="rank-bar"><div class="rank-bar-fill" style="width:${scoreBar}%;background:${barColor};"></div></div>
+        </div>`;
+    }).join('');
+    document.getElementById('botRankingTable').innerHTML = rows || '<div style="color:#8b949e;font-size:12px;">データなし</div>';
+  }).catch(() => {
+    document.getElementById('botRankingTable').innerHTML = '<div style="color:#8b949e;font-size:12px;">ランキングデータ未取得</div>';
+  });
+
 fetchAll();
-setInterval(fetchAll, 60000);
+setInterval(fetchAll, 1800000);
 </script>
 </body>
 </html>
