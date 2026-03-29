@@ -13805,5 +13805,58 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争による原油高と米国の景気後退リスク上昇に警戒。"
     }
+  },
+  {
+    "timestamp": "2026-03-29 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油価格高騰と世界市場の下落を招く",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争を巡る中東情勢の緊迫化が続き、原油価格は高騰しインフレ懸念を増幅。これにより、世界中の株式市場で投資家心理が悪化し、リスクオフの動きが加速し全体的に下落基調となっている。",
+          "affected_sectors": [
+            "Energy",
+            "Global Equities",
+            "Consumer Discretionary",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国消費者信頼感、ガソリン価格高騰と市場変動で悪化",
+          "country": "USA",
+          "category": "Economic Indicator",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国では最新の消費者信頼感指数が、中東情勢を受けたガソリン価格の継続的な上昇と金融市場の激しい変動を背景に低下した。これにより、今後の個人消費支出の鈍化に対する懸念が高まっている。",
+          "affected_sectors": [
+            "Consumer Discretionary",
+            "Retail",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AI関連の不安とソーシャルメディア訴訟がテック株を圧迫",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "テクノロジーセクターでは、AnthropicのAIモデルに関する機密情報漏洩疑惑が浮上し、サイバーセキュリティ関連企業に不透明感を与えている。また、MetaやAlphabetに対するソーシャルメディア中毒を巡る大規模な訴訟が、これらの巨大テック企業の株価に継続的な下押し圧力をかけている。",
+          "affected_sectors": [
+            "Technology",
+            "Software",
+            "Cybersecurity",
+            "Communication Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高騰が世界市場をリスクオフに導き、米国消費者心理も悪化。テック株にも重圧。"
+    }
   }
 ]
