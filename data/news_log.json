@@ -13061,5 +13061,75 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で株価下落、原油価格急騰で市場に圧力"
     }
+  },
+  {
+    "timestamp": "2026-03-29 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格高騰、供給途絶懸念が市場を圧迫",
+          "country": "Global",
+          "category": "Geopolitical, Commodity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争激化によりブレント原油価格が急騰し1バレル105ドルを突破。ホルムズ海峡の供給途絶懸念が強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Manufacturing",
+            "Aviation",
+            "Logistics"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ECB総裁、インフレ懸念を表明し利上げの可能性示唆",
+          "country": "Eurozone",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ECB総裁がインフレに対する懸念を表明し、市場に利上げの可能性を改めて意識させ、株式市場に影響。",
+          "affected_sectors": [
+            "Banking",
+            "Real Estate",
+            "Technology",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "USMCA再交渉の不確実性がカナダ経済に重圧",
+          "country": "Canada",
+          "category": "Trade Policy, Economic",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "USMCAの再交渉を巡る不確実性が、カナダの自動車産業や建設セクターに悪影響を与えている。",
+          "affected_sectors": [
+            "Automotive",
+            "Manufacturing",
+            "Construction",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国市場でハイテク株が下落、資本が伝統的セクターへ移動",
+          "country": "United States",
+          "category": "Equity Markets, Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Nasdaqが調整局面入り、AI関連株を含むハイテク株から工業・素材・生活必需品へ資本が流れる。",
+          "affected_sectors": [
+            "Technology",
+            "Industrials",
+            "Materials",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化と原油高が市場を圧迫、ECBのタカ派発言も警戒。"
+    }
   }
 ]
