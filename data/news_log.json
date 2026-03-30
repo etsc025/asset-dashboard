@@ -15349,5 +15349,82 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東緊迫化と円安で市場はリスクオフ、日経平均が急落中。"
     }
+  },
+  {
+    "timestamp": "2026-03-30 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格が3%以上急騰、ブレント原油は$116/バレル超え",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが支援するフーシ派がイスラエルを攻撃し、中東紛争が激化。原油市場の混乱懸念から価格が急騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イランがUAEとバーレーンのアルミニウム工場を攻撃、アルミニウム価格が6%急騰",
+          "country": "UAE, バーレーン",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東でのイランによる工場攻撃を受け、世界のアルミニウム供給中断の懸念から価格が大幅上昇。",
+          "affected_sectors": [
+            "製造業",
+            "自動車",
+            "航空宇宙",
+            "建設"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイランの戦争激化でアジア株式市場が大幅下落、韓国KOSPIは5%超安",
+          "country": "グローバル, 韓国, 日本, 中国, インド",
+          "category": "株式市場, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の長期化とインフレ懸念により、アジア主要株価指数が大幅下落。GIFT Niftyも安値を示唆。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "輸出"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米FRB利下げ期待後退で金・銀価格が下落、金は1.2%、銀は1.2%安",
+          "country": "グローバル",
+          "category": "コモディティ, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "エネルギー価格高騰によるインフレ懸念が米FRBの利下げ期待を弱め、金・銀価格が下落。",
+          "affected_sectors": [
+            "貴金属採掘",
+            "投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国とイランの戦争により、世界経済がリセッションに陥るリスクが増大",
+          "country": "グローバル",
+          "category": "経済, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争が続き、エネルギー価格の高騰が消費者と企業を圧迫し、世界経済のリセッションリスクが高まる。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "US-Iran戦激化、原油・アルミ価格急騰、世界株下落。"
+    }
   }
 ]
