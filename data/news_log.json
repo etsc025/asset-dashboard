@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン攻撃を5日間延期「生産的な対話」を理由に",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"14-4,14-5\">トランプ大統領がイランとの「生産的な対話」を理由にイランの発電所への攻撃を5日間延期すると発表。これを受け、市場は急騰し原油価格が下落。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡、事実上の封鎖継続 イランが新体制下で方針維持",
-          "country": "イラン",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"17-1,17-5\">イランの新最高指導者モジタバ・ハメネイがホルムズ海峡の封鎖継続を表明。世界の石油の20%が通過する重要航路が閉鎖されたまま。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場急落、中東情勢悪化で日経5%下落",
-          "country": "日本",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"8-4,8-5\">中東紛争の4週目突入でリスク資産売りが殺到。日経平均は5%近く下落、韓国KOSPI指数も6%超下落。</cite>",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、ブレント113ドルまで上昇",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"8-19\">国際基準ブレント原油が113.08ドルまで上昇。ホルムズ海峡封鎖により1970年代以来最大のエネルギー危機。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に1.8兆円投資",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"8-25,8-26\">ウォーレン・バフェット率いるバークシャーが東京海上ホールディングスに18億ドル投資。初期持分2.49%を取得。</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IEAトップ、現在の危機は1970年代超えと警告",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"14-25\">国際エネルギー機関のビロル事務局長が現在の危機は1日1,100万バレルの損失で、1970年代の2度の石油危機を合わせたより深刻と警告。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "農業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"14-4,18-3\">トランプがイラン攻撃延期も、企業幹部は2週間以内の解決が必要と警告</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 00:30",
     "data": {
       "breaking_news": [
@@ -15206,6 +15114,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化、原油高騰とインフレ懸念、世界市場の変動増大。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、世界市場に下落圧力",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の緊張激化により原油価格が上昇し、世界の株式市場で下落圧力を強めている。エネルギーセクターは堅調。",
+          "affected_sectors": [
+            "Energy",
+            "Consumer Discretionary",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米10年債利回りが8ヶ月ぶり高値、インフレ懸念高まる",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の10年債利回りが8ヶ月ぶり高値の4.44%に上昇。輸入物価指数が跳ね上がり、インフレ懸念が強まる。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FinCENが違法金融対策の内部告発者報奨プログラム案を提案",
+          "country": "United States",
+          "category": "Regulatory",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米財務省FinCENが違法金融対策として銀行秘密法違反などの不正行為に関する内部告発者への報奨金プログラム案を公表。",
+          "affected_sectors": [
+            "Financials",
+            "Legal"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "3月の米消費者心理指数が低下、今年最低水準を記録",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "3月のミシガン大学消費者心理指数が53.3に低下し、2026年で最低水準を記録。ガソリン価格上昇が要因。",
+          "affected_sectors": [
+            "Consumer Discretionary",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高、米金利上昇が市場全体にリスクオフ圧力を。"
     }
   }
 ]
