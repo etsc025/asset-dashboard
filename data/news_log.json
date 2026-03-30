@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプがイラン攻撃5日間停止発表、株価急反発",
-          "country": "アメリカ・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"17-9,17-10\">トランプ大統領がイランとの「生産的な対話」を理由に、イラン電力・エネルギーインフラへの攻撃を5日間停止すると発表。株式市場は急反発</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落、ブレント6%下落で105ドル台に",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"17-1,17-7\">ブレント原油が6%以上下落し105.09ドル、WTI原油も6%近く下げ92.29ドルに。トランプの攻撃停止発表を受けた反応</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場大幅下落から急反発",
-          "country": "日本・韓国・アジア",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"8-4,8-5,8-6\">日経225は5%近く下落、韓国コスピは6%超下落していたが、米国株先物の急反発を受けて回復基調に転換</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株先物2%超上昇、恐怖指数急低下",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"26-1,26-5\">S&P500、ダウ、ナスダック先物が軒並み2%超上昇。6ヶ月安値圏から急反発</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "ヘルスケア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続、グローバル供給網に深刻な影響",
-          "country": "イラン・グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-4,11-5\">世界の石油・ガス供給の約20%を占めるホルムズ海峡が事実上封鎖継続。エネルギー価格は40%以上上昇</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "物流",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IEA緊急石油備蓄放出、過去最大の4億バレル",
-          "country": "グローバル",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"17-14\">IEA加盟国が3月11日に戦略石油備蓄から記録的な4億バレルの放出を決定。イラン戦争による供給途絶への対応</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "政府",
-            "商品"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "トランプのイラン攻撃停止発表により株価急反発、原油急落で市場センチメント好転"
-    }
-  },
-  {
     "timestamp": "2026-03-24 01:00",
     "data": {
       "breaking_news": [
@@ -15178,6 +15085,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高、米金利上昇が市場全体にリスクオフ圧力を。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン情勢緊迫化、原油価格が急騰し世界経済に圧力",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の緊迫化とホルムズ海峡封鎖の懸念から原油価格が急騰。インフレと世界経済成長への圧力が強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Retail",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢と金融引き締め懸念で世界の株式市場が下落",
+          "country": "US, Asia",
+          "category": "Equity Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の激化と原油価格高騰を受け、世界の株式市場は下落基調。米国株は5週連続下落を記録した。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Industrials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州中央銀行がエネルギー価格高騰で利上げ観測高まる",
+          "country": "Europe",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東での戦争によるエネルギー依存度上昇で欧州経済見通しが悪化。ECBはインフレ抑制のため利上げ圧力に直面。",
+          "affected_sectors": [
+            "Banking",
+            "Real Estate",
+            "Utilities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化と原油急騰が世界経済を圧迫し市場はリスクオフに。"
     }
   }
 ]
