@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争：トランプがホルムズ海峡再開の最後通告、油価急騰",
-          "country": "アメリカ・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-11,15-4,15-20\">トランプ大統領がイランに月曜までのホルムズ海峡再開を要求、従わなければ発電所を破壊すると脅迫。イランは完全閉鎖で応答</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格3桁維持、ブレント$114・WTI$100突破",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"15-1,15-2,15-3\">ブレント原油$114.09、米国原油$100.29に急騰。ゴールドマンサックスは高値が2027年まで持続と予測</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場4週連続下落、ナスダック調整局面入り",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"12-16,12-17,12-18,12-19,12-20\">ナスダック2%下落で年初来-6.8%、S&P500は-4.9%、ダウ443ポイント下落で年初来-5.2%</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "住宅ローン金利急上昇、6.53%に到達",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"12-22\">30年固定住宅ローン金利が戦争開始前の6%から0.5ポイント上昇し6.53%に達する</cite>",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "建設"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ガソリン価格$4目前、月内$1上昇",
-          "country": "アメリカ",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"15-8,15-9\">全米平均ガソリン価格が$3.94に到達、戦争開始から約$1上昇。月曜に$4突破の可能性</cite>",
-          "affected_sectors": [
-            "消費財",
-            "運輸",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Fed利上げ期待が利下げ期待を上回る",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"10-2,10-6\">トレーダーは今年のFed利下げより利上げの可能性を高く評価。油価上昇によるインフレ懸念が背景</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"11-4,16-14\">トランプのホルムズ海峡再開期限まで48時間、企業幹部は2週間以内解決を要求</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 14:30",
     "data": {
       "breaking_news": [
@@ -15797,6 +15703,86 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化で原油高騰と世界株安、警戒感を強める中央銀行"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "インド株式市場が米国・イラン戦争と原油価格高騰で急落",
+          "country": "インド",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの紛争激化と原油価格高騰を受け、インド株式市場（Sensex、Nifty）が1.5%超の急落を記録し、投資家は5兆ルピーを失った。",
+          "affected_sectors": [
+            "銀行",
+            "金融",
+            "テクノロジー",
+            "広範な市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国・イラン戦争激化により原油価格が急騰",
+          "country": "グローバル",
+          "category": "商品、エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの紛争が激化し、イエメンのフーシ派が紛争に加わったことで、ブレント原油は1バレル115ドルを超える水準に急騰し、供給途絶の懸念が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国・イラン戦争と原油価格高騰でアジア株式市場が下落",
+          "country": "アジア",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国・イラン戦争の激化と原油価格の高騰を受け、日本の日経平均株価が4.5%安、韓国KOSPIが3.2%安となるなど、アジア主要株式市場が大幅に下落した。",
+          "affected_sectors": [
+            "株式市場全般",
+            "石油輸入依存度の高い経済圏"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "RBIの為替ポジション規制を受けインド・ルピーが反発",
+          "country": "インド",
+          "category": "外国為替、金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド準備銀行（RBI）が銀行のオンショア外貨オープンポジションに上限を設ける措置を講じた後、インド・ルピーは史上最安値から1.4%反発した。",
+          "affected_sectors": [
+            "銀行",
+            "金融",
+            "輸出入企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式先物が中東情勢緊迫化と原油価格高騰で下落",
+          "country": "米国",
+          "category": "株式先物、地政学的リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化と原油価格の上昇を受け、米国の主要株式先物（ナスダック100、ダウ・ジョーンズ工業平均、S&P 500）が下落し、市場の不安が続いている。",
+          "affected_sectors": [
+            "株式市場全般",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国・イラン戦争激化と原油価格高騰により世界株式市場が大幅下落、市場はリスクオフへ移行。"
     }
   }
 ]
