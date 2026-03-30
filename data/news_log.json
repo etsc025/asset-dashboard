@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "英10年債利回り2008年以来最高水準の5%超記録、中東戦争でインフレ懸念",
-          "country": "イギリス",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国債利回りが金融危機以来の5%を突破。中東情勢とエネルギー価格上昇がインフレ期待を押し上げ、利上げ観測が強まる。政府借入コストが急騰し、財政運営に圧迫。",
-          "affected_sectors": [
-            "債券",
-            "通貨",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株反発、トランプ大統領のイラン攻撃停止発言で地政学リスク後退",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの対話開始と攻撃停止を発表し、株式市場が急反発。ダウ631ポイント上昇、S&P500も1.15%高。中東紛争終結への期待が高まる。",
-          "affected_sectors": [
-            "株式",
-            "エネルギー",
-            "為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株暴落、日経5%安・韓国KOSPI6%超下落、中東情勢悪化で",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争4週目入りでリスクオフが加速、アジア株が軒並み大幅安。日経225は5%下落、韓国市場は取引停止措置。原油価格高騰で景気後退懸念が拡大。",
-          "affected_sectors": [
-            "株式",
-            "商品",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB議長人事混迷、パウエル刑事捜査でウォーシュ承認遅延の可能性",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パウエル議長の刑事捜査継続により、後任ウォーシュ氏の承認が遅延。5月の任期満了後もパウエル氏続投の可能性。政治的対立が金融政策の不透明性を高める。",
-          "affected_sectors": [
-            "金融政策",
-            "通貨",
-            "債券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "原油価格100ドル回復、ホルムズ海峡封鎖でエネルギー供給懸念",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東紛争によるホルムズ海峡封鎖でWTI99ドル台、ブレント113ドル台まで上昇。世界エネルギー供給の約20%が通過する要衝封鎖で供給不安が深刻化。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "英国債利回り5%突破と米株反発が示す市場の極端な二極化"
-    }
-  },
-  {
     "timestamp": "2026-03-24 06:00",
     "data": {
       "breaking_news": [
@@ -14946,6 +14867,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争激化で世界市場が下落。原油は100ドル超え、インフレ懸念と中銀のタカ派見通しを助長。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Brent原油が116ドル超え、フーシ派攻撃と米国のイラン脅威で湾岸紛争拡大",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "フーシ派攻撃と米国のイラン石油施設への脅威により、湾岸紛争が拡大。Brent原油は116ドル超え、記録的な月間上昇を記録。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Airlines",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFがイラン戦争による高インフレと世界経済成長鈍化を警告、米国市場は調整局面入り",
+          "country": "Global",
+          "category": "Economic Data, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFはイラン戦争が世界的な高インフレと成長鈍化を招くと警告。米国株は大幅下落し調整局面入りした。",
+          "affected_sectors": [
+            "All sectors",
+            "Technology",
+            "Financials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRB議長パウエル、エネルギー価格高騰によるインフレを注視するが、短期対策に限界",
+          "country": "US",
+          "category": "Monetary Policy, Inflation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "パウエル議長はイラン戦争によるエネルギー高騰インフレを注視。短期供給ショックへの金融政策の限界を指摘した。",
+          "affected_sectors": [
+            "Financials",
+            "Interest-rate sensitive sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州株式市場、地政学的緊張と地域経済心理の悪化にもかかわらず予想外の回復力",
+          "country": "Europe",
+          "category": "Market Performance, Economic Sentiment",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧州株式は、地政学的緊張と悪化する地域経済センチメントに反して上昇し、予想外の回復力を見せた。",
+          "affected_sectors": [
+            "European Equities",
+            "Energy",
+            "Mining"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化で原油価格高騰、世界経済の成長鈍化とインフレ懸念増大。投資家はリスクオフ志向を強めるべき。"
     }
   }
 ]
