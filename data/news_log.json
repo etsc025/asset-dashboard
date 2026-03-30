@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争拡大によりホルムズ海峡封鎖、原油価格が100ドル突破",
-          "country": "イラン・湾岸諸国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランとの戦争激化によりホルムズ海峡の航行が停止、世界エネルギー供給の要所が事実上封鎖される。原油価格は100ドルを突破し、湾岸経済に深刻な打撃。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場急落、ダウとナスダック修正相場入り寸前",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響で金曜日の米株が大幅下落。ダウとナスダックが修正相場（20%下落）に接近、ラッセル2000指数は既に修正相場入り。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "小型株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国債利回りが2008年以来最高水準、インフレ懸念で急上昇",
-          "country": "イギリス",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "政府借り入れコストが2008年金融危機以来の高水準に到達。インフレ恐怖によりギルト市場が急落、金融情勢がさらに逼迫。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公共セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏がイラン攻撃延期を発表、「建設的対話」後の決定",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が「非常に良好で建設的な話し合い」の後、イランの発電所攻撃を延期すると発表。一時的な緊張緩和期待。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "通貨"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀が政策金利を0.75%で据え置き、地政学リスクを注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が予想通り金利据え置きを決定。中東情勢、市場ボラティリティ、原油価格急騰への監視を強調。一委員は利上げを主張。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "円相場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中国が海外投資新規割当制度導入へ、資本規制強化",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国当局が海外投資に新たな割当制度を導入予定。資本流出管理の強化により、グローバル投資フローに影響の可能性。",
-          "affected_sectors": [
-            "中国株式",
-            "グローバル投資"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖により原油100ドル突破、世界経済にスタグフレーションリスク"
-    }
-  },
-  {
     "timestamp": "2026-03-23 22:30",
     "data": {
       "breaking_news": [
@@ -15300,6 +15207,82 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢悪化による原油高と世界的なインフレ再燃に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イラン合意不履行ならエネ施設破壊と警告",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領はイランとの合意不履行の場合、エネルギー施設やハルク島破壊を警告。中東情勢がさらに緊迫化。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格上昇、トランプ氏のイラン施設攻撃警告でNY原油先物高",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領によるイランのエネルギー施設攻撃警告を受け、ニューヨーク原油先物価格が上昇。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、ダウが反発しナスダックも上昇",
+          "country": "US",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国株式市場はダウ平均が328ドル高と反発、ナスダックも上昇。一時的な買い戻しや進展期待か。",
+          "affected_sectors": [
+            "Broad Market"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国FCA、自動車ローン問題の補償スキーム詳細を発表へ",
+          "country": "UK",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国金融行動監視機構(FCA)が、自動車ローン不正問題に関する補償スキームの詳細を本日発表する見込み。",
+          "affected_sectors": [
+            "Financial Services",
+            "Automotive"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アルコア株急騰、中東アルミ施設への攻撃受けアルミ価格高騰",
+          "country": "US",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東のアルミニウム施設への攻撃を受けてアルミ価格が急騰し、米国のアルコア株が大幅に上昇した。",
+          "affected_sectors": [
+            "Basic Materials",
+            "Industrial"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化、原油価格高騰で市場に重圧。米国株は反発も不透明感残る。"
     }
   }
 ]
