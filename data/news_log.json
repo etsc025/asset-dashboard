@@ -1,93 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争の影響で世界の株式市場が急落、原油価格は100ドル回復",
-          "country": "世界",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の通航停止により原油価格が急騰し、世界の株式市場が下落。Dow、Nasdaqが調整局面入りに近づく。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国債利回りが2008年以来の高水準、インフレ懸念で金利上昇",
-          "country": "英国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インフレ懸念により英国債市場が売られ、借入コストが2008年金融危機以来の高水準に到達。",
-          "affected_sectors": [
-            "金融",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本銀行が政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "BOJが予想通り金利を据え置き。中東情勢、金融市場の変動、原油価格急騰を注視すると表明。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB利下げ期待が後退、利上げ確率が利下げを上回る",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による原油価格高騰でインフレ懸念が再燃。市場は年内利上げの可能性を利下げより高く織り込む。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユナイテッド航空が米主要航空会社初の減便、燃料費高騰で5%削減",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による燃料価格高騰を受け、ユナイテッド航空が運航便数を約5%削減すると発表。",
-          "affected_sectors": [
-            "航空",
-            "旅行"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ラッセル2000指数が初の調整局面入り、小型株に圧力",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "小型株中心のラッセル2000指数が米国主要指数で初めて調整局面（20%下落）に突入。",
-          "affected_sectors": [
-            "小型株",
-            "バリュー株"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖により原油100ドル突破、世界株式市場急落"
-    }
-  },
-  {
     "timestamp": "2026-03-23 19:00",
     "data": {
       "breaking_news": [
@@ -15479,6 +15391,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東戦争の長期化懸念で原油急騰、世界株安、金融市場に強いストレスが波及。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化と原油高騰、世界市場に下方圧力とインフレ懸念",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国のイラン原油「奪取」発言やフーシ派の攻撃で原油価格が急騰。中東情勢の緊迫化が世界株式市場に下押し圧力をかけ、インフレと景気減速の懸念を強めている。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Consumer Discretionary",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油高騰で世界の中央銀行が金融引き締めに傾斜、市場は警戒",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争による原油価格の高騰を受け、各国中央銀行はインフレ対応を強化。日銀やECBが金融引き締めを示唆し、世界市場は利上げの可能性を警戒している。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology",
+            "Growth Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英製薬会社がNHSへの投資拡大を条件に薬価引き上げを要請",
+          "country": "UK",
+          "category": "Healthcare",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mounjaroの製造元が英国NHSに対し、医薬品価格の引き上げと引き換えに英国への投資拡大を要請。医療費と製薬産業支援のバランスが焦点となる。",
+          "affected_sectors": [
+            "Pharmaceuticals",
+            "Healthcare"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化で原油価格が急騰、世界経済のインフレと成長鈍化懸念が深刻化。"
     }
   }
 ]
