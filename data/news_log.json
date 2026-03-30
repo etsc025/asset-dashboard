@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株急落、イラン戦争の影響でダウ・ナスダックが修正局面に接近",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8,9-1,9-2\">イラン戦争の影響で米国株式市場が急落し、ダウとナスダックが修正局面（10%下落）に接近。アジア市場では日経平均が5%近く下落、韓国コスピは6%超急落</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続、原油価格が100ドル台を回復",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-1,7-4,7-8\">イランの新最高指導者がホルムズ海峡封鎖継続を宣言。ブレント原油が100ドル台を回復、WTI先物も99.42ドルに上昇。世界のエネルギー供給に重大な影響</cite>",
-          "affected_sectors": [
-            "石油・ガス",
-            "海運",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国国債利回りが2008年以来の高水準、インフレ懸念で急騰",
-          "country": "英国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8\">英国の国債借入コストが2008年以来の最高水準に上昇。インフレ懸念がギルト市場を直撃し、金融市場の不安定化が進行</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "消費者"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利を0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"5-11,5-13\">日本銀行が政策金利を0.75%で据え置きを決定。中東情勢の推移、金融市場の変動、原油価格の急騰を注視すると表明</cite>",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "トランプ大統領、イランとの協議開始でエネルギー施設攻撃を一時停止",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"9-21,9-24\">トランプ大統領が米・イラン間の協議開始を発表し、イランの発電所・エネルギーインフラへの攻撃を一時停止。投資家に中東紛争終結への期待が広がる</cite>",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "住宅ローン金利が6.11%に上昇、イラン戦争が市場を混乱",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1\">イラン戦争の影響で米住宅ローン金利が6.11%に上昇。住宅市場への打撃が懸念される</cite>",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-8,7-9\">ホルムズ海峡封鎖が世界エネルギー供給を遮断、グローバル経済ショック発生</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 05:00",
     "data": {
       "breaking_news": [
@@ -14993,6 +14899,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高騰が世界経済の主要なリスク要因となっている。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "円、介入警戒感で反発",
+          "country": "日本",
+          "category": "為替介入観測",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ドル円が160円を突破し、当局による円安是正介入への警戒感から円が反発した。",
+          "affected_sectors": [
+            "為替",
+            "輸出入関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国防総省、イランでの地上作戦準備か",
+          "country": "米国, イラン",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国防総省がイランでの地上作戦を準備中との報道を受け、中東情勢の緊迫化が一段と高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争が世界経済に悪影響と警告",
+          "country": "グローバル",
+          "category": "世界経済見通し",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、米国とイスラエルによるイランとの戦争が世界的な物価上昇と経済成長鈍化を招くと発表。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NATO、イランミサイル迎撃で中東緊迫",
+          "country": "トルコ, イラン",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "NATOがトルコ上空でイラン発射ミサイルを迎撃。中東地域の緊張が継続している。",
+          "affected_sectors": [
+            "防衛",
+            "エネルギー",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パウエル議長発言でドル伸び悩み",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米長期金利低下とパウエルFRB議長のハト派的な発言を受け、NY外為市場でドルが伸び悩んだ。",
+          "affected_sectors": [
+            "為替",
+            "債券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と円安加速による介入リスクが市場を席巻。"
     }
   }
 ]
