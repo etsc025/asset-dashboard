@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株先物急落、トランプ大統領がイラン電力施設攻撃を警告",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がホルムズ海峡再開に48時間の期限設定、イランは報復警告。ダウ先物327pt(-0.7%)、S&P500先物-0.8%、ナスダック先物-1%で急落",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が$113超、イラン戦争4週目で供給懸念拡大",
-          "country": "全世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ブレント原油$113.58(+1.3%)、WTI$99.22(+1.1%)。ホルムズ海峡通過量は通常の5%に激減、ゴールドマン・サックスが価格目標引き上げ",
-          "affected_sectors": [
-            "エネルギー",
-            "素材",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本・韓国市場暴落、日経-3.5%、韓国KOSPI-6.5%",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "アジア市場でリスク回避売り拡大。日銀は政策金利0.75%据え置き、中東情勢の影響を注視と声明。韓国は取引一時停止措置",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー",
-            "自動車"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "VIX指数30超え、米主要指数が調整局面入り寸前",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "恐怖指数VIXが30突破、3月9日以来の高水準。ナスダックは高値から9.65%下落で調整局面目前、ラッセル2000は既に調整入り",
-          "affected_sectors": [
-            "テクノロジー",
-            "小型株",
-            "グロース"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国債利回り4.9%超え、2008年以来の高水準",
-          "country": "イギリス",
-          "category": "債券",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英10年債利回りが4.9%突破、インフレ懸念で売り拡大。FTSE100は-1.44%下落、欧州全体で株安・債券安が進行",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ48時間最後通牒、イラン戦争エスカレートで全市場急落"
-    }
-  },
-  {
     "timestamp": "2026-03-23 20:23",
     "data": {
       "breaking_news": [
@@ -15407,6 +15328,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢悪化と原油高が世界経済・市場を圧迫、米国株下落し円安加速の懸念"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
+          "country": "Global",
+          "category": "Energy, Geopolitics, Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "原油価格が1バレルあたり116ドルを超え、米国とイランの緊張激化が世界的なエネルギー危機を悪化させています。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Australia to halve fuel tax as global energy crisis deepens",
+          "country": "Australia",
+          "category": "Government Policy, Economy, Energy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "世界的なエネルギー危機の深化を受け、オーストラリアは消費者の負担を軽減するため、燃料税を半減する計画です。",
+          "affected_sectors": [
+            "Transportation",
+            "Retail",
+            "Consumers"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin's Brutal Weekend Rollercoaster Wipes $185M in Long Positions",
+          "country": "Global",
+          "category": "Cryptocurrency, Market Volatility",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "ビットコインは75分間で1,700ドルの下落と1,400ドルの上昇を経験し、1億9,000万ドルのレバレッジポジションが清算されました。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Technology",
+            "Investment funds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Euro Poised for Worst Quarter Since 2024 as Oil Shock Bites",
+          "country": "Eurozone",
+          "category": "Currency, Economy, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるエネルギー価格と経済見通しへの影響により、ユーロは2024年以来最悪の四半期となる見込みです。",
+          "affected_sectors": [
+            "Finance",
+            "European exports/imports",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化、原油価格は116ドルに高騰し市場を圧迫。"
     }
   }
 ]
