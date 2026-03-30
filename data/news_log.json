@@ -1,102 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン最高指導者がホルムズ海峡封鎖継続を宣言、原油価格100ドル突破",
-          "country": "イラン/グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランの新最高指導者がホルムズ海峡の封鎖継続を表明。世界のエネルギー輸送の要衝が遮断され、原油価格が100ドルを再び突破。株式市場は急落している。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場急落、ダウとナスダックが調整局面入り間近",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響で米株式市場が金曜日に急落。ダウとナスダックが調整局面（10%下落）に近づき、小型株指数ラッセル2000は既に調整局面に突入。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "小型株",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国国債利回り2008年以来の高水準、インフレ懸念再燃",
-          "country": "英国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国の借入コストが2008年以来の高水準に上昇。インフレ懸念がギルト市場を直撃し、金融条件の引き締まりが加速している。",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "消費財",
-            "建設"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が政策金利を0.75%で据え置き決定。中東情勢の展開、金融市場の変動、原油価格の急騰を注視すると声明で強調した。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "輸出企業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB利上げ観測が利下げ観測を上回る、トレーダー予想転換",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格上昇によるインフレ懸念から、金利トレーダーはFRBの年内利上げ確率が利下げ確率を上回ると予想。政策転換の期待が後退している。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "成長株",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユナイテッド航空が米大手初のフライト削減、燃料費高騰で",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユナイテッド航空がイラン戦争による燃料価格高騰を受け、米大手航空会社として初めてフライト容量を約5%削減すると発表。",
-          "affected_sectors": [
-            "航空",
-            "旅行",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖継続宣言で原油100ドル突破、世界的株安加速"
-    }
-  },
-  {
     "timestamp": "2026-03-23 15:00",
     "data": {
       "breaking_news": [
@@ -15783,6 +15686,48 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国・イラン戦争激化と原油価格高騰により世界株式市場が大幅下落、市場はリスクオフへ移行。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、世界株式市場が大幅下落",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国・イラン間の紛争激化懸念で原油が急騰し、世界インフレと供給網不安を招き、株式市場が大幅下落。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Manufacturing",
+            "Technology",
+            "Financials",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均が大幅続落、中東情勢の悪化と円安が重石に",
+          "country": "Japan",
+          "category": "Stock Market, Geopolitics, Foreign Exchange",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化と原油高、円安ドル高が重なり、日経平均株価が大幅に3日続落。5万円台視野に。",
+          "affected_sectors": [
+            "Export-oriented industries",
+            "Technology",
+            "Financials",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東緊迫化と原油高騰が世界経済を圧迫、市場リスクオフ"
     }
   }
 ]
