@@ -1,96 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争によるホルムズ海峡封鎖で原油100ドル突破",
-          "country": "イラン・米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によりホルムズ海峡が封鎖、原油価格が100ドルを再び突破。世界のエネルギー供給に深刻な影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "株式市場暴落、ダウとナスダックが調整局面入り",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "戦争の影響で株式市場が急落。ラッセル2000は初の調整局面入りとなり、主要指数も調整入り寸前まで下落。",
-          "affected_sectors": [
-            "全般",
-            "小型株",
-            "テック"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコイン69,000ドル割れ、戦争リスクで暗号資産売り",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "地政学的リスクの高まりでリスクオフ相場となり、ビットコインが69,000ドルを下回る水準まで下落。",
-          "affected_sectors": [
-            "暗号資産",
-            "フィンテック"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国国債利回りが2008年以来の高水準、インフレ懸念",
-          "country": "英国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インフレ懸念の高まりを受けて英国債市場で売りが拡大、借入コストが2008年以来の高水準に上昇。",
-          "affected_sectors": [
-            "債券",
-            "銀行",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は政策金利を0.75%に据え置き。中東情勢の推移と原油価格上昇を注視すると声明で表明。",
-          "affected_sectors": [
-            "銀行",
-            "円"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "住宅ローン金利6.11%に上昇、戦争による市場混乱で",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による市場の混乱を受けて住宅ローン金利が6.11%まで上昇、住宅購入者に追加負担。",
-          "affected_sectors": [
-            "不動産",
-            "住宅建設"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"6-1,7-8\">ホルムズ海峡封鎖で原油100ドル突破、全世界の株式市場が急落</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 14:00",
     "data": {
       "breaking_news": [
@@ -15824,6 +15733,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争による原油高とアジア市場の下落、企業特定リスクに注意。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格が高騰、世界経済に懸念",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争の激化により原油価格が急騰し、世界的なエネルギー供給とインフレへの懸念が高まっている。供給途絶のリスクも。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争で世界の株式市場が下落、ウォール街も大幅安",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランとの紛争に関する不確実性から、アジア、ヨーロッパ、米国を含む世界の株式市場が下落している。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Industrials",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要中央銀行が中東紛争とインフレリスクに警戒",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECBとBOJは、中東紛争によるインフレ上昇リスクと経済成長への下振れリスクに警戒感を示している。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の対イラン政策の不確実性が市場に影響",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランへの攻撃延期や交渉に関する発言が、市場に一時的な安堵と継続的な不確実性をもたらしている。",
+          "affected_sectors": [
+            "All Sectors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化で原油高騰と世界株安、警戒感を強める中央銀行"
     }
   }
 ]
