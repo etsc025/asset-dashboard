@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争でホルムズ海峡封鎖、石油価格100ドル回復",
-          "country": "国際/中東",
-          "category": "地政学/商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,7-8\">イランの新最高指導者がホルムズ海峡の封鎖継続を宣言し、世界のエネルギー供給要路が事実上閉鎖。原油価格が100ドル台を回復し、株式市場は急落</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場が修正局面入り、ダウとナスダックが調整圏",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-1,1-8,1-9\">イラン戦争の影響で損失が拡大し、ダウとナスダックが修正圏に接近。小型株中心のラッセル2000は既に修正局面に突入した初の米国ベンチマーク</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "小型株",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-13\">日本銀行が政策金利を0.75%で据え置き。声明で中東情勢の展開、世界の金融資本市場のボラティリティ、原油価格急騰の注視が必要と強調</cite>",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "輸送"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国債利回りが2008年来最高水準、インフレ懸念再燃",
-          "country": "イギリス",
-          "category": "為替/金利",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8\">英国政府の借入コストが2008年以来最高水準に達し、インフレ懸念がギルト市場を直撃。住宅ローン金利も6.11%まで上昇</cite>",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユナイテッド航空が米大手初の減便、燃料価格高騰で",
-          "country": "アメリカ",
-          "category": "株式/商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"8-9\">ユナイテッド航空がイラン戦争による燃料価格高騰を受け、米大手航空会社として初めて約5%の運航便数削減を発表</cite>",
-          "affected_sectors": [
-            "航空",
-            "旅行",
-            "石油"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB利上げ確率が利下げ確率上回る、エネルギーショック懸念",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"10-2,10-6,10-12\">イランでの戦争による原油価格上昇で、市場は年内の利上げ確率が利下げ確率を上回ると予想。FRBの利下げ希望は消失</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-8,7-9\">ホルムズ海峡封鎖で世界エネルギー供給に打撃、インフレと金利上昇リスク拡大</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 18:00",
     "data": {
       "breaking_news": [
@@ -15562,6 +15468,45 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争による原油価格高騰が世界経済に重大なリスクをもたらす。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格高騰、英国は生活費危機悪化",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争激化、特にイラン関連の緊張で原油価格が急騰。ブレント原油は月間過去最高ペースで上昇中。英国の生活費危機を悪化させ、世界経済に不確実性をもたらす。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Retail",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界株式市場が大幅下落、消費者信頼感も過去最低水準に",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争と原油高騰を受け、世界各地の株式市場が下落。英国の経済信頼感は2022年後半以降で最低水準に。市場心理は「極度の恐怖」を示す。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Consumer Discretionary",
+            "Financial Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化と原油急騰が世界経済と市場に重圧。変動性増大に注意。"
     }
   }
 ]
