@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争でホルムズ海峡封鎖、原油価格100ドル突破",
-          "country": "イラン・米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8,4-1,7-8\">イランとの戦争によりホルムズ海峡が封鎖され、世界のエネルギー供給に重大な影響。原油価格が100ドルを突破し、市場は急落している。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場急落、ダウとナスダックが調整局面に",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8,1-9\">イラン戦争の影響で米株式市場が急落。ダウとナスダックは調整局面に突入し、小型株のラッセル2000が最初にコレクション入りした。</cite>",
-          "affected_sectors": [
-            "全セクター",
-            "小型株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB利下げ期待消失、利上げ確率が上昇",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"9-6,9-12\">原油価格高騰でFRBの利下げ期待が消失。市場は年内利下げよりも利上げの確率を高く織り込んでいる。</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "成長株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国債利回りが2008年来高水準",
-          "country": "英国",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8\">インフレ懸念が英国債市場を直撃し、政府借入コストが2008年来の高水準に達している。</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利据え置き、地政学リスクを警戒",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-13\">日銀は政策金利を0.75%に据え置き。中東情勢の発展と原油価格急騰を注視する姿勢を示した。</cite>",
-          "affected_sectors": [
-            "金融",
-            "輸送"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコイン69,000ドル割れ、戦争リスクで仮想通貨市場下落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"2-2\">戦争への恐怖から仮想通貨市場が下落し、ビットコインが69,000ドルを下回った。</cite>",
-          "affected_sectors": [
-            "仮想通貨",
-            "フィンテック"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-8,7-9\">ホルムズ海峡封鎖により世界的なマクロ経済ショックが発生</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 13:00",
     "data": {
       "breaking_news": [
@@ -15823,6 +15734,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油急騰が世界市場を押し下げ。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争激化、原油価格が大幅高、LNG供給も打撃",
+          "country": "Global",
+          "category": "Geopolitics, Commodity Prices",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争激化で原油価格は高騰し、ホルムズ海峡封鎖やLNG施設への攻撃により世界的なエネルギー供給が深刻化。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Manufacturing",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争懸念で世界の株式市場が続落、アジア市場も大幅安",
+          "country": "Global",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の悪化と原油高を受け、ウォール街は大幅続落し、アジア市場も週明けから日経平均が4.5%安など急落。",
+          "affected_sectors": [
+            "All Equity Markets",
+            "Technology",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円が対ドルで160円台に突入、日本政府の介入警戒感高まる",
+          "country": "Japan",
+          "category": "Currency, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "円が週末に一時160円を突破し、政府・日銀による為替介入への警戒感が市場で強まっている。",
+          "affected_sectors": [
+            "Export Industries",
+            "Import Industries",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド中銀の外貨ポジション規制で銀行株下落、ルピーは上昇",
+          "country": "India",
+          "category": "Regulatory, Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インド中銀が外貨ポジション規制を強化し、銀行株が下落する一方、ルピーは対ドルで上昇。銀行は40億ルピーの損失懸念。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マースク、オマーンのサラーラ港で業務停止：セキュリティ上の事案",
+          "country": "Oman",
+          "category": "Geopolitics, Logistics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "海運大手マースクがオマーンのサラーラ港での業務をセキュリティ事案により停止、中東情勢緊迫化の新たな兆候。",
+          "affected_sectors": [
+            "Shipping",
+            "Logistics",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化で原油高騰、世界経済に深刻な影響。"
     }
   }
 ]
