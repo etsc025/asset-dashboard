@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化、ホルムズ海峡封鎖で株式市場急落",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランとの戦争激化によりホルムズ海峡が封鎖され、原油価格が100ドル超に急騰。ダウ・ナスダックが調整局面入り寸前まで急落している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業",
-            "農業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格100ドル突破、ゴールドマンが長期高値予想",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ブレント原油が100ドルを突破し史上的なボラティリティを記録。ゴールドマン・サックスは数年間の高値継続を予想している。",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は政策金利を0.75%で据え置き決定。中東情勢の推移と原油価格急騰、金融市場の変動を注視すると表明。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "円相場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国国債利回り2008年以来の高水準、インフレ懸念",
-          "country": "英国",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の国債借入コストが2008年以来の最高水準に到達。インフレ懸念の高まりでギルト市場が急落している。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "ポンド"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ラッセル2000が修正局面入り、小型株に売り圧力",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "小型株中心のラッセル2000指数が米国主要指数で最初に修正局面（-10%）入り。地政学リスクで避難売りが加速。",
-          "affected_sectors": [
-            "小型株",
-            "国内企業",
-            "リート"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油100ドル超、全世界でリスクオフ相場"
-    }
-  },
-  {
     "timestamp": "2026-03-23 22:00",
     "data": {
       "breaking_news": [
@@ -15328,6 +15248,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化で原油・金属価格が急騰、インフレ懸念が世界市場を圧迫。各国中央銀行は政策金利を据え置き。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢悪化で原油価格が高騰、世界市場に影響",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化に伴う原油価格の高騰が世界経済にインフレ懸念と市場の不確実性をもたらしている。",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing",
+            "Airlines",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円安進行、日銀植田総裁が経済・物価への影響を注視",
+          "country": "Japan",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "為替市場での円安進行を受け、日銀の植田総裁は経済や物価見通しに及ぼす影響を見極め金融政策を判断する方針を表明した。",
+          "affected_sectors": [
+            "Financials",
+            "Exporters",
+            "Importers",
+            "Tourism"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、自動車ローン不正に関する補償スキーム発表へ",
+          "country": "UK",
+          "category": "Regulatory",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の金融行動監視機構（FCA）は、自動車ローン不正問題に対する補償スキームの詳細を公表する予定。",
+          "affected_sectors": [
+            "Automotive Finance",
+            "Retail Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化による原油高と世界的なインフレ再燃に警戒。"
     }
   }
 ]
