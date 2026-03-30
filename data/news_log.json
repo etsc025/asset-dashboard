@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争によるホルムズ海峡封鎖で原油価格が100ドル台を回復",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の悪化によりホルムズ海峡の通航が停止され、世界のエネルギー供給に深刻な影響。原油価格が100ドルを超え、湾岸諸国経済にも打撃",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空",
-            "湾岸諸国債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場が大幅下落、ダウとナスダックが調整入り近づく",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響で投資家心理が悪化。ダウ・ナスダックともに調整局面入りが視野に。小型株のラッセル2000は既に調整入り",
-          "affected_sectors": [
-            "テクノロジー",
-            "小型株",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国債利回りが2008年以来の高水準、インフレ懸念で急上昇",
-          "country": "英国",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国政府借入コストがリーマンショック以来の高水準に。原油高によるインフレ圧力が英国債市場を直撃",
-          "affected_sectors": [
-            "英国債",
-            "ポンド",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利0.75％で据え置き、中東情勢を注視と発表",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行は予想通り政策金利を据え置き。中東情勢の展開と原油価格高騰への警戒を表明。日経平均は0.83％下落",
-          "affected_sectors": [
-            "日本株",
-            "円",
-            "エネルギー関連株"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB利上げ観測が利下げ予想を上回る、原油高でインフレ懸念",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格急騰により、FRB利下げ期待が後退。市場では今年の利上げ確率が利下げ確率を上回る状況に",
-          "affected_sectors": [
-            "債券",
-            "金利敏感株",
-            "グロース株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユナイテッド航空が米大手で初めてフライト削減、燃料費高騰で",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による燃料価格高騰を受け、ユナイテッド航空がフライト数を約5％削減すると発表。航空業界全体への波及懸念",
-          "affected_sectors": [
-            "航空",
-            "旅行",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"4-1,4-2,6-1,7-8\">イラン戦争でホルムズ海峡封鎖、原油100ドル台回復で世界経済に深刻な影響</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 18:30",
     "data": {
       "breaking_news": [
@@ -15507,6 +15413,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化と原油急騰が世界経済と市場に重圧。変動性増大に注意。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "原油価格が1バレル116ドル超に急騰、イランが米国の侵攻準備を非難",
+          "country": "Global",
+          "category": "Energy, Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランと米国の緊張高まりを受け、原油価格が1バレル116ドルを超えて急騰。世界的なエネルギー危機が悪化する懸念がある。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢悪化への懸念から世界株式市場が下落",
+          "country": "Global",
+          "category": "Financial Markets, Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢のさらなる悪化への懸念から原油価格が高騰し、アジア株を含む世界の株式市場が軒並み下落している。",
+          "affected_sectors": [
+            "All Equities",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国金融市場、中東戦争長期化を織り込みストレス増大",
+          "country": "US",
+          "category": "Economic Outlook, Financial Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国金融市場は中東での戦争長期化を織り込み、RSM米国金融情勢指数はマイナスに転じ、成長への圧力を示唆。",
+          "affected_sectors": [
+            "All",
+            "Interest-Rate Sensitive Sectors",
+            "Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "オーストラリア、世界的なエネルギー危機深刻化で燃料税を半減",
+          "country": "Australia",
+          "category": "Fiscal Policy, Energy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "世界的なエネルギー危機の深刻化に対応するため、オーストラリア政府は燃料税を半減すると発表した。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東戦争の長期化懸念で原油急騰、世界株安、金融市場に強いストレスが波及。"
     }
   }
 ]
