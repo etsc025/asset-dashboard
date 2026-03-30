@@ -15229,5 +15229,60 @@
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争が世界経済を脅かし、市場の不安定化と景気後退懸念を増大させている。"
     }
+  },
+  {
+    "timestamp": "2026-03-30 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日本株急落、円が160円台突破",
+          "country": "日本",
+          "category": "株式市場, 為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争と高騰する原油価格が重しとなり、日経平均は2026年の最安値に。円は対ドルで160円を突破した。",
+          "affected_sectors": [
+            "金融",
+            "輸出産業",
+            "幅広い株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争激化で世界市場に暗雲、株価が世界的に調整局面入り",
+          "country": "グローバル (米国, 欧州, 日本, 豪州, 香港)",
+          "category": "地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の激化により、世界的に株価が調整局面に入り、原油価格上昇で不確実性が高まっている。",
+          "affected_sectors": [
+            "全セクター",
+            "特にエネルギー",
+            "運輸",
+            "製造",
+            "消費財",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖と施設攻撃で原油価格が1バレル115ドル超に高騰",
+          "country": "グローバル (特にアジアのエネルギー輸入国)",
+          "category": "コモディティ, 地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡閉鎖とペルシャ湾のエネルギー施設攻撃により、ブレント原油は1バレル115ドル超まで急騰した。",
+          "affected_sectors": [
+            "エネルギー (上流)",
+            "運輸",
+            "製造",
+            "消費財"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化、原油急騰、世界株安。円は160円台に。"
+    }
   }
 ]
