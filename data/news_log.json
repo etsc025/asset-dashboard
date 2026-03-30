@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争エスカレーション：トランプ大統領が48時間の最後通牒",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-10,16-3\">トランプ大統領がイランに対し48時間以内にホルムズ海峡を開放しなければ発電所を攻撃すると警告</cite>。<cite index=\"14-6\">イラン軍は米国の脅威が実行されれば海峡を完全封鎖すると応答</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格高騰継続：ブレント原油110ドル超え",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-11,13-1\">ブレント原油が114ドルまで上昇、戦争開始以降55％高</cite>。<cite index=\"12-4,13-3\">ユナイテッド航空CEOは175ドルの原油価格を想定、ゴールドマンサックスは2027年まで高価格継続と予測</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場修正間近：ナスダック10％下落寸前",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"21-9,21-10\">小型株ラッセル2000が修正入り、ダウとナスダックも修正寸前</cite>。<cite index=\"21-1,21-2\">ダウ500ポイント下落、S&P500は1.5％、ナスダック2％下落</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続：世界石油供給の20％遮断",
-          "country": "イラン・グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"14-1,14-4\">世界の石油・ガスの約20％が通過するホルムズ海峡が事実上封鎖</cite>。<cite index=\"20-4,20-5\">アジア向けドバイ原油が史上最高の150ドル超、オマーン原油152ドル</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "石油化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インフレ懸念再燃：Fed利上げの可能性浮上",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"18-10,18-11\">Fed理事ウォーラーがイラン戦争を理由に利下げ計画を変更</cite>。<cite index=\"27-15,27-18\">マッコーリーは次の金利変更は利上げになると予測</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"11-10\">トランプ大統領がイランに48時間の最後通牒、エスカレーション必至</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 20:00",
     "data": {
       "breaking_news": [
@@ -15433,6 +15353,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化が原油高と世界的な株価下落を引き起こし、市場はリスク回避モード。インフレ圧力増大に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、中東情勢悪化とスタグフレーション懸念で主要指数下落",
+          "country": "米国",
+          "category": "株式市場, 地政学リスク, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の悪化と米国防総省の部隊派遣検討報道、さらにミシガン大学消費者マインド指数の悪化がリスクオフムードを加速させ、NY主要指数は大幅下落。ディフェンシブセクターは上昇した一方、一般消費財、金融などが下落しました。",
+          "affected_sectors": [
+            "一般消費財",
+            "金融",
+            "コミュニケーション・サービス",
+            "エネルギー",
+            "生活必需品"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OECD、中東情勢悪化による世界経済の下振れリスクを警告",
+          "country": "グローバル",
+          "category": "マクロ経済, 地政学リスク, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "OECDは中東情勢悪化が2026年の世界経済成長を押し下げると予測。エネルギー価格上昇は輸入国に打撃。米国は2027年下方修正、ユーロ圏は高エネルギー価格で下方修正。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "一般消費財",
+            "輸入依存産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル円160円に迫る、原油高と米利下げ慎重姿勢がドル高円安を牽引",
+          "country": "日本, 米国",
+          "category": "外国為替, 金融政策, 地政学リスク",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ドル円は原油高によるインフレ懸念とFRBの利下げ慎重姿勢を背景に160円台に接近。日本のエネルギー輸入依存度から、有事の円買いは限定的。",
+          "affected_sectors": [
+            "輸入依存産業",
+            "輸出産業",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化と原油高が世界経済・市場を圧迫、米国株下落し円安加速の懸念"
     }
   }
 ]
