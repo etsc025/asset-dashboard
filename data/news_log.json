@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-03-23 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争でホルムズ海峡封鎖、株式市場下落",
-          "country": "中東・世界",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-8,6-1,7-8\">イランの新最高指導者がホルムズ海峡の封鎖継続を宣言し、世界最大のエネルギー輸送路が閉鎖。株式市場は急落し、ダウとナスダックが調整局面に接近</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "株式全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が100ドル台を回復、金融政策に影響",
-          "country": "世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,7-4\">ブレント原油が100ドル台を回復し、歴史的なボラティリティを記録。FRBの利下げ期待が後退し、むしろ利上げ確率が高まる</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本株下落、日銀が政策金利を据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"4-8,4-11,4-13\">日経平均が0.83%下落、TOPIXも0.54%安。日銀は0.75%の政策金利を据え置き、中東情勢と原油価格急騰への警戒感を表明</cite>",
-          "affected_sectors": [
-            "日本株全般",
-            "エネルギー関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコインが69,000ドル割れ、戦争リスクで暗号資産売り",
-          "country": "世界",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"3-2,3-22\">戦争への懸念から暗号資産市場に売り圧力が高まり、ビットコインが69,000ドルを下回る。リスク回避の動きが加速</cite>",
-          "affected_sectors": [
-            "暗号資産",
-            "フィンテック"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米住宅ローン金利が6.11%まで上昇",
-          "country": "アメリカ",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,6-2\">イラン戦争の影響で市場が混乱し、住宅ローン金利が6.11%まで上昇。住宅市場への悪影響が懸念される</cite>",
-          "affected_sectors": [
-            "不動産",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-8,7-9\">ホルムズ海峡封鎖でエネルギー供給に深刻な混乱、世界的なマクロショックが発生中</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-23 13:30",
     "data": {
       "breaking_news": [
@@ -15813,6 +15737,93 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争激化で原油高騰、世界経済に深刻な影響。"
+    }
+  },
+  {
+    "timestamp": "2026-03-30 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国株式市場、金曜日の上昇を失う可能性",
+          "country": "中国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国市場は金曜の上昇を失う可能性あり。3910ポイント台を維持も、月曜は軟調に推移か。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "オーストラリア市場が大幅下落、エネルギー株は上昇",
+          "country": "オーストラリア",
+          "category": "株式市場, コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "オーストラリア市場は大幅下落。S&P/ASX 200は8400割れ。中東紛争の原油高でエネルギー株は好調。",
+          "affected_sectors": [
+            "株式",
+            "テクノロジー",
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "台湾株式市場、月曜日は軟調なスタートか",
+          "country": "台湾",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "台湾株式市場は2日連続で下落後、月曜も軟調なスタートが予想される。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NIP Group、Nasdaqから最低入札価格の通知",
+          "country": "米国",
+          "category": "企業ニュース, 株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "NIP GroupがNasdaqから最低入札価格に関する通知を受け、株価が10%超下落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "個別企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "WTO閣僚会議、電子商取引関税モラトリアムで合意に至らず",
+          "country": "グローバル",
+          "category": "貿易, 政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "WTO閣僚会議が電子商取引の関税モラトリアムに関して合意なく終了し、貿易政策に影響の可能性。",
+          "affected_sectors": [
+            "Eコマース",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAI投資家、AIによる雇用懸念緩和へ税制変更提案",
+          "country": "米国",
+          "category": "テクノロジー, 政策, 労働",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "OpenAIの投資家が、AIが引き起こす雇用不安を和らげるため、税制変更の検討を提案した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "労働市場"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争による原油高とアジア市場の下落、企業特定リスクに注意。"
     }
   }
 ]
