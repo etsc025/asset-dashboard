@@ -1,34 +1,30 @@
 {
-  "regime": "BEAR",
-  "description": "弱気相場: 新規BUY停止・損切り厳格化",
-  "timestamp": "2026-03-30T16:46:26.421825",
-  "market": "BOTH",
+  "regime": "VOLATILE",
+  "description": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
+  "timestamp": "2026-03-30T22:39:43.629393",
+  "market": "US",
   "us": {
-    "vix": 30.850000381469727,
-    "vix_regime": "BEAR",
-    "spy_price": 634.09,
-    "spy_ma200": 657.96,
-    "spy_ma200_dev": -3.63,
+    "vix": 29.729999542236328,
+    "vix_regime": "VOLATILE",
+    "spy_price": 637.96,
+    "spy_ma200": 658.18,
+    "spy_ma200_dev": -3.07,
     "trend_regime": "VOLATILE",
-    "spy_ret5": -3.25,
-    "spy_ret20": -7.37,
-    "adx": 58.8,
-    "vol_ratio": 1.05
+    "spy_ret5": -2.33,
+    "spy_ret20": -5.97,
+    "adx": 60.7,
+    "vol_ratio": 0.83
   },
-  "jp": {
-    "n225_price": 51886.0,
-    "n225_ma200": 47636.0,
-    "n225_ma200_dev": 8.92,
-    "n225_ret5": -0.7,
-    "n225_ret20": -10.63,
-    "jp_trend": "BULL"
-  },
+  "jp": {},
   "config": {
-    "conf_boost": -0.05,
-    "position_mult": 0.7,
+    "conf_boost": -0.03,
+    "position_mult": 0.72,
+    "position_min": 0.12,
+    "position_max": 0.15,
     "stop_relax": -0.005,
     "sell_suppress": false,
-    "buy_allow": false,
-    "description": "弱気相場: 新規BUY停止・損切り厳格化"
+    "buy_allow": true,
+    "direction_check": true,
+    "description": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ"
   }
 }
