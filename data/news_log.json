@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領がイラン攻撃停止を発表、米国市場急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの対話とイランエネルギー施設攻撃停止を発表。中東緊張緩和期待でダウ600ポイント超上昇",
-          "affected_sectors": [
-            "全般",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場大幅続落、日経平均5%下落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢不安継続でアジア市場売り殺到。日経225は5%安、韓国総合指数は6%超下落",
-          "affected_sectors": [
-            "全般",
-            "テクノロジー",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格100ドル台回復、ホルムズ海峡閉鎖継続",
-          "country": "中東・グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争でホルムズ海峡通航停止継続。ブレント原油113ドル、WTI99ドル台で推移",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー、東京海上に18億ドル投資発表",
-          "country": "米国・日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット率いるバークシャーが東京海上株式2.49%取得。保険業界でのグローバル戦略拡大",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国債利回りが2008年以来最高水準",
-          "country": "英国",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インフレ懸念とイラン情勢でギルト市場売り加速。政府借入コストが金融危機以来の高水準",
-          "affected_sectors": [
-            "債券",
-            "通貨",
-            "不動産"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-5,7-6\">トランプのイラン攻撃停止発言で米市場急反発も、アジアは売り継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 06:30",
     "data": {
       "breaking_news": [
@@ -14934,6 +14856,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争激化で原油価格高騰、世界経済の成長鈍化とインフレ懸念増大。投資家はリスクオフ志向を強めるべき。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格高騰、市場にリスクオフ心理",
+          "country": "Global",
+          "category": "Geopolitical, Commodity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化でブレント原油は1バレル114ドル、WTIは105ドル超えを記録。供給懸念から原油高が進行し、世界経済への逆風が強まり、市場全体のリスクオフ心理が加速している。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株式市場、ナスダックはAI懸念で下落、ダウは堅調",
+          "country": "USA",
+          "category": "Equity Market, Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米株式市場は軟調な展開。ナスダックはAIバリュエーションへの懸念から0.7%下落し、S&P500も続落した。一方で、ダウ平均は防衛関連株などに支えられ小幅に上昇した。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductor",
+            "Energy",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債市場が上昇、FRB議長が2026年の利上げを否定",
+          "country": "USA",
+          "category": "Monetary Policy, Fixed Income",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "FRBパウエル議長が2026年の利上げの可能性を否定するコメントを発表し、米国債市場が上昇した。これにより、市場の金利上昇圧力に対する懸念が一部緩和された。",
+          "affected_sectors": [
+            "Financial Services",
+            "Real Estate",
+            "Fixed Income"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争による原油高騰と米ハイテク株下落が市場を圧迫。"
     }
   }
 ]
