@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "アジア太平洋株価大幅下落、米・イラン緊張で日韓5%急落",
-          "country": "アジア太平洋地域",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,11-5,11-6\">日経平均は5%下落、韓国KOSPIは6.5%急落、ホルムズ海峡封鎖とトランプのイラン最後通牒で投資家がリスク資産から逃避</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダウ600ポイント反発、トランプ・イラン対話報告で安堵の買い",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-7,7-8\">トランプ大統領がイランとの対話報告、攻撃停止により市場は安堵、ダウ631pt上昇(1.38%)、S&P500も1.15%高</cite>",
-          "affected_sectors": [
-            "航空",
-            "銀行",
-            "工業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "原油価格100ドル台回復、ブレント113ドル超へ急騰",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-24,7-25\">WTI原油が99.42ドル(1.4%高)、ブレント原油113.08ドル(0.8%高)、ホルムズ海峡封鎖継続で供給不安拡大</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資発表",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">バフェット氏の日本戦略拡大、再保険部門経由で東京海上株2.49%取得、戦略的パートナーシップ構築へ</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アポロ・プライベートクレジットファンド出金制限実施",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"2-6,2-23\">出金要請が11%に達し、アポロが私募債ファンドの出金を45%に制限、投資家の資金流出圧力が業界関係者を精査対象に</cite>",
-          "affected_sectors": [
-            "オルタナティブ投資",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡危機で日韓株急落後、米イラン対話報告でダウ反発"
-    }
-  },
-  {
     "timestamp": "2026-03-24 09:30",
     "data": {
       "breaking_news": [
@@ -14833,6 +14756,44 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高騰が市場に重圧、株価下落"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格急騰、世界の金融市場が動揺",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化を受け原油価格が急騰し、ブレント原油は115ドル超え。インフレ懸念が高まり、米国株は軟調、アジア市場も下落。中央銀行の金融政策に影響を与える可能性。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドイツ3月インフレ率がエネルギー価格反発で上昇",
+          "country": "Germany",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ドイツの3月消費者物価指数は前年比2.7%上昇し、市場予想と一致。エネルギー価格が7.2%急騰したことが主因で、2024年1月以来の高水準。",
+          "affected_sectors": [
+            "Consumer Staples",
+            "Utilities",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化で原油価格高騰、世界インフレ加速の懸念。"
     }
   }
 ]
