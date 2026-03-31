@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株式市場急回復：トランプ氏がイラン停戦協議発表",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-6\">トランプ大統領が米イラン間の協議開始とイランへの攻撃停止を発表し、中東紛争終結への期待から投資家心理が改善</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続：原油価格100ドル台で推移",
-          "country": "中東",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-1,7-24,7-25\">イランの最高指導者がホルムズ海峡封鎖継続を宣言、WTI原油99.42ドル、ブレント113.08ドルに上昇</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋株式市場大幅下落：日経5%下落",
-          "country": "アジア太平洋",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">中東紛争激化を受け、日経225が5%、韓国KOSPI指数が6%超の急落</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "製造業",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利据え置き：中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-13\">日銀が政策金利0.75%に据え置き決定、中東情勢と原油価格急騰の監視継続を表明</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">ウォーレン・バフェット氏率いるバークシャーが東京海上株式2.49%を取得、日本市場への投資拡大</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-5,6-1\">トランプ氏停戦協議発表も原油100ドル台継続、地政学リスク警戒</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 08:30",
     "data": {
       "breaking_news": [
@@ -14848,6 +14770,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油急伸、世界国債市場に圧力。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日経平均大幅下落、米半導体株安と中東情勢緊迫化が重し",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月31日、日経平均は500円超安で取引開始。米半導体株安と中東情勢の緊迫化が投資家心理を悪化させた。",
+          "affected_sectors": [
+            "テクノロジー",
+            "製造業",
+            "半導体"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格1バレル102ドル台へ高騰、中東情勢の激化が要因",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢緊迫化を受け、WTI原油先物価格が1バレル102ドル台まで続伸。供給懸念が価格を押し上げ。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル円159円台後半で底堅いも、政府・日銀の介入警戒感で上値限定的",
+          "country": "日本",
+          "category": "為替市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "東京市場のドル円は159円台後半で推移。当局による為替介入への警戒感が意識され、積極的な買いは手控え。",
+          "affected_sectors": [
+            "金融",
+            "輸出入"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格が続伸、中東紛争激化で安全資産需要が増加",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東紛争の激化による安全資産としての需要増加を受け、金価格は2営業日連続で上昇。",
+          "affected_sectors": [
+            "貴金属",
+            "投資"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高騰が市場に重圧、株価下落"
     }
   }
 ]
