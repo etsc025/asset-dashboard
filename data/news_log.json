@@ -1,78 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン間の対話期限延長で株価反発後に再下落",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-8,11-9\">トランプ大統領がイランとの対話により攻撃を延期したことで月曜は大幅反発したが、イランが交渉を否定し再び下落</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が$100超で推移、シティが$200予測",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"15-26,15-27\">戦争激化でシティアナリストが原油価格$200到達を予測、6月まで長期化すれば現実化する可能性</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場が急落、韓国6.5%安で取引停止",
-          "country": "アジア",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-25,11-26,11-27\">日経平均3.5%安、韓国6.5%安で取引停止、中東情勢悪化によるリスクオフ</cite>",
-          "affected_sectors": [
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NYSE、ブロックチェーン基盤の証券取引プラットフォーム開発",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"14-7,14-8\">NYSEがSecuritizeと提携し24時間取引、即時決済可能なトークン化証券プラットフォーム構築</cite>",
-          "affected_sectors": [
-            "金融テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "プライベートクレジット資金で解約制限続出",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"20-18\">ApolloとAresがプライベートクレジット主要ファンドで解約制限を実施、流動性リスク懸念</cite>",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"11-12,11-13\">イラン戦争激化で原油急騰、米株先物1000pt超反発後に再下落</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 04:30",
     "data": {
       "breaking_news": [
@@ -14075,6 +14002,68 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東紛争緩和期待で米国株高も、景気後退リスクとインフレ圧力は残存"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、中東情勢の緊張緩和期待で急騰",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緊張緩和への期待から投資家心理が改善し、ウォール街は大幅高で引けた。主要指数は著しく上昇した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "一般消費財",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏3月消費者物価指数、2.5%に上昇しECB目標超え",
+          "country": "ユーロ圏",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるエネルギー価格高騰を受け、ユーロ圏の3月年間インフレ率は2.5%に達し、ECBの2%目標を上回った。",
+          "affected_sectors": [
+            "消費者関連",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2月求人件数、予想を下回り減少",
+          "country": "米国",
+          "category": "労働市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "2月の米求人件数は35.8万件減の688.2万件で、市場予想を下回った。宿泊・飲食サービス、鉱業・伐採で減少。",
+          "affected_sectors": [
+            "サービス業",
+            "鉱業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格、戦争懸念緩和で反発し4,650ドル付近へ",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東での軍事作戦縮小の報道を受け、リスクセンチメントが改善。金は火曜日に2週間ぶりの高値に上昇した。",
+          "affected_sectors": [
+            "貴金属",
+            "投資ファンド"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢の緊張緩和期待が市場を押し上げ、米国株は急騰。"
     }
   }
 ]
