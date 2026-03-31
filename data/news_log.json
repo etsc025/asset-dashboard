@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン攻撃一時停止を発表、市場安堵の急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-7,7-8\">トランプ大統領がイランとの対話とエネルギー施設への攻撃停止を発表。ダウ平均631ポイント(1.38%)、S&P500も1.15%急騰した</cite>",
-          "affected_sectors": [
-            "石油・ガス",
-            "防衛",
-            "金融",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落、WTI11%下落でエネルギー株に大きな変動",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"8-27\">イラン戦争終結期待により原油価格11%下落、主要株価指数は1%超上昇</cite>。<cite index=\"7-24,7-25\">WTI先物99.42ドル、ブレント113.08ドル</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "消費者"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場大幅下落、日経5%、韓国6%急落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">中東紛争激化によりリスク回避売り。日経225は5%近く下落、韓国コスピは6%超急落</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "製造業",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー、東京海上に18億ドル投資でグローバル保険市場強化",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">バフェットの日本投資拡大。バークシャーが東京海上に18億ドル投資、2.49%の株式取得</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"5-11,5-13\">日銀は予想通り政策金利を0.75%で据え置き。中東情勢、市場変動、原油価格急騰を注視と声明</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Jefferies株価上昇、SMFG買収観測報道も即座に否定",
-          "country": "米国・日本",
-          "category": "株式",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-1,4-2\">FT紙が三井住友FGによるJefferies買収検討を報道するも、Bloomberg後に即座に買収計画なしと報道</cite>",
-          "affected_sectors": [
-            "投資銀行",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "トランプ・イラン対話でダウ631P急騰、原油11%下落"
-    }
-  },
-  {
     "timestamp": "2026-03-25 00:30",
     "data": {
       "breaking_news": [
@@ -14219,6 +14125,80 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争による原油価格高騰と世界経済への影響に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "UK航空規制当局、ヒースロー着陸料値上げを却下",
+          "country": "UK",
+          "category": "Regulatory",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国航空規制当局がヒースロー空港の着陸料値上げ案を却下。航空会社のコスト圧力が緩和される見込み。",
+          "affected_sectors": [
+            "Aviation",
+            "Travel & Leisure"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ガソリン価格が1ガロン4ドル超え、イラン紛争で燃料費高騰",
+          "country": "US",
+          "category": "Energy, Geopolitics, Consumer Spending",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争を背景に米国のガソリン平均価格が4年ぶりに1ガロン4ドルを突破、消費者打撃。",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Transportation",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、紛争による物価上昇と世界経済成長鈍化を警告",
+          "country": "Global",
+          "category": "Macroeconomics, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、進行中の地政学的紛争が世界的な物価上昇と経済成長の減速を招くと警告した。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドイツ研究所、2026-27年成長予測下方修正しインフレ見通し上方修正",
+          "country": "Germany",
+          "category": "Economic Forecasts, Inflation",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ドイツの経済研究所が2026-2027年の成長予測を下方修正し、インフレ見通しを上方修正した。",
+          "affected_sectors": [
+            "Eurozone Economy",
+            "Industrials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株先物、イラン情勢沈静化への期待で上昇",
+          "country": "US",
+          "category": "Geopolitics, Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン紛争の緊張緩和への期待から、米国の株式先物がわずかに上昇し、市場に楽観論が広がる。",
+          "affected_sectors": [
+            "All Equity Markets",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学的緊張と原油価格高騰が世界的なインフレと経済成長の鈍化懸念を増幅。"
     }
   }
 ]
