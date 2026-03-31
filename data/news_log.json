@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン和平交渉で株価急騰、原油急落",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの生産的対話とエネルギーインフラ攻撃停止を発表。ダウ631P上昇、原油11%急落、市場リスクオン",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "銀行",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続、原油価格100ドル台維持",
-          "country": "イラン",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "世界原油供給の20%を占める海峡は実質封鎖継続。イランが選択的通過を許可、国際タンカー交通は停止状態",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB政策金利据え置き、2026年1回利下げ予測",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "政策金利3.50%-3.75%維持、エネルギー価格高騰でインフレ懸念。中銀官僚の中央値で年1回利下げ予測",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ECB・BOE金利据え置き、中東情勢でハト派転換遅延",
-          "country": "欧州",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ECB2.0%、BOE3.75%で据え置き。中東戦争によるエネルギー価格上昇でインフレリスク、利上げ観測も",
-          "affected_sectors": [
-            "債券",
-            "銀行",
-            "公益"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ゴールドマン、原油価格予想大幅上方修正",
-          "country": "アメリカ",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ブレント原油3-4月平均110ドル予想、従来98ドルから大幅引き上げ。ホルムズ海峡低流量継続なら記録更新も",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー、東京海上に18億ドル投資発表",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェットの日本投資拡大、東京海上株式2.49%取得。グローバル保険市場での戦略的パートナーシップ構築",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン和平交渉進展も海峡封鎖継続、原油高・インフレ懸念で中銀政策に影響"
-    }
-  },
-  {
     "timestamp": "2026-03-25 06:00",
     "data": {
       "breaking_news": [
@@ -14044,6 +13951,69 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン紛争終結期待で米国株急騰。原油高止まりと世界経済不均衡に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領がイラン軍事作戦の早期終了を示唆、市場が急騰",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領がイランでの軍事作戦の早期終了を示唆し、世界の株式市場が大幅に上昇した。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー",
+            "貴金属"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米主要株価指数、イラン情勢緩和期待で数ヶ月ぶりの大幅上昇",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ダウ、ナスダック、S&P500が前日比1.7%以上上昇し、2025年5月以来の好調な取引日となった。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "工業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格、地政学リスク緩和とドル安を受け2週間ぶり高値に",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "金はリスクセンチメント改善とドル安に支えられ、1トロイオンスあたり4,650ドル近くまで上昇。",
+          "affected_sectors": [
+            "貴金属",
+            "通貨"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドル軟化によりEUR/USD、GBP/USDが上昇",
+          "country": "グローバル",
+          "category": "外国為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米ドルの広範な軟化を受け、EUR/USDは1.1560、GBP/USDは1.3200を上回って取引された。",
+          "affected_sectors": [
+            "外国為替",
+            "国際貿易"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン情勢緩和期待で世界の株式市場が急騰。"
     }
   }
 ]
