@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン対話進展でダウ600超急騰、石油価格急落",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が米イラン間の建設的対話を表明、イラン攻撃停止を発表。ダウ631ポイント高、S&P500・ナスダック共に1%超上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格11%急落でエネルギーセクター大幅調整",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "WTI原油$99.42へ下落、ブレント$113へ。ホルムズ海峡封鎖懸念後退でエネルギー株に売り圧力。供給不安の一時的緩和。",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場大幅下落、日韓5%超安",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日経-5%、韓国KOSPI-6%超。中東情勢悪化でリスクオフ継続。一時取引停止措置も発動される異常事態。",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "電子機器"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー、東京海上に1.8億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット傘下企業が日本保険市場への投資拡大。2.49%株式取得で長期協力関係構築。日本市場への信頼度示す。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%据え置き、中東情勢を警戒",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "予想通り据え置きも1名が利上げ主張。石油価格急騰と地政学リスクを重視。緊急時対応で戦略石油備蓄放出検討。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"8-5,8-6\">中東和平期待でダウ631ポイント急騰も地政学不安継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 23:30",
     "data": {
       "breaking_news": [
@@ -14218,6 +14140,86 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化による原油価格高騰と世界経済への影響に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、原油価格安定の期待で大幅反発",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争による原油価格高騰が落ち着きを見せ、S&P 500は1.6%上昇、ダウ平均も大幅高となり、米国株式市場が反発した。",
+          "affected_sectors": [
+            "株式市場",
+            "航空",
+            "旅行・レジャー",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争と高油価により世界的なインフレ圧力増大",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争が原油価格を記録的に押し上げ、欧州のガス価格もほぼ倍増。ユーロ圏の3月インフレ率は2.5%に跳ね上がるなど、世界的にインフレが加速している。",
+          "affected_sectors": [
+            "エネルギー",
+            "消費財",
+            "輸送",
+            "製造業",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争で中東株式市場が大幅下落",
+          "country": "アラブ首長国連邦",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の影響でドバイとアブダビの株式市場は計約1,200億ドルの価値を失い、世界の金融市場で最も大きな打撃を受けている。",
+          "affected_sectors": [
+            "株式市場（中東）",
+            "旅行・観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "S&Pグローバル・レーティング、中東戦争で世界経済見通しを下方修正",
+          "country": "グローバル",
+          "category": "経済予測",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "S&Pグローバル・レーティングは、中東戦争が史上最大のエネルギー供給ショックを引き起こし、2026年の世界経済成長予測を下方修正したと発表した。",
+          "affected_sectors": [
+            "グローバル経済",
+            "複数の産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の消費者信頼感改善、求人件数も予想上回る",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の消費者信頼感が予想外に改善し、2月の求人件数も予想を上回る結果となった。",
+          "affected_sectors": [
+            "小売",
+            "一般消費財",
+            "雇用"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン戦争による地政学的リスクと世界的なインフレ圧力が継続。"
     }
   }
 ]
