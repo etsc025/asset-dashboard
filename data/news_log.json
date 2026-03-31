@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン攻撃を5日間延期　石油価格急落",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"13-3,13-4\">トランプ大統領がイラン発電所への軍事攻撃を5日間延期、米イラン間で「生産的な対話」を実施中と発表。原油価格は11%急落、株式市場は急反発</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "クルーズ",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ブレント原油、100ドル割れ　WTI88ドル台に急落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"19-1,19-2\">ブレント原油が11%近く下落し99.94ドル、WTIも88.13ドルに急落。ただし月初来では依然として60%上昇を維持</cite>",
-          "affected_sectors": [
-            "石油・ガス",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "S&P500が1.15%反発、ダウ631ポイント上昇",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"15-6,15-7\">ダウ平均631ポイント上昇し46,208.47、S&P500は1.15%上昇し6,581.00、ナスダック1.38%上昇し21,946.76で取引終了</cite>",
-          "affected_sectors": [
-            "全セクター",
-            "金融",
-            "工業株"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア市場大幅下落　日経225は5%安、韓国KOSPI6%超下落",
-          "country": "アジア",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"18-3,6-10,6-11,6-12\">日経225が5%近く下落、韓国KOSPIは6.5%急落。香港ハンセン指数も4%超下落、アジア全域でリスクオフが進行</cite>",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、原油価格予測を大幅上方修正",
-          "country": "アメリカ",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"19-6,19-7\">ゴールドマンがブレント原油の3-4月平均予想を110ドル（従来98ドル）、WTIを98-105ドルに大幅上方修正。ホルムズ海峡封鎖継続を前提</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "インフレ関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資発表",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-26,6-27\">バークシャー・ハサウェイが東京海上ホールディングスに18億ドル投資、2.49%の株式を取得し長期戦略的パートナーシップを構築</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "<cite index=\"12-4,12-6\">トランプ大統領のイラン攻撃延期発表で原油13%急落、株式急反発も地政学リスクは継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 14:30",
     "data": {
       "breaking_news": [
@@ -14632,6 +14540,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化、原油価格急騰で世界市場はリスクオフ。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争で原油価格高騰、米国株は乱高下",
+          "country": "米国",
+          "category": "地政学, コモディティ, 市場変動",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の不確実性により原油価格が上昇し続け、米国株式市場は乱高下。アジア市場も下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "製造業",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRBパウエル議長、インフレ抑制と利上げ不要を示唆",
+          "country": "米国",
+          "category": "金融政策, 経済見通し",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "パウエルFRB議長、インフレは抑制されており、当面の利上げは不要との見解を示す。",
+          "affected_sectors": [
+            "全セクター",
+            "テクノロジー",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "豪州株式市場、中東紛争緩和期待で上昇",
+          "country": "オーストラリア",
+          "category": "地政学, 株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領の停戦発言を受け、豪州株式市場が上昇。テクノロジー・銀行セクターが好調に推移。",
+          "affected_sectors": [
+            "テクノロジー",
+            "銀行",
+            "金"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ソニー、PlayStation 5の価格を値上げ",
+          "country": "日本",
+          "category": "企業業績, テクノロジー, 消費財",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ソニーがメモリチップコスト高騰を受けPlayStation 5の価格を引き上げると発表。",
+          "affected_sectors": [
+            "テクノロジー",
+            "家電",
+            "ゲーム"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争が原油高を招き、世界市場の不確実性が高まる。"
     }
   }
 ]
