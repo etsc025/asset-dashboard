@@ -1,96 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ダウ平均600ポイント急騰、トランプ氏がイランとの対話進展を発表",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの「建設的」な対話を報告し、発電所への攻撃を停止すると発表。これを受け市場はリリーフラリーを開始。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格高騰、WTI99.42ドル、ブレント113.08ドルに",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡封鎖の長期化懸念で原油価格が急騰。中東情勢悪化により世界的なエネルギー供給不安が拡大。",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場急落、日経平均5%下落、韓国株6%暴落",
-          "country": "アジア太平洋",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の4週間目突入でアジア市場が総崩れ。日経225は5%安、韓国KOSPI6%安で取引一時停止となった。",
-          "affected_sectors": [
-            "全セクター",
-            "半導体",
-            "自動車"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォーレン・バフェット氏率いるバークシャーが東京海上の2.49%株式を取得。日本での投資拡大戦略を継続。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日本銀行、政策金利0.75%で据え置き決定",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢と原油価格急騰を受け、BOJは予想通り利上げを見送り。1名の政策委員が利上げを主張も慎重姿勢を維持。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAI、マイクロソフト依存をリスク要因として開示",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IPO準備文書でマイクロソフトへの過度な依存をリスクとして明記。AI業界の構造的課題が浮き彫りに。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で原油100ドル接近、米株は対話期待で反発も警戒続く"
-    }
-  },
-  {
     "timestamp": "2026-03-24 20:30",
     "data": {
       "breaking_news": [
@@ -14263,6 +14172,99 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油価格高騰が世界的なインフレ懸念を増幅。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "豪州株式市場、イラン紛争への楽観論で上昇、テクノロジー・銀行株が主導",
+          "country": "オーストラリア",
+          "category": "市場動向",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米トランプ大統領のイラン戦争終結発言への期待から、豪州株は1%上昇。テクノロジー・銀行セクターが主導し、金価格も上昇。",
+          "affected_sectors": [
+            "テクノロジー",
+            "銀行",
+            "エネルギー",
+            "金"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、中東紛争が世界経済見通しを悪化させ、アジアへの影響を警告",
+          "country": "グローバル",
+          "category": "経済見通し",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは中東紛争が世界経済の見通しを悪化させ、特にアジアやヨーロッパのエネルギー輸入国に大きな影響を与えると警告。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融市場",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドバイ・アブダビ株式市場、イラン戦争開始以来1200億ドル損失",
+          "country": "アラブ首長国連邦",
+          "category": "市場動向",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイスラエルのイラン戦争開始以来、ドバイとアブダビの株式市場が1200億ドル近くの価値を失い、指数は9～16%下落した。",
+          "affected_sectors": [
+            "金融市場",
+            "観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争の不確実性継続で原油価格高止まり、アジア株は下落",
+          "country": "グローバル",
+          "category": "エネルギー市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の不確実性により原油価格は高止まりし、アジア市場（日経平均-1.2%、KOSPI-3.4%など）は下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドイツのインフレ率、イラン戦争によるエネルギー価格高騰で反発",
+          "country": "ドイツ",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ドイツの3月消費者物価指数は前年比2.8%上昇。イラン紛争によるエネルギー価格高騰が主な要因。",
+          "affected_sectors": [
+            "エネルギー",
+            "小売",
+            "消費財"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "JPモルガン・チェース、American Dream Initiativeを立ち上げ",
+          "country": "米国",
+          "category": "企業戦略",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "JPモルガン・チェースは、経済機会を拡大するための複数年にわたる「American Dream Initiative」を立ち上げ、中小企業支援などに注力。",
+          "affected_sectors": [
+            "銀行",
+            "中小企業",
+            "不動産"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化、世界的な原油価格上昇と株価下落を引き起こす"
     }
   }
 ]
