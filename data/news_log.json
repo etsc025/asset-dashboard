@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領がイラン攻撃停止を表明、米株大幅反発",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が米国とイランの協議開始とイラン電力・エネルギーインフラ攻撃停止を発表。中東紛争の終結期待からDowが631ポイント(1.38%)急騰",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続でアジア株急落、原油価格は100ドル超え",
-          "country": "アジア各国",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡封鎖4週目継続でアジア市場パニック売り。日経5%安、韓国KOSPI 6%急落。原油WTI99ドル、ブレント113ドル",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国国債利回りが2008年以来最高水準、インフレ懸念強まる",
-          "country": "イギリス",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の政府借入コストが2008年以来の高水準に。インフレ懸念でギルト市場が売り込まれる",
-          "affected_sectors": [
-            "金融",
-            "不動産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アポロが私募債ファンドの解約制限、解約要求が11%に急増",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "プライベートクレジット大手アポロが投資家の大量解約要求を受け、ファンドからの資金引き出しを制限",
-          "affected_sectors": [
-            "オルタナティブ投資",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀が政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "日銀が予想通り政策金利を0.75%で維持。中東情勢、市場変動、原油価格急騰を注視すると声明",
-          "affected_sectors": [
-            "金融",
-            "円"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ大統領のイラン攻撃停止表明で米株急反発も、アジア市場は大幅安継続"
-    }
-  },
-  {
     "timestamp": "2026-03-24 08:00",
     "data": {
       "breaking_news": [
@@ -14842,6 +14766,88 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化による原油高と世界株安、プライベートクレジット市場の信用不安に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "世界の国債価格、中東紛争による物価高懸念で3月最大の下げ",
+          "country": "Global",
+          "category": "経済データ/地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争による物価高懸念が強まり、世界の国債価格は3月にここ数年で最大の月間下落率を記録した。",
+          "affected_sectors": [
+            "債券市場",
+            "金融サービス",
+            "インフレ敏感セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米アルミ供給網に影響、イランによる中東製錬所攻撃で",
+          "country": "US",
+          "category": "地政学/コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イランによる中東の製錬所攻撃が報じられ、米国のアルミ供給網に混乱が生じる懸念が高まっている。",
+          "affected_sectors": [
+            "製造業",
+            "航空宇宙",
+            "自動車",
+            "飲料"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米、退職年金プランのオルタナティブ資産組み入れ指針を公表",
+          "country": "US",
+          "category": "規制/金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国当局が退職年金プランにおけるオルタナティブ資産組み入れに関する新たな指針を発表し、投資機会が拡大する可能性。",
+          "affected_sectors": [
+            "年金基金",
+            "資産運用",
+            "プライベートエクイティ",
+            "ヘッジファンド"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル円、パウエル発言で利上げ期待後退し159円台に下落",
+          "country": "US/Japan",
+          "category": "為替/金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "パウエルFRB議長が金融政策は「適切な位置にある」と発言し年内利上げ期待が後退、ドル円は159円台に値を下げた。",
+          "affected_sectors": [
+            "外国為替市場",
+            "輸出入企業",
+            "グローバル金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "WTI原油価格が3日続急伸、中東情勢緊迫化が背景",
+          "country": "Global",
+          "category": "コモディティ/地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緊迫化を受け、WTI原油先物価格が3日連続で大幅に上昇。エネルギー市場に強い影響を与えている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "消費者"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油急伸、世界国債市場に圧力。"
     }
   }
 ]
