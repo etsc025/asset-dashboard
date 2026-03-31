@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株が大幅反発、トランプ氏がイランとの対話進展を発表",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの「建設的な対話」を発表し、イランの発電所への攻撃を停止。ダウ平均が631ポイント上昇し、中東情勢緊張緩和への期待から市場は大幅反発。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続、原油価格が100ドル台で推移",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"4-1,4-2\">ホルムズ海峡での船舶通航が停止し続け、地域経済に深刻な影響</cite>。<cite index=\"10-4,10-5\">ブレント原油は100ドル付近で推移し、主要国債券利回りが上昇、株式市場は下落</cite>。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場が大幅下落、日韓で5%超の急落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">アジア太平洋市場で大幅下落。日本の日経225は5%近く下落、韓国のKOSPIは6%超下落し、一時取引停止</cite>。中東情勢悪化でリスク回避が加速。",
-          "affected_sectors": [
-            "全セクター",
-            "半導体",
-            "自動車"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利を0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-13\">日銀が政策金利を0.75%で据え置き。中東情勢の進展、金融市場のボラティリティ、原油価格急騰を注視すると表明</cite>。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資",
-          "country": "日本・アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">バフェット率いるバークシャー・ハサウェイが東京海上ホールディングスに18億ドルを投資し、2.49%の株式を取得</cite>。日本市場への投資拡大を継続。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緩和期待で米国株大反発も、ホルムズ海峡封鎖継続でエネルギー危機長期化懸念"
-    }
-  },
-  {
     "timestamp": "2026-03-24 20:00",
     "data": {
       "breaking_news": [
@@ -14276,6 +14198,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油価格高騰が世界経済の重荷に。日銀の動向にも注目。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国の平均燃料価格が4年ぶりに$4/ガロン超え、イラン情勢が影響",
+          "country": "米国",
+          "category": "経済, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の緊迫化により、米国の平均燃料価格が4年ぶりに1ガロンあたり4ドルを突破し、消費者に負担増。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏の3月インフレ率が2.5%に上昇",
+          "country": "ユーロ圏",
+          "category": "経済, インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の3月のインフレ率が2.5%に上昇。消費者購買力への懸念と欧州中央銀行の金融政策への影響が注目される。",
+          "affected_sectors": [
+            "全セクター",
+            "金融",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イランがドバイでタンカー攻撃、トランプ氏が追加脅威、欧州株はまちまち",
+          "country": "中東, 欧州",
+          "category": "地政学, エネルギー, 市場パフォーマンス",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがドバイでタンカーを攻撃し、トランプ氏がさらなる脅威を示唆。これにより原油価格が上昇し、欧州株は混迷。",
+          "affected_sectors": [
+            "エネルギー (石油・ガス, 海運)",
+            "グローバル市場",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "iシェアーズ・ビットコインETFから資金流出、価格下落が加速",
+          "country": "グローバル",
+          "category": "暗号通貨, 投資",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ビットコイン価格が下落を続ける中、iシェアーズ・ビットコインETFから資金流出が発生。暗号通貨市場の弱気センチメントが顕著。",
+          "affected_sectors": [
+            "暗号通貨",
+            "資産運用",
+            "フィンテック"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油価格高騰が世界的なインフレ懸念を増幅。"
     }
   }
 ]
