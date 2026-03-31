@@ -1,100 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン戦争で市場大幅下落後、トランプ発言で急反発",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-7,7-8\">トランプ大統領が米・イラン間で対話があったと発表し、イランの電力インフラ攻撃停止を表明。これを受けダウ631pt上昇、S&P500とナスダック共に1%超の急反発</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖で原油価格が100ドル台維持",
-          "country": "中東諸国",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"8-4,8-8,10-4\">中東紛争でホルムズ海峡が事実上封鎖され、ブレント原油100ドル台で推移。戦争勃発以来40%以上の上昇を記録し、世界のエネルギー供給に深刻な影響</cite>",
-          "affected_sectors": [
-            "石油・ガス",
-            "海運",
-            "航空",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場が大幅下落、日本5%安",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">中東情勢悪化を受けアジア市場が急落。日経平均は5%近く下落、韓国KOSPI指数も6%超の大幅安となり、取引一時停止措置も発動</cite>",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "電子機器",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資",
-          "country": "米国・日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">ウォーレン・バフェットのバークシャー・ハサウェイが東京海上ホールディングスに18億ドル投資を発表。日本市場への積極姿勢を継続</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Fed・日銀が政策金利据え置きを継続",
-          "country": "米国・日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,8-6,8-7\">中東情勢の不安定化を受け、日銀は0.75%、Fedも政策金利を据え置く見通し。エネルギーショックの経済影響を慎重に見極める姿勢</cite>",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "プライベートクレジット市場に流動性懸念",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-2,2-14,3-3\">アポロがプライベートクレジットファンドで投資家の引き出し要求の45%のみ応じると発表。不動産投資の不調が背景にある模様</cite>",
-          "affected_sectors": [
-            "オルタナティブ投資",
-            "不動産",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-6,8-1\">中東紛争長期化なら世界景気後退懸念、ただし政治・経済圧力が沈静化要因</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 15:30",
     "data": {
       "breaking_news": [
@@ -14567,6 +14472,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油高・インフレ懸念増大、世界経済リスクオフ。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争激化で原油価格高騰、世界経済に脅威",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争激化により原油価格が1バレル100ドル超えで高騰。世界の株式市場に影響し、インフレと景気後退懸念が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株不安定、S&P500は不吉な兆候、パウエル議長は原油ショックを注視",
+          "country": "US",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国株式市場は不安定で、S&P500が「不吉な」売りシグナルを発している。FRBは当面の原油ショックを見過ごす可能性を示唆も限界あり。",
+          "affected_sectors": [
+            "Technology",
+            "Financial Services",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国、中東紛争に対応し170億ドルの追加景気刺激策を提案",
+          "country": "South Korea",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東紛争による経済的影響に対抗するため、韓国が170億ドルの追加景気刺激予算を提案。",
+          "affected_sectors": [
+            "General Economy",
+            "Infrastructure",
+            "Consumer Goods"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化で原油高騰、世界経済へのインフレ・景気後退リスク増大。"
     }
   }
 ]
