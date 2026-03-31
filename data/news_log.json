@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領：イランとの「生産的な」交渉でストライキ停止を発表",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-5,6-5,6-6\">トランプ大統領が米国とイランの生産的な交渉を受けてイランへの軍事攻撃を停止すると発表。中東紛争の緩和期待で市場に安堵感が広がった。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダウ平均600ポイント超の急騰でリリーフラリー発生",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-7,6-8\">ダウ平均が631ポイント（1.38%）上昇し46,208.47で終了。S&P500も1.15%上昇、ナスダックも1.38%上昇した。</cite>",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が急落、WTI原油11%下落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"8-26,8-27\">投資家が戦争終結の取り組みを歓迎し、原油価格が11%急落。主要株価指数は1%以上上昇した。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場が大幅下落、日韓で5%超の下落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-10,6-11,6-12\">中東情勢悪化でリスク資産からの逃避が加速。日経平均が約5%下落、韓国総合株価指数は6%超下落した。</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡通航停止が湾岸諸国経済に深刻な影響",
-          "country": "湾岸諸国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"5-1,5-2,5-3\">イラン紛争によるホルムズ海峡の通航停止が長期化すれば、1990年代以来最大の湾岸経済への挑戦となる可能性。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "商品"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-26,6-27\">バフェット氏の日本進出拡大の一環として、バークシャーが東京海上株式の2.49%を取得すると発表。</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ・イラン交渉進展でリリーフラリー発生、原油急落"
-    }
-  },
-  {
     "timestamp": "2026-03-25 06:30",
     "data": {
       "breaking_news": [
@@ -14014,6 +13921,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン情勢緩和期待で世界の株式市場が急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米株大幅続伸、中東情勢の緊張緩和への期待で",
+          "country": "米国",
+          "category": "株式市場, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東の緊張緩和への期待が高まり、米国株式市場が大幅に続伸。ダウは一時1125ドル高、ナスダックも約4％高となった。",
+          "affected_sectors": [
+            "株式全般",
+            "テクノロジー",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、中東情勢の緊張緩和期待で失速も不安定な動き",
+          "country": "グローバル",
+          "category": "商品市場, 地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢の緊張緩和期待で原油価格は上昇を失速。しかし、ホルムズ海峡の混乱が続き不安定な動きが続く。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル下落、「有事の買い」一服",
+          "country": "グローバル",
+          "category": "外国為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊張緩和への期待から、安全資産としてのドルの買いが一服し、ドルは主要通貨に対して下落した。",
+          "affected_sectors": [
+            "外国為替市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和期待で米株大幅高、ドルは下落。"
     }
   }
 ]
