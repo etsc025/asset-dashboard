@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン和平交渉進展を発表、米国株急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの和平交渉が「建設的」と発表、イランの電力インフラ攻撃を停止。米国株は大幅反発し、ダウは631ポイント(1.38%)上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "全体市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰後反落、WTI$99、ブレント$113に",
-          "country": "全世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡封鎖によりWTI原油は$99.42、ブレント原油は$113.08まで上昇。エネルギー輸送の重要な動脈が遮断され、世界的な供給懸念が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場大幅下落、日経平均5%安",
-          "country": "日本",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化を受け、日経平均は5%下落。韓国KOSPI指数も6%超下落し、取引一時停止。アジア全域でリスク回避の動き。",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハザウェイ、東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォーレン・バフェットのバークシャーが東京海上HDに18億ドル投資し、2.49%の株式を取得。日本市場への関与を拡大。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀、政策金利を0.75%で据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は政策金利を0.75%で据え置き。中東情勢、原油価格急騰、市場ボラティリティの監視継続を表明。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "湾岸諸国、ホルムズ海峡封鎖で経済的分岐点",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の継続的封鎖により、湾岸経済は1990年代以来最大の危機に直面。サウジ、UAE、カタールは代替輸送ルートで相対的に堅調。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン和平進展でリスク資産反発も、原油高とアジア株安で警戒継続"
-    }
-  },
-  {
     "timestamp": "2026-03-24 19:00",
     "data": {
       "breaking_news": [
@@ -14331,6 +14239,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高が市場を圧迫。注視必要。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日経平均、中東情勢と米ハイテク株安で4日続落、3月は過去最大の下落幅を記録",
+          "country": "日本",
+          "category": "株式市場, 地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日経平均は4日続落し3カ月ぶり安値。中東情勢の不透明感と米ハイテク株安が重荷。3月は過去最大の下落幅を記録。",
+          "affected_sectors": [
+            "半導体",
+            "エネルギー",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のホルムズ海峡関連発言で原油下落、日経平均一時反発",
+          "country": "米国, 中東",
+          "category": "地政学リスク, 原油市場, 株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "WSJ報道でトランプ大統領がホルムズ閉鎖でも終戦用意と伝わり、原油先物下落し株価指数先物上昇。日経平均も一時反発。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "クウェート原油タンカーがイラン攻撃、原油先物相場が急上昇",
+          "country": "中東, クウェート, イラン",
+          "category": "地政学リスク, 原油市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日本時間早朝、クウェート原油タンカーがイランの攻撃を受けたと報じられ、米原油先物相場が時間外で急上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高懸念が市場に重圧。継続監視を。"
     }
   }
 ]
