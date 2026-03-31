@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン紛争緩和でDow急反発 - トランプ大統領が対話に言及",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が米イラン間の「建設的な対話」を発表し、イランの電力施設への攻撃を停止すると表明。これを受けDowが631ポイント急騰（1.38%）",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "工業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場急落 - 日本・韓国が5%超下落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化で日経225が5%近く下落、韓国KOSPIも6%超下落。地政学リスクでリスクオフが進行",
-          "affected_sectors": [
-            "テクノロジー",
-            "自動車",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "WTI原油100ドル目前 - ホルムズ海峡封鎖継続",
-          "country": "全世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争によるホルムズ海峡通航停止でWTI原油が$99.42、Brent原油が$113.08まで急騰。エネルギー危機懸念高まる",
-          "affected_sectors": [
-            "石油・ガス",
-            "化学",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利据え置き - 地政学リスクを重視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が政策金利0.75%で据え置き決定。中東情勢と原油高を重視し慎重姿勢を継続。委員1名が利上げを主張",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "REIT"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャーハサウェイ、東京海上に1.8億ドル投資",
-          "country": "日本・アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェットのバークシャーが東京海上ホールディングスに$1.8B投資、2.49%の株式取得。日本保険市場での戦略的提携拡大",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争緩和期待でDow急反発も、アジア市場は大幅下落継続中"
-    }
-  },
-  {
     "timestamp": "2026-03-24 19:30",
     "data": {
       "breaking_news": [
@@ -14290,6 +14210,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高懸念が市場に重圧。継続監視を。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "クウェートの原油タンカーがイランのドローン攻撃を受けたと報じられ、原油価格高騰",
+          "country": "中東",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢が緊迫化し、クウェートのタンカーが攻撃され原油価格が上昇。IMFは世界経済への影響を警告。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "航空",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀総裁、円安の経済・物価への影響を注視し金融政策を判断と発言",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "植田日銀総裁が円安の経済・物価への影響を見極め金融政策を判断すると発言。長期金利は27年ぶり高水準。",
+          "affected_sectors": [
+            "輸出産業",
+            "金融",
+            "輸入関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国、中東紛争に対応し170億ドルの追加景気刺激策を提案",
+          "country": "韓国",
+          "category": "財政政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東紛争による経済影響緩和のため、韓国が170億ドル規模の追加景気刺激策を提案。",
+          "affected_sectors": [
+            "全般",
+            "建設",
+            "地方経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏のインフレ率、3月に2.5%に上昇",
+          "country": "ユーロ圏",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の3月消費者物価指数が上昇し、インフレ圧力が継続していることを示唆。利上げ懸念も。",
+          "affected_sectors": [
+            "金融",
+            "消費財",
+            "サービス"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油価格高騰が世界経済の重荷に。日銀の動向にも注目。"
     }
   }
 ]
