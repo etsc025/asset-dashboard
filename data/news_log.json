@@ -1,93 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株式市場、Trump-イラン対話報道で急反発",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの対話報告でエネルギー施設への攻撃停止を発表。ダウ631ポイント急騰、S&P500とナスダックも1%超上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落、WTI11%下落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緩和期待で原油価格が急落。WTI原油先物が11%安、Brentも大幅下落。エネルギー関連株に影響。",
-          "affected_sectors": [
-            "石油・ガス",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場大幅下落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化懸念で日経平均5%安、韓国KOSPI指数6%超下落。地政学リスク回避でアジア市場全面安の展開。",
-          "affected_sectors": [
-            "株式全般",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖でエネルギー危機",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争によるホルムズ海峡航行停止が継続。湾岸地域の輸出収入と経済安定性に深刻な影響を与えている。",
-          "affected_sectors": [
-            "海運",
-            "エネルギー",
-            "商品"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
-          "country": "日本・アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォーレン・バフェットの投資会社が東京海上HDに18億ドル投資。日本市場への投資拡大継続を示す。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%で据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が政策金利0.75%維持を決定。中東情勢と原油価格上昇を注視すると表明。1名が利上げ主張。",
-          "affected_sectors": [
-            "銀行",
-            "不動産"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Trump-イラン対話報道で米株急反発も地政学リスク継続"
-    }
-  },
-  {
     "timestamp": "2026-03-24 23:00",
     "data": {
       "breaking_news": [
@@ -14254,6 +14166,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争で原油価格高騰、世界的なインフレ懸念と市場混乱を加速。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢悪化で原油価格が急騰し、市場のインフレ懸念が増大",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争激化を受け、ブレント原油が1バレル118ドル台まで上昇。供給不安と高インフレ懸念が世界経済に重くのしかかる。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界株式市場、中東紛争とインフレ圧力で乱高下",
+          "country": "Global",
+          "category": "Market Movement",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化とエネルギー価格高騰によるインフレ加速を受け、主要株式市場は下落基調。投資家のリスク回避姿勢が強まる。",
+          "affected_sectors": [
+            "All sectors",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏インフレ加速、米消費者信頼感は経済不確実性で低下",
+          "country": "Eurozone, US",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月ユーロ圏CPIは2.5%に加速。米国消費者信頼感も経済の不確実性と高エネルギーコストで低下し、景気減速懸念が浮上。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Central Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化による原油価格高騰と世界経済への影響に警戒。"
     }
   }
 ]
