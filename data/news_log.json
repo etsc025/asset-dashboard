@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ、イラン攻撃停止発表で株式市場急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの協議成功を発表し、発電所攻撃を停止。ダウ平均631ポイント（1.38%）急騰、S&P500とナスダックも1%超上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖で原油価格100ドル突破",
-          "country": "中東",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争によりホルムズ海峡の船舶通行が停止。WTI原油が99.42ドル、ブレント原油が113.08ドルまで急騰。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場大幅下落、日経225は5%安",
-          "country": "日本",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化を受け、日経225が5%下落。韓国KOSPI指数は6%超暴落、一時取引停止。投資家がリスク資産から逃避。",
-          "affected_sectors": [
-            "テクノロジー",
-            "自動車",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォーレン・バフェット率いるバークシャーが東京海上株式2.49%を取得。日本の保険市場への長期投資を強化。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀、政策金利0.75%に据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢と原油高を注視し政策金利を維持。1名の政策委員が利上げを主張するも据え置きを決定。",
-          "affected_sectors": [
-            "金融",
-            "不動産"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプのイラン攻撃停止発表で市場急反転も地政学リスク継続"
-    }
-  },
-  {
     "timestamp": "2026-03-24 21:30",
     "data": {
       "breaking_news": [
@@ -14269,6 +14192,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油価格、世界市場の不確実性が高まる"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争長期化で市場不安定、原油価格高騰と株価の乱高下",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の長期化が市場に不安定さをもたらし、原油価格が高騰し、米国株は不安定な動きが続く。イラン製ドローンがドバイ沖のタンカーを攻撃し、ガソリン価格が上昇している。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏の市場沈静化策がイラン戦争長期化で効果薄",
+          "country": "US",
+          "category": "Government Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争が続く中、トランプ大統領による市場を落ち着かせるための動きが次第に効果を失っている。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国防総省、過去最高1.5兆ドルの2027年予算案詳細を発表へ",
+          "country": "US",
+          "category": "Government Spending",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国防総省は過去最高の1.5兆ドルに上る2027年度予算案の詳細を、その記録的な提案後に公表する予定。",
+          "affected_sectors": [
+            "Defense",
+            "Aerospace"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争の長期化が原油高と世界市場の不安定化を招く。"
     }
   }
 ]
