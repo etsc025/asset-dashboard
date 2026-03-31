@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東イラン紛争でホルムズ海峡封鎖、市場急落",
-          "country": "米国・中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイラン攻撃延期発言で米株は反発したが、ホルムズ海峡の航行停止により原油価格が高騰。アジア株は大幅下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空・運輸",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰、WTI99ドル・ブレント113ドル突破",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東紛争の長期化懸念で原油先物が急騰。エネルギー供給リスクが金融市場全体に波及し、インフレ再燃への警戒感が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "素材",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株軒並み大幅下落、日経5%安・韓国6%安",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化でリスクオフの動きが加速。日経225が5%下落、韓国KOSPIが6%急落し、取引一時停止措置も発動された。",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀政策金利0.75%据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は中東情勢と原油価格急騰を理由に政策金利を据え置き。1名の委員は利上げを主張したが、地政学リスクを重視した判断。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "通信"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャーがトーキョーマリンに18億ドル投資",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット率いるバークシャーがトーキョーマリンに大型投資を発表。日本保険市場への長期的なコミットメントを示す。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争によるホルムズ海峡封鎖で原油価格急騰、世界的株安"
-    }
-  },
-  {
     "timestamp": "2026-03-25 01:00",
     "data": {
       "breaking_news": [
@@ -14199,6 +14121,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学的緊張と原油価格高騰が世界的なインフレと経済成長の鈍化懸念を増幅。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Biogen、Apellisを56億ドルで買収合意、成長戦略を強化",
+          "country": "米国",
+          "category": "企業買収",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "バイオジェンがアペリスを約56億ドルで買収。免疫学と希少疾患ポートフォリオを強化し成長を加速する見込み。",
+          "affected_sectors": [
+            "医薬品",
+            "バイオテクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF当局者、不良債権がギリシャ経済回復の足かせに",
+          "country": "ギリシャ",
+          "category": "経済、金融安定",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF当局者が、数百万件の不良債権がギリシャ経済の回復を阻害していると警告し、金融安定に懸念。",
+          "affected_sectors": [
+            "銀行",
+            "金融",
+            "ギリシャ経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ガソリン価格が1ガロンあたり4ドル突破、FRB議長が新たなエネルギー供給ショックを警告",
+          "country": "米国",
+          "category": "エネルギー、インフレ、金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の平均ガソリン価格が4ドルを超過。FRB議長はインフレを悪化させる新たなエネルギー供給ショックに言及。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "消費者裁量",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢沈静化への期待でナスダックが2%上昇",
+          "country": "グローバル、米国",
+          "category": "地政学、株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン情勢の緊張緩和への期待が広がり、ウォール街で株価が上昇。ナスダック総合指数は2%高を記録。",
+          "affected_sectors": [
+            "株式市場全般",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン情勢と原油価格の動向がグローバル市場の主要リスク要因"
     }
   }
 ]
