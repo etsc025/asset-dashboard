@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米中東危機：トランプが対イラン攻撃を停止、株式市場急騰",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が対イランの攻撃を停止し、生産的な対話があったと発表。ダウ600ポイント超上昇、S&P500も1.15%上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落：WTI11%下落、ホルムズ海峡懸念後退",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格が大幅下落。WTIが11%下落し、ブレント原油も$97.32に。中東情勢緩和期待で供給懸念が後退。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場暴落：日経5%下落、韓国6%急落",
-          "country": "アジア太平洋",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日経225が5%近く下落、韓国KOSPIは6%超暴落。中東情勢悪化への懸念で投資家がリスク資産から逃避。",
-          "affected_sectors": [
-            "半導体",
-            "自動車",
-            "輸出"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイ：東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット率いるバークシャーが東京海上ホールディングスに18億ドル投資。日本での保険事業拡大を加速。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利据え置き：0.75%で中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行が政策金利を0.75%に据え置き。中東情勢と原油価格上昇を注視すると表明。一部委員は利上げを主張。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"1-5,7-5,7-6\">トランプがイラン攻撃停止発表、米株600ポイント急騰</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 00:00",
     "data": {
       "breaking_news": [
@@ -14220,6 +14142,83 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イラン戦争による地政学的リスクと世界的なインフレ圧力が継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、イラン戦争起因の原油高で下落",
+          "country": "US",
+          "category": "Market",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争による原油価格高騰が響き、米国株式市場は下落。S&P 500は初期の上昇分を消し、アジア市場も軟調な展開。投資家は警戒を強めている。",
+          "affected_sectors": [
+            "Technology",
+            "Industrials",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争で原油価格急騰、100ドル超え",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争激化と中東情勢緊迫化を受け、世界の原油価格が1バレル100ドルを超え急騰し、過去数年で最高水準に達している。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争が世界経済に負の影響と警告",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "国際通貨基金は、イラン戦争が世界的な物価上昇と経済成長の減速を招くと警鐘。特にエネルギー価格高騰が主な要因。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国ガソリン価格、イラン戦争で4ドル突破",
+          "country": "US",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争による原油高を受け、米国ガソリン価格が1ガロン4ドルを突破し、数年ぶりの高値。消費者に大きな負担がのしかかっている。",
+          "affected_sectors": [
+            "Transportation",
+            "Retail",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争終結期待で米国株一時反発も変動",
+          "country": "US",
+          "category": "Market",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン戦争の de-escalation 期待から米国株が一時上昇したが、市場の変動は継続。投資家は状況の展開に依然警戒中。",
+          "affected_sectors": [
+            "All market sectors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争による原油価格高騰と世界経済への影響に警戒。"
     }
   }
 ]
