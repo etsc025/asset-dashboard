@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米トランプ大統領、イランとの対話により軍事攻撃を5日間延期",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-6,17-1,17-2\">トランプ大統領が米国とイランが「生産的な対話」を行ったとして、イラン電力施設への攻撃を5日間延期すると発表。中東紛争終結への希望から市場は急反発</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融",
-            "クルーズ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ブレント原油価格が11%急落、WTI原油は10%下落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"11-1,11-2\">ブレント原油は99.94ドル（前日比11%下落）、WTI原油は88.13ドル（10%下落）まで急落。ただしイランは対話を否定し不透明感残る</cite>",
-          "affected_sectors": [
-            "石油・ガス",
-            "エネルギー",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場が急反発、ダウ平均631ポイント（1.38%）上昇",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-7,7-8\">ダウ平均46,208.47ポイント、S&P500は1.15%上昇の6,581.00。ナスダックも1.38%上昇し21,946.76で引け</cite>",
-          "affected_sectors": [
-            "航空",
-            "クルーズ",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア太平洋市場は大幅下落、韓国KOSPI 6%超下落",
-          "country": "韓国・日本",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">日経平均は5%近く下落、韓国KOSPIは6%超の大幅下落。取引一時停止措置も発動され、アジア市場は総じて大幅安</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "製造業",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続、世界石油供給の20%に影響",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"14-19,18-22\">ホルムズ海峡の船舶通行がほぼ完全停止状態。世界石油供給の20%、LNG供給にも深刻な影響。約200隻の船舶が迂回を余儀なくされている</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "石油化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">バフェット率いるバークシャーが東京海上ホールディングスに18億ドル投資。初期株式取得比率は2.49%、日本への投資拡大を継続</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"11-11,18-7\">IEA事務局長「史上最大のエネルギー安全保障危機」と警告、1970年代石油危機を上回る規模</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 17:00",
     "data": {
       "breaking_news": [
@@ -14441,6 +14348,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油高とインフレ加速に警戒。金融市場に不確実性増大。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、世界経済にインフレと成長鈍化の懸念",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の激化懸念から原油価格が急騰し、アジア株は下落。IMFは高インフレと世界経済成長鈍化を警告。",
+          "affected_sectors": [
+            "Energy",
+            "Aviation",
+            "Shipping",
+            "Automobile",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "高騰する原油価格が中央銀行の金融政策を複雑化、韓国は大規模な景気刺激策を提案",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "原油価格の高騰がインフレ懸念を増大させ、主要中央銀行の金融政策を複雑化。韓国は170億ドルの景気刺激策を提案。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、原油価格上昇と地政学的不確実性で不安定な取引",
+          "country": "US",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株は原油価格の上昇と地政学的緊張が続く中で不安定な値動き。主要指数はまちまちのパフォーマンス。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高騰とインフレ懸念が市場を圧迫、リスクオフムード拡大。"
     }
   }
 ]
