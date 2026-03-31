@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株反発、トランプ大統領がイラン制裁一時停止を示唆",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-5,6-6,6-7,6-8\">トランプ大統領がイランとの協議とエネルギー施設攻撃停止を発表。投資家は中東紛争の終息への期待でリスク回避姿勢を緩和。ダウが631ポイント急騰、S&P500も1.15%上昇</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場急落、日経平均5%下落で取引一時停止",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,6-2,6-13\">中東紛争激化でアジア太平洋市場が急落。日経225が5%近く下落、韓国KOSPI指数は6%以上の暴落でサーキットブレーカー発動。投資家のリスク回避姿勢が鮮明</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "自動車",
-            "製造業",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格100ドル突破、ホルムズ海峡封鎖継続",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"5-1,6-24,6-25\">イラン新最高指導者がホルムズ海峡の封鎖継続を宣言。WTI原油先物が99.42ドル、ブレント原油が113.08ドルまで上昇。世界エネルギー供給への懸念拡大</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBパウエル議長、任期延長を示唆で政治的攻防激化",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"11-2,11-3\">パウエル議長が司法省の調査が完全に終了するまで退任しない意向を表明。後継者ウォーシュの承認が遅れた場合、暫定議長として続投する可能性</cite>",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス",
-            "REIT"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"6-26,6-27,6-28\">ウォーレン・バフェットのバークシャー・ハサウェイが東京海上ホールディングスに18億ドル投資。日本市場への投資拡大で長期的な協力関係構築</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"4-1,4-3\">中東紛争激化でホルムズ海峡封鎖継続、90年代以来最大の湾岸経済危機リスク</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 07:00",
     "data": {
       "breaking_news": [
@@ -14909,6 +14828,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争による原油高騰と米ハイテク株下落が市場を圧迫。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州ディーゼル供給に逼迫圧力、タンカーが航路変更",
+          "country": "欧州",
+          "category": "エネルギー、国際貿易",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争と原油価格高騰を受け、欧州向けディーゼルタンカーが航路変更。供給逼迫と価格上昇が懸念され、欧州のエネルギー市場に高圧力がかかっている。経済への悪影響が予想される。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本、円介入警告を強化し利上げの可能性示唆",
+          "country": "日本",
+          "category": "為替、金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "日本の通貨当局は投機的な円安に対し断固たる措置を警告。日銀総裁も原油高と円安によるインフレ圧力増大で利上げの可能性に言及。円安是正と物価安定を目指す。",
+          "affected_sectors": [
+            "為替市場",
+            "金融",
+            "輸出入企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争激化で原油価格が急騰、世界市場に影響",
+          "country": "グローバル",
+          "category": "コモディティ、地政学、インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の激化により原油価格は1バレル100ドルを突破し、世界的なインフレ懸念が増大。地政学的リスクがエネルギー市場と経済成長に影を落とす。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費財",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化で原油急騰、日欧で金融市場の動揺続く。"
     }
   }
 ]
