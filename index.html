@@ -533,28 +533,29 @@ async function fetchAll(){
     if (!data || !data.ranking) return;
     document.getElementById('botRankDate').textContent = data.date || '';
     const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪'];
-    // 損益（total_return）の高い順にソート
-    const sorted = [...data.ranking].sort((a, b) => b.latest_equity - a.latest_equity);
-    // 最大・最小損益でバー幅を正規化
-    const maxEq = Math.max(...sorted.map(b => b.latest_equity));
-    const minEq = Math.min(...sorted.map(b => b.latest_equity));
-    const eqRange = maxEq - minEq || 1;
+    // 損益率（total_return）の高い順にソート
+    const sorted = [...data.ranking].sort((a, b) => b.total_return - a.total_return);
+    // バー幅: 最大損益率を100%として相対表示（マイナスは赤バー）
+    const maxRet = Math.max(...sorted.map(b => Math.abs(b.total_return)), 0.001);
     const rows = sorted.map((b, i) => {
       const ret  = (b.total_return * 100).toFixed(2);
       const mdd  = (b.mdd * 100).toFixed(2);
       const wr   = (b.win_rate * 100).toFixed(1);
       const eq   = b.latest_equity.toLocaleString();
-      const retColor = b.total_return >= 0 ? '#22c55e' : '#ef4444';
+      const retColor = b.total_return > 0 ? '#22c55e' : b.total_return < 0 ? '#ef4444' : '#8b949e';
       const mddColor = b.mdd <= -0.1 ? '#ef4444' : b.mdd <= -0.05 ? '#f59e0b' : '#8b949e';
-      // バー幅: 損益の大きさで表示（1位を100%）
-      const barPct = Math.max(5, Math.round((b.latest_equity - minEq) / eqRange * 100));
-      const barColor = i === 0 ? '#f59e0b' : i === 1 ? '#9ca3af' : i === 2 ? '#b45309'
-                     : b.total_return >= 0 ? '#22c55e' : '#ef4444';
+      // バー幅: 損益率の絶対値で表示（最大値=100%）
+      const barPct = Math.max(4, Math.round(Math.abs(b.total_return) / maxRet * 100));
+      const barColor = i === 0 ? '#f59e0b'
+                     : i === 1 ? '#9ca3af'
+                     : i === 2 ? '#b45309'
+                     : b.total_return > 0 ? '#22c55e' : '#ef4444';
+      const retSign = b.total_return > 0 ? '+' : '';
       return `
         <div style="padding:6px 0;border-bottom:1px solid #21262d;">
           <div style="display:flex;justify-content:space-between;align-items:center;">
             <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace(/_/g,' ')}</strong></span>
-            <span style="color:${retColor};font-weight:700;font-size:13px;">${ret>=0?'+':''}${ret}%
+            <span style="color:${retColor};font-weight:700;font-size:13px;">${retSign}${ret}%
               <span style="color:#8b949e;font-size:10px;font-weight:400;margin-left:4px;">¥${eq}</span>
             </span>
           </div>
@@ -563,7 +564,7 @@ async function fetchAll(){
             <span>MDD <span style="color:${mddColor};">${mdd}%</span></span>
             <span>Sharpe <span style="color:#e6edf3;">${b.sharpe}</span></span>
             <span>取引 <span style="color:#e6edf3;">${b.n_trades}件</span></span>
-            <span style="margin-left:auto;">Score <span style="color:#e6edf3;">${b.score}</span></span>
+            <span style="margin-left:auto;">¥${eq}</span>
           </div>
           <div class="rank-bar"><div class="rank-bar-fill" style="width:${barPct}%;background:${barColor};"></div></div>
         </div>`;
