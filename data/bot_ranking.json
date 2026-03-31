@@ -1,10 +1,10 @@
 {
   "date": "2026-04-01",
-  "timestamp": "2026-04-01T03:09:13.539137",
-  "usdjpy": 158.86,
+  "timestamp": "2026-04-01T03:39:23.344647",
+  "usdjpy": 158.82,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
-  "vix": 26.040000915527344,
+  "vix": 26.219999313354492,
   "ranking": [
     {
       "bot": "Bot1_ML_AbsChange",
@@ -56,15 +56,15 @@
     },
     {
       "bot": "Bot7_AdaptiveMarket",
-      "total_return": -0.001,
+      "total_return": -0.0005,
       "mdd": -0.0007,
       "win_rate": 0.0,
       "sharpe": -39.69,
       "n_trades": 3,
-      "latest_equity": 998979.0,
+      "latest_equity": 999494.0,
       "days": 2,
       "rank": 5,
-      "score": 0.4181
+      "score": 0.4319
     },
     {
       "bot": "Bot6_RL_MA",
@@ -104,27 +104,27 @@
     },
     {
       "bot": "Bot9_VolAsymmetry",
-      "total_return": -0.0091,
+      "total_return": -0.0082,
       "mdd": 0.0,
       "win_rate": 0.5,
       "sharpe": 10.58,
       "n_trades": 5,
-      "latest_equity": 990911.0,
+      "latest_equity": 991759.0,
       "days": 2,
       "rank": 9,
-      "score": 0.5329
+      "score": 0.5576
     },
     {
       "bot": "Bot5_TrendMomentum",
-      "total_return": -0.0098,
+      "total_return": -0.0092,
       "mdd": -0.0036,
       "win_rate": 0.0,
       "sharpe": -19.84,
       "n_trades": 6,
-      "latest_equity": 990182.0,
+      "latest_equity": 990804.0,
       "days": 2,
       "rank": 10,
-      "score": 0.3214
+      "score": 0.3379
     },
     {
       "bot": "Bot2_DL_Transformer",
