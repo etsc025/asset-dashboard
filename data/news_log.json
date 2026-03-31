@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン間で生産的対話、トランプ大統領が攻撃停止を発表",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-5,7-6\">トランプ大統領が米国・イラン間の対話を発表し、イラン電力施設への攻撃停止により、中東情勢緩和への期待が高まり、市場は安堵感を示している。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダウ平均が631ポイント急伸、1.38%の大幅上昇",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-7,7-8\">中東緊張緩和を受けてダウは631ポイント上昇し46,208.47で終了。S&P500は1.15%上昇、ナスダックも1.38%上昇した。</cite>",
-          "affected_sectors": [
-            "全般",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア太平洋市場が軒並み大幅下落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-10,7-11,7-12\">日経平均は5%近く下落、韓国コスピは6%以上急落。中東紛争への懸念からリスク回避の動きが鮮明となった。</cite>",
-          "affected_sectors": [
-            "全般",
-            "輸出関連",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格がWTI99ドル、ブレント113ドル台に上昇",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-24,7-25\">ホルムズ海峡封鎖の影響でWTI先物は1.4%上昇し99.42ドル、ブレントは0.8%上昇し113.08ドルとなった。</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油化学",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"5-11,5-13\">日銀は予想通り政策金利を0.75%で維持。中東情勢、市場変動、原油価格急騰を注視すると声明で強調した。</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "円建て資産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上HDに18億ドル投資",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"7-26,7-27\">バフェットの投資会社が東京海上HDの2.49%株式を取得。長期戦略パートナーシップの構築を目指す。</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"5-1,5-2\">ホルムズ海峡封鎖により世界エネルギー供給に深刻な影響、1990年代以来最大の湾岸危機の可能性</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 12:30",
     "data": {
       "breaking_news": [
@@ -14701,6 +14607,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東戦争激化でアジア株急落、原油100ドル超え世界経済見通し悪化"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、世界株式市場に売り圧力",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の悪化を受け、ブレント原油は1バレル約110ドル、WTI原油は106ドルまで急騰。米国・アジアの株式市場では売りが広がっている。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Manufacturing",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本政府、投機的円安に「断固たる措置」警告、円が対ドルで反発",
+          "country": "Japan",
+          "category": "Currency Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "日本財務官が投機的な円安に対し「断固たる措置」を示唆し、ドル円は160円を突破後159円台に反発。",
+          "affected_sectors": [
+            "Forex",
+            "Export-oriented industries",
+            "Import-oriented industries"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国3月製造業PMIが予想を上回り50.4に改善、景気拡大を示す",
+          "country": "China",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国の3月製造業PMIは予想50.3に対し50.4となり、景気判断の節目である50を回復し拡大基調へ転換。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Global Commodities"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日本2月鉱工業生産が予想下回る大幅下落、一方で失業率は改善",
+          "country": "Japan",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日本2月鉱工業生産は前月比-2.1%と予想を下回るも、失業率は2.6%に改善し雇用は堅調。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Labour Market",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油高と世界株安継続、介入警戒で円反発"
     }
   }
 ]
