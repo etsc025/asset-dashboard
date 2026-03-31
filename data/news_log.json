@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領がイランとの「生産的な」協議を発表、米軍攻撃を一時停止",
-          "country": "米国/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの協議が「非常に良好」で取引成立の可能性があると発表。イラン電力プラントへの攻撃を延期し、市場に安堵感が広がる。",
-          "affected_sectors": [
-            "エネルギー",
-            "軍需",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダウ平均が600ポイント急騰、中東緊張緩和への期待で大幅反発",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ダウ平均631ポイント上昇で46,208で終了。S&P500も1.15%上昇し6,581、ナスダックは1.38%高の21,946。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続で原油価格が100ドル台を維持",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "WTI原油先物が99.42ドル、ブレント原油が113.08ドル。イランの新最高指導者がホルムズ海峡封鎖継続を宣言。",
-          "affected_sectors": [
-            "石油",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア太平洋市場が大幅下落、日経225は5%近く急落",
-          "country": "日本/韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日経225が5%下落、TOPIXは4.4%安。韓国KOSPI指数は6%超の大幅下落。中東情勢悪化でリスク回避の動きが加速。",
-          "affected_sectors": [
-            "全セクター",
-            "半導体",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハサウェイが東京海上に18億ドル投資を発表",
-          "country": "米国/日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット氏の日本進出拡大の一環として、東京海上株式の2.49%を取得。グローバル保険市場での連携強化を図る。",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀が政策金利を0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が予想通り金利据え置きを決定。1名の委員が利上げを主張。中東情勢と原油価格急騰への監視を強化。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "円相場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"1-5,7-5\">トランプ大統領のイランとの協議発表で米株急反発も地政学リスク継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 14:00",
     "data": {
       "breaking_news": [
@@ -14673,6 +14581,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化による原油価格高騰と世界経済減速懸念が市場を圧迫。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格が過去最高値に、アジア株急落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の激化により原油価格が高騰し、アジア株式市場は大幅下落。インフレ懸念が増大。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Manufacturing",
+            "Shipping"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドル、市場のボラティリティの中で世界の安全資産として強化",
+          "country": "Global",
+          "category": "Currencies",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米ドルは地政学的不安定性の中で安全資産となり、8ヶ月で最大の月間上昇を記録。",
+          "affected_sectors": [
+            "Currency Markets",
+            "International Trade"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "金利見通しがタカ派的になり、世界の債券が下落",
+          "country": "Global",
+          "category": "Fixed Income",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "世界の債券市場は、タカ派的な金利見通しへの転換により、数ヶ月ぶりの大幅な下落に直面。",
+          "affected_sectors": [
+            "Financials",
+            "Debt Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化、原油価格急騰で世界市場はリスクオフ。"
     }
   }
 ]
