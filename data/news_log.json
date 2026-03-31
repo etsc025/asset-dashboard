@@ -1,96 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株600ポイント急騰、トランプ・イラン協議進展で",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの「生産的対話」を発表、イラン発電所への攻撃停止を宣言。ダウ631ポイント上昇で投資家リスクオン",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株大幅下落、日経5%安・韓国6%急落",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化でリスクオフ加速。日経225は5%下落、韓国KOSPI6%急落。韓国取引所は一時売買停止措置",
-          "affected_sectors": [
-            "半導体",
-            "製造業",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰、WTI100ドル突破・ブレント113ドル",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡封鎖継続で原油急騰。WTI先物99.42ドル、ブレント113.08ドル。インフレ懸念再燃でスタグフレーション警戒",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バークシャー・ハザウェイ、東京海上に18億ドル出資",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット氏の日本投資拡大。国内保険会社への戦略的投資で2.49%取得。長期協業関係構築へ",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "市場予想通り金利維持。一部委員は利上げ主張も多数は現状維持。原油価格急騰と地政学リスク監視を強調",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "建設"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アポロ、プライベートクリジット基金で部分償還",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "投資家償還要求の45%に応じる。プライベートクレジット市場の流動性懸念が表面化、リスク資産売り圧力",
-          "affected_sectors": [
-            "金融",
-            "不動産"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"7-5,7-6\">トランプ・イラン協議進展で米株急反発も地政学リスク継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-24 11:00",
     "data": {
       "breaking_news": [
@@ -14741,6 +14650,109 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢悪化、原油$100超え。世界経済にインフレ・景気後退懸念増大。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "株価指数先物、トランプ氏の戦争終結意向報道で急騰",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ氏が戦争終結に意欲的との報道を受け、株価指数先物が急騰。市場に楽観ムードが広がる。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Oil"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル、中東情勢緊迫化で安全資産需要高まり小幅上昇",
+          "country": "Global",
+          "category": "Currencies",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緊張が高まり、安全資産としての需要からドルがわずかに上昇。為替市場に影響。",
+          "affected_sectors": [
+            "Forex",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株下落、原油価格高騰が継続",
+          "country": "US",
+          "category": "Equity Markets, Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "原油価格の継続的な高騰を受け、米国株式市場は続落。インフレと経済成長への懸念が強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "香港・アジア市場下落、原油価格懸念が支配的",
+          "country": "Hong Kong, Asia",
+          "category": "Equity Markets, Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "原油価格上昇への懸念から、香港およびアジアの株式市場が下落。世界経済への影響を警戒。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Energy",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争、英国財政の余地を縮小",
+          "country": "UK",
+          "category": "Geopolitics, Government Finance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の激化が英国の財政余地を侵食し、経済の脆弱性を露呈。政府の財政運営に課題。",
+          "affected_sectors": [
+            "Government Bonds",
+            "Public Sector",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIモデルの能力懸念、サイバーセキュリティ株を下落",
+          "country": "Global",
+          "category": "Technology, Cybersecurity",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "AIモデルの機能に関する懸念が、サイバーセキュリティ関連企業の株価を押し下げている。",
+          "affected_sectors": [
+            "Technology",
+            "Cybersecurity"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ソニーPS5値上げ、メモリーチップコスト高騰で",
+          "country": "Japan",
+          "category": "Technology, Consumer Electronics",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ソニーがメモリーチップの高騰を受け、PlayStation 5の価格を改定。消費者市場に影響。",
+          "affected_sectors": [
+            "Consumer Electronics",
+            "Semiconductor"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の悪化と原油価格の高騰が世界市場の重しに。"
     }
   }
 ]
