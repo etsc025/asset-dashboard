@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-24 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化でホルムズ海峡封鎖、原油が$100超え",
-          "country": "中東・アジア・米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン新最高指導者がホルムズ海峡閉鎖継続を宣言。原油価格100ドル台回復、アジア株式大幅下落。経済制裁リスクでスタグフレーション懸念拡大",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ大統領がイランとの対話表明、株式市場急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの対話を示唆、エネルギー施設攻撃停止を発表。ダウ631ポイント上昇、S&P500が1.15%上昇で市場安堵感広がる",
-          "affected_sectors": [
-            "株式全般",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場大幅下落、日経-5%、韓国KOSPI-6%超",
-          "country": "日本・韓国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化でアジア市場に売り殺到。日経225が5%下落、韓国取引所は一時取引停止。半導体セクターに特に強い売り圧力",
-          "affected_sectors": [
-            "半導体",
-            "技術株",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Apollo社プライベートクレジット基金で解約制限",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "プライベートクレジット市場で流動性懸念拡大。Apollo社が解約要請11%に達し制限措置。オルタナティブ投資市場に緊張高まる",
-          "affected_sectors": [
-            "金融",
-            "オルタナティブ投資"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー、東京海上に18億ドル投資",
-          "country": "日本・米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バフェット氏率いるバークシャーが東京海上に1.8億ドル投資、日本市場への関与拡大。保険セクターでの戦略的提携強化を発表",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油急騰、トランプ対話表明で一時反発も地政学リスク高止まり"
-    }
-  },
-  {
     "timestamp": "2026-03-24 07:30",
     "data": {
       "breaking_news": [
@@ -14881,6 +14803,45 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争激化で原油急騰、日欧で金融市場の動揺続く。"
+    }
+  },
+  {
+    "timestamp": "2026-03-31 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、米国・アジア市場を中心に世界株が下落。",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の不確実性により原油価格が高騰し、米国、アジアを中心に世界の株式市場が下落。インフレ懸念が強まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "小売",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "KKR系ファンド格下げとバークレイズ融資縮小：ノンバンク市場に信用不安。",
+          "country": "Global",
+          "category": "Financial Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "KKR関連ファンドの格下げや大手銀のノンバンク向け融資縮小で、プライベートクレジット市場の流動性・資産質に懸念。",
+          "affected_sectors": [
+            "金融",
+            "プライベートエクイティ",
+            "中小企業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高と世界株安、プライベートクレジット市場の信用不安に警戒。"
     }
   }
 ]
