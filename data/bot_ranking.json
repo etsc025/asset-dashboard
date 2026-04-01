@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "timestamp": "2026-04-02T03:50:29.335252",
-  "usdjpy": 158.78,
+  "timestamp": "2026-04-02T04:20:45.306607",
+  "usdjpy": 158.9,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
   "vix": 25.170000076293945,
@@ -19,6 +19,18 @@
       "score": 0.6552
     },
     {
+      "bot": "Bot4_Momentum_Intl",
+      "total_return": 0.0078,
+      "mdd": -0.0035,
+      "win_rate": 0.0,
+      "sharpe": -15.87,
+      "n_trades": 5,
+      "latest_equity": 1007778.0,
+      "days": 2,
+      "rank": 2,
+      "score": 0.4512
+    },
+    {
       "bot": "Bot9_VolAsymmetry",
       "total_return": 0.0058,
       "mdd": -0.0088,
@@ -27,20 +39,20 @@
       "n_trades": 7,
       "latest_equity": 1005819.0,
       "days": 3,
-      "rank": 2,
+      "rank": 3,
       "score": 0.7655
     },
     {
-      "bot": "Bot4_Momentum_Intl",
-      "total_return": 0.0056,
-      "mdd": -0.0035,
+      "bot": "Bot8_NewsTech",
+      "total_return": 0.0027,
+      "mdd": -0.0008,
       "win_rate": 0.0,
-      "sharpe": -15.87,
-      "n_trades": 5,
-      "latest_equity": 1005582.0,
-      "days": 2,
-      "rank": 3,
-      "score": 0.4298
+      "sharpe": -7.94,
+      "n_trades": 1,
+      "latest_equity": 1002706.0,
+      "days": 5,
+      "rank": 4,
+      "score": 0.332
     },
     {
       "bot": "Bot7_AdaptiveMarket",
@@ -51,20 +63,8 @@
       "n_trades": 3,
       "latest_equity": 1001479.0,
       "days": 3,
-      "rank": 4,
-      "score": 0.5525
-    },
-    {
-      "bot": "Bot8_NewsTech",
-      "total_return": 0.0015,
-      "mdd": -0.0008,
-      "win_rate": 0.0,
-      "sharpe": -7.94,
-      "n_trades": 1,
-      "latest_equity": 1001511.0,
-      "days": 5,
       "rank": 5,
-      "score": 0.3203
+      "score": 0.5525
     },
     {
       "bot": "Bot10_CorrGraph",
@@ -80,15 +80,27 @@
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": -0.0023,
+      "total_return": -0.0007,
       "mdd": -0.0029,
       "win_rate": 0.0,
       "sharpe": -7.94,
       "n_trades": 5,
-      "latest_equity": 997707.0,
+      "latest_equity": 999287.0,
       "days": 5,
       "rank": 7,
-      "score": 0.3692
+      "score": 0.3848
+    },
+    {
+      "bot": "Bot3_FactorAI",
+      "total_return": -0.0026,
+      "mdd": -0.005,
+      "win_rate": 0.0,
+      "sharpe": -59.6,
+      "n_trades": 2,
+      "latest_equity": 997369.0,
+      "days": 5,
+      "rank": 8,
+      "score": 0.1913
     },
     {
       "bot": "Bot6_RL_MA",
@@ -99,20 +111,8 @@
       "n_trades": 1,
       "latest_equity": 996948.0,
       "days": 3,
-      "rank": 8,
-      "score": 0.2851
-    },
-    {
-      "bot": "Bot3_FactorAI",
-      "total_return": -0.0038,
-      "mdd": -0.005,
-      "win_rate": 0.0,
-      "sharpe": -59.6,
-      "n_trades": 2,
-      "latest_equity": 996174.0,
-      "days": 5,
       "rank": 9,
-      "score": 0.1796
+      "score": 0.2851
     },
     {
       "bot": "Bot5_TrendMomentum",
