@@ -1,100 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争によるホルムズ海峡封鎖、金融市場に激震",
-          "country": "国際・湾岸諸国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の通行停止が継続し、グローバルエネルギー・商品フローに深刻な影響。湾岸経済は1990年代以降最大の危機に直面している可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "半導体",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰で米株式市場が大幅下落",
-          "country": "米国",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "WTI原油が$91.77、ブレント原油が$97.32まで急騰。一時$100を突破する場面も。株式市場は供給懸念から大幅下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "小売",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀、政策金利0.75%で据え置き決定",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の悪化と原油価格急騰を受け、日銀は政策金利を据え置き。1名の政策委員が利上げを主張するも全会一致とならず。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "円相場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国がイランに15項目の和平案提示",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "NY Times報道によると、米国がイランに戦争終結に向けた15項目の計画を提示。株式先物は上昇、原油価格は11%下落。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "防衛関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB政策金利据え置き確率99.1%に上昇",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争開始以来、5年期待インフレ率が20bp上昇。先物市場でFRB据え置き確率が90.8%から99.1%に急上昇。",
-          "affected_sectors": [
-            "金融",
-            "債券",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ヘリウム供給不足で半導体価格上昇リスク",
-          "country": "カタール・国際",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "カタールが全世界ヘリウム生産の3分の1を占めるが出荷停止中。半導体製造に必要なヘリウム不足でチップ価格上昇の可能性。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖継続、エネルギー価格急騰で金融市場全面安"
-    }
-  },
-  {
     "timestamp": "2026-03-25 13:00",
     "data": {
       "breaking_news": [
@@ -13808,6 +13713,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化による原油高騰と金融市場の不確実性。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株急騰、イラン戦争終結への期待高まる",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争終結への期待感から米国株が急騰。S&P 500は2.9%上昇、ダウも1,100ポイント超の上昇を記録。",
+          "affected_sectors": [
+            "Equities",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が下落、イラン戦争終結の期待で",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争終結への期待が高まり、原油価格が下落。供給懸念が後退したため。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ナイキ、中国販売不振で株価下落",
+          "country": "US",
+          "category": "Corporate News",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ナイキが中国での売上不振と粗利益率の低下を発表、第4四半期売上予測も下方修正し株価が下落。",
+          "affected_sectors": [
+            "Retail",
+            "Apparel",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結への期待が市場を押し上げ、米国株は急騰し原油は下落。"
     }
   }
 ]
