@@ -1,100 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争がホルムズ海峡を封鎖、世界経済に甚大な影響",
-          "country": "イラン/湾岸諸国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の船舶通行が停止し、世界のエネルギー供給に深刻な影響。原油価格は急騰し、湾岸経済は1990年代以来最大の危機に直面している。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "商品",
-            "湾岸金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰、WTI 91.77ドル、ブレント一時100ドル超え",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争の影響で原油価格が急騰。WTIは91.77ドル、ブレントは97.32ドルまで上昇し、一時100ドルを突破した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国がイランに15項目の和平案を提示、株価反発",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ政権がイランに和平案を提示したとの報道で、米株先物が上昇。投資家は紛争早期終結への期待を示している。",
-          "affected_sectors": [
-            "株式",
-            "エネルギー",
-            "防衛"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀、政策金利0.75%で据え置き、中東情勢を警戒",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は予想通り政策金利を0.75%で据え置き。中東情勢と原油価格高騰による影響を慎重に監視すると表明した。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ヘリウム供給停止で半導体業界に追加圧力",
-          "country": "カタール",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "カタールからのヘリウム供給が停止。世界の1/3を占める同国の供給中断で、半導体製造コストの上昇が懸念される。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米Fed利下げ期待が大幅後退、99.1%が据え置き予想",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インフレ期待の上昇でFed利下げ観測が急速に後退。先物市場は99.1%の確率で据え置きを予想、1か月前の90.8%から上昇。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油100ドル突破、グローバル市場に激震"
-    }
-  },
-  {
     "timestamp": "2026-03-25 18:30",
     "data": {
       "breaking_news": [
@@ -13473,6 +13378,74 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢緩和期待で世界的に株高、原油安。市場はリスクオンへ転換。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争終結への期待で原油価格下落、株式市場が急騰",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争終結への期待感から、原油価格が下落。米国およびアジアの株式市場は大幅に上昇し、一時的なリスクオンムードに。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAIが1220億ドルの資金調達を完了、AIブーム継続を示す",
+          "country": "Global",
+          "category": "Technology, Venture Capital",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ChatGPTの親会社であるOpenAIが1220億ドルの資金調達を完了し、AI分野への継続的な高い投資意欲を示唆。",
+          "affected_sectors": [
+            "Technology",
+            "Software",
+            "AI Development",
+            "Venture Capital"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国、生活費危機と高インフレ懸念が継続、経済下押し圧力",
+          "country": "United Kingdom",
+          "category": "Economy, Inflation",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "英国では、高騰するエネルギー価格と食料インフレにより生活費危機が深刻化。家計と企業に負担、経済成長への逆風となる見込み。",
+          "affected_sectors": [
+            "Retail",
+            "Hospitality",
+            "Utilities",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国消費者信頼感、3月に2026年最低水準へ下落",
+          "country": "United States",
+          "category": "Economy, Consumer Sentiment",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "3月の米消費者信頼感指数が予想外に悪化し、年初来最低水準に。今後の消費支出の先行きに対する懸念が高まる。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和期待で市場一時リスクオン。インフレと景気減速リスクは残存。"
     }
   }
 ]
