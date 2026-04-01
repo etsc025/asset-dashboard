@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争によるホルムズ海峡封鎖で原油高騰、市場に大きな影響",
-          "country": "中東・グローバル",
-          "category": "地政学/商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランとの戦争によりホルムズ海峡が封鎖され、ブレント原油は一時100ドルを突破。グローバル経済に広範囲な影響を与える可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国がイランに15項目の戦争終結案を送付、市場は和平期待で上昇",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ政権がイランに戦争終結のための15項目の計画を送付との報道。株式先物は上昇し、原油価格は下落。",
-          "affected_sectors": [
-            "株式全般",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAIが100億ドルの追加資金調達を完了、記録的な規模",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "OpenAIが記録的な100億ドルの追加資金調達ラウンドを完了。AI関連投資ブームが継続していることを示す。",
-          "affected_sectors": [
-            "AI・テクノロジー",
-            "ベンチャーキャピタル"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Armが自社初のチップを発表、Metaが初期顧客として採用",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Armが自社初の半導体チップを発表、Metaが最初の顧客。CEO Haasが新チップで150億ドルの売上目標を設定、株価6%上昇。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "JPモルガンCEOダイモンがAIによる雇用喪失を警告",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ダイモンCEOがAI技術による雇用への影響について警告し、政府と民間の連携による対策を求める。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "雇用"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀が金利を0.75%で据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行が政策金利を0.75%で据え置き。中東情勢の発展と原油価格高騰を注視していると表明。",
-          "affected_sectors": [
-            "金融",
-            "債券"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油急騰、米イラン和平交渉が市場の焦点"
-    }
-  },
-  {
     "timestamp": "2026-03-26 06:30",
     "data": {
       "breaking_news": [
@@ -13076,6 +12987,85 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン情勢の緊張緩和観測により、市場はリスクオンに転換。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争で米国の雇用減速懸念、エコノミストはリスク上昇を指摘",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争が米国企業に逆風。輸送費・燃料費高騰、雇用減速懸念。ユニリーバは採用凍結を発表。",
+          "affected_sectors": [
+            "消費財",
+            "運輸",
+            "エネルギー",
+            "労働市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争終結の期待で世界株式が上昇、原油価格は下落",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "世界株高、原油価格はイラン戦争終結期待で下落。トランプ大統領の発言が後押し。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXが機密裏にIPO申請を提出と報道",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SpaceXは米国SECに機密裏にIPO（新規株式公開）申請を提出し、将来の上場を示唆。",
+          "affected_sectors": [
+            "航空宇宙",
+            "テクノロジー",
+            "プライベートエクイティ"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国防総省、ボーイングとロッキードにミサイル生産3倍増を要請",
+          "country": "米国",
+          "category": "政府支出",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国防総省は、ボーイングとロッキードに対し、重要なミサイル生産を大幅に増強するよう契約。",
+          "affected_sectors": [
+            "防衛",
+            "航空宇宙"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米2月小売売上高と民間雇用者数が予想を上回る",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米2月の小売売上高と民間雇用者数がともに予想を上回り、底堅い消費を再確認。",
+          "affected_sectors": [
+            "小売",
+            "一般消費財",
+            "労働市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争緩和期待で世界株高; 米国雇用リスクも浮上。"
     }
   }
 ]
