@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争影響でホルムズ海峡航行停止続く、原油価格が97ドル台に急騰",
-          "country": "イラン/湾岸諸国/米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響でホルムズ海峡の船舶航行が停止状態が続き、原油価格が急騰。米国ベンチマーク原油は91.77ドル、ブレント原油は100ドルを一時突破し97.32ドルに。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "湾岸経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国がイラン終戦15項目計画を提示、市場は慎重ながらも平和的解決に期待",
-          "country": "米国/イラン",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が米国がイラン戦争終結に向けた15項目計画を提示したと報告。イランは条件なしでの交渉を拒否したものの、市場では平和的解決への慎重な期待が高まっている。",
-          "affected_sectors": [
-            "株式市場全般",
-            "原油",
-            "防衛関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAIが追加100億ドル資金調達、記録的な調達額でAIセクターに注目",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが記録的な100億ドルの追加資金調達を実施。CFOがCramerに語った。AI関連株価に波及効果が期待される。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI関連",
-            "ベンチャーキャピタル"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%に据え置き、中東情勢と原油価格上昇を警戒",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行が政策金利を0.75%で据え置き。中東情勢の展開、金融市場のボラティリティ、原油価格急騰を注視すると声明。",
-          "affected_sectors": [
-            "円相場",
-            "銀行",
-            "日本株"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "マイクロン株4日連続下落、好決算にもかかわらず売り継続",
-          "country": "米国",
-          "category": "株式",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "マイクロン株が優良決算にもかかわらず4日連続下落。半導体セクターの調整が続いている。",
-          "affected_sectors": [
-            "半導体",
-            "メモリー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油100ドル突破、1990年代以来の湾岸危機"
-    }
-  },
-  {
     "timestamp": "2026-03-26 04:00",
     "data": {
       "breaking_news": [
@@ -13218,6 +13140,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東緊張緩和期待がグローバル株式市場を押し上げ、原油価格は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争終結観測で世界的に株価が急伸、日経平均は大幅反発",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領のイラン戦争終結示唆を受け、中東情勢緩和期待から米・日株式市場が大幅反発。S&P500は2.9%超、日経平均は5%超上昇した。",
+          "affected_sectors": [
+            "株式市場全般",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争終結期待で原油価格が軟化、$100前後で推移",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン戦争終結への期待感から、原油価格は高騰が一服し、現在$100付近で推移。供給懸念が後退した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緩和で債券市場に買い、長期金利は低下",
+          "country": "米国, 日本",
+          "category": "債券市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東紛争終結観測が広がり、安全資産としての債券買いが優勢に。米国債・日本国債の長期金利が低下している。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "銀行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結観測で世界株式市場が急伸、投資家心理が改善"
     }
   }
 ]
