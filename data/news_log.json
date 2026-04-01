@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Iran戦争により原油価格急騰、ホルムズ海峡封鎖で供給懸念",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の封鎖により原油価格が81ドル台に急騰。エネルギー供給網の深刻な混乱で世界経済への影響が拡大。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米Fed金利政策転換、99.1%の確率で据え置きを維持",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化でインフレ懸念が再燃。5年ブレークイーブン金利が20bp上昇し、Fed利下げ期待が後退。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テック"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利0.75%で据え置き、原油高を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀は中東情勢と原油価格急騰を注視し政策金利を据え置き。日経平均は0.83%下落で推移。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAIが追加100億ドル調達、過去最大の資金調達ラウンド",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが記録的な100億ドルの追加資金調達を実施。AI関連投資への期待が高まる。",
-          "affected_sectors": [
-            "テック",
-            "AI"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国がイラン和平案提示、株価先物が反発",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "NYタイムズ報道によると米国がイランに和平案を提示。地政学リスク緩和期待で株式先物が上昇。",
-          "affected_sectors": [
-            "防衛",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"5-1,5-14\">ホルムズ海峡封鎖によりエネルギー供給網が深刻な混乱</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 11:00",
     "data": {
       "breaking_news": [
@@ -13901,6 +13824,81 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米大統領のイラン戦争終結示唆で世界市場に安心感、株価急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、イラン戦争終結期待で急騰",
+          "country": "USA",
+          "category": "Equity Market, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争終結への期待感から米国株式市場が急騰し、ダウ平均は1,100ポイント以上上昇。S&P 500も2.9%高を記録した。",
+          "affected_sectors": [
+            "Broad Market",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、イラン戦争終結期待で下落",
+          "country": "Global",
+          "category": "Commodities, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争終結への期待が高まり、原油価格が下落。トランプ大統領の米軍撤退発言も影響した。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン紛争による物価高騰と世界経済成長鈍化を警告",
+          "country": "Global",
+          "category": "Macroeconomics, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、イラン紛争が世界的な物価上昇と経済成長の鈍化を招くとの見通しを発表し、市場に警戒感を与えている。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金融犯罪が4.4兆ドル超え、Nasdaqレポート",
+          "country": "Global",
+          "category": "Financial Regulation, Cybersecurity",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Nasdaq Verafinの2026年グローバル金融犯罪レポートによると、金融犯罪による被害額が4.4兆ドルを突破し、警戒が促される。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "J.Jill、2026年度EBITDA見通しと配当増額",
+          "country": "USA",
+          "category": "Earnings, Retail",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "アパレル小売のJ.Jillが2026年度の調整後EBITDAを7000万～7500万ドルと予測し、配当を0.09ドルに引き上げた。",
+          "affected_sectors": [
+            "Retail",
+            "Apparel"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結期待で米国株急騰、原油下落。IMFは世界経済への悪影響を警告。"
     }
   }
 ]
