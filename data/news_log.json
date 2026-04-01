@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化でホルムズ海峡封鎖、原油価格急騰",
-          "country": "中東・グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡での船舶輸送が停止し原油価格が97ドル超に急騰。グローバル経済への影響が深刻化。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB、政策金利3.5-3.75%で据え置き決定",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "インフレ懸念とイラン戦争の不確実性により利下げを見送り。2026年中1回の利下げ予想維持。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB・BOE・SNBも政策金利据え置き",
-          "country": "欧州",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "エネルギー価格急騰でインフレリスク再燃。ECBは「見通しが著しく不透明」と警告。",
-          "affected_sectors": [
-            "銀行",
-            "エネルギー",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI追加100億ドル調達完了",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "過去最大規模の資金調達ラウンド。AI関連投資への関心が継続。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀、政策金利0.75%で維持決定",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢と原油価格急騰を注視。国内市場は下落圧力継続。",
-          "affected_sectors": [
-            "銀行",
-            "エネルギー",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国、イラン和平案提示報道",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "15項目からなる戦争終結案を提示。市場は一時的な楽観論も、イランは拒否姿勢。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "金"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油97ドル突破、グローバル中銀が利下げ停止"
-    }
-  },
-  {
     "timestamp": "2026-03-26 05:00",
     "data": {
       "breaking_news": [
@@ -13166,6 +13073,58 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン紛争終結期待で世界株高、原油価格下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争終結観測で世界株高、原油価格下落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦観測で原油価格が下落、世界株式市場でリスク回避姿勢が和らぎ株価が大幅反発。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Industrials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均が5営業日ぶり急反発、中東情勢緩和で",
+          "country": "Japan",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緊張緩和を受け、日経平均株価が5営業日ぶり急反発。今年最大の上げ幅を記録し、海外勢の買いが主導。",
+          "affected_sectors": [
+            "Technology",
+            "Non-ferrous Metals",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAIが8520億ドル評価額で資金調達、NvidiaはMarvellに20億ドル出資",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OpenAIが8520億ドル評価額で資金調達完了。NvidiaはMarvellに20億ドル出資しAIチップ開発で協力へ。",
+          "affected_sectors": [
+            "Technology",
+            "Artificial Intelligence",
+            "Semiconductors"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和への期待が市場を押し上げ、世界的に株価が急騰し原油価格は下落。リスクオンの流れ。"
     }
   }
 ]
