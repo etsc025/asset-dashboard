@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランとの和平協議で軍事作戦を5日間延期",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"18-4,18-7,18-10\">トランプ大統領は米国とイランが週末に生産的な協議を行い、イランの発電所への攻撃を5日間延期すると発表</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が10%以上急落、ホルムズ海峡問題で変動継続",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"18-1,18-2\">ブレント原油が11%近く下落し99.94ドル、WTI先物も10%超下落し88.13ドルへ</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、原油価格予測を大幅上昇修正",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"18-14,18-15\">GSがブレント原油の3-4月平均予測を98ドルから110ドルに、WTIを98ドル（3月）、105ドル（4月）に上方修正</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "シェブロンCEO、原油市場はホルムズ海峡封鎖の影響を過小評価",
-          "country": "米国",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"17-2\">ホルムズ海峡封鎖の物理的影響が先物価格に完全に織り込まれていないとCEOが警告</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国ガソリン価格、戦争開始以来約1ドル上昇",
-          "country": "米国",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"19-2\">米国のガソリン平均価格が日曜日に3.94ドル/ガロンに達し、戦争開始以来約1ドル上昇</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "運輸"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"11-1,14-4\">原油価格100ドル超継続、ホルムズ海峡封鎖で市場混乱</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-26 05:30",
     "data": {
       "breaking_news": [
@@ -13125,6 +13048,58 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢緩和への期待が市場を押し上げ、世界的に株価が急騰し原油価格は下落。リスクオンの流れ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争終結観測で世界株急騰、原油価格は軟化",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの紛争終結への期待が高まり、世界の株式市場が大幅反発。米ダウ平均や日経平均が急伸し、原油価格は一時軟化したが依然高値圏。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Energy",
+            "Financials",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPMorgan Chase、米国で「アメリカン・ドリーム・イニシアチブ」を発表",
+          "country": "United States",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "JPMorgan Chaseは、米国の地域社会への投資を通じて経済的機会を拡大する複数年プログラム「アメリカン・ドリーム・イニシアチブ」を開始。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services",
+            "Community Development"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SpaceXが株式市場への上場を秘密裏に申請したと報じられる",
+          "country": "United States",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イーロン・マスク氏のSpaceXが、株式市場への上場を検討し、秘密裏に申請を行ったと報じられている。",
+          "affected_sectors": [
+            "Aerospace",
+            "Technology",
+            "Space Exploration"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結観測で世界株高、原油価格軟化、市場はリスクオン。"
     }
   }
 ]
