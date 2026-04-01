@@ -1,101 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン攻撃5日間延期を発表 - 油価急落、株価急騰",
-          "country": "アメリカ/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"11-13,19-2\">トランプ大統領がイランとの「生産的な交渉」を理由に軍事攻撃を5日間延期すると発表。ダウ平均は1000ポイント超上昇、原油価格は11%急落</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖継続 - 世界石油供給20%に影響",
-          "country": "中東/世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"14-10,16-16\">ホルムズ海峡の封鎖継続により世界石油供給の20%が遮断。国際エネルギー機関は「史上最大の脅威」と警告</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格乱高下 - ブレント原油$99-112で推移",
-          "country": "世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"11-1,20-10\">ブレント原油は週末$112から月曜$99まで11%急落後、火曜に$104超まで回復。市場は懐疑的な見方を継続</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "化学",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インサイダー取引疑惑 - トランプ発表前に5.8億ドルの原油売り",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"15-7,16-2\">トランプ発表15分前に5.8億ドルの原油先物売りポジションが確認され、インサイダー取引の疑いで調査要求</cite>",
-          "affected_sectors": [
-            "金融",
-            "規制"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB政策転換 - 利上げ確率99.1%に上昇",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"9-7,9-23\">インフレ懸念でFRBの利上げ確率が90.8%から99.1%に上昇。5年ブレークイーブン金利も20bp上昇</cite>",
-          "affected_sectors": [
-            "債券",
-            "不動産",
-            "成長株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "供給網混乱拡大 - ヘリウム・硫黄・肥料価格高騰",
-          "country": "世界",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"9-1,15-9,15-11\">カタールのヘリウム生産停止で半導体価格上昇懸念。硫黄供給45%減で肥料・金属業界に影響</cite>",
-          "affected_sectors": [
-            "半導体",
-            "農業",
-            "金属",
-            "化学"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"17-14,17-15\">企業幹部は約2週間の解決期限設定。それ以降は長期化想定でエネルギー不足対策が必要</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 14:30",
     "data": {
       "breaking_news": [
@@ -13673,6 +13577,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢悪化と原油高騰が主要リスク、ECBは金利据え置き。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化と原油高、市場は和平期待で一時反発",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢の緊迫化で原油価格は高止まり。しかし和平への期待から一部市場で株価が一時的に反発、状況は不安定。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2月求人件数、2020年以来の低水準に減少",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国2月の求人件数が減少し、採用率は2020年以来の最低水準。労働市場の減速は金融政策に影響を与える可能性。",
+          "affected_sectors": [
+            "Staffing",
+            "Retail",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国製造業PMI、中東情勢をよそに活動拡大に転じる",
+          "country": "China",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国の製造業活動が中東情勢の混乱にもかかわらず成長を回復。世界経済の回復を示すポジティブな兆候。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Industrials",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "東京株式市場、日経平均が2000円超の大幅高",
+          "country": "Japan",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "東京株式市場で日経平均株価が2000円超上昇。中東紛争終結への期待が市場の好転に寄与した模様。",
+          "affected_sectors": [
+            "Technology",
+            "Automotives",
+            "Export"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢と原油価格が市場の最重要焦点。株価動向も注視が必要。"
     }
   }
 ]
