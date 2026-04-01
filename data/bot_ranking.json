@@ -1,10 +1,10 @@
 {
   "date": "2026-04-01",
-  "timestamp": "2026-04-01T17:44:47.818065",
-  "usdjpy": 158.44,
+  "timestamp": "2026-04-01T18:15:04.613758",
+  "usdjpy": 158.6,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
-  "vix": 24.68000030517578,
+  "vix": 24.770000457763672,
   "ranking": [
     {
       "bot": "Bot11_SubspacePCA",
@@ -79,6 +79,18 @@
       "score": 0.3062
     },
     {
+      "bot": "Bot4_Momentum_Intl",
+      "total_return": -0.0027,
+      "mdd": -0.0035,
+      "win_rate": 0.0,
+      "sharpe": -15.87,
+      "n_trades": 5,
+      "latest_equity": 997268.0,
+      "days": 2,
+      "rank": 7,
+      "score": 0.3604
+    },
+    {
       "bot": "Bot6_RL_MA",
       "total_return": -0.0031,
       "mdd": -0.0029,
@@ -87,20 +99,8 @@
       "n_trades": 1,
       "latest_equity": 996948.0,
       "days": 3,
-      "rank": 7,
-      "score": 0.2965
-    },
-    {
-      "bot": "Bot4_Momentum_Intl",
-      "total_return": -0.0032,
-      "mdd": -0.0035,
-      "win_rate": 0.0,
-      "sharpe": -15.87,
-      "n_trades": 5,
-      "latest_equity": 996788.0,
-      "days": 2,
       "rank": 8,
-      "score": 0.3555
+      "score": 0.2965
     },
     {
       "bot": "Bot3_FactorAI",
