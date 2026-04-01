@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争でホルムズ海峡封鎖、原油価格急騰",
-          "country": "中東/グローバル",
-          "category": "地政学/商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によりホルムズ海峡の航行が停止、原油価格が$97超に急騰。世界エネルギー供給に深刻な打撃。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国が対イラン15項目和平案を提案",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ政権がイラン戦争終結に向けた15項目計画を策定。投資家は早期終戦への期待で株価上昇。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB政策金利据え置きほぼ確実、確率99.1%に上昇",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢悪化でインフレ懸念が高まり、FRBの据え置き確率が1ヶ月前の90.8%から99.1%に上昇。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAI追加100億ドル調達完了、記録的資金調達ラウンド",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが追加で100億ドルを調達し、記録的な資金調達ラウンドを完了。AI関連株に追い風。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI",
-            "半導体"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀政策金利0.75%据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が政策金利を0.75%で据え置き。中東情勢と原油価格急騰への懸念を表明。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "輸送"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧州中銀、年内2回の利上げ織り込み",
-          "country": "欧州",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "エネルギー価格急騰でインフレ加速懸念、先物市場がECBの年内2回利上げを織り込み。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "消費財"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖で原油$97超、世界経済に深刻な供給ショック"
-    }
-  },
-  {
     "timestamp": "2026-03-25 15:30",
     "data": {
       "breaking_news": [
@@ -13619,6 +13525,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン紛争終結期待が市場を動かす。株価高騰、原油急落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米トランプ氏のイラン戦争早期撤退発言で世界株が急騰",
+          "country": "Global",
+          "category": "Geopolitics, Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領がイラン戦争からの早期撤退を示唆したことで、世界株式市場は大幅に上昇し、原油価格は100ドルを下回った。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy",
+            "Financials",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州株が急騰、原油価格は100ドル割れ - トランプ氏のイラン発言受け",
+          "country": "Europe",
+          "category": "Market Performance, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領のイラン戦争終結示唆を受け、欧州株式市場が急騰し、パンヨーロピアンStoxx 600が2.3%上昇、原油は100ドルを下回った。",
+          "affected_sectors": [
+            "European Equities",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イランが米国との交渉を否定、原油価格が上昇し緊張緩和期待が後退",
+          "country": "Global",
+          "category": "Geopolitics, Commodity Market",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イランが米国との和平交渉を否定したことで、中東情勢の緊張緩和への期待が後退し、原油価格が再び上昇。市場に不確実性再燃。",
+          "affected_sectors": [
+            "Energy",
+            "Global Equities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン情勢に動揺。終結期待と交渉否定が市場を揺らす。"
     }
   }
 ]
