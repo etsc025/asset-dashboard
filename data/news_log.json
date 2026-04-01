@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イラン攻撃を5日間延期・株式市場急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"11-4,11-5\">トランプ大統領が米イラン間の交渉が「良好で生産的」と発表し、イランの電力インフラ攻撃を5日間延期。中東紛争終結への期待から投資家心理改善</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "クルーズ",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落・WTI10%超下落でエネルギー株売り",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"14-1,14-2\">ブレント原油が11%近く下落し99.94ドル、WTI原油も10%超下落し88.13ドルに。ホルムズ海峡再開への期待でエネルギー株は軒並み下落</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "石油",
-            "ガス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダウ631ポイント上昇・全セクター買いの相場",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"11-6,11-7\">ダウ平均631ポイント（1.38%）上昇し46,208で終了。S&P500は1.15%上昇、ナスダックは1.38%上昇。全11セクターが上昇</cite>",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ゴールドマンサックス原油価格予想を大幅上方修正",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"14-6,14-7\">ゴールドマンがブレント原油の3-4月平均予想を98ドルから110ドルに上方修正。WTIも3月98ドル、4月105ドルに引き上げ</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "インフレ関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "金価格6.6%急落・戦争インフレ懸念で債券売り",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"19-3,19-4\">金価格が6.6%下落し4,188.99ドル。戦争起因のインフレが金利上昇を招くとの見方から、利回りのない貴金属の魅力低下</cite>",
-          "affected_sectors": [
-            "貴金属",
-            "債券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バークシャー・ハサウェイ、東京海上に18億ドル投資",
-          "country": "日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"11-35\">バフェット率いるバークシャー・ハサウェイが東京海上ホールディングスに18億ドル投資。日本進出と世界保険市場での結び付き強化</cite>",
-          "affected_sectors": [
-            "保険",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "<cite index=\"11-4,11-5\">トランプ・イラン交渉進展でホルムズ海峡再開期待、株式急反発・原油急落</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 07:30",
     "data": {
       "breaking_news": [
@@ -13973,6 +13884,73 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン戦争終結期待で米国株急騰、しかし原油高とインフレ懸念は継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争による原油価格高止まり、世界経済にインフレ圧力",
+          "country": "Global",
+          "category": "Energy, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるホルムズ海峡の混乱で原油価格が高止まり。世界経済へのインフレ圧力が増大し、成長鈍化懸念が深刻化。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏3月インフレ率がエネルギー価格高騰で2.5%に急騰",
+          "country": "Eurozone",
+          "category": "Economics, Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の3月消費者物価指数がエネルギー価格急騰で2.5%に上昇。ECBの金融引き締め圧力が高まり、経済に影響。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Staples",
+            "Financials",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2月求人件数減少、労働市場の軟化示唆",
+          "country": "United States",
+          "category": "Labor Market, Economics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の2月求人件数が予想を下回り688万件に減少。労働市場の軟化を示唆し、今後のFRBの金融政策に影響。",
+          "affected_sectors": [
+            "Employment Services",
+            "Retail",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OracleがAI投資推進のため数千人規模のレイオフを計画",
+          "country": "United States",
+          "category": "Technology, Corporate News",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "オラクルはAIインフラ投資強化のため、数千人規模の人員削減を計画。テック業界の再編と効率化の動き。",
+          "affected_sectors": [
+            "Technology",
+            "Software"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争による原油高とインフレ懸念が世界経済を圧迫。"
     }
   }
 ]
