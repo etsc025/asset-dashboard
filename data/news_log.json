@@ -1,96 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国がイランに15項目の和平案を提示、市場は反発",
-          "country": "米国・イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "NYタイムズ報道により米株先物が上昇、石油価格は11%下落。和平期待で主要株価指数は1%超上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖でエネルギー危機が長期化",
-          "country": "中東諸国",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格が97ドル台まで急騰、1990年代以来の湾岸諸国への最大の挑戦。ヘリウム供給も停止で半導体業界に影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "半導体",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBが金利据え置き決定、インフレ懸念で政策転換",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "据え置き確率99.1%に上昇、5年期待インフレ率が20bp上昇。2026年中の利下げ確率も大幅低下。",
-          "affected_sectors": [
-            "金融",
-            "債券",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAIが追加100億ドル調達、過去最大の資金調達ラウンド",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "CFOがクレイマーに語った内容。AI関連投資熱が継続、テック株押し上げ要因。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀が政策金利0.75%で据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢と油価急騰を注視と声明。日経225は0.83%下落、戦略石油備蓄放出を実施。",
-          "affected_sectors": [
-            "金融",
-            "株式"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧州債券利回りが大幅上昇、ECB利上げ観測",
-          "country": "欧州",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "独10年債利回りが3.04%（2011年以来最高）、仏10年債が3.75%（2009年以来最高）に上昇。",
-          "affected_sectors": [
-            "債券",
-            "通貨",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン和平案で短期反発も、ホルムズ海峡危機による長期インフレリスク"
-    }
-  },
-  {
     "timestamp": "2026-03-25 12:30",
     "data": {
       "breaking_news": [
@@ -13833,6 +13742,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン紛争沈静化期待で世界株高、原油価格は注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イランが米国との協議を否定、原油価格は高騰継続",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが米国との協議を否定したため、原油価格は引き続き高騰。中東情勢の緊張緩和への期待は薄れ、市場は警戒感を強めている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争終結への期待感からアジア株式市場が急騰",
+          "country": "Asia",
+          "category": "Market Trends",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン紛争終結への期待感が高まり、アジアの株式市場は急騰。しかし、地政学的な不確実性は残る。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Export-oriented sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ前大統領、数週間内のイランからの米軍撤退を示唆",
+          "country": "US",
+          "category": "Government Policy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ前大統領が数週間内のイランからの米軍撤退を示唆。この発言は原油市場に影響を与え、市場に複雑な反応を呼んでいる。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東紛争がインフレリスク増大、中央銀行の金融引き締め長期化の懸念",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるエネルギー価格上昇でインフレ圧力が強まり、主要中央銀行は金融引き締めを長期化させる可能性があり、債券市場にストレスの兆候が見られる。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化による原油高騰と金融市場の不確実性。"
     }
   }
 ]
