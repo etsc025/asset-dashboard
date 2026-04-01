@@ -1,95 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "OpenAI raises $10 billion in record funding round",
-          "country": "米国",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-8\">OpenAIが記録的な100億ドルの資金調達ラウンドを実施</cite>。AI業界への投資マネー流入を示す",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI/機械学習"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Iran戦争とホルムズ海峡封鎖で石油価格急騰",
-          "country": "中東/グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"8-3,8-7,8-8\">原油価格が81ドル、一時100ドル突破。イラン戦争によるホルムズ海峡封鎖で供給懸念が拡大</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "インフラ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイラン、戦争終結に向けた15項目計画で協議",
-          "country": "米国/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-8,9-10\">米国がイランに戦争終結に向けた15項目の計画を送付。金融市場に安心感</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "株式全般",
-            "為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利0.75%で据え置き決定",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-12,4-13\">日本銀行が政策金利を0.75%で維持。中東情勢とエネルギー価格高騰を注視する姿勢</cite>",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "円債"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Arm初の自社チップでMeta顧客獲得、株価6%上昇",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-8\">ArmがMetaを初回顧客として自社チップを発表、150億ドルの売上目標を設定</cite>",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Micron株価4日連続下落、決算好調も継続安",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-1\">Micronが好決算にもかかわらず4日連続で株価下落</cite>。半導体セクターへの懸念継続",
-          "affected_sectors": [
-            "半導体",
-            "メモリ"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"4-1,4-2,4-3\">イラン戦争によるホルムズ海峡封鎖が1990年代以降最大の湾岸経済危機に発展する可能性</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-26 04:30",
     "data": {
       "breaking_news": [
@@ -13191,6 +13101,71 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン戦争終結観測で世界株式市場が急伸、投資家心理が改善"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争終結への期待高まり、世界株価が大幅上昇",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米大統領のイラン戦争早期終結発言を受け、原油価格が下落し、世界中の株式市場でリスクオンムードが広がり株価が上昇中。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Goldman Sachs、利上げの可能性は「はるかに低い」",
+          "country": "US",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Goldman Sachsが、現在の市場環境と地政学的要因を考慮し、米連邦準備制度による今後の利上げの可能性は低いとの見方を示した。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "不動産"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SpaceX、株式市場への上場を秘密裏に申請",
+          "country": "US",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イーロン・マスク氏率いる宇宙開発企業SpaceXが、株式公開に向けた申請を秘密裏に行ったと報じられ、市場の注目を集めている。",
+          "affected_sectors": [
+            "航空宇宙",
+            "テクノロジー",
+            "プライベートエクイティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oracle、AI投資強化のため数千人規模を削減",
+          "country": "US",
+          "category": "企業戦略",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "OracleがAI関連事業への投資を拡大する戦略の一環として、数千人の従業員を解雇。テクノロジー業界の構造変化を示唆する動き。",
+          "affected_sectors": [
+            "ソフトウェア",
+            "クラウドコンピューティング",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン紛争終結期待で世界株高、原油価格下落。"
     }
   }
 ]
