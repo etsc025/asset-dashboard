@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡の事実上封鎖継続 - 世界最大級のエネルギー危機",
-          "country": "イラン・米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争により<cite index=\"11-1,12-7\">ブレント原油が126ドル/バレルのピークに達し、世界の石油供給の20%が遮断</cite>されている。<cite index=\"18-13\">1970年代以来最大級のエネルギー危機</cite>と評価されている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "インフラ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会、金利据え置き決定 - 中東情勢の不透明性を警戒",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FRBは<cite index=\"21-13\">3.5-3.75%のレンジを維持</cite>し、<cite index=\"21-11\">中東情勢の米経済への影響が不透明</cite>として慎重姿勢を継続。<cite index=\"25-9,25-10\">2026年インフレ予測を2.7%に上方修正</cite>した。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カタール、全LNG輸出で不可抗力条項発動 - アジア向けエネルギー供給停止",
-          "country": "カタール",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"12-7,20-17\">カタールが全LNG輸出契約で不可抗力を宣言、施設がドローン攻撃を受け生産停止</cite>。<cite index=\"20-16\">世界のLNG輸出の20%がペルシャ湾経由</cite>で深刻な影響。",
-          "affected_sectors": [
-            "天然ガス",
-            "電力",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国・インド、最も深刻な影響 - エネルギー安全保障が脅威に",
-          "country": "中国・インド",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"20-9,20-21\">中国は原油輸入の40%、インドはLNG輸入の53%がホルムズ海峡経由</cite>。<cite index=\"14-25\">アジアのエネルギー安全保障が最も深刻な脅威</cite>にさらされている。",
-          "affected_sectors": [
-            "製造業",
-            "運輸",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "戦略石油備蓄4億バレル放出決定 - 一時的市場安定化効果",
-          "country": "国際エネルギー機関",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"15-8,15-11\">IEAが緊急備蓄から4億バレルを放出、通常のホルムズ輸送量約20日分に相当</cite>。<cite index=\"15-13\">一時的な市場安定効果は期待できるが根本的解決にはならない</cite>。",
-          "affected_sectors": [
-            "石油精製",
-            "商品取引"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"18-1,18-3\">ホルムズ海峡の事実上封鎖により石油市場にとって「最悪のシナリオ」が進行中</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 15:00",
     "data": {
       "breaking_news": [
@@ -13643,6 +13565,60 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢と原油価格が市場の最重要焦点。株価動向も注視が必要。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争終結期待で世界株高騰",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ氏の発言を受け、イラン紛争終結への期待が高まり、米国・アジア市場で株価が急上昇、原油価格は下落。",
+          "affected_sectors": [
+            "Equities",
+            "Energy",
+            "Transportation",
+            "Industrials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国主要株価指数、イラン紛争終結期待で急騰",
+          "country": "USA",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争終結への期待感から、ダウ平均は1,100ポイント超の急騰を見せ、米国株式市場は大幅上昇。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Industrials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、イラン紛争終結期待で急落し100ドル割れ",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争終結の兆候により原油価格が乱高下し、一部報道では一時1バレル100ドルを下回った。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン紛争終結期待が市場を動かす。株価高騰、原油急落。"
     }
   }
 ]
