@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡封鎖で原油価格急騰、米国は99.1%の確率で金利据え置きへ",
-          "country": "米国/中東",
-          "category": "地政学/金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるホルムズ海峡封鎖で原油価格が81ドル/バレル超え（2024年夏以来の高値）。FRBが金利据え置きの確率99.1%に上昇（1ヶ月前は90.8%）。",
-          "affected_sectors": [
-            "エネルギー",
-            "半導体",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI、100億ドルの追加資金調達完了、AI関連株に注目",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが記録的な100億ドルの追加資金調達を完了。AI関連企業への投資が拡大。Armが新チップで150億ドル売上予想を発表、株価6%上昇。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI",
-            "半導体"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀、政策金利0.75%に据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行が政策金利を0.75%で据え置き。中東情勢と原油価格高騰を注視。日経平均は0.83%下落、石油戦略備蓄の放出を実施。",
-          "affected_sectors": [
-            "日本株",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ヘリウム供給停止で半導体業界に警戒、カタール生産の3分の1停止",
-          "country": "カタール/世界",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "カタールのヘリウム生産停止（世界の3分の1）。半導体製造に必要なヘリウム不足で、チップ価格上昇の懸念。半導体業界は世界ヘリウム消費の5分の1を占める。",
-          "affected_sectors": [
-            "半導体",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECBが年内2回利上げ予想、欧州国債利回りが大幅上昇",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドイツ10年債利回り3.04%（2011年以来の高水準）、フランス10年債3.75%（2009年以来）。市場はECB年内2回利上げを織り込み。",
-          "affected_sectors": [
-            "欧州株",
-            "金融",
-            "不動産"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖継続、原油高とインフレ懸念で世界的にリスクオフ"
-    }
-  },
-  {
     "timestamp": "2026-03-25 20:30",
     "data": {
       "breaking_news": [
@@ -13407,6 +13328,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン戦争終結期待で市場がリスクオンに転換、株価上昇・原油安。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争終結期待で原油下落、世界株急騰",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Equity Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争終結への期待が高まり、原油価格は下落し、世界の株式市場が急騰。リスクオンの流れに。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株が大幅上昇、ダウ平均1,100ポイント超急騰",
+          "country": "USA",
+          "category": "Equity Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争終結への期待感から、ダウ平均が1,100ポイント超急騰。ウォール街は大幅高。",
+          "affected_sectors": [
+            "Broad Market",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英イングランド銀行、イラン戦争で住宅ローン支払い増を警告",
+          "country": "UK",
+          "category": "Monetary Policy, Economic Outlook, Housing",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争により、英国の130万世帯で住宅ローン支払額が増加する可能性をイングランド銀行が警告。",
+          "affected_sectors": [
+            "Real Estate",
+            "Financials",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英住宅建設大手バークレー、新規土地購入と採用停止",
+          "country": "UK",
+          "category": "Real Estate, Corporate News, Economic Indicator",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の住宅建設大手バークレーが新規土地購入と人員採用を停止。建設市場の減速を示唆。",
+          "affected_sectors": [
+            "Real Estate",
+            "Construction",
+            "Materials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結期待で世界株高、原油安。市場はリスクオンに。"
     }
   }
 ]
