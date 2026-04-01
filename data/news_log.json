@@ -1,100 +1,5 @@
 [
   {
-    "timestamp": "2026-03-25 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争によるホルムズ海峡封鎖で石油価格急騰、グローバル市場に激震",
-          "country": "イラン/米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"5-1,5-2\">イラン戦争によりホルムズ海峡の船舶通航が完全停止、石油・天然ガス価格が急騰し、グローバル市場が大幅下落。1970年代以来の危機</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "半導体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が$100超え、米株式市場が急落",
-          "country": "米国",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"7-7,7-8\">米国基準原油が$91.77、ブレント原油が$97.32まで上昇し一時$100突破。米株式市場は大幅下落</cite>",
-          "affected_sectors": [
-            "石油",
-            "航空",
-            "自動車",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBが利下げ期待を大幅下方修正、インフレ圧力高まる",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-23,6-26\">FRBの据え置き確率が99.1%、2026年の据え置き確率も60%に上昇。インフレ期待値が大幅上昇</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が金利据え置き、中東情勢を注視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"5-11,5-13\">日銀が政策金利0.75%で据え置き決定。中東情勢と原油価格急騰を注視すると表明</cite>",
-          "affected_sectors": [
-            "銀行",
-            "保険",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAIが追加100億ドル調達、記録的な資金調達ラウンド",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-8\">OpenAIが追加100億ドルの記録的資金調達を実施、AI分野への投資熱が継続</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI",
-            "半導体"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ヘリウム供給危機で半導体業界に影響懸念",
-          "country": "カタール",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,6-2,6-3\">カタールからのヘリウム出荷停止。世界の半導体製造の5分の1がヘリウムに依存、チップ価格上昇の可能性</cite>",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"5-3\">ホルムズ海峡封鎖で1990年代以来最大のエネルギー危機、グローバル経済への深刻な影響</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-25 10:30",
     "data": {
       "breaking_news": [
@@ -13921,6 +13826,81 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東紛争終結期待で世界株高、日経平均1800円超上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-01 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、イラン紛争終結期待で急騰",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争終結への期待感から、NYダウは1100ドル超、S&P 500は2.9%上昇し、ナスダックも急反発した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "資本財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国ウォン、中東情勢悪化で17年ぶり安値",
+          "country": "韓国",
+          "category": "為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化への懸念から、韓国ウォンが対米ドルで急落し、17年ぶりの安値水準を記録。",
+          "affected_sectors": [
+            "輸出企業",
+            "輸入企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ナイキ株下落、業績見通しが予想を下回る",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ナイキが軟調な業績ガイダンスを発表し、株価が9%下落。業績回復にはばらつきが見られる。",
+          "affected_sectors": [
+            "アパレル",
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "オラクル、AI強化の再編で人員削減に着手か",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "オラクルがAIインフラ投資に伴うworkforce再編のため、数千人規模の人員削減を進めていると報じられた。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ブラジル、WTOデジタル貿易無関税協定の更新を阻止",
+          "country": "ブラジル",
+          "category": "貿易政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ブラジルが世界貿易機関（WTO）における電子商取引の無関税協定の更新を阻止した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "電子商取引"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米大統領のイラン戦争終結示唆で世界市場に安心感、株価急騰。"
     }
   }
 ]
