@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争がホルムズ海峡を封鎖、原油価格急騰",
-          "country": "中東/アメリカ",
-          "category": "地政学/商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-2,4-1,7-7\">イラン戦争によりホルムズ海峡の船舶通航が停止し、原油価格が急騰。米国WTI原油は91.77ドル、ブレント原油は97.32ドルまで上昇し、一時100ドルを超える</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場、中東情勢緊迫化で下落圧力",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"1-4,7-12\">株価指数先物が下落し、投資家は米国・イラン戦争の進展を注視。弱い経済と高インフレの最悪シナリオへの懸念が市場を圧迫</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が政策金利を0.75%で据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"4-11,4-13\">日本銀行は政策金利を0.75%で維持。中東情勢、金融市場ボラティリティ、原油価格急騰を注視すると表明。決定は全会一致ではなかった</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "SpaceX IPO申請が今週にも実施の報道",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"1-6,1-12\">SpaceXが今週IPO申請を行う可能性があると報じられ、宇宙関連株が上昇。投資ファンドを通じた現在の投資機会に注目</cite>",
-          "affected_sectors": [
-            "宇宙・航空宇宙",
-            "テクノロジー",
-            "防衛"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AI関連データセンター建設で3兆ドルの資金調達",
-          "country": "グローバル",
-          "category": "株式",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"2-7,10-9\">AI関連データセンター建設ブームで3兆ドル規模の借入需要。債券利回り上昇によりAI投資の資金調達コストが増加</cite>",
-          "affected_sectors": [
-            "テクノロジー",
-            "不動産",
-            "建設"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"4-3\">ホルムズ海峡封鎖が長期化すれば1990年代以来最大の湾岸経済危機に</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-26 10:00",
     "data": {
       "breaking_news": [
@@ -12916,6 +12837,71 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン戦争終結期待で世界株が上昇、原油価格は軟化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争終結への期待で世界の株式市場が急騰",
+          "country": "Global",
+          "category": "Market Reaction",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの紛争終結への期待から、ウォール街は急伸し、世界中の株価指数が大幅に上昇しました。",
+          "affected_sectors": [
+            "Equities",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緩和の観測で原油価格が下落",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争終結への希望が高まり、世界の株式市場が回復する中で、原油価格は下落しました。",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価、中東情勢の緩和観測で大幅反発",
+          "country": "Japan",
+          "category": "Market Reaction",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東戦闘の終結観測を受け、東京株式市場で日経平均株価が5営業日ぶりに大幅反発。今年最大の上げ幅を記録しました。",
+          "affected_sectors": [
+            "Equities",
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ECB当局者、エネルギー価格高止まりで4月利上げの可能性示唆",
+          "country": "Eurozone",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ECB政策委員会メンバーが、エネルギー価格が高止まりすれば4月の利上げも排除できないと発言。インフレリスクを警戒。",
+          "affected_sectors": [
+            "Financials",
+            "Bond Markets",
+            "European Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東紛争終結期待が高まり、世界市場で株高・原油安"
     }
   }
 ]
