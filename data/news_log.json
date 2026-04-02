@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式市場が大幅下落、原油価格急騰で市場に懸念",
-          "country": "米国",
-          "category": "株式市場, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化と原油価格の高騰を受け、米国株式市場は大幅に下落。S&P 500は1.74%安、ナスダックは2.38%安となり、VIX指数も上昇。原油価格は96ドル台後半に急騰し、インフレ懸念と金融引き締め観測を強めている。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Samsung、AIメモリ供給を巡る労組ストライキの危機",
-          "country": "韓国",
-          "category": "テクノロジー, 労働, サプライチェーン",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Samsungの労組がストライキに踏み切る可能性があり、NvidiaのHBM4などAI向けメモリ供給に混乱が生じる恐れがある。これは半導体サプライチェーン全体に影響を与える可能性がある。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー",
-            "エレクトロニクス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ソニー、PlayStation 5の価格を最大150ドル値上げ",
-          "country": "グローバル",
-          "category": "テクノロジー, 消費者向け製品, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ソニーは4月2日よりPlayStation 5の価格を最大150ドル引き上げると発表。世界的な経済情勢の圧力、米国の関税、メモリ価格の高騰が要因。",
-          "affected_sectors": [
-            "ゲーム産業",
-            "エレクトロニクス",
-            "消費財"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油急騰が世界経済に圧力、米国株大幅下落。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 11:00",
     "data": {
       "breaking_news": [
@@ -12580,6 +12529,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢の緊張緩和期待で世界株式市場が大幅反発。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領がイランへの「極めて強い」攻撃を表明、原油価格急騰と株式市場に圧力",
+          "country": "米国",
+          "category": "地政学, エネルギー, 株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領が今後2〜3週間でイランに対し「極めて強い」攻撃を行うと発言した。これを受け、原油価格は105ドル/バレルを超えて急騰し、米国株式先物は下落、アジア市場も軟調に推移している。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場全般",
+            "航空",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国製造業活動の急増とフランスのインフレ上昇が報じられる",
+          "country": "中国, フランス",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "最新のデータによると、中国の製造業活動は急増し、フランスではインフレ率が上昇した。これは世界経済の回復力に関して地域間で異なるシグナルを発している。",
+          "affected_sectors": [
+            "製造業",
+            "消費者裁量",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "トランプ発言を受け米ドルが上昇、円とポンドは軟化、金価格は高騰",
+          "country": "グローバル",
+          "category": "為替, コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領のイラン戦争に関する発言により、安全資産としての米ドルが上昇した。対照的に日本円と英ポンドは軟化し、金価格は地政学的緊張の高まりを受けて2週間ぶりの高値圏に達している。",
+          "affected_sectors": [
+            "為替市場",
+            "コモディティ市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化、トランプ発言で原油高騰と株安、ドル上昇。"
     }
   }
 ]
