@@ -2,21 +2,22 @@
   "alert": true,
   "level": "HIGH",
   "reasons": [
-    "VIX=25.2 (-0.4%) 高ボラティリティ・新規エントリー停止"
+    "VIX=27.5 (+12.2%) 高ボラティリティ・新規エントリー停止",
+    "先物下落: ES=-1.5% NQ=-2.0%（注意）"
   ],
-  "timestamp": "2026-04-01 22:10",
+  "timestamp": "2026-04-02 22:10",
   "vix": {
-    "vix_current": 25.16,
-    "vix_change": -0.36,
+    "vix_current": 27.53,
+    "vix_change": 12.18,
     "level": "HIGH",
-    "message": "VIX=25.2 (-0.4%) 高ボラティリティ・新規エントリー停止"
+    "message": "VIX=27.5 (+12.2%) 高ボラティリティ・新規エントリー停止"
   },
   "futures": {
-    "es_change": 0.38,
-    "nq_change": 0.61,
-    "spy_price": 650.34,
-    "es_price": 6595.5,
-    "level": "NORMAL",
-    "message": "先物正常: ES=+0.4% NQ=+0.6%"
+    "es_change": -1.55,
+    "nq_change": -1.96,
+    "spy_price": 655.24,
+    "es_price": 6515.5,
+    "level": "HIGH",
+    "message": "先物下落: ES=-1.5% NQ=-2.0%（注意）"
   }
 }

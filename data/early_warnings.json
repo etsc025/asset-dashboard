@@ -1,172 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 14:45",
-    "ticker": "KLAC",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.40（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.4,
-      "pc_ratio_oi": 0.83,
-      "total_put_vol": 1539,
-      "total_call_vol": 640
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:00",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-03-24",
-          "filer": [
-            "Mu Yang  (CIK 0002116220)",
-            "Kanzhun Ltd  (CIK 0001842827)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:00",
-    "ticker": "EXE",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.25（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.25,
-      "pc_ratio_oi": 1.66,
-      "total_put_vol": 1205,
-      "total_call_vol": 4734
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:00",
-    "ticker": "EXPE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.14（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.14,
-      "pc_ratio_oi": 0.72,
-      "total_put_vol": 622,
-      "total_call_vol": 290
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:00",
-    "ticker": "KLAC",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.40（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.4,
-      "pc_ratio_oi": 2.22,
-      "total_put_vol": 1539,
-      "total_call_vol": 640
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:01",
-    "ticker": "DELL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-03-20",
-          "filer": [
-            "Tunnell Jane  (CIK 0002016161)",
-            "Dell Technologies Inc.  (CIK 0001571996)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-03-24",
-          "filer": [
-            "DELL MICHAEL S  (CIK 0000908724)",
-            "MSD CAPITAL, L.P.  (CIK 0001105497)",
-            "MSD Portfolio L.P. - Investments  (CIK 0001134557)",
-            "Noble Environmental Investments, LLC  (CIK 0001914199)",
-            "5C Lending Partners Corp.  (CIK 0001998387)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-03-25",
-          "filer": [
-            "Scannell William F  (CIK 0001554376)",
-            "Dell Technologies Inc.  (CIK 0001571996)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-03-23",
-          "filer": [
-            "Sharp Richard Troy  (CIK 0002081802)",
-            "Dell Technologies Inc.  (CIK 0001571996)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-03-25",
-          "filer": [
-            "SLTA V (GP), L.L.C.  (CIK 0001737652)",
-            "Silver Lake Partners V DE (AIV), L.P.  (CIK 0001737659)",
-            "Silver Lake Technology Associates V, L.P.  (CIK 0001737657)",
-            "Dell Technologies Inc.  (CIK 0001571996)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.22（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.22,
-      "pc_ratio_oi": 0.59,
-      "total_put_vol": 40,
-      "total_call_vol": 181
-    }
-  },
-  {
-    "timestamp": "2026-03-26 22:01",
-    "ticker": "DOW",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-03-23",
-          "filer": [
-            "WILSON DOW R  (CIK 0001313996)",
-            "AGILENT TECHNOLOGIES, INC.  (CIK 0001090872)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-03-23",
-          "filer": [
-            "WILSON DOW R  (CIK 0001313996)",
-            "AGILENT TECHNOLOGIES, INC.  (CIK 0001090872)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-03-26 22:01",
     "ticker": "CF",
     "type": "インサイダー取引報告",
@@ -5993,6 +5826,160 @@
       "pc_ratio_oi": 0.91,
       "total_put_vol": 5424,
       "total_call_vol": 2851
+    }
+  },
+  {
+    "timestamp": "2026-04-02 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "LABARRE DENNIS W  (CIK 0001247923)",
+            "NACCO INDUSTRIES INC  (CIK 0000789933)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "Miller Michael Sidney  (CIK 0001681715)",
+            "NACCO INDUSTRIES INC  (CIK 0000789933)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "RANKIN MATTHEW M  (CIK 0001247948)",
+            "NACCO INDUSTRIES INC  (CIK 0000789933)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "DALRYMPLE JOHN S III  (CIK 0001195627)",
+            "NACCO INDUSTRIES INC  (CIK 0000789933)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "McDonald William Paul  (CIK 0002012711)",
+            "NACCO INDUSTRIES INC  (CIK 0000789933)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:00",
+    "ticker": "MPC",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.98（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.98,
+      "pc_ratio_oi": 0.45,
+      "total_put_vol": 1810,
+      "total_call_vol": 916
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:00",
+    "ticker": "DELL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.34（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.34,
+      "pc_ratio_oi": 1.0,
+      "total_put_vol": 6205,
+      "total_call_vol": 18415
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=2.05（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 2.05,
+      "pc_ratio_oi": 0.94,
+      "total_put_vol": 714,
+      "total_call_vol": 348
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:01",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-03-31",
+          "filer": [
+            "Levine Jeremy S.  (CIK 0001534341)",
+            "StubHub Holdings, Inc.  (CIK 0001337634)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:01",
+    "ticker": "MU",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-01",
+          "filer": [
+            "Mu Yang  (CIK 0002116220)",
+            "Kanzhun Ltd  (CIK 0001842827)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:01",
+    "ticker": "EXE",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=31.17（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 31.17,
+      "pc_ratio_oi": 1.48,
+      "total_put_vol": 12843,
+      "total_call_vol": 412
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:02",
+    "ticker": "DOW",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.22（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.22,
+      "pc_ratio_oi": 0.82,
+      "total_put_vol": 1651,
+      "total_call_vol": 7416
     }
   }
 ]
