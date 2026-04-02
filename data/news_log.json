@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争で原油価格100ドル回復、ホルムズ海峡封鎖継続",
-          "country": "アメリカ/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"15-1,17-1\">原油価格がブレント100ドル超、WTI113ドル近辺で推移。トランプ大統領の和平交渉発言にも関わらずイランが否定</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "物流",
-            "インフラ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceX今週IPO申請予定、宇宙関連株全面高",
-          "country": "アメリカ",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "<cite index=\"21-1,22-1\">SpaceXが今週IPO申請予定、750億ドル調達見込み。AST SpaceMobile、Rocket Lab等が10%超上昇</cite>",
-          "affected_sectors": [
-            "宇宙・航空宇宙",
-            "通信",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ホルムズ海峡通行量が事実上停止、史上最大の石油供給途絶",
-          "country": "中東/グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"16-21,17-7\">ホルムズ海峡通行量が日量2000万バレルから数隻に激減、世界石油供給の20%が影響を受け史上最大の供給途絶</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落後反発、トランプ発言前の異常取引で内部者取引疑惑",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"19-12,19-13\">トランプのイラン和平発言15分前に原油先物で異常取引、内部者取引の疑い。発表後ダウ1000ポイント上昇</cite>",
-          "affected_sectors": [
-            "金融",
-            "規制当局",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国がイランに82師団追加派遣検討、戦争長期化懸念",
-          "country": "アメリカ/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"17-20\">米軍1000名以上の中東追加派遣予定、トランプ大統領の和平発言と矛盾した軍事行動で市場混乱</cite>",
-          "affected_sectors": [
-            "防衛",
-            "エネルギー",
-            "通貨",
-            "債券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "<cite index=\"16-21\">ホルムズ海峡封鎖で史上最大石油供給途絶、原油100ドル超継続</cite>"
-    }
-  },
-  {
     "timestamp": "2026-03-26 12:00",
     "data": {
       "breaking_news": [
@@ -12869,6 +12787,82 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢緩和期待で米国株上昇。AI投資の資金調達に警戒も。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランからの軍事撤退を計画、市場は楽観視",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイランからの米軍撤退の可能性を示唆。中東情勢の緊張緩和期待から市場は上昇、原油下落。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格下落、エネルギーセクターに打撃",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢緩和期待で原油価格が大幅下落。エネルギー株が売られ、投資家は他の資産クラスへ資金を移動中。",
+          "affected_sectors": [
+            "Energy",
+            "Oil & Gas",
+            "Industrials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、ハイテク株主導で続伸",
+          "country": "United States",
+          "category": "Equity Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国株は中東情勢改善期待で2日続伸。特にハイテク株がS&P 500とナスダックを牽引し市場全体を押し上げた。",
+          "affected_sectors": [
+            "Technology",
+            "Information Technology",
+            "Broad Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国ポンド、インフレデータ発表後に軟化",
+          "country": "United Kingdom",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国のインフレデータ発表後、ポンドが対ドルで下落。市場は英国中央銀行の今後の金融政策動向に注目している。",
+          "affected_sectors": [
+            "FX Markets",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、2026年世界経済成長率予測を上方修正、インフレは漸減",
+          "country": "Global",
+          "category": "Economic Outlook",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFは2026年の世界成長率予測を3.3%に上方修正。インフレは減速するも、米国の減速はより緩やか。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン情勢緩和期待で原油安、株式市場はリスクオンに転換。"
     }
   }
 ]
