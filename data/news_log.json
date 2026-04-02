@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫でアジア株下落、テクノロジー株も重し",
-          "country": "アジア",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "MSCIアジア太平洋指数1%下落、イスラエルのイラン攻撃継続により中東停戦期待が後退。韓国テクノロジー株が特に下落",
-          "affected_sectors": [
-            "テクノロジー",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アメリカ-イラン停戦交渉の不透明感で市場混乱",
-          "country": "アメリカ",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"12-3,12-4,12-5,12-6\">米株先物が下落、トランプ政権がイランに15項目和平案を送付も、イラン当局は米国との直接交渉を拒否</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "メモリ半導体株急落、Googleの圧縮技術発表で需要懸念",
-          "country": "韓国・日本",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"2-2,2-3\">SK Hynix最大6%下落、Kioxia4.4%下落。Google研究者が発表した新圧縮技術により需要減少懸念</cite>",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB政策金利据え置き、中東情勢影響でハト派姿勢強化",
-          "country": "アメリカ",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "<cite index=\"6-14,6-23\">FRB議長パウエル氏が中東情勢の不確実性に言及、先物市場では金利据え置き確率99.1%に上昇</cite>",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ヘリウム供給途絶で半導体製造に影響",
-          "country": "カタール",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"6-1,6-2,6-3\">世界ヘリウム生産の3分の1を占めるカタールから出荷停止、半導体業界が消費量の5分の1を占め価格上昇懸念</cite>",
-          "affected_sectors": [
-            "半導体",
-            "製造業",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格変動激化、ブレント100ドル前後で推移",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "<cite index=\"16-3,17-21,17-22\">ブレント原油102ドル前後、WTI90ドル台で推移。前日大幅下落後に反発も停戦交渉不透明で不安定</cite>",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東停戦交渉難航でアジア株急落、テクノロジー・半導体セクター大幅下落"
-    }
-  },
-  {
     "timestamp": "2026-03-26 15:30",
     "data": {
       "breaking_news": [
@@ -12647,6 +12555,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イラン戦争を巡る報道が市場を大きく揺らし、原油価格は高騰中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "地政学的緊張と原油価格変動で世界市場が乱高下、イラン戦争終結の兆候も",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領のイラン戦争終結発言で期待高まるも、地政学的緊張が続き原油価格は高騰。市場は不安定な動きを見せる。",
+          "affected_sectors": [
+            "Energy",
+            "Aviation",
+            "Transportation",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドIT・自動車・エネルギー部門が好調、WiproのAI事業拡大も寄与",
+          "country": "India",
+          "category": "Corporate News, Technology, Automotive, Energy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "WiproがAI事業部門を設立し、TVSモーターは販売25%増、Indian Oilは過去最高の原油処理量を達成し経済を牽引している。",
+          "affected_sectors": [
+            "IT",
+            "Automotive",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "塩野義製薬、ALS治療薬RADICAVAの全世界での権利取得を完了",
+          "country": "Japan",
+          "category": "M&A, Pharmaceuticals",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "塩野義製薬がALS治療薬RADICAVAの権利を田辺三菱製薬から買収完了。希少疾患分野の強化と収益拡大に貢献すると期待される。",
+          "affected_sectors": [
+            "Pharmaceuticals",
+            "Healthcare"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ビットコイン担保債券が初の格付け取得、ミレニアムは社債再発行を価格設定",
+          "country": "Global",
+          "category": "Fixed Income, Cryptocurrency, Corporate Finance",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ビットコインを担保とする債券が初めて格付けを獲得したほか、Millicomが2032年満期社債7500万ドルの再発行を価格設定した。",
+          "affected_sectors": [
+            "Financial Services",
+            "Cryptocurrency",
+            "Telecommunications"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン戦争の展開と原油価格が市場の最重要焦点"
     }
   }
 ]
