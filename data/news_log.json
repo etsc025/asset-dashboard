@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油価格高騰と世界市場の下落を招く",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争を巡る中東情勢の緊迫化が続き、原油価格は高騰しインフレ懸念を増幅。これにより、世界中の株式市場で投資家心理が悪化し、リスクオフの動きが加速し全体的に下落基調となっている。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Consumer Discretionary",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国消費者信頼感、ガソリン価格高騰と市場変動で悪化",
-          "country": "USA",
-          "category": "Economic Indicator",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国では最新の消費者信頼感指数が、中東情勢を受けたガソリン価格の継続的な上昇と金融市場の激しい変動を背景に低下した。これにより、今後の個人消費支出の鈍化に対する懸念が高まっている。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Retail",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AI関連の不安とソーシャルメディア訴訟がテック株を圧迫",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "テクノロジーセクターでは、AnthropicのAIモデルに関する機密情報漏洩疑惑が浮上し、サイバーセキュリティ関連企業に不透明感を与えている。また、MetaやAlphabetに対するソーシャルメディア中毒を巡る大規模な訴訟が、これらの巨大テック企業の株価に継続的な下押し圧力をかけている。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "Cybersecurity",
-            "Communication Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油高騰が世界市場をリスクオフに導き、米国消費者心理も悪化。テック株にも重圧。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 22:30",
     "data": {
       "breaking_news": [
@@ -12572,6 +12519,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン緊張激化で原油急騰・株安、市場はリスクオフ"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領の演説でイラン情勢が激化、和平期待が後退",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイランへの継続的な軍事行動を示唆し、和平への期待が後退。市場は大幅に変動。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "自動車",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争激化で原油価格が急騰",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領の演説後、WTI原油とブレント原油が大幅に上昇、供給不安が市場を圧迫。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化で世界株価が下落",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "地政学的リスクの高まりから、アジア株は下落、米国先物も軟調で、市場は全面安の展開。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル高、金価格は下落 - 投資家が安全資産を追求",
+          "country": "グローバル",
+          "category": "為替・貴金属・債券",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "地政学的リスクを受け、米ドルが安全資産として上昇。金と銀は金利上昇懸念とドル高で下落。",
+          "affected_sectors": [
+            "金融",
+            "貴金属"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化、原油価格急騰、世界株価下落、市場はリスクオフへ。"
     }
   }
 ]
