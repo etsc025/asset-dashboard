@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株市場、イラン紛争懸念で急落し景気後退リスク増大",
-          "country": "United States",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争を巡る不確実性により、米国株式市場は大幅下落。エコノミストは景気後退リスクが高まると警告。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争による供給懸念で原油価格が急騰、WTIは99ドル超え",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争が供給中断の懸念を引き起こし、原油価格が上昇。WTI原油先物は1バレル99ドルを突破。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株市場で60分間に6000億ドルの価値が消失、アルゴリズム取引が加速 (3月26日)",
-          "country": "United States",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月26日、米株市場で予期せぬ政策発表とアルゴリズム取引により、60分で約6000億ドルが消失。",
-          "affected_sectors": [
-            "All Sectors",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バンク・オブ・アメリカ、エプスタイン訴訟で7250万ドルの和解合意",
-          "country": "United States",
-          "category": "Corporate Legal",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "バンク・オブ・アメリカが、ジェフリー・エプスタインの性的人身売買を幇助したとされる訴訟で、7250万ドルの和解に達した。",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争懸念と原油高騰で世界的に市場はリスクオフ、米株は大幅下落。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 02:30",
     "data": {
       "breaking_news": [
@@ -12570,6 +12508,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イランがホルムズ海峡の長期閉鎖を宣言、中東情勢緊迫化と原油価格高騰に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国大統領のイラン攻撃継続発言で原油高・株安に",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイラン攻撃継続を表明し、中東紛争終結への期待が後退。原油価格は急騰し、米国株は下落し市場に動揺が広がる。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "全体市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の供給途絶懸念で原油価格高騰が継続",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡の原油供給途絶懸念が続き、WTI原油価格は1バレル113ドルに上昇。世界経済へのインフレ圧力と景気減速リスクが高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英FCAとイングランド銀行、取引・ポストトレード報告タスクフォースを設立",
+          "country": "英国",
+          "category": "金融規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英FCAとイングランド銀行が取引・ポストトレード報告の改善に向けた合同タスクフォースを設置。金融市場の透明性向上を目指す。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争の長期化懸念で原油高・株安。警戒強まる。"
     }
   }
 ]
