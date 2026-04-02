@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格高騰、世界経済に重圧",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争激化で原油・天然ガス価格が高騰。世界経済の成長見通しを悪化させ、インフレ加速と景気後退リスクを高めている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financials",
-            "Agriculture"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国市場、中東紛争懸念で株価が続落、調整局面入り",
-          "country": "USA",
-          "category": "Financial Markets, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の激化と原油価格高騰を受け、米国株式市場は続落し、ダウ平均は調整局面入り。投資家心理は冷え込み、債券市場も緊張。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "グローバルインフレ懸念再燃、中央銀行の金融政策に影響",
-          "country": "Global",
-          "category": "Monetary Policy, Inflation",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東紛争によるエネルギー価格上昇でインフレ懸念が再燃。FRBの利下げ期待が後退し、英中銀は利上げを示唆するなど、金融引き締め圧力が高まる。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Interest-rate sensitive sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Petrodollar体制の脆弱化、脱ドル化の動き加速",
-          "country": "Global",
-          "category": "Geopolitics, International Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東紛争がPetrodollar体制に圧力。脱ドル化の動きが加速し、サウジアラビアは非ドル決済を模索。国際金融秩序の変化を示唆。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "International Trade"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化が原油高と世界株安を招き、インフレ懸念増大。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 03:30",
     "data": {
       "breaking_news": [
@@ -12530,6 +12463,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油急騰、世界株安。地政学リスクの高まりに市場が警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領のイラン強硬発言が原油価格を急騰させ、世界の株式市場は混乱",
+          "country": "グローバル/米国",
+          "category": "地政学/エネルギー市場/株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領のタカ派的イラン発言が原油価格を急騰させ、株式市場は下落しボラティリティ増大。中東緊張が市場を動揺させている。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "株式市場全般",
+            "金融",
+            "商品"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のイラン攻撃示唆を受け韓国KOSPIが急落、5,300を下回る",
+          "country": "韓国",
+          "category": "株式/地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイラン攻撃示唆により韓国KOSPIが5,300割れ。投資家の不安心理が広がり市場は急落。",
+          "affected_sectors": [
+            "韓国株式市場",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢緊迫化で安全資産米ドルは上昇、ビットコインは下落",
+          "country": "グローバル/米国",
+          "category": "外国為替/暗号通貨/地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン情勢緊迫化で安全資産米ドルは上昇。リスク回避の動きからビットコイン含む暗号通貨は下落。",
+          "affected_sectors": [
+            "外国為替",
+            "暗号通貨"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国新規失業保険申請は減少するも、ISM製造業PMIの価格指数がインフレ懸念を示唆",
+          "country": "米国",
+          "category": "経済指標/金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米新規失業保険申請は減少も、ISM製造業PMI価格指数上昇でインフレ懸念再燃。金融政策に影響か。",
+          "affected_sectors": [
+            "経済全般",
+            "製造業",
+            "金利変動に敏感なセクター"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国のイラン強硬姿勢で市場が動揺、リスク回避姿勢が強まる。"
     }
   }
 ]
