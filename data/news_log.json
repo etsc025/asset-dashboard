@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、市場の不確実性増大",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの紛争継続が原油価格を押し上げ、市場の不確実性、インフレ懸念、債券市場のストレスを引き起こしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Anthropic新AIモデル「Claude Mythos」流出、ソフトウェア・サイバーセキュリティ株に打撃",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Anthropicの新しいAIモデル「Mythos」の流出が競争激化懸念を呼び、ソフトウェア・サイバーセキュリティ株が急落。",
-          "affected_sectors": [
-            "テクノロジー（ソフトウェア、サイバーセキュリティ）",
-            "通信サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SNS依存症訴訟でMetaとAlphabetが大幅下落、通信サービス株に影響",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "SNS依存症に関する画期的な判決により、MetaとAlphabetの株価が急落、通信サービスセクターに打撃。",
-          "affected_sectors": [
-            "通信サービス",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米消費者景況感指数が軟化、ガソリン価格高騰と市場変動が重し",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月のミシガン大学消費者景況感指数が53.3に下方修正され、ガソリン高と市場変動が主要因。",
-          "affected_sectors": [
-            "消費財",
-            "小売"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化とテクノロジー株の下落で市場はリスクオフ。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 21:30",
     "data": {
       "breaking_news": [
@@ -12558,6 +12494,86 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化と原油高による世界的な市場下落に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランへ「極めて厳しい」攻撃を宣言し、中東情勢緊迫化",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイランへのさらなる強硬措置を示唆し、中東情勢の緊張が再燃。市場はリスク回避を強める。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "金融",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が1バレル110ドルに急騰、イラン情勢緊迫化を受け",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領のイランへの強硬発言を受け、原油価格が急騰。エネルギーコスト上昇による経済への影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のイラン発言で世界株が下落、アジア・欧州市場で特に顕著",
+          "country": "グローバル",
+          "category": "市場ニュース",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の悪化懸念から投資家心理が悪化し、アジア、欧州を中心に世界の株式市場が大幅に下落している。",
+          "affected_sectors": [
+            "グローバル株式",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン、ホルムズ海峡の航行管理プロトコルをオマーンと協議中と報道",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イランがホルムズ海峡の航行プロトコルをオマーンと協議中との報道があり、米株の一部で下げ止まりが見られた。",
+          "affected_sectors": [
+            "海運",
+            "エネルギー",
+            "株式"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Blue Owl Capital、投資家による54億ドルの償還試行後、引き出しを制限",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Blue Owl Capitalが多額の資金引き出し要求に対し、引き出しを制限。流動性懸念が浮上し、金融市場に波紋。",
+          "affected_sectors": [
+            "金融",
+            "資産運用"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ氏のイラン強硬発言と原油急騰が世界市場を揺らす。"
     }
   }
 ]
