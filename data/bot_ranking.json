@@ -1,22 +1,22 @@
 {
   "date": "2026-04-02",
-  "timestamp": "2026-04-02T08:53:19.061246",
-  "usdjpy": 158.67,
-  "regime": "VOLATILE",
-  "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
-  "vix": 24.540000915527344,
+  "timestamp": "2026-04-02T09:23:35.016502",
+  "usdjpy": 158.69,
+  "regime": "NEUTRAL",
+  "regime_desc": "中立相場: 通常運用",
+  "vix": 0,
   "ranking": [
     {
       "bot": "Bot11_SubspacePCA",
-      "total_return": 0.0199,
+      "total_return": 0.0157,
       "mdd": -0.0078,
-      "win_rate": 0.0,
-      "sharpe": -19.55,
-      "n_trades": 7,
-      "latest_equity": 1019934.0,
-      "days": 3,
+      "win_rate": 0.25,
+      "sharpe": 5.18,
+      "n_trades": 12,
+      "latest_equity": 1015682.0,
+      "days": 4,
       "rank": 1,
-      "score": 0.6552
+      "score": 0.8321
     },
     {
       "bot": "Bot4_Momentum_Intl",
@@ -25,22 +25,34 @@
       "win_rate": 0.0,
       "sharpe": -15.87,
       "n_trades": 5,
-      "latest_equity": 1007108.0,
+      "latest_equity": 1007141.0,
       "days": 2,
       "rank": 2,
-      "score": 0.4444
+      "score": 0.4387
+    },
+    {
+      "bot": "Bot7_AdaptiveMarket",
+      "total_return": 0.0065,
+      "mdd": -0.0007,
+      "win_rate": 0.5,
+      "sharpe": 5.59,
+      "n_trades": 5,
+      "latest_equity": 1006453.0,
+      "days": 4,
+      "rank": 3,
+      "score": 0.6499
     },
     {
       "bot": "Bot9_VolAsymmetry",
-      "total_return": 0.0058,
+      "total_return": 0.0065,
       "mdd": -0.0088,
-      "win_rate": 0.3333,
-      "sharpe": -10.46,
-      "n_trades": 7,
-      "latest_equity": 1005819.0,
-      "days": 3,
-      "rank": 3,
-      "score": 0.7655
+      "win_rate": 0.5,
+      "sharpe": 1.17,
+      "n_trades": 11,
+      "latest_equity": 1006524.0,
+      "days": 4,
+      "rank": 4,
+      "score": 0.8248
     },
     {
       "bot": "Bot8_NewsTech",
@@ -49,22 +61,10 @@
       "win_rate": 0.0,
       "sharpe": -7.94,
       "n_trades": 1,
-      "latest_equity": 1003011.0,
+      "latest_equity": 1003023.0,
       "days": 5,
-      "rank": 4,
-      "score": 0.3349
-    },
-    {
-      "bot": "Bot7_AdaptiveMarket",
-      "total_return": 0.0015,
-      "mdd": -0.0007,
-      "win_rate": 0.3333,
-      "sharpe": -5.3,
-      "n_trades": 3,
-      "latest_equity": 1001479.0,
-      "days": 3,
       "rank": 5,
-      "score": 0.5525
+      "score": 0.3373
     },
     {
       "bot": "Bot10_CorrGraph",
@@ -76,7 +76,7 @@
       "latest_equity": 1000000,
       "days": 2,
       "rank": 6,
-      "score": 0.3062
+      "score": 0.3058
     },
     {
       "bot": "Bot1_ML_AbsChange",
@@ -85,10 +85,10 @@
       "win_rate": 0.0,
       "sharpe": -7.94,
       "n_trades": 5,
-      "latest_equity": 998399.0,
+      "latest_equity": 998438.0,
       "days": 5,
       "rank": 7,
-      "score": 0.376
+      "score": 0.3546
     },
     {
       "bot": "Bot3_FactorAI",
@@ -97,34 +97,34 @@
       "win_rate": 0.0,
       "sharpe": -59.6,
       "n_trades": 2,
-      "latest_equity": 997674.0,
+      "latest_equity": 997686.0,
       "days": 5,
       "rank": 8,
-      "score": 0.1942
+      "score": 0.1991
     },
     {
       "bot": "Bot6_RL_MA",
       "total_return": -0.0031,
       "mdd": -0.0029,
       "win_rate": 0.0,
-      "sharpe": -15.77,
+      "sharpe": -12.23,
       "n_trades": 1,
       "latest_equity": 996948.0,
-      "days": 3,
+      "days": 4,
       "rank": 9,
-      "score": 0.2851
+      "score": 0.2912
     },
     {
       "bot": "Bot5_TrendMomentum",
-      "total_return": -0.0068,
+      "total_return": -0.0034,
       "mdd": -0.0089,
-      "win_rate": 0.0,
-      "sharpe": -24.22,
-      "n_trades": 8,
-      "latest_equity": 993226.0,
-      "days": 3,
+      "win_rate": 0.25,
+      "sharpe": -11.08,
+      "n_trades": 11,
+      "latest_equity": 996591.0,
+      "days": 4,
       "rank": 10,
-      "score": 0.4108
+      "score": 0.5772
     },
     {
       "bot": "Bot2_DL_Transformer",
@@ -136,7 +136,7 @@
       "latest_equity": 989071.0,
       "days": 5,
       "rank": 11,
-      "score": 0.5247
+      "score": 0.4579
     }
   ]
 }
