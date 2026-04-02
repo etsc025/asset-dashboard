@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン革命防衛隊、イスラエルへのミサイル攻撃詳細を公表",
-          "country": "中東地域",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン革命防衛隊はイスラエルへのミサイル攻撃で40発を使用し、新型ミサイルも投入したと発表。主要な戦力はまだ全稼働ではないとも言及し、中東情勢の緊張を高め、市場の不確実性を増大させている。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国貿易大臣、ホルムズ海峡の開通維持を強調",
-          "country": "英国",
-          "category": "国際関係",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国のレイノルズ貿易大臣は、同盟国との協議でホルムズ海峡の開通維持が重要と強調。中東情勢の安定化を促す発言だが、地政学的リスクは継続する。",
-          "affected_sectors": [
-            "輸送",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB理事会メンバー、ユーロ圏経済に追加刺激策が必要と発言",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECBのセンテノ理事会メンバーが、ユーロ圏経済にはさらなる刺激策が必要との見解を示唆。これにより、将来的な金融緩和政策への期待が高まる可能性があり、市場にはプラスに働く。",
-          "affected_sectors": [
-            "金融",
-            "株式市場全般"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、イランがミサイル攻撃詳細発表。原油・株式市場に影響。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 02:00",
     "data": {
       "breaking_news": [
@@ -12541,6 +12491,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争による市場混乱と米住宅ローン金利上昇に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、オマーンとホルムズ海峡の航行管理プロトコルを協議中",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランがオマーンとホルムズ海峡の航行管理プロトコルを協議中との報道で、原油価格は高値から後退し、株式市場は一部損失を回復した。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン軍報道官、ホルムズ海峡の長期閉鎖を宣言し、フーシ派がテルアビブを攻撃",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン軍報道官はホルムズ海峡の米・イスラエルへの長期閉鎖を宣言。フーシ派はイランと共同でイエメンとテルアビブの重要標的を攻撃した。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "防衛",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油先物価格、WTIが$111.54、ブレントが$109.03で高値決済",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米WTI原油先物が1バレル111.54ドル、ブレント原油が109.03ドルで決済。2020年以来の最大の上昇幅を記録した。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領の強硬発言でKOSPI急落、サムスン電子も大幅下落",
+          "country": "韓国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランとの合意未達と攻撃継続を示唆する強硬発言を受け、KOSPIが5,300を割り込み、サムスン電子株も急落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イーライリリーの肥満治療薬に米FDAが迅速承認",
+          "country": "米国",
+          "category": "医薬品",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イーライリリー社の新しい肥満治療薬が米FDAから迅速承認を獲得し、同社の株価に好影響を与えると期待される。",
+          "affected_sectors": [
+            "製薬",
+            "ヘルスケア"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランがホルムズ海峡の長期閉鎖を宣言、中東情勢緊迫化と原油価格高騰に警戒。"
     }
   }
 ]
