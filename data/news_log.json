@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢悪化、原油高と世界株安を招く",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争を巡る不確実性が金融市場に重くのしかかり、原油価格は高騰。世界中の株式市場は下落圧力が継続し、投資家のリスク回避姿勢が鮮明に。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株式市場が広範に下落、S&P500は連続安",
-          "country": "Global (特に米国、欧州、英国)",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金曜日、中東情勢への懸念と利回り上昇を受け、米欧主要市場は広範に下落。S&P500は5週連続の負け越しとなり、世界経済への不透明感が増す。",
-          "affected_sectors": [
-            "全セクター",
-            "Consumer Discretionary",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界経済の減速とインフレ圧力増大",
-          "country": "US, Eurozone",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の米欧ビジネス活動成長は減速。エネルギーコスト高騰で投入コストは10ヶ月ぶり高水準。インフレ圧力加速と消費者信頼感低下が懸念される。",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "テック株軟調、AIとソーシャルメディア規制の懸念",
-          "country": "US (世界的なテック業界に影響)",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "新しいClaude AIモデルのリーク報道と、Meta・Alphabetを対象としたソーシャルメディア中毒訴訟の判決がテック株全般に売り圧力を与え、投資家の不安心理を煽る。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "Cybersecurity",
-            "Social Media"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東緊迫化、原油高と世界株安加速。インフレ懸念増大。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 20:00",
     "data": {
       "breaking_news": [
@@ -12516,6 +12448,113 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの紛争激化で世界市場に深刻な影響"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランへの「極めて強力な」攻撃を警告",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領がイランに対し今後数週間で「極めて強力な」攻撃を行うと警告、市場に不確実性増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢緊迫化で原油価格が1バレル110ドル超に急騰",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランへの攻撃警告を受け、米国原油価格が1バレル110ドル超に急騰。インフレ懸念高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "物流",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のイラン警告で世界主要株式市場が下落",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランへの攻撃警告を受け、世界主要株式市場が下落。地政学リスクの高まりが背景。",
+          "affected_sectors": [
+            "広範な市場",
+            "テクノロジー",
+            "金融",
+            "産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価が大幅反落、地政学リスクが重荷に",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日経平均株価が大幅反落、地政学リスクの長期化懸念が重荷となり、市場心理が悪化。",
+          "affected_sectors": [
+            "広範な市場",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "テスラの中国販売、3月に8.7%増で5ヶ月連続の成長",
+          "country": "中国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "テスラの中国製EV販売台数が3月に前年同月比8.7%増加し、5ヶ月連続の成長を記録。中国市場での回復示す。",
+          "affected_sectors": [
+            "自動車",
+            "EVセクター",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ステランティスが英国で4万4000台の車両をリコール",
+          "country": "英国",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "ステランティスが英国で4万4000台の車両をリコール、火災の原因となる可能性のある欠陥が判明。",
+          "affected_sectors": [
+            "自動車"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Allbirds、旧評価額のわずか3900万ドルで売却",
+          "country": "グローバル",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "かつて評価額が10億ドルだった環境配慮型シューズブランドAllbirdsが3900万ドルで売却。ブランド価値の急落を反映。",
+          "affected_sectors": [
+            "小売",
+            "アパレル",
+            "ベンチャーキャピタル"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化で原油急騰と世界株安、地政学リスクが市場を支配。"
     }
   }
 ]
