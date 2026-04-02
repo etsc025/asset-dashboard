@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争で原油価格高騰、世界経済に重圧",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争とホルムズ海峡の供給中断により原油価格が急騰。インフレ加速と景気後退の懸念が高まり、世界経済に大きな下方圧力。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ムーディーズが米国景気後退確率を大幅引き上げ",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の雇用統計悪化とGDP下方修正を受け、ムーディーズが景気後退確率を49%に。原油高騰でさらに悪化懸念。",
-          "affected_sectors": [
-            "All sectors",
-            "Financials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB、金利据え置きも高インフレとエネルギー価格に警戒",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FRBは金利を据え置き、インフレとエネルギー価格高騰による不確実性を指摘。2026年の利下げは一度のみの予測。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナスダック、年初来10%下落でテクノロジー株に逆風",
-          "country": "USA",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ナスダック総合指数が年初来で10%下落。AI関連株は一部好調だが、高金利と高評価に重圧がかかる。",
-          "affected_sectors": [
-            "Technology",
-            "Growth Stocks"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国金融セクターが年初来で低迷、回復の兆しも",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国金融セクターが2026年に入り最もパフォーマンスが悪い。貸付緩和やAI効率化で今後回復する可能性も。",
-          "affected_sectors": [
-            "Financials",
-            "Banking",
-            "Real Estate"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "原油高騰、米景気後退懸念、地政学リスクが市場を支配。FRB動向に注視。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 00:30",
     "data": {
       "breaking_news": [
@@ -12590,6 +12511,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢悪化で原油価格急騰、世界株安。インフレ懸念増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "東証、トランプ氏演説で一転売りに、日経平均大幅反落",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "2日の東京株式市場で日経平均が大幅反落。トランプ米大統領の演説で早期中東紛争終結期待が剥落。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY各市場、ダウ平均が大幅反落、ナスダックもマイナス圏で推移",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "4月2日のNY株式市場でダウ平均が一時660ドル超安の大幅反落、ナスダックもマイナス圏。中東情勢の緊迫化と原油高が嫌気された。",
+          "affected_sectors": [
+            "株式市場全般",
+            "エネルギー関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル円、159円台後半で推移、原油高でドル堅調",
+          "country": "日本, 米国",
+          "category": "為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ドル円相場は159円台後半で推移し、ドルは堅調。中東情勢を受けた原油価格高騰がドル買いを誘発し、円安圧力が続く。",
+          "affected_sectors": [
+            "輸出入企業",
+            "エネルギー関連",
+            "観光業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化、NY原油先物が急反発し112ドル台に",
+          "country": "世界",
+          "category": "商品市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン情勢緊迫化を受け、NY原油先物価格が急反発し一時113ドル台を記録。中東紛争終結への期待が後退し、市場に懸念が広がっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日商会頭、中小企業の賃上げ「楽観視できない」中東情勢でコスト増見込む",
+          "country": "日本",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本商工会議所の小林会頭は、中東情勢悪化によるコスト増加で、中小企業の賃上げは楽観できないとの見解を示した。",
+          "affected_sectors": [
+            "中小企業全般",
+            "サービス業",
+            "製造業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高が市場の重し、主要株価指数は下落。"
     }
   }
 ]
