@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化で世界市場混乱、原油価格高騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米・イスラエルによるイラン攻撃が世界経済に打撃、原油価格高騰と株安を招き、エネルギー供給混乱を引き起こしています。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "製造",
-            "物流",
-            "農業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米政府、2026年3月$2,000給付金を確認",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米連邦政府は、既存の税還付や社会保障給付を通じて、2026年3月に低・中所得者向けの2,000ドル給付金を確認しました。",
-          "affected_sectors": [
-            "小売",
-            "消費者裁量",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "世界の住宅ローン金利が6ヶ月ぶり高水準に",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格上昇とFRB利上げ観測により、世界の住宅ローン金利が6ヶ月ぶり高水準に達し、不動産市場に懸念が広がっています。",
-          "affected_sectors": [
-            "不動産",
-            "銀行",
-            "建設",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "地政学的緊張とインフレ懸念が市場のボラティリティを高めています。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 17:30",
     "data": {
       "breaking_news": [
@@ -12533,6 +12479,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化で原油価格高騰、世界株式市場に広範な下落圧力が継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランへの「極めて強力な」攻撃を示唆",
+          "country": "米国",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領が今後2-3週間でイランへの軍事作戦を強化すると表明、中東情勢緊迫化懸念が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "金融市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均大幅反落、トランプ大統領演説で投資家心理悪化",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランに関する強硬発言を受け、投資家心理が悪化し日経平均株価が大幅に反落した。",
+          "affected_sectors": [
+            "株式市場全般",
+            "輸出関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル・円は強含み、有事のドル買い再開とトランプ演説でドル指数上昇",
+          "country": "グローバル",
+          "category": "為替市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領の演説や有事のドル買いが再開し、ドル円は強含みで推移。ドル指数も上昇を見せる。",
+          "affected_sectors": [
+            "輸出企業",
+            "輸入企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UBS、上昇リスク高まる中で金の強気相場が続くと予想",
+          "country": "グローバル",
+          "category": "商品市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UBSは金に対する強気見通しを維持し、地政学リスクの高まりを背景に年内に新高値を更新すると予測。",
+          "affected_sectors": [
+            "貴金属関連",
+            "資源株"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ米大統領のイラン強硬発言で中東情勢緊迫、市場はリスクオフへ。"
     }
   }
 ]
