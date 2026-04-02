@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500下落、大型グロース株からの資金流出が加速",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "S&P 500は3月に7.4%下落し、特にマグニフィセント・セブンなど大型グロース株からの資金流出が加速。エネルギー、素材、公益事業、生活必需品セクターがアウトパフォームしています。",
-          "affected_sectors": [
-            "テクノロジー",
-            "グロース株",
-            "エネルギー",
-            "素材",
-            "公益事業",
-            "生活必需品"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で株価下落、原油価格急騰で市場に圧力"
-    }
-  },
-  {
     "timestamp": "2026-03-29 16:00",
     "data": {
       "breaking_news": [
@@ -12576,6 +12550,54 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン情勢緊迫化、原油急騰で世界市場に警戒感。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領のイラン強硬発言、原油高騰とアジア株下落を招く",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領のイラン強硬発言で原油6%上昇、アジア株下落。地政学リスクと市場の不確実性が高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米FDA、Eli Lillyの新規経口減量薬を承認",
+          "country": "United States",
+          "category": "Pharmaceuticals",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米FDAがEli Lilly製経口減量薬を承認、医薬品市場に強気材料。肥満治療分野の競争が活発化へ。",
+          "affected_sectors": [
+            "Pharmaceuticals",
+            "Healthcare"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oxfam、世界の富裕層が数兆ドルを隠していると報告",
+          "country": "Global",
+          "category": "Economic Inequality",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Oxfamが世界の富裕層による3.55兆ドルもの隠し資産を報告、税制改革議論に拍車をかける。",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化で原油高、世界市場にリスクオフムード拡大。"
     }
   }
 ]
