@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "世界株、地政学リスクと原油高で続落。米市場も軟調。",
-          "country": "Global",
-          "category": "Geopolitical, Market Performance, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金融市場は地政学的緊張と原油価格上昇を受け続落。米主要株価指数は大幅下落を記録し、投資家心理を圧迫。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Financials",
-            "Technology",
-            "Communication Services",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米消費者心理指数悪化、インフレ期待上昇で消費に懸念。",
-          "country": "United States",
-          "category": "Economic Data, Inflation",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者心理指数は予想を下回り悪化。短期インフレ期待が3.8%に上昇し、消費鈍化と物価圧力の持続を示唆。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中銀、地政学リスク起因のインフレに対応。利下げ観測後退。",
-          "country": "Global",
-          "category": "Monetary Policy, Inflation, Geopolitical",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "地政学的衝突と原油高によるインフレリスク高まりを受け、主要中央銀行は「高金利長期化」姿勢を示唆し、早期利下げ観測は後退。",
-          "affected_sectors": [
-            "Interest-Rate Sensitive Sectors",
-            "Fixed Income"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FATF、仮想資産とVASPに関する重点的更新を公表。",
-          "country": "Global",
-          "category": "Regulation, Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "金融活動作業部会(FATF)は、仮想資産とVASPに対するAML/CFT強化を求める報告書を本日公表。国際金融システムの健全化を強調。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油価格上昇で世界市場はリスク回避ムード、インフレ懸念強まる。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 12:00",
     "data": {
       "breaking_news": [
@@ -12567,6 +12503,82 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の不確実性再燃、世界的な株安と原油高に警戒が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US-Iran Conflict Escalation Rocks Global Markets",
+          "country": "Global",
+          "category": "Geopolitics, Market Downturn, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Trump's hawkish speech on Iran conflict continuation led to sharp declines in Indian and Asian stock markets, oil price surges.",
+          "affected_sectors": [
+            "Equity Markets",
+            "Energy",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "India's Central Bank Tightens Forex Rules Amid Rupee Volatility",
+          "country": "India",
+          "category": "Monetary Policy, Currency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "RBI tightened forex derivatives rules and intervened in currency markets to counter rupee depreciation.",
+          "affected_sectors": [
+            "Banking",
+            "Forex Market",
+            "Indian Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Colombian Government Boycotts Central Bank Board Meetings",
+          "country": "Colombia",
+          "category": "Monetary Policy, Governance, Political Risk",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Colombian government's withdrawal from the central bank board following an interest rate hike raises concerns on monetary policy.",
+          "affected_sectors": [
+            "Financials",
+            "Government Bonds",
+            "Colombian Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Tech and Pharma Innovations Drive Sector-Specific Buzz",
+          "country": "Global",
+          "category": "Technology, Pharmaceuticals, IPO",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Wipro launches AI unit. SpaceX files IPO. Eli Lilly gets weight-loss pill approval. Prediction platforms impact oil trading.",
+          "affected_sectors": [
+            "IT",
+            "Space Exploration",
+            "Pharmaceuticals",
+            "Energy Trading"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Azerbaijan Central Bank Maintains Key Refinancing Rate",
+          "country": "Azerbaijan",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Azerbaijan's central bank kept its key refinancing rate steady at 6.5%.",
+          "affected_sectors": [],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Global markets plunged on US-Iran conflict escalation and oil surge."
     }
   }
 ]
