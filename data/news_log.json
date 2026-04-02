@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争と経済指標悪化で米リセッション懸念が過去最高水準に",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ムーディーズのリセッションモデルが米国景気後退確率を49%と予測。イラン戦争による原油高騰と弱い経済データが主因。",
-          "affected_sectors": [
-            "全セクター",
-            "金融",
-            "テクノロジー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争長期化で原油価格が急騰、世界的なインフレ懸念を増幅",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が5週目に突入し、原油価格が1バレル120ドル近くまで上昇。世界的な供給混乱とインフレ圧力が拡大。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インフレと雇用回復でFRBの利上げ観測が高まり、金融引き締め懸念",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の非農業部門雇用者数の回復が予想され、FRBの2026年利下げ観測が後退し、利上げの可能性も浮上。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー",
-            "グロース株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢を背景にウォール街は株価「緩やかな下落」トレードを推奨",
-          "country": "グローバル",
-          "category": "市場戦略",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が株式市場に重くのしかかる中、ウォール街のストラテジストは緩やかな株価下落に備える取引を推奨。",
-          "affected_sectors": [
-            "全株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ政策発表前の不審な取引にインサイダー取引の疑い、調査を求める声",
-          "country": "米国",
-          "category": "規制",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "トランプ政権の主要政策発表前に不審な取引があり、市場の公平性保護のため調査の必要性が指摘されている。",
-          "affected_sectors": [
-            "金融サービス",
-            "規制機関"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争、経済指標悪化で米リセッション懸念増大。原油高騰がインフレ加速。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 03:00",
     "data": {
       "breaking_news": [
@@ -12560,6 +12481,55 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争の長期化懸念で原油高・株安。警戒強まる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領のイランへの強硬姿勢で原油価格が急騰し、ホルムズ海峡の供給懸念が再燃",
+          "country": "Global",
+          "category": "Geopolitics, Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領のイランへの「極めて厳しい攻撃」発言で中東情勢が緊迫化。WTI原油が一時112ドル超に急騰し、供給懸念が強まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のイラン演説を受け、東京株式市場が大幅反落、中国・香港株も下落",
+          "country": "Japan",
+          "category": "Equities, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の早期終結期待が剥落し、東京市場は大幅安。米国株もボラティリティ高く、アジア市場も下落した。",
+          "affected_sectors": [
+            "全業種",
+            "景気敏感セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本10年国債利回り、2.4%と28年8ヶ月ぶりの高水準に上昇",
+          "country": "Japan",
+          "category": "Fixed Income",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "国内金利上昇を反映し、日本10年国債の表面利率が2.4%に上昇。これは1997年7月以来の高水準である。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油急騰、世界株安。地政学リスクの高まりに市場が警戒。"
     }
   }
 ]
