@@ -1,75 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格高騰、供給途絶懸念が市場を圧迫",
-          "country": "Global",
-          "category": "Geopolitical, Commodity",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争激化によりブレント原油価格が急騰し1バレル105ドルを突破。ホルムズ海峡の供給途絶懸念が強まる。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Manufacturing",
-            "Aviation",
-            "Logistics"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB総裁、インフレ懸念を表明し利上げの可能性示唆",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ECB総裁がインフレに対する懸念を表明し、市場に利上げの可能性を改めて意識させ、株式市場に影響。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Technology",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "USMCA再交渉の不確実性がカナダ経済に重圧",
-          "country": "Canada",
-          "category": "Trade Policy, Economic",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "USMCAの再交渉を巡る不確実性が、カナダの自動車産業や建設セクターに悪影響を与えている。",
-          "affected_sectors": [
-            "Automotive",
-            "Manufacturing",
-            "Construction",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国市場でハイテク株が下落、資本が伝統的セクターへ移動",
-          "country": "United States",
-          "category": "Equity Markets, Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Nasdaqが調整局面入り、AI関連株を含むハイテク株から工業・素材・生活必需品へ資本が流れる。",
-          "affected_sectors": [
-            "Technology",
-            "Industrials",
-            "Materials",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化と原油高が市場を圧迫、ECBのタカ派発言も警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 16:30",
     "data": {
       "breaking_news": [
@@ -12598,6 +12528,45 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化で原油高、世界市場にリスクオフムード拡大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ氏のイラン警告で原油急騰、世界市場は下落",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領によるイランへの警告が緊張を高め、地政学的リスクから原油価格が急騰し、世界の株式市場が下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン和平への期待で世界株価が上昇、原油価格は緩和",
+          "country": "グローバル",
+          "category": "地政学, マクロ経済, 市場心理",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争終結への期待が高まり、世界の株式市場が回復。和平への憶測が広がり、原油価格は軟化。",
+          "affected_sectors": [
+            "株式市場全般",
+            "テクノロジー",
+            "通信サービス",
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン紛争、市場乱高下。石油高騰、株価変動。"
     }
   }
 ]
