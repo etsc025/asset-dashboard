@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格急騰で市場に動揺、中東情勢の不確実性が高まる",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化により原油価格が急騰し、世界経済へのインフレ圧力と成長懸念が高まり、市場全体に動揺が広がっている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学リスクの高まりを受け、世界の株式市場が続落",
-          "country": "Global",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の不確実性と原油価格の高騰を受け、米国の主要指数が調整局面入りするなど、世界の株式市場が下落基調。",
-          "affected_sectors": [
-            "Technology",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要中央銀行、中東情勢リスクを警戒し金融政策の現状維持を継続",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀、FRB、ECBなどは中東情勢とそれに伴うインフレ・景気下押しリスクを警戒し、当面の政策金利据え置きを示唆している。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Bond Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油価格急騰が市場を動揺させ、世界的株安と中央銀行の警戒姿勢続く。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 21:00",
     "data": {
       "breaking_news": [
@@ -12558,6 +12505,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争激化で原油110ドル超、世界株下落。プライベートクレジット償還制限。インドがオフショアルピー取引禁止。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領のイランに関する発言で原油価格高騰、主要株価指数が下落",
+          "country": "グローバル",
+          "category": "地政学的リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランに関するタカ派的発言を受け、原油価格は急騰。米国、日本、韓国の株式市場は売りが優勢となり、ダウ平均や日経平均、KOSPIは大幅に下落しました。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "製造業",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド、自国通貨防衛のためオフショアルピー取引を禁止",
+          "country": "インド",
+          "category": "金融規制",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "インドがルピーのオフショア取引を禁じ、1日1490億ドル規模の市場を抑制。通貨安対策の極端な措置ですが、外国からの投資を抑制する可能性があります。",
+          "affected_sectors": [
+            "金融",
+            "為替",
+            "輸出入"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争リスクが日本経済の回復と金融政策に影響",
+          "country": "日本",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争によるエネルギー価格高騰は日本経済の回復を阻害し、インフレを加速させる可能性。日銀の金融政策運営は複雑化する見通しです。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "小売",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化と原油高による世界的な市場下落に警戒。"
     }
   }
 ]
