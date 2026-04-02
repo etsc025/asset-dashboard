@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で世界的にリスク回避の動き強まる",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化が投資家のリスク回避姿勢を強め、株式市場に下落圧力をかけドル買いが優勢に。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円159円台後半、日銀の金融政策と当局の介入警戒感が焦点",
-          "country": "Japan",
-          "category": "Currency",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドル円は米金利上昇と中東情勢で159円台後半に反落。日銀は金融政策維持、介入警戒感が続く。",
-          "affected_sectors": [
-            "Export-oriented Industries",
-            "Import-oriented Industries",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株、利下げ観測後退と中東情勢で続落、ナスダックも軟調",
-          "country": "USA",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米FRB早期利下げ観測後退と中東情勢の不透明感からダウは続落、ナスダックも調整局面入り。",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化とFRBの利上げ観測後退が世界市場にリスクオフ圧力をもたらし、株式下落とドル高が進行中。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 12:30",
     "data": {
       "breaking_news": [
@@ -12579,6 +12529,43 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Global markets plunged on US-Iran conflict escalation and oil surge."
+    }
+  },
+  {
+    "timestamp": "2026-04-02 17:01",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、アジア株下落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢緊迫化を受け原油価格が4%以上上昇し、アジア株は下落。世界的なリスクオフムードが強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Manufacturing",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月民間雇用者数発表、ADPは堅調も前月比減",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ADPによると3月の米民間雇用は6.2万増と堅調も、2月の6.6万増から微減。労働市場の動向注視。",
+          "affected_sectors": [
+            "Labor-intensive industries",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油価格高騰と世界的なリスクオフ相場に警戒。"
     }
   }
 ]
