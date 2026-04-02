@@ -1,43 +1,46 @@
 {
   "date": "2026-04-02",
-  "timestamp": "2026-04-02T16:08:33.901092",
-  "usdjpy": 159.51,
+  "timestamp": "2026-04-02T16:27:22.175867",
+  "usdjpy": 159.66,
+  "regime": "VOLATILE",
+  "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
+  "vix": 24.540000915527344,
   "ranking": [
     {
       "bot": "Bot11_SubspacePCA",
-      "total_return": 0.0145,
+      "total_return": 0.0134,
       "mdd": -0.0078,
       "win_rate": 0.25,
       "sharpe": 5.18,
       "n_trades": 12,
-      "latest_equity": 1014452.0,
+      "latest_equity": 1013416.0,
       "days": 4,
       "rank": 1,
       "score": 0.8321
     },
     {
       "bot": "Bot4_Momentum_Intl",
-      "total_return": 0.0049,
+      "total_return": 0.005,
       "mdd": -0.0035,
       "win_rate": 0.3333,
       "sharpe": 5.13,
       "n_trades": 8,
-      "latest_equity": 1004879.0,
+      "latest_equity": 1004977.0,
       "days": 3,
       "rank": 2,
-      "score": 0.645
+      "score": 0.6547
     },
     {
-      "bot": "Bot9_VolAsymmetry",
-      "total_return": 0.002,
-      "mdd": -0.0088,
-      "win_rate": 0.5,
-      "sharpe": 1.17,
-      "n_trades": 11,
-      "latest_equity": 1002030.0,
-      "days": 4,
+      "bot": "Bot8_NewsTech",
+      "total_return": 0.0037,
+      "mdd": -0.0008,
+      "win_rate": 0.0,
+      "sharpe": -7.94,
+      "n_trades": 1,
+      "latest_equity": 1003747.0,
+      "days": 5,
       "rank": 3,
-      "score": 0.7809
+      "score": 0.3607
     },
     {
       "bot": "Bot7_AdaptiveMarket",
@@ -46,10 +49,34 @@
       "win_rate": 0.5,
       "sharpe": 5.59,
       "n_trades": 5,
-      "latest_equity": 1001361.0,
+      "latest_equity": 1001381.0,
       "days": 4,
       "rank": 4,
-      "score": 0.5989
+      "score": 0.6055
+    },
+    {
+      "bot": "Bot1_ML_AbsChange",
+      "total_return": 0.0008,
+      "mdd": -0.0029,
+      "win_rate": 0.0,
+      "sharpe": -7.94,
+      "n_trades": 5,
+      "latest_equity": 1000800.0,
+      "days": 5,
+      "rank": 5,
+      "score": 0.3942
+    },
+    {
+      "bot": "Bot9_VolAsymmetry",
+      "total_return": 0.0001,
+      "mdd": -0.0088,
+      "win_rate": 0.5,
+      "sharpe": 1.17,
+      "n_trades": 11,
+      "latest_equity": 1000055.0,
+      "days": 4,
+      "rank": 6,
+      "score": 0.7643
     },
     {
       "bot": "Bot10_CorrGraph",
@@ -60,32 +87,20 @@
       "n_trades": 0,
       "latest_equity": 1000000,
       "days": 3,
-      "rank": 5,
-      "score": 0.3116
-    },
-    {
-      "bot": "Bot8_NewsTech",
-      "total_return": -0.0008,
-      "mdd": -0.0008,
-      "win_rate": 0.0,
-      "sharpe": -7.94,
-      "n_trades": 1,
-      "latest_equity": 999164.0,
-      "days": 5,
-      "rank": 6,
-      "score": 0.2998
-    },
-    {
-      "bot": "Bot1_ML_AbsChange",
-      "total_return": -0.0029,
-      "mdd": -0.0029,
-      "win_rate": 0.0,
-      "sharpe": -7.94,
-      "n_trades": 5,
-      "latest_equity": 997109.0,
-      "days": 5,
       "rank": 7,
-      "score": 0.3442
+      "score": 0.3174
+    },
+    {
+      "bot": "Bot3_FactorAI",
+      "total_return": -0.0016,
+      "mdd": -0.005,
+      "win_rate": 0.0,
+      "sharpe": -59.6,
+      "n_trades": 2,
+      "latest_equity": 998410.0,
+      "days": 5,
+      "rank": 8,
+      "score": 0.217
     },
     {
       "bot": "Bot6_RL_MA",
@@ -96,32 +111,20 @@
       "n_trades": 1,
       "latest_equity": 996948.0,
       "days": 4,
-      "rank": 8,
-      "score": 0.2954
-    },
-    {
-      "bot": "Bot3_FactorAI",
-      "total_return": -0.0062,
-      "mdd": -0.005,
-      "win_rate": 0.0,
-      "sharpe": -59.6,
-      "n_trades": 2,
-      "latest_equity": 993827.0,
-      "days": 5,
       "rank": 9,
-      "score": 0.1576
+      "score": 0.2995
     },
     {
       "bot": "Bot5_TrendMomentum",
-      "total_return": -0.0077,
+      "total_return": -0.0048,
       "mdd": -0.0089,
       "win_rate": 0.25,
       "sharpe": -11.08,
       "n_trades": 11,
-      "latest_equity": 992305.0,
+      "latest_equity": 995234.0,
       "days": 4,
       "rank": 10,
-      "score": 0.5305
+      "score": 0.568
     },
     {
       "bot": "Bot2_DL_Transformer",
