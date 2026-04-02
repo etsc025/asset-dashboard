@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米大統領のイラン攻撃一時停止が市場不安を解消せず、欧州株が下落",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領のイラン攻撃一時停止決定にもかかわらず、地政学的懸念が継続し欧州株は下落。原油価格は上昇を維持。",
-          "affected_sectors": [
-            "Energy",
-            "Equities",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、イラン情勢悪化による今年の世界インフレ加速を警告",
-          "country": "Global",
-          "category": "Economic Data/Forecast",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ゴールドマン・サックスは、イラン情勢の悪化が今年の世界的なインフレをさらに加速させる可能性を警告。",
-          "affected_sectors": [
-            "All sectors",
-            "Consumer Staples",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "新たなAIモデル情報流出で米国サイバーセキュリティ株が下落",
-          "country": "US",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "データ漏洩により、新しいAIモデルの詳細が流出。これを受け、米国のサイバーセキュリティ関連株が下落した。",
-          "affected_sectors": [
-            "Technology",
-            "Cybersecurity"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "地政学的緊張の高まりとインフレ懸念が市場を圧迫。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 20:30",
     "data": {
       "breaking_news": [
@@ -12555,6 +12505,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化で原油急騰と世界株安、地政学リスクが市場を支配。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil Soars as Trump Threatens Iran War Escalation, Global Stocks Tumble",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領のイラン戦争激化発言を受け原油価格が1バレル110ドル超に急騰し、世界株式市場が大幅下落。",
+          "affected_sectors": [
+            "Energy",
+            "Technology",
+            "Financials",
+            "Aviation",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Blue Owl, KKR Private Credit Funds Curb Redemptions Amid Market Strain",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Blue Owl CapitalとKKRのプライベートクレジットファンドが償還を抑制し、市場の流動性懸念を示唆。",
+          "affected_sectors": [
+            "Financials",
+            "Asset Management"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "India Bans Offshore Rupee Trading, Shaking $149 Billion Market",
+          "country": "India",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "インドがオフショアでのルピー取引を禁止し、1490億ドル規模の市場に影響を与え、ヘッジコストを上昇。",
+          "affected_sectors": [
+            "Banking & Finance",
+            "International Trade",
+            "Foreign Exchange",
+            "Fixed Income"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争激化で原油110ドル超、世界株下落。プライベートクレジット償還制限。インドがオフショアルピー取引禁止。"
     }
   }
 ]
