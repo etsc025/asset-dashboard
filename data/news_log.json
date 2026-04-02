@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-03-29 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国の景気後退確率が数年ぶりの高水準に、労働市場とGDPが軟調",
-          "country": "米国",
-          "category": "マクロ経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ムーディーズのモデルで景気後退確率が上昇。米国の雇用9.2万件減、GDPは0.7%へ下方修正。イラン紛争による原油高も影響。",
-          "affected_sectors": [
-            "全般",
-            "エネルギー",
-            "一般消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争激化により原油価格が急騰、世界的なインフレ懸念を増幅",
-          "country": "グローバル",
-          "category": "地政学, 商品, インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の継続により原油価格が1バレル120ドルに急騰。インフレを悪化させ、景気後退リスクを高める。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英中銀とECBは金利を据え置き、イラン紛争によるインフレ圧力を指摘",
-          "country": "英国, ユーロ圏",
-          "category": "金融政策, インフレ, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英中銀とECBは政策金利を据え置き。中東紛争がエネルギー価格とコモディティ価格を押し上げ、短期的なインフレ要因と見込む。",
-          "affected_sectors": [
-            "金融",
-            "債券市場",
-            "金利感応型セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争による原油高と米国の景気後退リスク上昇に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-29 22:00",
     "data": {
       "breaking_news": [
@@ -12574,6 +12520,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "トランプ氏のイラン強硬発言と原油急騰が世界市場を揺らす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ米大統領、イランに対し強硬姿勢を表明",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領がイランに対し「極めて強く」攻撃すると表明し、中東情勢の緊張が高まり、株式市場が下落、原油価格が急騰している。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場全般",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "グローバル株式市場、中東情勢緊迫化で下落",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領によるイランへの強硬発言を受け、欧州および米国の株式市場が下落し、投資家心理が悪化している。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が急騰、中東情勢の緊張高まりを反映",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の地政学的緊張が高まる中、世界の原油価格が大幅に上昇。WTI原油は110ドル超えを記録している。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン緊張激化で原油急騰・株安、市場はリスクオフ"
     }
   }
 ]
