@@ -1,112 +1,5 @@
 [
   {
-    "timestamp": "2026-03-26 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン停戦交渉への期待で市場急反発",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランに15項目停戦案を送付、交渉進展期待で株価反発。S&P500が0.75%上昇、石油価格は4ドル下落し$88台へ",
-          "affected_sectors": [
-            "石油",
-            "航空",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン、米停戦提案を拒否と報道",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランが停戦提案を受け入れないとの報道。ホルムズ海峡封鎖継続で原油供給不安再燃、市場のボラティリティ高止まり",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀、政策金利0.75%で据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀が3月会合で政策金利を0.75%に据え置き。中東情勢悪化を警戒し慎重姿勢維持。1名が1.0%への引き上げに反対票",
-          "affected_sectors": [
-            "銀行",
-            "保険",
-            "円建て債券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "原油価格、$112から急落後反発",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "ブレント原油が一時$112突破後、停戦期待で$99まで急落。現在$101付近で推移。イラク全油田で不可抗力宣言",
-          "affected_sectors": [
-            "石油",
-            "エネルギー",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceX、IPO申請を今週にも実施か",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "SpaceXが今週にもIPO申請を行う可能性。宇宙関連銘柄が先行して上昇、民間宇宙開発セクターに注目集まる",
-          "affected_sectors": [
-            "航空宇宙",
-            "テクノロジー",
-            "防衛"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AI関連でArm Holdingsを格上げ",
-          "country": "英国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Raymond Jamesが独自CPU発表のArmを格上げ、目標株価$166設定。AI関連株への投資家関心継続",
-          "affected_sectors": [
-            "半導体",
-            "AI",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ラッセル2000が調整入り",
-          "country": "米国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "小型株指数ラッセル2000が10%下落で調整局面入り。高い最高値から2%超下落、リスクオフ継続",
-          "affected_sectors": [
-            "小型株",
-            "地域銀行",
-            "不動産"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米・イラン停戦交渉の真偽で市場急変動、原油・株価の乱高下継続"
-    }
-  },
-  {
     "timestamp": "2026-03-26 14:30",
     "data": {
       "breaking_news": [
@@ -12734,6 +12627,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化と原油価格急騰でグローバル市場は警戒モード。"
+    }
+  },
+  {
+    "timestamp": "2026-04-02 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "世界株価上昇、原油下落：イラン戦争終結期待",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン戦争終結の期待感が高まり、世界の株式市場は全面高。一方で原油価格は供給懸念後退から下落している。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy",
+            "Transportation",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州株・米国株が続伸、イラン紛争終結観測でリスクオン",
+          "country": "Europe, US",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ米大統領のイラン紛争終結検討発言を受け、欧州・米国市場の株価が続伸しリスクオンムードが強まる。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Industrials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY原油続落、中東紛争早期終結への期待で価格軟化",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の早期終結期待が市場を支配し、ニューヨーク原油価格は続落。供給過剰懸念が強まっている。",
+          "affected_sectors": [
+            "Energy (Oil & Gas Producers)",
+            "Utilities",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン戦争終結期待で世界的にリスクオン相場、株高・原油安へ。"
     }
   }
 ]
