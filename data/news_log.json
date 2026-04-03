@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格が1バレル116ドル超に急騰、イランが米国の侵攻準備を非難",
-          "country": "Global",
-          "category": "Energy, Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランと米国の緊張高まりを受け、原油価格が1バレル116ドルを超えて急騰。世界的なエネルギー危機が悪化する懸念がある。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢悪化への懸念から世界株式市場が下落",
-          "country": "Global",
-          "category": "Financial Markets, Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢のさらなる悪化への懸念から原油価格が高騰し、アジア株を含む世界の株式市場が軒並み下落している。",
-          "affected_sectors": [
-            "All Equities",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国金融市場、中東戦争長期化を織り込みストレス増大",
-          "country": "US",
-          "category": "Economic Outlook, Financial Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国金融市場は中東での戦争長期化を織り込み、RSM米国金融情勢指数はマイナスに転じ、成長への圧力を示唆。",
-          "affected_sectors": [
-            "All",
-            "Interest-Rate Sensitive Sectors",
-            "Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "オーストラリア、世界的なエネルギー危機深刻化で燃料税を半減",
-          "country": "Australia",
-          "category": "Fiscal Policy, Energy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "世界的なエネルギー危機の深刻化に対応するため、オーストラリア政府は燃料税を半減すると発表した。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東戦争の長期化懸念で原油急騰、世界株安、金融市場に強いストレスが波及。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 21:00",
     "data": {
       "breaking_news": [
@@ -12779,6 +12713,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高が市場の最重要懸念事項。為替と株式に影響大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、グッドフライデーで休場",
+          "country": "米国",
+          "category": "市場休場",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "2026年4月3日、米国株式市場はグッドフライデーのため休場。NasdaqとNYSEの両方が取引を停止。銀行は通常営業。",
+          "affected_sectors": [
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月サービスPMI下方修正、経済成長懸念",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "S&Pグローバル発表の米国3月最終サービスPMIが下方修正され、予想と前月を下回った。サービス部門の成長鈍化を示唆。",
+          "affected_sectors": [
+            "サービス業",
+            "経済全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢懸念で原油価格高騰、グローバル市場にインフレ圧力",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学的リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "長期化するイラン戦争への懸念が原油価格を押し上げ、世界の株式市場にインフレ圧力とボラティリティをもたらしている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "経済全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国株式市場は休場。イラン情勢と米経済指標が市場の重し。"
     }
   }
 ]
