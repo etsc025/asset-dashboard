@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、WTI一時100ドルに迫る",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化で原油先物価格が急騰、WTI原油が一時1バレル100ドルに迫る。供給懸念から市場のリスク回避姿勢が強まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円160円台維持、日銀の早期利上げ観測高まる",
-          "country": "Japan",
-          "category": "Forex, Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "ドル円は160円台を維持。記録的な円安水準を受け、日銀による金融政策修正、早期利上げ観測が市場で高まっている。",
-          "affected_sectors": [
-            "Exporting Industries",
-            "Importing Industries",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場続落、中東懸念と利下げ観測後退でテクノロジー株売り優勢",
-          "country": "United States",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国株式市場は、中東情勢の不透明感と米利下げ観測後退により大幅続落。ハイテク株が特に売りを主導し、市場は警戒感を強める。",
-          "affected_sectors": [
-            "Technology",
-            "Investment Banking",
-            "Asset Management"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油高が市場全体のリスクオフを加速、警戒必要。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 09:00",
     "data": {
       "breaking_news": [
@@ -12709,6 +12657,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学リスクと高騰する原油価格、米国の貿易政策に警戒が必要。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "NY連銀総裁、イラン情勢による原油急騰が経済に波及と警告",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "NY連銀総裁がイラン情勢に起因する原油価格高騰が経済全体に波及する可能性を警告。インフレ懸念が増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "消費財",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ナイキCEO、利益減少に不満表明し更なる落ち込みを警告",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ナイキCEOが利益減少への不満を表明し、さらなる落ち込みを警告。消費財セクターに懸念が広がる。",
+          "affected_sectors": [
+            "小売",
+            "アパレル",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国3月のサービス部門成長が鈍化、需要軟化が影響",
+          "country": "中国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国の3月サービス部門の成長は需要軟化により鈍化したが、依然として拡大基調を維持。",
+          "affected_sectors": [
+            "サービス",
+            "消費財",
+            "アジア市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢緊迫化で原油価格高騰、WTIは110ドル超え",
+          "country": "グローバル",
+          "category": "地政学、商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の緊迫化とホルムズ海峡の不確実性を受け、原油価格が高騰。WTIは110ドルを突破。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "航空",
+            "製造業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化で原油急騰、NY連銀総裁が経済波及を警告。"
     }
   }
 ]
