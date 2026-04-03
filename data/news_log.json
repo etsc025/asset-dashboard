@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Stocks Swing, Oil Prices Climb Amid Mideast Conflict",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "グローバル株式は不安定、中東紛争による石油価格高騰がインフレ懸念と市場の不確実性を高める。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Consumer Discretionary",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "German Inflation Rebounds to 2.8% in March, Driven by Energy Costs",
-          "country": "Germany",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドイツの消費者物価指数は3月に前年比2.8%上昇（2月は2.0%）、中東紛争によるエネルギー価格上昇が要因。",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Industrials",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "BoJ to Closely Monitor Yen Amid Mideast Conflict & Inflation Worries",
-          "country": "Japan",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀植田総裁は、中東紛争が円に圧力をかけインフレ懸念を高める中、円を注視すると表明。",
-          "affected_sectors": [
-            "Export-oriented industries",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF Warns Mideast Conflict Threatens Global Economy with Higher Prices",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、米国・イスラエル対イラン戦争が世界経済を減速させ、物価上昇と成長鈍化を招くと警告。",
-          "affected_sectors": [
-            "All sectors",
-            "Energy",
-            "Manufacturing",
-            "Logistics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化、原油高騰とインフレ懸念、世界市場の変動増大。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 03:00",
     "data": {
       "breaking_news": [
@@ -12755,6 +12688,45 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国F-15撃墜、イラン地上戦動員で地政学リスク急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "NYダウ一時大幅下落、原油価格急騰",
+          "country": "US",
+          "category": "Stock Market, Commodity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化を受け、米NYダウ平均株価が一時660ドル超下落。原油価格は1バレル113ドル台に急騰し、市場に懸念が広がっています。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Manufacturing",
+            "Logistics",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日商会頭、中小企業の賃上げに慎重姿勢",
+          "country": "Japan",
+          "category": "Economy, Labor",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本商工会議所の会頭は、中東情勢の影響による企業コスト増を受け、中小企業の賃上げは楽観視できないとの見解を示しました。",
+          "affected_sectors": [
+            "Small and Medium-sized Enterprises (SMEs)",
+            "Retail",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油急騰、NYダウ一時大幅下落。"
     }
   }
 ]
