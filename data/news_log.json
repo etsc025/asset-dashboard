@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ブレント原油1バレル116ドルに急騰、中東情勢緊迫化で",
-          "country": "Global",
-          "category": "Energy, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイラン原油掌握発言を受け、ブレント原油が1バレル116ドルに高騰。世界経済のインフレ懸念増大。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株価、中東情勢と原油高で下落：アジア市場で特に顕著",
-          "country": "Global",
-          "category": "Equity Markets, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢緊迫化と原油価格高騰への懸念から、世界の株式市場で広範な株価下落が見られる。",
-          "affected_sectors": [
-            "Broad Market",
-            "Financials",
-            "Export-oriented sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "南アフリカ株価指数、イラン戦争と貴金属安で2008年以来最悪の月へ",
-          "country": "South Africa",
-          "category": "Equity Markets, Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるリスク回避と貴金属価格下落で、南アフリカ株価指数が2008年以来最悪の月に。",
-          "affected_sectors": [
-            "Mining",
-            "Precious Metals",
-            "Financials",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀、中東緊迫化による原油高とインフレ懸念で金融政策据え置きを継続",
-          "country": "Japan",
-          "category": "Monetary Policy, Economy, Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "日銀は中東情勢による原油高と景気下押し、物価上昇リスクを警戒し、政策金利を維持する方針。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "General Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円相場、対ドルで159円台後半に推移、中東情勢警戒で円売り継続",
-          "country": "Japan",
-          "category": "Currency Markets, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東情勢を巡る警戒感から、円相場は1ドル159円台後半で推移し、ドル買い・円売りの流れが続く。",
-          "affected_sectors": [
-            "Export-oriented industries",
-            "Import-oriented industries",
-            "Tourism"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化が原油高と世界的な株価下落を引き起こし、市場はリスク回避モード。インフレ圧力増大に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 22:00",
     "data": {
       "breaking_news": [
@@ -12790,6 +12709,92 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化と原油供給不安、ヘッジファンドの株式売却が市場を押し下げ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米3月雇用統計は予想超えも、2月は下方修正",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は予想を上回るも、2月の数値は下方修正され、労働市場に複雑なシグナルを示した。",
+          "affected_sectors": [
+            "全セクター",
+            "消費者サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東紛争で食料価格が急騰、国連が警告",
+          "country": "グローバル",
+          "category": "コモディティ, インフレ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるエネルギーコスト高騰が原因で、3月の食料価格が急上昇したと国連が発表した。",
+          "affected_sectors": [
+            "農業",
+            "食品・飲料",
+            "消費者必需品"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU、トランプ氏の関税変更の影響を評価",
+          "country": "EU",
+          "category": "貿易政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EUがトランプ氏の関税変更がもたらす影響を評価中。貿易摩擦の激化や国際市場への波及が懸念される。",
+          "affected_sectors": [
+            "国際貿易",
+            "多岐にわたる産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国、政治局員を解任し幹部粛清を深化",
+          "country": "中国",
+          "category": "政治, ガバナンス",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国で政治局員が解任され、最高幹部層の粛清が深化。政治の不安定化や政策変更の可能性が懸念される。",
+          "affected_sectors": [
+            "全セクター (政策変更のリスク)"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "PNCファイナンシャル、1.70ドルの配当を発表",
+          "country": "米国",
+          "category": "企業ニュース, 配当",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "PNCファイナンシャルが1株あたり1.70ドルの配当を発表し、株主還元策を強化。投資家には好材料。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ECARXホールディングス、EPSと売上が予想下回る",
+          "country": "中国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ECARXホールディングスの最新決算は、EPSと売上の両方が市場予想を大幅に下回る結果となった。",
+          "affected_sectors": [
+            "自動車技術",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争によるエネルギー・食料価格高騰がグローバル市場を揺るがす。"
     }
   }
 ]
