@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン情勢緊迫化と原油価格急騰：トランプ氏発言とフーシ派介入",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイラン原油掌握発言とフーシ派の紛争介入により、ブレント原油が115ドル超に急騰しインフレ懸念が拡大中。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学的リスク高まり、世界の株式市場が下落",
-          "country": "Global",
-          "category": "Market News",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の不確実性増大により、ウォール街は下落、アジア市場も続落。投資家のリスク回避姿勢が鮮明に表れています。",
-          "affected_sectors": [
-            "All Equity Markets",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要中央銀行、原油高によるインフレ懸念で金融政策対応に注目",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格高騰を受け、英中銀とECBは利上げ予想。FRBは据え置き、日銀は現状維持も将来的な利上げを示唆。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Interest-rate Sensitive Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国経済活動の減速と消費者信頼感の低下",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国3月の事業活動を示すPMIは11ヶ月ぶり低水準。サービス活動の鈍化と消費者信頼感の低下が顕著に。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Retail",
-            "Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化、原油急騰で世界経済にインフレと景気後退リスク増大"
-    }
-  },
-  {
     "timestamp": "2026-03-30 18:30",
     "data": {
       "breaking_news": [
@@ -12701,6 +12634,85 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イランを巡る地政学的緊張が原油価格と世界市場に影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF、トークン化された金融がもたらす4つのリスクについて警告",
+          "country": "グローバル",
+          "category": "金融規制",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMF、トークン化された金融のリスクに警告：断片化、金融安定性、法的ギャップ、EMDE不安定性。",
+          "affected_sectors": [
+            "フィンテック",
+            "暗号通貨",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプの新たな脅威を受け、イランが地上戦に備え動員",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン、トランプの脅威で地上戦準備、中東紛争激化と原油価格高騰の懸念高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月の米雇用者数、予想を上回り急増",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米経済、3月に17.8万人の雇用を創出、予想を上回る。失業率は4.3%に低下。",
+          "affected_sectors": [
+            "全セクター",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY連銀総裁、イランの石油ショックが物価上昇を招く可能性を警告",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "NY連銀総裁、イラン紛争による石油ショックがインフレを引き起こし、日用品価格に影響と警告。",
+          "affected_sectors": [
+            "エネルギー",
+            "消費財",
+            "小売",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マイクロソフト、日本に100億ドルのAI投資計画を発表",
+          "country": "日本",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "マイクロソフト、日本に100億ドルのAI投資を発表。テクノロジーセクターと日本のデジタル変革を推進。",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "半導体"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化と原油価格高騰によるインフレ懸念が市場を圧迫。"
     }
   }
 ]
