@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢悪化で原油価格が高騰、世界市場に影響",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化に伴う原油価格の高騰が世界経済にインフレ懸念と市場の不確実性をもたらしている。",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing",
-            "Airlines",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円安進行、日銀植田総裁が経済・物価への影響を注視",
-          "country": "Japan",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "為替市場での円安進行を受け、日銀の植田総裁は経済や物価見通しに及ぼす影響を見極め金融政策を判断する方針を表明した。",
-          "affected_sectors": [
-            "Financials",
-            "Exporters",
-            "Importers",
-            "Tourism"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国、自動車ローン不正に関する補償スキーム発表へ",
-          "country": "UK",
-          "category": "Regulatory",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の金融行動監視機構（FCA）は、自動車ローン不正問題に対する補償スキームの詳細を公表する予定。",
-          "affected_sectors": [
-            "Automotive Finance",
-            "Retail Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化による原油高と世界的なインフレ再燃に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 01:00",
     "data": {
       "breaking_news": [
@@ -12766,6 +12714,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高でリスクオフ、本日発表の米雇用統計に注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米F-15戦闘機がイラン上空で撃墜、乗組員捜索中",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン上空で米戦闘機が撃墜され、地政学的緊張が大幅に高まり市場に不確実性。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢緊迫化で原油価格高騰、米国産原油110ドル超え",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の緊迫化を受け原油価格が急騰し、インフレ懸念が高まる。米国産原油110ドル超。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業",
+            "消費者サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月の米雇用者数、予想を大幅に上回る増加",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "3月の米雇用統計で雇用者数が市場予想を大きく上回り、経済の堅調さを示す。",
+          "affected_sectors": [
+            "全セクター",
+            "金融",
+            "不動産",
+            "一般消費財"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米戦闘機撃墜で中東情勢緊迫、原油価格急騰で市場警戒感高まる"
     }
   }
 ]
