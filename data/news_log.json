@@ -1,60 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日本株急落、円が160円台突破",
-          "country": "日本",
-          "category": "株式市場, 為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争と高騰する原油価格が重しとなり、日経平均は2026年の最安値に。円は対ドルで160円を突破した。",
-          "affected_sectors": [
-            "金融",
-            "輸出産業",
-            "幅広い株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争激化で世界市場に暗雲、株価が世界的に調整局面入り",
-          "country": "グローバル (米国, 欧州, 日本, 豪州, 香港)",
-          "category": "地政学, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の激化により、世界的に株価が調整局面に入り、原油価格上昇で不確実性が高まっている。",
-          "affected_sectors": [
-            "全セクター",
-            "特にエネルギー",
-            "運輸",
-            "製造",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖と施設攻撃で原油価格が1バレル115ドル超に高騰",
-          "country": "グローバル (特にアジアのエネルギー輸入国)",
-          "category": "コモディティ, 地政学, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡閉鎖とペルシャ湾のエネルギー施設攻撃により、ブレント原油は1バレル115ドル超まで急騰した。",
-          "affected_sectors": [
-            "エネルギー (上流)",
-            "運輸",
-            "製造",
-            "消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化、原油急騰、世界株安。円は160円台に。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 11:30",
     "data": {
       "breaking_news": [
@@ -12734,6 +12679,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢が緊迫化し、原油価格が急騰。地政学的リスクの高まりから、世界の金融市場はリスクオフモードに転換している。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油価格急騰で世界の市場に警戒感",
+          "country": "GLOBAL",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランを巡る情勢緊迫化を受け、原油価格が急騰。ブレント原油は7%上昇、WTIは110ドル超え。 アジア市場も慎重な取引。",
+          "affected_sectors": [
+            "Energy",
+            "Global Markets",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国ウォン、対ドルで金融危機以来の安値水準に急落",
+          "country": "South Korea",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "韓国ウォンが対ドルで1ドル＝1500ウォン台半ばまで急騰し、金融危機以降で最高水準を記録。 通貨当局の静観に懸念。",
+          "affected_sectors": [
+            "Financial Services",
+            "Importers",
+            "Korean Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マイクロソフト、日本に1.6兆円投資しAIデータセンターを整備",
+          "country": "Japan",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "マイクロソフトが今後4年間で日本に100億ドル（約1.6兆円）を投資し、AIデータセンターなどのインフラを強化する方針。",
+          "affected_sectors": [
+            "Technology",
+            "Cloud Computing",
+            "Infrastructure",
+            "Japan Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油価格高騰、市場は警戒"
     }
   }
 ]
