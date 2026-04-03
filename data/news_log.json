@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格高騰、英国は生活費危機悪化",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争激化、特にイラン関連の緊張で原油価格が急騰。ブレント原油は月間過去最高ペースで上昇中。英国の生活費危機を悪化させ、世界経済に不確実性をもたらす。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株式市場が大幅下落、消費者信頼感も過去最低水準に",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争と原油高騰を受け、世界各地の株式市場が下落。英国の経済信頼感は2022年後半以降で最低水準に。市場心理は「極度の恐怖」を示す。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Consumer Discretionary",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化と原油急騰が世界経済と市場に重圧。変動性増大に注意。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 20:30",
     "data": {
       "breaking_news": [
@@ -12768,6 +12729,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "NY連銀、原油高騰の経済波及を警告。IMFはトークン化金融リスク指摘。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東軍事衝突長期化懸念で円安進行、原油高止まり",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Forex",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランへの強硬姿勢により中東情勢緊迫化が長期化懸念を強め、原油価格高止まりが日本の貿易収支悪化を警戒させ円安を加速。",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing",
+            "Transportation",
+            "Forex"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均反発、海外短期筋の先物買いが主導も原油高が上値抑制",
+          "country": "Japan",
+          "category": "Equities, Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米ハイテク株高とイラン情勢改善への期待で日経平均は反発。しかし、中東軍事衝突の長期化懸念による原油高が企業業績への悪影響を警戒させ上値を抑制。",
+          "affected_sectors": [
+            "Technology",
+            "Export-oriented sectors",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米雇用市場、3月に予想上回る結果も2月の下方修正で限定的な動き",
+          "country": "USA",
+          "category": "Macroeconomics, Labor Market",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米雇用統計は予想を上回ったが2月が下方修正され、ドル高円安への市場反応は限定的。中東情勢が市場の主要関心事。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高が市場の最重要懸念事項。為替と株式に影響大。"
     }
   }
 ]
