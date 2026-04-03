@@ -1,92 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国株式市場、金曜日の上昇を失う可能性",
-          "country": "中国",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国市場は金曜の上昇を失う可能性あり。3910ポイント台を維持も、月曜は軟調に推移か。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "オーストラリア市場が大幅下落、エネルギー株は上昇",
-          "country": "オーストラリア",
-          "category": "株式市場, コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "オーストラリア市場は大幅下落。S&P/ASX 200は8400割れ。中東紛争の原油高でエネルギー株は好調。",
-          "affected_sectors": [
-            "株式",
-            "テクノロジー",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "台湾株式市場、月曜日は軟調なスタートか",
-          "country": "台湾",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "台湾株式市場は2日連続で下落後、月曜も軟調なスタートが予想される。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NIP Group、Nasdaqから最低入札価格の通知",
-          "country": "米国",
-          "category": "企業ニュース, 株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "NIP GroupがNasdaqから最低入札価格に関する通知を受け、株価が10%超下落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "個別企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "WTO閣僚会議、電子商取引関税モラトリアムで合意に至らず",
-          "country": "グローバル",
-          "category": "貿易, 政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "WTO閣僚会議が電子商取引の関税モラトリアムに関して合意なく終了し、貿易政策に影響の可能性。",
-          "affected_sectors": [
-            "Eコマース",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI投資家、AIによる雇用懸念緩和へ税制変更提案",
-          "country": "米国",
-          "category": "テクノロジー, 政策, 労働",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "OpenAIの投資家が、AIが引き起こす雇用不安を和らげるため、税制変更の検討を提案した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "労働市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争による原油高とアジア市場の下落、企業特定リスクに注意。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 16:30",
     "data": {
       "breaking_news": [
@@ -12617,6 +12530,140 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Global markets on edge as Iran war escalates, pushing oil prices higher."
+    }
+  },
+  {
+    "timestamp": "2026-04-03 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "原油価格高騰、アジア株は緩やかに上昇",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争懸念により原油価格が急騰、一方アジアの金融市場は警戒感の中で株価が緩やかに上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株、週間の上昇で引けるも原油高止まり",
+          "country": "米国",
+          "category": "市場動向, コモディティ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株は早期の損失から回復し週間の上昇で引けたが、イラン紛争の懸念で原油は1バレル110ドルを超え高止まり。",
+          "affected_sectors": [
+            "全体市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏、イランの橋破壊後に「さらなる事態続く」と警告",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ氏がイランの最大級の橋破壊攻撃後、「テヘランにはまだ多くのことが続く」と警告し、地域情勢の緊張を高めている。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "グローバル貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "北海での原油掘削追加中止を主張、欧州のエネルギー政策に影響",
+          "country": "英国, 欧州",
+          "category": "エネルギー政策, 環境",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "北海でのさらなる原油掘削の中止が主張されており、欧州のエネルギー供給と価格に影響を与える可能性。",
+          "affected_sectors": [
+            "エネルギー",
+            "環境"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米原油、トランプ氏のイラン強硬演説後に6年ぶりの大幅上昇",
+          "country": "米国",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ氏のイランに関する強硬な演説後、米国の原油価格が6年ぶりの一日での最大の上昇を記録。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格下落、イラン演説が利上げ期待を高める",
+          "country": "グローバル",
+          "category": "コモディティ, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "トランプ氏のイランに関する演説が将来的な金利上昇の可能性を高め、安全資産としての金価格が下落。",
+          "affected_sectors": [
+            "貴金属",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ヘグセス氏、イラン戦争中に米陸軍参謀総長に即時退役要求",
+          "country": "米国",
+          "category": "政治, 地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ヘグセス氏がイラン戦争の最中、米陸軍参謀総長に対し即時退役を要求し、国防総省内の動向が注目される。",
+          "affected_sectors": [
+            "防衛",
+            "政府"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダのガソリン価格、イラン戦争で2ドル超えの可能性",
+          "country": "カナダ",
+          "category": "コモディティ, 経済予測",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "専門家は、イラン紛争の長期化によりカナダのガソリン価格が1リットルあたり2ドルを超える可能性を指摘。",
+          "affected_sectors": [
+            "輸送",
+            "小売",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マイクロソフト、日本で100億ドルのAI投資計画発表",
+          "country": "日本, 米国",
+          "category": "テクノロジー, 企業投資",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "マイクロソフトが日本におけるAIおよびクラウドインフラに100億ドルを投資する計画を発表。",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "半導体",
+            "クラウドコンピューティング",
+            "日本経済"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化、原油価格高騰が市場を圧迫。"
     }
   }
 ]
