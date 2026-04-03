@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均株価が1300円超の大幅下落で始まる、リスクオフ加速",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "東京株式市場で日経平均株価が1300円以上急落。米ハイテク株安と中東情勢の緊迫化がリスクオフを加速。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円が一時160円台に上昇、日銀総裁が為替動向を注視と発言",
-          "country": "日本",
-          "category": "外国為替, 金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドル円が一時160円台に上昇し円安進行。日銀総裁は為替の物価影響と市場動向を注視と表明。",
-          "affected_sectors": [
-            "輸出産業",
-            "金融機関",
-            "輸入品関連産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "マースク、オマーン・サラーラ港での業務を安全保障事案で停止",
-          "country": "オマーン",
-          "category": "地政学, 物流",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "デンマークの海運大手マースクがオマーンのサラーラ港業務を安全保障事案で停止。グローバル物流への影響懸念が高まる。",
-          "affected_sectors": [
-            "海運業",
-            "物流業",
-            "エネルギー産業",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要証券会社、金価格が3,700ドルまで下落する可能性を指摘",
-          "country": "グローバル",
-          "category": "商品市場, アナリスト評価",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "主要証券会社が金価格のさらなる下落を予測、テクニカル・マクロ要因から3,700ドルへの調整可能性を示唆。",
-          "affected_sectors": [
-            "貴金属",
-            "投資ファンド"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東緊迫化と円安で市場はリスクオフ、日経平均が急落中。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 12:00",
     "data": {
       "breaking_news": [
@@ -12731,6 +12666,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油価格高騰、市場は警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、2026年2月の貿易赤字拡大、予想を上回る",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "2026年2月の米国の貿易赤字は予想以上に拡大し、輸入の増加が輸出を上回った。市場は今後の経済成長への影響を注視している。",
+          "affected_sectors": [
+            "貿易",
+            "製造業",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceX、新規株式公開（IPO）の機密申請を提出と報道",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bloombergの報道によると、SpaceXは新規株式公開（IPO）の機密申請を提出し、今年6月のIPOを目指している。",
+          "affected_sectors": [
+            "テクノロジー",
+            "宇宙航空",
+            "ベンチャーキャピタル"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領、薬剤価格引き下げない企業に100%関税を課すと発表",
+          "country": "米国",
+          "category": "政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領は、薬剤価格を引き下げていない企業に対し、100%の関税を課す方針を発表した。製薬業界に大きな影響を与える見込み。",
+          "affected_sectors": [
+            "製薬",
+            "ヘルスケア"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国貿易赤字拡大、SpaceX IPO、そしてトランプ大統領による薬剤関税発表が市場の主要な焦点。"
     }
   }
 ]
