@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン情勢緊迫化、原油価格が急騰し世界経済に圧力",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の緊迫化とホルムズ海峡封鎖の懸念から原油価格が急騰。インフレと世界経済成長への圧力が強まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢と金融引き締め懸念で世界の株式市場が下落",
-          "country": "US, Asia",
-          "category": "Equity Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の激化と原油価格高騰を受け、世界の株式市場は下落基調。米国株は5週連続下落を記録した。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Industrials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州中央銀行がエネルギー価格高騰で利上げ観測高まる",
-          "country": "Europe",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東での戦争によるエネルギー依存度上昇で欧州経済見通しが悪化。ECBはインフレ抑制のため利上げ圧力に直面。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Utilities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化と原油急騰が世界経済を圧迫し市場はリスクオフに。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 04:00",
     "data": {
       "breaking_news": [
@@ -12715,6 +12661,98 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢と原油価格の高騰が世界市場の主要なリスク要因"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米F-15戦闘機、イラン上空で撃墜。乗組員捜索中",
+          "country": "グローバル/米国/イラン",
+          "category": "地政学/軍事紛争",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米F-15戦闘機がイラン上空で撃墜され、地政学的緊張が高まる。乗組員の捜索が進行中。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "海運",
+            "金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計、予想を大幅に上回る17.8万人の雇用増",
+          "country": "米国",
+          "category": "経済指標/労働市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用者数は17.8万人増で予想を上回る。失業率は4.3%に低下、賃金伸び率は鈍化。",
+          "affected_sectors": [
+            "全セクター",
+            "消費裁量",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争により原油価格が急騰、米国産原油は1バレル110ドル超え",
+          "country": "グローバル",
+          "category": "コモディティ/エネルギー市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争激化で原油価格が急騰。米国産原油WTIが1バレル110ドルを突破し、市場に影響。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "消費裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米S&Pグローバル・サービスPMI、3月に49.8へ下落し3年ぶり低水準",
+          "country": "米国",
+          "category": "経済指標/サービス業",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国3月のS&Pグローバル・サービスPMIが49.8に落ち込み、3年以上ぶりの縮小を示す。",
+          "affected_sectors": [
+            "サービス業",
+            "消費裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株価指数先物、堅調な3月雇用統計を受けて小幅下落",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "予想を上回る3月雇用統計発表後、米国株価指数先物は小幅に下落。市場は複雑な反応。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国で住宅ローン金利が急騰、住宅購入者の計画に影響",
+          "country": "米国",
+          "category": "金融/不動産",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の住宅ローン金利が急上昇し、住宅市場の活動と消費者の購買力に悪影響を与えている。",
+          "affected_sectors": [
+            "不動産",
+            "金融",
+            "建設"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化、米国F-15戦闘機撃墜。原油価格急騰で市場警戒。"
     }
   }
 ]
