@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "timestamp": "2026-04-04T00:30:20.541419",
-  "usdjpy": 159.56,
+  "timestamp": "2026-04-04T01:00:45.181323",
+  "usdjpy": 159.64,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
   "vix": 23.8700008392334,
@@ -20,27 +20,27 @@
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": 0.001,
+      "total_return": 0.0012,
       "mdd": -0.007,
       "win_rate": 0.1429,
       "sharpe": 0.58,
       "n_trades": 5,
-      "latest_equity": 1000982.0,
+      "latest_equity": 1001192.0,
       "days": 7,
       "rank": 2,
-      "score": 0.5119
+      "score": 0.5143
     },
     {
       "bot": "Bot8_NewsTech",
-      "total_return": 0.0009,
+      "total_return": 0.0011,
       "mdd": -0.0011,
       "win_rate": 0.1429,
       "sharpe": 2.82,
       "n_trades": 6,
-      "latest_equity": 1000932.0,
+      "latest_equity": 1001147.0,
       "days": 7,
       "rank": 3,
-      "score": 0.4576
+      "score": 0.4599
     },
     {
       "bot": "Bot9_VolAsymmetry",
@@ -56,27 +56,27 @@
     },
     {
       "bot": "Bot10_CorrGraph",
-      "total_return": -0.0014,
+      "total_return": -0.0013,
       "mdd": -0.0013,
       "win_rate": 0.0,
       "sharpe": -9.17,
       "n_trades": 2,
-      "latest_equity": 998609.0,
+      "latest_equity": 998702.0,
       "days": 4,
       "rank": 5,
-      "score": 0.167
+      "score": 0.1681
     },
     {
       "bot": "Bot4_Momentum_Intl",
-      "total_return": -0.0022,
+      "total_return": -0.0019,
       "mdd": -0.0068,
       "win_rate": 0.25,
       "sharpe": -1.48,
       "n_trades": 12,
-      "latest_equity": 997829.0,
+      "latest_equity": 998064.0,
       "days": 4,
       "rank": 6,
-      "score": 0.5464
+      "score": 0.5499
     },
     {
       "bot": "Bot7_AdaptiveMarket",
@@ -104,15 +104,15 @@
     },
     {
       "bot": "Bot3_FactorAI",
-      "total_return": -0.0039,
+      "total_return": -0.0037,
       "mdd": -0.0053,
       "win_rate": 0.1429,
       "sharpe": -6.53,
       "n_trades": 6,
-      "latest_equity": 996080.0,
+      "latest_equity": 996263.0,
       "days": 7,
       "rank": 9,
-      "score": 0.3366
+      "score": 0.3389
     },
     {
       "bot": "Bot5_TrendMomentum",
@@ -133,7 +133,7 @@
       "win_rate": 0.1429,
       "sharpe": -9.62,
       "n_trades": 4,
-      "latest_equity": 987086.0,
+      "latest_equity": 987149.0,
       "days": 7,
       "rank": 11,
       "score": 0.3029
