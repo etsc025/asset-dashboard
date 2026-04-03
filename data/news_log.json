@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "アジア株式市場が中東紛争と原油価格高騰を受け下落",
-          "country": "グローバル",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争による原油価格の高騰とインフレ懸念を受け、3月30日のアジア主要株式市場は軒並み下落。日本市場は5%安で開始。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本円が対ドルで160円台を突破、介入観測高まる",
-          "country": "日本",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "週末に日本円が対米ドルで160円を突破し、日本当局による為替介入の可能性が高まっている。",
-          "affected_sectors": [
-            "為替",
-            "輸出入企業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が高止まり、世界的なリセッション懸念が強まる",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争が続く中、ブレント原油は1バレル115ドルを超えて推移し、高止まりする原油価格が世界的なリセッションリスクを高めている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造業",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場はグローバルリスクと通貨安で軟調な週明けか",
-          "country": "インド",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "グローバルリスク、通貨圧力、不安定なコモディティ価格により、インド市場は3月30日に慎重な動きで始まる見込み。",
-          "affected_sectors": [
-            "株式市場",
-            "金融",
-            "自動車"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争が原油高と株安を招き、世界経済にリセッション懸念増大。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 15:00",
     "data": {
       "breaking_news": [
@@ -12653,6 +12586,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米市場休場。IMF、トークン化金融のリスク警告。イラン情勢に注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ氏の強硬なイラン発言後、原油価格が急騰し6年ぶりの大幅上昇",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領のイランに対する強硬発言を受け、米国産原油価格が6年ぶりの大幅な1日上昇を記録。中東情勢の緊迫化がエネルギー市場を押し上げている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価、大幅反発し上げ幅拡大",
+          "country": "Japan",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "東京株式市場で日経平均株価は大幅に反発し、寄り付き後も上げ幅を拡大。前日の大幅下落からの買い戻しが優勢。",
+          "affected_sectors": [
+            "Financials",
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マイクロソフト、日本で100億ドルのAI投資計画を発表",
+          "country": "Japan",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "マイクロソフトが日本で100億ドル規模のAI関連投資計画を公表。AI技術開発とインフラ整備を促進し、日本のデジタル競争力強化に貢献する見込み。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductor",
+            "Software",
+            "Education"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢緊迫化による原油高と日経平均の動向に注目。"
     }
   }
 ]
