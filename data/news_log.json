@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-30 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争激化、原油価格急騰で世界経済に重圧",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争激化により原油価格がバレルあたり120ドルに高騰、インフレ懸念と経済減速リスクが増大。",
-          "affected_sectors": [
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国リセッション確率上昇、弱化する経済指標が警告",
-          "country": "USA",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ムーディーズAIモデルは米国リセッション確率49%を示唆。雇用減とGDP下方修正で景気後退懸念が深刻化。",
-          "affected_sectors": [
-            "All sectors",
-            "Cyclical",
-            "Industrials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "止まらぬインフレ懸念、FRBの利下げ期待は遠のく",
-          "country": "Global",
-          "category": "Monetary Policy, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油高騰と堅調なインフレにより、FRBの利下げ期待が後退。高金利長期化が成長株に圧力。",
-          "affected_sectors": [
-            "Technology",
-            "Real Estate",
-            "Growth stocks",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界市場「極度の恐怖」指標が点灯、リスク回避の動き加速",
-          "country": "Global",
-          "category": "Market Sentiment, Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "CNN恐怖・貪欲指数が「極度の恐怖」を示す10に。主要株式市場は下落し、投資家のリスク回避姿勢が顕著。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化と原油高騰で世界景気後退リスクが急増。"
-    }
-  },
-  {
     "timestamp": "2026-03-30 06:30",
     "data": {
       "breaking_news": [
@@ -12638,6 +12572,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化、トランプ氏の強硬発言で原油高・株安。"
+    }
+  },
+  {
+    "timestamp": "2026-04-03 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米トランプ氏、イランに「極めて強く」攻撃警告、原油価格急騰で市場下落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ氏がイランへの攻撃を警告したことで、原油価格が急騰し、世界中の株式市場が大幅に下落。市場の不確実性が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Manufacturing",
+            "Financial Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "テスラ、第1四半期納車台数が予想を下回る、株価下落",
+          "country": "US",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "テスラが第1四半期の納車台数で市場予想を下回り、売上減少が深まり株価が下落。EV市場への懸念も。",
+          "affected_sectors": [
+            "Automotive",
+            "Technology",
+            "Electric Vehicles"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "スペースX、米国での新規株式公開を秘密裏に申請",
+          "country": "US",
+          "category": "Capital Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イーロン・マスク氏のスペースXが米国での新規株式公開を秘密裏に申請し、史上最大の株式上場になる可能性。",
+          "affected_sectors": [
+            "Space Exploration",
+            "Technology",
+            "Private Equity"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化で原油価格高騰、世界市場はリスクオフへ警戒。"
     }
   }
 ]
