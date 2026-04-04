@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化と原油価格高騰を受け、世界の株式市場が下落",
-          "country": "グローバル",
-          "category": "地政学, 株式, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の激化により原油価格が1バレル100ドルを突破し、米主要指数は調整局面入り、広範な市場で下落を記録。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中央銀行は持続的なインフレに備え、欧州・豪州で利上げ予想、FRBは据え置き",
-          "country": "グローバル（米国、ユーロ圏、英国、豪州）",
-          "category": "金融政策, インフレ",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "エネルギー価格上昇とインフレ懸念により、中銀はタカ派姿勢を維持。ECB、BOE、RBAは利上げを示唆し、FRBは2026年中に利下げしない見込み。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "金利に敏感なセクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の輸入物価がエネルギーコストで急上昇、消費者信頼感は低下",
-          "country": "米国",
-          "category": "経済指標, インフレ, 消費者信頼感",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "2月の米国輸入物価はエネルギー価格の高騰で1.3%上昇し、3月の消費者信頼感の低下に寄与。",
-          "affected_sectors": [
-            "小売",
-            "生活必需品",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "地政学的不確実性の中、中央銀行が金準備を増加",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学, 金融政策（準備管理）",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "地政学的リスクとドルへの不確実性により、世界の中央銀行が安全資産としての金保有を増やし、金価格は1オンス5,000ドルを超えた。",
-          "affected_sectors": [
-            "鉱業",
-            "貴金属",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化で世界市場が下落。原油は100ドル超え、インフレ懸念と中銀のタカ派見通しを助長。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 08:00",
     "data": {
       "breaking_news": [
@@ -12630,6 +12564,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イランでの米軍機撃墜と原油供給懸念が市場の警戒を高める。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争が市場に影響、原油価格が急騰",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン戦争の継続に関する米大統領の発言で、市場のボラティリティが高まり原油価格が急騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空宇宙・防衛",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国雇用市場が改善、製造業も拡大",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の非農業部門雇用者数が予想を上回り回復、失業率も低下。製造業PMIも拡大を示した。",
+          "affected_sectors": [
+            "全セクター",
+            "製造業",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、日本の経済回復力を評価",
+          "country": "日本",
+          "category": "経済政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "IMFは日本の内需の堅調さ、低い失業率、潜在成長率を上回る成長を評価した。",
+          "affected_sectors": [
+            "日本株式",
+            "国際投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SpaceXがIPOを秘密裏に申請、評価額2兆ドルを目標",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "SpaceXが2兆ドル規模の評価額を目指し、秘密裏にIPOを申請した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "宇宙産業",
+            "プライベートエクイティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "CFTC、デリバティブ規制強化とイノベーション推進",
+          "country": "米国",
+          "category": "規制",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "CFTCは副法律顧問を任命し、予測市場を巡る訴訟を起こし、イノベーションタスクフォースを発足。",
+          "affected_sectors": [
+            "金融サービス",
+            "デリバティブ",
+            "暗号資産"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東紛争の継続が世界市場と原油価格に不確実性をもたらしています。"
     }
   }
 ]
