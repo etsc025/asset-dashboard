@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、世界経済の景気後退リスク高まる",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化により原油価格が高騰し、インフレ懸念が拡大、世界経済の景気後退リスクが高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造",
-            "一般消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "パウエルFRB議長、インフレ持続に警告「忍耐には限界」",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パウエルFRB議長は、短命な原油ショックは乗り越えられるが、持続的な高インフレに対する忍耐には限界があると警告した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国ウォンが対ドルで約17年ぶりの安値に下落",
-          "country": "韓国",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化を受け、韓国ウォンの対ドルレートが1,520ウォンを割り込み、約17年ぶりの安値を記録した。",
-          "affected_sectors": [
-            "輸出入",
-            "国際貿易",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で原油高・インフレ懸念増大、世界経済リスクオフ。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 17:00",
     "data": {
       "breaking_news": [
@@ -12554,6 +12501,102 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化とヘッジファンドの株式売却が市場に重圧。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計、予想を大幅に上回るも不安定な動き",
+          "country": "USA",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は予想を大幅に上回る雇用増を記録したが、労働市場の変動が続き、先行き不透明感も示唆される。",
+          "affected_sectors": [
+            "全セクター",
+            "金融",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2027年度国防予算案、過去最高の1.5兆ドルを提案",
+          "country": "USA",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ政権が2027年度国防予算案で過去最高の1.5兆ドルを要求。国内歳出削減も視野に入れている。",
+          "affected_sectors": [
+            "防衛",
+            "航空宇宙",
+            "社会サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SpaceXが米国IPOを非公開で申請、史上最大の株式上場となる可能性",
+          "country": "USA",
+          "category": "Capital Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イーロン・マスク率いるSpaceXが、史上最大規模となる可能性のある米国IPOを非公開で申請した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "航空宇宙",
+            "ベンチャーキャピタル",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国スポーツ賭博の急増が国民の財政悪化に繋がる",
+          "country": "USA",
+          "category": "Social Economics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国で合法スポーツ賭博が急増し、個人の信用悪化やクレジット延滞率の上昇が報告されている。",
+          "affected_sectors": [
+            "金融サービス",
+            "消費者金融",
+            "ギャンブル"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢緊迫化が原油価格と国際市場に影響を与え続ける",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン情勢の緊迫が続き、原油価格は高騰。国際株式市場は地政学的リスクにより引き続き変動している。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "航空",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国でMetaとAlphabetがソーシャルメディア依存症訴訟で責任認定",
+          "country": "USA",
+          "category": "Legal",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国でMetaとAlphabetがソーシャルメディア依存症に関する訴訟で有罪と判断され、規制強化の可能性。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソーシャルメディア",
+            "広告"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学リスクと米経済指標が市場に交錯し不安定。"
     }
   }
 ]
