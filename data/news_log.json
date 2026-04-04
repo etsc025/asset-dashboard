@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "世界の国債価格、中東紛争による物価高懸念で3月最大の下げ",
-          "country": "Global",
-          "category": "経済データ/地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争による物価高懸念が強まり、世界の国債価格は3月にここ数年で最大の月間下落率を記録した。",
-          "affected_sectors": [
-            "債券市場",
-            "金融サービス",
-            "インフレ敏感セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米アルミ供給網に影響、イランによる中東製錬所攻撃で",
-          "country": "US",
-          "category": "地政学/コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イランによる中東の製錬所攻撃が報じられ、米国のアルミ供給網に混乱が生じる懸念が高まっている。",
-          "affected_sectors": [
-            "製造業",
-            "航空宇宙",
-            "自動車",
-            "飲料"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米、退職年金プランのオルタナティブ資産組み入れ指針を公表",
-          "country": "US",
-          "category": "規制/金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国当局が退職年金プランにおけるオルタナティブ資産組み入れに関する新たな指針を発表し、投資機会が拡大する可能性。",
-          "affected_sectors": [
-            "年金基金",
-            "資産運用",
-            "プライベートエクイティ",
-            "ヘッジファンド"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円、パウエル発言で利上げ期待後退し159円台に下落",
-          "country": "US/Japan",
-          "category": "為替/金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "パウエルFRB議長が金融政策は「適切な位置にある」と発言し年内利上げ期待が後退、ドル円は159円台に値を下げた。",
-          "affected_sectors": [
-            "外国為替市場",
-            "輸出入企業",
-            "グローバル金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "WTI原油価格が3日続急伸、中東情勢緊迫化が背景",
-          "country": "Global",
-          "category": "コモディティ/地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊迫化を受け、WTI原油先物価格が3日連続で大幅に上昇。エネルギー市場に強い影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費者"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で原油急伸、世界国債市場に圧力。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 10:30",
     "data": {
       "breaking_news": [
@@ -12643,6 +12561,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高でインフレ懸念、世界市場はリスクオフ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Insider Sale: Chief Financial Officer of $SYRE Sells 6,200 Shares",
+          "country": "United States",
+          "category": "Corporate Action",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "SYREのCFOが持ち株の5.9%にあたる6,200株を売却、約30万ドル相当。インサイダー売りに警戒。",
+          "affected_sectors": [
+            "Technology",
+            "Individual Equities"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Trump touts unexpectedly high March jobs report as economy rebounds from weak February",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国3月雇用統計が予想を上回り、2月の低迷から経済回復を示す。トランプ大統領が評価。",
+          "affected_sectors": [
+            "Broad Economy",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Reps. Juan Ciscomani and Mike Quigley Introduce Bipartisan FAST Housing Act to Address Affordable Housing Crisis",
+          "country": "United States",
+          "category": "Government Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国で超党派のFAST Housing Actが導入。住宅供給不足解消と手頃な価格の住宅提供を目指す。",
+          "affected_sectors": [
+            "Real Estate",
+            "Construction"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Turkmen commodity exchange external quotations slip on latest session",
+          "country": "Turkmenistan",
+          "category": "Commodities",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "トルクメン商品取引所の外部価格が下落。石油化学部門の減少が主因。軽工業は微増。",
+          "affected_sectors": [
+            "Petrochemicals",
+            "Commodities"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国雇用統計が予想を上回り、経済回復の兆し。SYREのCFOは株式を売却。"
     }
   }
 ]
