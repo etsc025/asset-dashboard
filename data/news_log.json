@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Biogen、Apellisを56億ドルで買収合意、成長戦略を強化",
-          "country": "米国",
-          "category": "企業買収",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "バイオジェンがアペリスを約56億ドルで買収。免疫学と希少疾患ポートフォリオを強化し成長を加速する見込み。",
-          "affected_sectors": [
-            "医薬品",
-            "バイオテクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF当局者、不良債権がギリシャ経済回復の足かせに",
-          "country": "ギリシャ",
-          "category": "経済、金融安定",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF当局者が、数百万件の不良債権がギリシャ経済の回復を阻害していると警告し、金融安定に懸念。",
-          "affected_sectors": [
-            "銀行",
-            "金融",
-            "ギリシャ経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ガソリン価格が1ガロンあたり4ドル突破、FRB議長が新たなエネルギー供給ショックを警告",
-          "country": "米国",
-          "category": "エネルギー、インフレ、金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の平均ガソリン価格が4ドルを超過。FRB議長はインフレを悪化させる新たなエネルギー供給ショックに言及。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "消費者裁量",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢沈静化への期待でナスダックが2%上昇",
-          "country": "グローバル、米国",
-          "category": "地政学、株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン情勢の緊張緩和への期待が広がり、ウォール街で株価が上昇。ナスダック総合指数は2%高を記録。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン情勢と原油価格の動向がグローバル市場の主要リスク要因"
-    }
-  },
-  {
     "timestamp": "2026-04-01 02:30",
     "data": {
       "breaking_news": [
@@ -12500,6 +12436,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油高と世界株安、円安加速に日本介入警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計、予想を上回るも賃金伸び率は鈍化",
+          "country": "US",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米3月雇用統計は予想を上回る17.8万人の雇用増。失業率は低下も賃金伸び率は鈍化し、FRBの政策に注目が集まる。",
+          "affected_sectors": [
+            "Financials",
+            "Consumer Discretionary",
+            "Labor Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争継続で原油価格高止まり、インフレ懸念が加速",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争継続で原油価格は高止まり、ブレント原油は1バレル106ドル超え。世界的なインフレ懸念が強まり経済成長に重圧。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州5カ国、エネルギー企業への超過利潤税を提案",
+          "country": "Europe",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧州5カ国がエネルギー企業への超過利潤税を提案。政策動向によっては企業の収益性やエネルギー市場に影響の可能性。",
+          "affected_sectors": [
+            "Energy",
+            "Utilities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXのIPO観測が宇宙関連株を牽引",
+          "country": "US",
+          "category": "Corporate News",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "SpaceXのIPOに関する憶測が広まり、宇宙技術エコシステム全体に好影響を与え、関連株を牽引している。",
+          "affected_sectors": [
+            "Aerospace & Defense",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Metaがベイエリアで約200人の人員削減を実施",
+          "country": "US",
+          "category": "Corporate News",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Metaがベイエリアで約200人の従業員を削減。AIインフラへの数十億ドル投資を続ける中での人員調整と見られる。",
+          "affected_sectors": [
+            "Technology",
+            "Social Media"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争による原油高とインフレ懸念が市場の重石。米雇用堅調も賃金伸び率鈍化。"
     }
   }
 ]
