@@ -1,79 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "UK航空規制当局、ヒースロー着陸料値上げを却下",
-          "country": "UK",
-          "category": "Regulatory",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国航空規制当局がヒースロー空港の着陸料値上げ案を却下。航空会社のコスト圧力が緩和される見込み。",
-          "affected_sectors": [
-            "Aviation",
-            "Travel & Leisure"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ガソリン価格が1ガロン4ドル超え、イラン紛争で燃料費高騰",
-          "country": "US",
-          "category": "Energy, Geopolitics, Consumer Spending",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争を背景に米国のガソリン平均価格が4年ぶりに1ガロン4ドルを突破、消費者打撃。",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、紛争による物価上昇と世界経済成長鈍化を警告",
-          "country": "Global",
-          "category": "Macroeconomics, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、進行中の地政学的紛争が世界的な物価上昇と経済成長の減速を招くと警告した。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツ研究所、2026-27年成長予測下方修正しインフレ見通し上方修正",
-          "country": "Germany",
-          "category": "Economic Forecasts, Inflation",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドイツの経済研究所が2026-2027年の成長予測を下方修正し、インフレ見通しを上方修正した。",
-          "affected_sectors": [
-            "Eurozone Economy",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株先物、イラン情勢沈静化への期待で上昇",
-          "country": "US",
-          "category": "Geopolitics, Stock Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン紛争の緊張緩和への期待から、米国の株式先物がわずかに上昇し、市場に楽観論が広がる。",
-          "affected_sectors": [
-            "All Equity Markets",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "地政学的緊張と原油価格高騰が世界的なインフレと経済成長の鈍化懸念を増幅。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 02:00",
     "data": {
       "breaking_news": [
@@ -12520,6 +12446,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Trump's Iran ultimatum heightens Mideast conflict risk."
+    }
+  },
+  {
+    "timestamp": "2026-04-05 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、世界株式市場に下落圧力",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の長期化懸念から原油価格が上昇し、米国・欧州・アジア市場の株価が下落。航空運賃も高騰。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Global Equities",
+            "Manufacturing",
+            "Logistics"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円安が1ドル160円台に進行、日本財務省が「断固たる措置」を警告",
+          "country": "Japan",
+          "category": "Currency",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢を背景に円安が加速し、一時1ドル160円台に。財務官が投機的動きを牽制し、介入を示唆した。",
+          "affected_sectors": [
+            "Forex",
+            "Export-oriented industries",
+            "Import-oriented industries",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国雇用市場、3月は予想上回るも2月下方修正",
+          "country": "USA",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の雇用者数は予想を上回るも、2月の数値は下方修正され、雇用市場に不透明感が残る結果となった。",
+          "affected_sectors": [
+            "Consumer Discretionary",
+            "Financial Services",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油高と世界株安、円安加速に日本介入警戒"
     }
   }
 ]
