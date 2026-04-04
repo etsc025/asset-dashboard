@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、世界株式市場に売り圧力",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の悪化を受け、ブレント原油は1バレル約110ドル、WTI原油は106ドルまで急騰。米国・アジアの株式市場では売りが広がっている。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Manufacturing",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本政府、投機的円安に「断固たる措置」警告、円が対ドルで反発",
-          "country": "Japan",
-          "category": "Currency Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "日本財務官が投機的な円安に対し「断固たる措置」を示唆し、ドル円は160円を突破後159円台に反発。",
-          "affected_sectors": [
-            "Forex",
-            "Export-oriented industries",
-            "Import-oriented industries"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国3月製造業PMIが予想を上回り50.4に改善、景気拡大を示す",
-          "country": "China",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の3月製造業PMIは予想50.3に対し50.4となり、景気判断の節目である50を回復し拡大基調へ転換。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Global Commodities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日本2月鉱工業生産が予想下回る大幅下落、一方で失業率は改善",
-          "country": "Japan",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本2月鉱工業生産は前月比-2.1%と予想を下回るも、失業率は2.6%に改善し雇用は堅調。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Labour Market",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で原油高と世界株安継続、介入警戒で円反発"
-    }
-  },
-  {
     "timestamp": "2026-03-31 14:30",
     "data": {
       "breaking_news": [
@@ -12522,6 +12456,60 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "グッドフライデーにより主要市場が休場。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計、予想を大幅に上回る堅調な伸び",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国の雇用は3月に17.8万件増加し、失業率は4.3%に低下。予想を大幅に上回り、力強い労働市場を示す。",
+          "affected_sectors": [
+            "金融",
+            "消費財",
+            "産業",
+            "ヘルスケア"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化：米軍機撃墜報道とUAEアルミ施設への攻撃",
+          "country": "中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡で米軍機を撃墜と報道。UAEのアルミ施設がイランの攻撃で被害。原油価格は高騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "製造業",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領、過去最高の1.5兆ドルの国防予算案を提案",
+          "country": "米国",
+          "category": "財政政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領は2027年度に過去最高の1.5兆ドルの国防予算を提案。国内歳出は大幅削減へ。",
+          "affected_sectors": [
+            "防衛",
+            "航空宇宙",
+            "政府契約"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油価格高騰と米軍機撃墜報道が市場に重し。"
     }
   }
 ]
