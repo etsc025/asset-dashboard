@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均、中東情勢と米ハイテク株安で4日続落、3月は過去最大の下落幅を記録",
-          "country": "日本",
-          "category": "株式市場, 地政学リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日経平均は4日続落し3カ月ぶり安値。中東情勢の不透明感と米ハイテク株安が重荷。3月は過去最大の下落幅を記録。",
-          "affected_sectors": [
-            "半導体",
-            "エネルギー",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ大統領のホルムズ海峡関連発言で原油下落、日経平均一時反発",
-          "country": "米国, 中東",
-          "category": "地政学リスク, 原油市場, 株式市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "WSJ報道でトランプ大統領がホルムズ閉鎖でも終戦用意と伝わり、原油先物下落し株価指数先物上昇。日経平均も一時反発。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "クウェート原油タンカーがイラン攻撃、原油先物相場が急上昇",
-          "country": "中東, クウェート, イラン",
-          "category": "地政学リスク, 原油市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日本時間早朝、クウェート原油タンカーがイランの攻撃を受けたと報じられ、米原油先物相場が時間外で急上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油高懸念が市場に重圧。継続監視を。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 20:30",
     "data": {
       "breaking_news": [
@@ -12671,6 +12620,46 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油高騰で市場にリスクオフムード拡大"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油高懸念が継続し市場に影響",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での軍事衝突長期化懸念から原油価格が高止まり、世界経済や企業業績への悪影響が警戒される。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Manufacturing",
+            "Logistics",
+            "General Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円相場が続落、中東情勢と日米金利差が重荷",
+          "country": "Japan",
+          "category": "Currency",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ドル円は159円台後半で推移、中東情勢の長期化懸念による原油高と日米金利差が円安を助長。",
+          "affected_sectors": [
+            "Exporters",
+            "Importers",
+            "Tourism",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高が世界経済に重圧。円安も継続。"
     }
   }
 ]
