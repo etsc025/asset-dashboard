@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "アジア株、中東戦争によるインフレ懸念で年初来の上げ幅を帳消しに",
-          "country": "APAC",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東戦争によるエネルギーコスト高騰でインフレ懸念が高まり、MSCIアジア太平洋指数が年初来の上げ幅を帳消しに。テクノロジー株が下落。",
-          "affected_sectors": [
-            "Technology",
-            "Manufacturing",
-            "Export"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が100ドル超え、中東情勢緊迫化で",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東紛争激化とホルムズ海峡の緊張でWTI原油が1バレル100ドル超え、ブレントも高騰。エネルギー関連セクターに影響。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines",
-            "Chemicals"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東戦争が世界経済の見通しを悪化させると警告",
-          "country": "Global",
-          "category": "Economic Outlook",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは中東戦争が世界経済の見通しを悪化させ、史上最大の石油市場混乱を引き起こすと警告。特にアジア経済に高リスク。",
-          "affected_sectors": [
-            "All sectors",
-            "Energy importers",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東戦争激化でアジア株急落、原油100ドル超え世界経済見通し悪化"
-    }
-  },
-  {
     "timestamp": "2026-03-31 14:00",
     "data": {
       "breaking_news": [
@@ -12554,6 +12501,27 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国の雇用回復と裏腹に、イラン紛争激化と住宅金利上昇が市場のリスクを高める。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "主要市場、グッドフライデーのため休場",
+          "country": "Global",
+          "category": "Market Holiday",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "主要な金融市場はグッドフライデーの祝日のため休場し、取引活動は限定的となる見込みです。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "グッドフライデーにより主要市場が休場。"
     }
   }
 ]
