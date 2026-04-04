@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢の緊迫化が原油価格を押し上げ、世界市場に影響",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化により原油価格が高騰し、世界市場に影響を与えインフレ懸念と成長鈍化のリスクが高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "パウエルFRB議長、金融政策は中東情勢の影響を注視するのに適切と発言",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パウエルFRB議長、現在の金融政策は中東情勢の影響を注視するのに適切と発言。インフレは3%前後で2027年2%目標。",
-          "affected_sectors": [
-            "全セクター",
-            "金利敏感セクター"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀植田総裁、円安の経済・物価への影響を注視し政策判断へ",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀の植田総裁は、円安が経済や物価に及ぼす影響を慎重に見極め、金融政策を判断する方針を表明した。",
-          "affected_sectors": [
-            "輸出関連産業",
-            "輸入関連産業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争による世界的インフレと成長鈍化を警告",
-          "country": "グローバル",
-          "category": "経済見通し",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、米国とイスラエルによるイランとの戦争が「世界的だが非対称的な」インフレと成長鈍化をもたらすと警告した。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー集約型産業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油高騰が世界経済の主要なリスク要因となっている。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 07:00",
     "data": {
       "breaking_news": [
@@ -12667,6 +12603,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争と原油高が市場の不確実性を高め、金融政策に影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化で原油価格高騰、市場の不確実性が増大",
+          "country": "グローバル",
+          "category": "地政学、エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の緊張が高まり、原油価格は110ドルを超える水準で推移。ホルムズ海峡の供給途絶懸念が世界経済に暗い影を落とす。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "航空",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計は好調な伸び、しかしグッドフライデーで米先物は下落",
+          "country": "米国",
+          "category": "経済指標、労働市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米雇用統計は予想を上回る堅調な伸びを示したが、グッドフライデーの市場休場を前に米株先物はやや軟調に推移。",
+          "affected_sectors": [
+            "金融",
+            "消費財"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "地政学リスクが市場心理を悪化、短期的な回復期待は限定的",
+          "country": "グローバル",
+          "category": "市場センチメント、地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "地政学的なイベントが市場の短期的な変動を引き起こし、投資家のリスク回避姿勢が強まっている。長期的な影響に懸念。",
+          "affected_sectors": [
+            "広範な市場",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫と原油高騰が世界経済の主要な逆風。"
     }
   }
 ]
