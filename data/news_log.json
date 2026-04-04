@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格急騰、世界の金融市場が動揺",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化を受け原油価格が急騰し、ブレント原油は115ドル超え。インフレ懸念が高まり、米国株は軟調、アジア市場も下落。中央銀行の金融政策に影響を与える可能性。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツ3月インフレ率がエネルギー価格反発で上昇",
-          "country": "Germany",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドイツの3月消費者物価指数は前年比2.7%上昇し、市場予想と一致。エネルギー価格が7.2%急騰したことが主因で、2024年1月以来の高水準。",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Utilities",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化で原油価格高騰、世界インフレ加速の懸念。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 11:30",
     "data": {
       "breaking_news": [
@@ -12597,6 +12559,44 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米国3月雇用統計は好調も、イラン情勢の不確実性が市場の重荷。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計、予想上回るも株先物は下落",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月雇用統計が予想を上回る好調さを示すも、米国株先物指数は小幅に下落。市場はインフレ圧力やFRBの金融政策を警戒。",
+          "affected_sectors": [
+            "株式市場全般",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン情勢緊迫化で原油価格高騰、市場に下方圧力",
+          "country": "グローバル",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の緊張が高まり、原油価格が急騰。世界の株式市場に下方圧力がかかり、インフレ懸念が増大している。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化と原油高騰がグローバル市場の最大懸念。"
     }
   }
 ]
