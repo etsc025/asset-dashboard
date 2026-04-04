@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Middle East Conflict Escalates, Driving Oil Prices Higher and Rattling Global Markets",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Middle East tensions, including Trump's threats, push oil prices sharply higher, fueling global inflation fears and weakening equities.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Euro Faces Worst Quarter Since 2024 Amid Energy Shock from Middle East Conflict",
-          "country": "Europe",
-          "category": "Currency, Macroeconomics, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The Euro is set for its worst quarter since 2024 as Middle East conflict intensifies Europe's energy dependency and weakens economic outlook.",
-          "affected_sectors": [
-            "Energy",
-            "Industrials",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Bond Yields Rise on Persistent Inflation Concerns and Reduced Fed Rate Cut Hopes",
-          "country": "United States",
-          "category": "Monetary Policy, Fixed Income, Inflation",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields increase as higher oil prices fuel inflation expectations, shifting market views on Fed policy towards hikes.",
-          "affected_sectors": [
-            "Technology",
-            "Real Estate",
-            "Banking",
-            "Utilities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Global markets rattled by escalating Middle East conflict and surging oil prices."
-    }
-  },
-  {
     "timestamp": "2026-03-31 05:00",
     "data": {
       "breaking_news": [
@@ -12740,6 +12686,42 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争と原油高が市場の不確実性を高め、リスクオフ圧力継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ロシア2月消費者物価指数、予想を上回る",
+          "country": "ロシア",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "2月のロシア消費者物価指数は前年同月比0.7%で、市場予想の0.5%を上回った。インフレ圧力の継続を示唆。",
+          "affected_sectors": [
+            "債券市場",
+            "為替市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "中東情勢緊迫、ホルムズ海峡の動向と米国の強硬姿勢に注目",
+          "country": "中東",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イランがオマーンとホルムズ海峡の通過監視プロトコルを協議中との報道がある一方、トランプ大統領のイランへの強硬発言が継続し、不確実性が高い。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "海運"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東の地政学リスクが継続、ホルムズ海峡の動向に警戒が必要。"
     }
   }
 ]
