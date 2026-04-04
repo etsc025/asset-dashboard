@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "クウェートの原油タンカーがイランのドローン攻撃を受けたと報じられ、原油価格高騰",
-          "country": "中東",
-          "category": "地政学リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢が緊迫化し、クウェートのタンカーが攻撃され原油価格が上昇。IMFは世界経済への影響を警告。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "航空",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀総裁、円安の経済・物価への影響を注視し金融政策を判断と発言",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "植田日銀総裁が円安の経済・物価への影響を見極め金融政策を判断すると発言。長期金利は27年ぶり高水準。",
-          "affected_sectors": [
-            "輸出産業",
-            "金融",
-            "輸入関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国、中東紛争に対応し170億ドルの追加景気刺激策を提案",
-          "country": "韓国",
-          "category": "財政政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東紛争による経済影響緩和のため、韓国が170億ドル規模の追加景気刺激策を提案。",
-          "affected_sectors": [
-            "全般",
-            "建設",
-            "地方経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏のインフレ率、3月に2.5%に上昇",
-          "country": "ユーロ圏",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の3月消費者物価指数が上昇し、インフレ圧力が継続していることを示唆。利上げ懸念も。",
-          "affected_sectors": [
-            "金融",
-            "消費財",
-            "サービス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油価格高騰が世界経済の重荷に。日銀の動向にも注目。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 21:00",
     "data": {
       "breaking_news": [
@@ -12660,6 +12594,67 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化による原油高が世界経済に重圧。円安も継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州、エネルギー企業への利益上限設定要求",
+          "country": "EU",
+          "category": "経済, エネルギー, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争による原油・ガス価格高騰を受け、欧州5カ国財務相がEUにエネルギー企業への超過利益課税を提案。インフレ抑制が目的。",
+          "affected_sectors": [
+            "エネルギー",
+            "公益事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争、米国の住宅ローン金利見通しに暗雲",
+          "country": "米国",
+          "category": "不動産, 経済, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争起因のインフレ懸念が米国債利回りを押し上げ、住宅ローン金利が上昇。米住宅市場に下押し圧力。",
+          "affected_sectors": [
+            "不動産",
+            "金融",
+            "建設"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月の雇用者数17.8万人増、予想上回る",
+          "country": "米国",
+          "category": "経済, 労働市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米労働省データ、3月の非農業部門雇用者数は17.8万人増加し、前月の減少から回復。医療・建設業で増加。",
+          "affected_sectors": [
+            "全般"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UAE、銀行システム支援のため80億ドル注入",
+          "country": "UAE",
+          "category": "銀行, 金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "アラブ首長国連邦（UAE）が自国の銀行システム安定化のため80億ドルを注入したと報じられた。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争が原油価格とインフレを押し上げ、世界市場にリスクオフムードが広がる。"
     }
   }
 ]
