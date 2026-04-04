@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Brent原油が116ドル超え、フーシ派攻撃と米国のイラン脅威で湾岸紛争拡大",
-          "country": "Global",
-          "category": "Geopolitics, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "フーシ派攻撃と米国のイラン石油施設への脅威により、湾岸紛争が拡大。Brent原油は116ドル超え、記録的な月間上昇を記録。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Airlines",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMFがイラン戦争による高インフレと世界経済成長鈍化を警告、米国市場は調整局面入り",
-          "country": "Global",
-          "category": "Economic Data, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFはイラン戦争が世界的な高インフレと成長鈍化を招くと警告。米国株は大幅下落し調整局面入りした。",
-          "affected_sectors": [
-            "All sectors",
-            "Technology",
-            "Financials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB議長パウエル、エネルギー価格高騰によるインフレを注視するが、短期対策に限界",
-          "country": "US",
-          "category": "Monetary Policy, Inflation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パウエル議長はイラン戦争によるエネルギー高騰インフレを注視。短期供給ショックへの金融政策の限界を指摘した。",
-          "affected_sectors": [
-            "Financials",
-            "Interest-rate sensitive sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株式市場、地政学的緊張と地域経済心理の悪化にもかかわらず予想外の回復力",
-          "country": "Europe",
-          "category": "Market Performance, Economic Sentiment",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧州株式は、地政学的緊張と悪化する地域経済センチメントに反して上昇し、予想外の回復力を見せた。",
-          "affected_sectors": [
-            "European Equities",
-            "Energy",
-            "Mining"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化で原油価格高騰、世界経済の成長鈍化とインフレ懸念増大。投資家はリスクオフ志向を強めるべき。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 08:30",
     "data": {
       "breaking_news": [
@@ -12642,6 +12575,68 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東紛争の継続が世界市場と原油価格に不確実性をもたらしています。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式先物、強い雇用統計を受け下落",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国株式先物は、予想を上回る雇用統計発表後、FRBの利上げ継続懸念などから小幅に下落している。",
+          "affected_sectors": [
+            "全般",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Lucid Group、第1四半期の車両納入台数が予測を下回る",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "電気自動車メーカーのLucid Groupは、サプライヤーの混乱により第1四半期の車両納入台数が市場予測を下回ったと発表した。",
+          "affected_sectors": [
+            "自動車",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化で原油価格が高止まり、世界経済への懸念増大",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での紛争継続とホルムズ海峡閉鎖懸念により原油価格が高騰。世界的なエネルギー危機とインフレ圧力への懸念が深まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国商業銀行の資産・負債および金利スプレッドが更新",
+          "country": "米国",
+          "category": "金融指標",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国連邦準備制度理事会が商業銀行の資産・負債および金利スプレッドに関する最新データを公開。金融市場の健全性評価に利用される。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高と世界経済への負の影響に警戒。"
     }
   }
 ]
