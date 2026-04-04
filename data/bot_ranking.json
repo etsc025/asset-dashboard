@@ -1,7 +1,10 @@
 {
   "date": "2026-04-04",
-  "timestamp": "2026-04-04T16:08:55.955471",
+  "timestamp": "2026-04-04T16:12:28.277928",
   "usdjpy": 159.63,
+  "regime": "VOLATILE",
+  "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
+  "vix": 23.8700008392334,
   "ranking": [
     {
       "bot": "Bot11_SubspacePCA",
@@ -17,27 +20,27 @@
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": 0.001,
+      "total_return": 0.0012,
       "mdd": -0.007,
       "win_rate": 0.1429,
       "sharpe": 0.58,
       "n_trades": 5,
-      "latest_equity": 1000960.0,
+      "latest_equity": 1001167.0,
       "days": 7,
       "rank": 2,
-      "score": 0.5021
+      "score": 0.5045
     },
     {
       "bot": "Bot8_NewsTech",
-      "total_return": 0.0009,
+      "total_return": 0.0011,
       "mdd": -0.0011,
       "win_rate": 0.1429,
       "sharpe": 2.82,
       "n_trades": 6,
-      "latest_equity": 1000910.0,
+      "latest_equity": 1001122.0,
       "days": 7,
       "rank": 3,
-      "score": 0.4476
+      "score": 0.45
     },
     {
       "bot": "Bot10_CorrGraph",
@@ -113,15 +116,15 @@
     },
     {
       "bot": "Bot3_FactorAI",
-      "total_return": -0.0039,
+      "total_return": -0.0038,
       "mdd": -0.0053,
       "win_rate": 0.1429,
       "sharpe": -6.53,
       "n_trades": 6,
-      "latest_equity": 996062.0,
+      "latest_equity": 996241.0,
       "days": 7,
       "rank": 10,
-      "score": 0.3135
+      "score": 0.3147
     },
     {
       "bot": "Bot2_DL_Transformer",
@@ -130,7 +133,7 @@
       "win_rate": 0.1429,
       "sharpe": -9.62,
       "n_trades": 4,
-      "latest_equity": 987080.0,
+      "latest_equity": 987142.0,
       "days": 7,
       "rank": 11,
       "score": 0.2772
