@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格が過去最高値に、アジア株急落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の激化により原油価格が高騰し、アジア株式市場は大幅下落。インフレ懸念が増大。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Manufacturing",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ドル、市場のボラティリティの中で世界の安全資産として強化",
-          "country": "Global",
-          "category": "Currencies",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米ドルは地政学的不安定性の中で安全資産となり、8ヶ月で最大の月間上昇を記録。",
-          "affected_sectors": [
-            "Currency Markets",
-            "International Trade"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "金利見通しがタカ派的になり、世界の債券が下落",
-          "country": "Global",
-          "category": "Fixed Income",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "世界の債券市場は、タカ派的な金利見通しへの転換により、数ヶ月ぶりの大幅な下落に直面。",
-          "affected_sectors": [
-            "Financials",
-            "Debt Markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化、原油価格急騰で世界市場はリスクオフ。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 16:00",
     "data": {
       "breaking_news": [
@@ -12507,6 +12456,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国3月雇用統計が市場予想を大幅に上回り、米国経済の力強い回復を示す。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF、イラン戦争の新たなリスクにもかかわらず、日銀に利上げ継続を要請",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "国際通貨基金（IMF）は、中東紛争による新たなリスクがあるにもかかわらず、日本銀行に対し利上げを継続するよう促した。市場では4月にも利上げが行われるとの見方が高まっている。",
+          "affected_sectors": [
+            "金融",
+            "輸出産業",
+            "為替市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "フランス、エネルギー価格高騰で中小企業向け燃料ローン制度を発表",
+          "country": "フランス",
+          "category": "財政政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "フランス政府は、急騰するエネルギーコストに苦しむ中小企業を支援するため、最大5万ユーロ（約830万円）の燃料ローン制度を開始した。",
+          "affected_sectors": [
+            "運輸",
+            "漁業",
+            "農業",
+            "中小企業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "片山財務相、円の投機的な動きに警告を発令",
+          "country": "日本",
+          "category": "為替市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "片山財務相は、円相場の投機的な動きが高まっていると警告し、政府が為替介入に備えていることを示唆した。",
+          "affected_sectors": [
+            "為替市場",
+            "輸出産業",
+            "輸入産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計が好調も、米国株先物は下落",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "3月の米雇用統計が予想を上回る好調さを示したにもかかわらず、米国株先物は小幅に下落。金融引き締め長期化への懸念が影響している。",
+          "affected_sectors": [
+            "株式市場",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油価格高騰による世界的なインフレ懸念が再燃。"
     }
   }
 ]
