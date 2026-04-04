@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ユーロ圏3月CPI、予想上回り2.5%に上昇",
-          "country": "ユーロ圏",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の消費者物価指数（CPI）が2.5%に上昇し、市場予想を上回った。エネルギー価格高騰が主因で、ECBの金融引き締め圧力が高まる見通し。",
-          "affected_sectors": [
-            "金融",
-            "消費者裁量",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰、中東情勢緊迫化で1バレル100ドル超え",
-          "country": "グローバル",
-          "category": "地政学リスク、コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化を受け、原油価格が1バレル100ドルを突破。燃料費高騰が世界経済のインフレ圧力と成長懸念を増幅。",
-          "affected_sectors": [
-            "運輸",
-            "製造業",
-            "航空",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英小売売上高、予想下回りポンド下落",
-          "country": "イギリス",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の小売売上高が市場予想を下回り、ポンドが下落。英国経済の回復力に対する懸念が浮上。",
-          "affected_sectors": [
-            "小売",
-            "銀行",
-            "消費者関連"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と世界的なインフレ圧力に警戒"
-    }
-  },
-  {
     "timestamp": "2026-03-31 23:30",
     "data": {
       "breaking_news": [
@@ -12686,6 +12634,29 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの緊張が急激に高まり、原油市場と世界経済に影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、一部のブランド医薬品に最大100%の関税を課す",
+          "country": "米国",
+          "category": "貿易政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ前大統領、一部のブランド医薬品に最大100%の関税を課す方針を発表。「アメリカ第一」強化で製薬業界に大きな影響。",
+          "affected_sectors": [
+            "医薬品",
+            "ヘルスケア",
+            "国際貿易"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国、強力な雇用統計とブランド医薬品への新関税で市場は慎重姿勢。"
     }
   }
 ]
