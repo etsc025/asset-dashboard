@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ユーロ圏インフレ率、エネルギー高騰で急上昇 ECB利上げ観測強まる",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏のインフレ率がエネルギー価格高騰を背景に2022年以来の急上昇を記録し、欧州中央銀行(ECB)の利上げ観測が強まっている。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本株式市場、中東紛争の不確実性で月間大幅安を記録",
-          "country": "日本",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争による不確実性が高まり、日本の株式市場は3月に大幅な月間下落を記録。エネルギーコスト上昇が投資家心理に重荷。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本政府、中東紛争による供給網混乱に備え医療品確保タスクフォース設立",
-          "country": "日本",
-          "category": "政府政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本政府は中東紛争が医療品供給に影響を及ぼす可能性を受け、安定供給を確保するため経済産業省と厚生労働省が合同でタスクフォースを設立した。",
-          "affected_sectors": [
-            "ヘルスケア",
-            "製薬",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国2026年2月インフレ率、予想通り2.4%で横ばい",
-          "country": "米国",
-          "category": "経済データ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "2026年2月の米国の年間インフレ率は前月と変わらず2.4%で、市場予想に合致。エネルギー価格は上昇に転じた。",
-          "affected_sectors": [
-            "広範な市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化とエネルギー高騰が世界経済に圧力。日本株下落、ユーロ圏インフレ加速で利上げ観測。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 04:00",
     "data": {
       "breaking_news": [
@@ -12527,6 +12463,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東の緊張が急騰：イスラエルがイラン攻撃検討。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Israel Eyes Strikes on Iranian Energy Facilities, Awaiting US Approval",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルはイランのエネルギー施設への攻撃を準備中、米国の承認待ち。地域緊張が高まり市場懸念増大。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Rocket Higher Amid Iran War Uncertainty, Dragging Markets Down",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争激化で原油価格は1バレル110〜113ドル以上に急騰、世界の株式市場を圧迫。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Economy Adds 178K Jobs in March; Job Security Key Concern Amid AI Fears",
+          "country": "United States",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国は3月に17.8万人の雇用を創出し失業率4.3%。AIと経済不確実性から雇用保障が重要課題に。",
+          "affected_sectors": [
+            "Technology",
+            "Retail",
+            "Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン緊張激化、原油高と世界市場下落を主導。"
     }
   }
 ]
