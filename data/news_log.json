@@ -1,149 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格100ドル超維持、米国株はイラン情勢で反発も乱高下",
-          "country": "米国, グローバル",
-          "category": "コモディティ, 地政学, 市場変動",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イランとの紛争が続く中、原油価格は100ドル超を維持し、米国株式市場は反発したが、依然として不安定な動きを見せている。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場が軒並み下落、韓国KOSPIは3%超安",
-          "country": "アジア (韓国, 日本, 中国, 台湾)",
-          "category": "市場変動, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢への注目や米国メモリー株安の影響で、アジア市場は概ね下落。特に韓国KOSPIは3.3%安を記録した。",
-          "affected_sectors": [
-            "株式市場",
-            "テクノロジー (半導体)"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株式市場、米イラン紛争終結への期待で上昇",
-          "country": "欧州",
-          "category": "市場変動, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォール・ストリート・ジャーナルが報じたトランプ大統領のイランとの紛争終結意向を受け、欧州株は一時上昇した。",
-          "affected_sectors": [
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツ3月消費者物価指数速報値、前年比2.7%で上昇",
-          "country": "ドイツ",
-          "category": "経済指標, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドイツの3月消費者物価指数（CPI）速報値は前年比2.7%となり、前回の1.9%から上昇し、インフレ懸念が続く。",
-          "affected_sectors": [
-            "一般消費財",
-            "小売",
-            "金融 (中央銀行)"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国平均燃料価格、イラン戦争で4年ぶりに1ガロン4ドル超え",
-          "country": "米国",
-          "category": "コモディティ, インフレ, 消費者支出",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響で、米国の平均燃料価格は4年ぶりに1ガロンあたり4ドルを超え、消費者への経済的圧力を増大させている。",
-          "affected_sectors": [
-            "輸送",
-            "一般消費財",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国株式市場、3月に外国人投資家が過去最高の233億ドル売り越し",
-          "country": "韓国",
-          "category": "資本流出, 地政学, 市場変動",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争激化によるリスク回避の高まりで、3月に韓国株の外国人純売りが過去最高の233億ドルに達した。",
-          "affected_sectors": [
-            "株式市場",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユニリーバ、食品事業とマコーミックの合併協議進展",
-          "country": "グローバル (英国, 米国)",
-          "category": "企業ニュース, M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ユニリーバはスパイスメーカーのマコーミックと食品事業の合併に向けて協議を深めており、ユニリーバ株価は1%上昇した。",
-          "affected_sectors": [
-            "生活必需品",
-            "食品・飲料"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中国3月製造業・非製造業PMIが予想を上回る",
-          "country": "中国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の公式3月製造業PMIと非製造業PMIが市場予想を上回り、経済活動の回復を示唆した。",
-          "affected_sectors": [
-            "製造業",
-            "サービス業",
-            "工業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド、新たな所得税法が4月1日より施行",
-          "country": "インド",
-          "category": "財政政策, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドで2025年所得税法が4月1日から施行され、大幅な税制改革が導入される。",
-          "affected_sectors": [
-            "全セクター",
-            "金融",
-            "企業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "マイクロソフト、タイでクラウドとAIに10億ドル超を投資計画",
-          "country": "タイ",
-          "category": "企業投資, テクノロジー",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "マイクロソフトがタイでクラウドおよびAIインフラに10億ドル以上を投資する計画を発表。",
-          "affected_sectors": [
-            "テクノロジー",
-            "クラウドコンピューティング",
-            "AI"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争で原油価格高騰、世界的なインフレ懸念と市場混乱を加速。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 00:00",
     "data": {
       "breaking_news": [
@@ -12657,6 +12513,57 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米国、強力な雇用統計とブランド医薬品への新関税で市場は慎重姿勢。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国先物、堅調な3月雇用統計後に下落",
+          "country": "アメリカ",
+          "category": "経済, 株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の堅調な米雇用統計発表後、株式先物はわずかに下落。市場は金融政策への影響を警戒している模様。",
+          "affected_sectors": [
+            "株式市場",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国地方選挙控え経済公約にトリュソノミクスが影を落とす",
+          "country": "イギリス",
+          "category": "政治, 経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国の地方選挙を控え、各党の経済公約に過去のトリュソノミクス政策の影響が議論を呼んでいる。",
+          "affected_sectors": [
+            "英国経済全般",
+            "財政"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "中東情勢緊迫化、原油価格高騰と世界市場の不確実性継続",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, 市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での紛争の継続が原油価格を押し上げ、世界経済と金融市場に広範な不確実性をもたらしている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "航空",
+            "製造業",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、原油高と市場の不確実性が金融市場を揺るがす。"
     }
   }
 ]
