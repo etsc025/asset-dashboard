@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "円、介入警戒感で反発",
-          "country": "日本",
-          "category": "為替介入観測",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ドル円が160円を突破し、当局による円安是正介入への警戒感から円が反発した。",
-          "affected_sectors": [
-            "為替",
-            "輸出入関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国防総省、イランでの地上作戦準備か",
-          "country": "米国, イラン",
-          "category": "地政学リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国防総省がイランでの地上作戦を準備中との報道を受け、中東情勢の緊迫化が一段と高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争が世界経済に悪影響と警告",
-          "country": "グローバル",
-          "category": "世界経済見通し",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、米国とイスラエルによるイランとの戦争が世界的な物価上昇と経済成長鈍化を招くと発表。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NATO、イランミサイル迎撃で中東緊迫",
-          "country": "トルコ, イラン",
-          "category": "地政学リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "NATOがトルコ上空でイラン発射ミサイルを迎撃。中東地域の緊張が継続している。",
-          "affected_sectors": [
-            "防衛",
-            "エネルギー",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "パウエル議長発言でドル伸び悩み",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米長期金利低下とパウエルFRB議長のハト派的な発言を受け、NY外為市場でドルが伸び悩んだ。",
-          "affected_sectors": [
-            "為替",
-            "債券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化と円安加速による介入リスクが市場を席巻。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 07:30",
     "data": {
       "breaking_news": [
@@ -12654,6 +12577,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫と原油高騰が世界経済の主要な逆風。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米軍機撃墜、イランでの救出作戦中に敵の攻撃発生",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍機がイラン上空で撃墜され、救出作戦中に敵の攻撃が発生。中東情勢の緊迫化と原油供給への懸念から市場の不確実性が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Aerospace & Defense",
+            "Global Shipping",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡危機で原油の現物と先物価格に34ドルの乖離",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡危機の中、現物ブレント原油価格は先物より34ドル高に。物理的供給の逼迫が深刻化し、市場にストレスを与えている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米労働市場の減速と消費者信頼感の改善",
+          "country": "United States",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の2月JOLTS求人件数は予想を下回ったが、3月の消費者信頼感指数は予想を上回った。労働市場は緩やかに冷却も、消費者の心理は堅調。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランでの米軍機撃墜と原油供給懸念が市場の警戒を高める。"
     }
   }
 ]
