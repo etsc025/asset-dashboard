@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "豪州株式市場、イラン紛争への楽観論で上昇、テクノロジー・銀行株が主導",
-          "country": "オーストラリア",
-          "category": "市場動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米トランプ大統領のイラン戦争終結発言への期待から、豪州株は1%上昇。テクノロジー・銀行セクターが主導し、金価格も上昇。",
-          "affected_sectors": [
-            "テクノロジー",
-            "銀行",
-            "エネルギー",
-            "金"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF、中東紛争が世界経済見通しを悪化させ、アジアへの影響を警告",
-          "country": "グローバル",
-          "category": "経済見通し",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは中東紛争が世界経済の見通しを悪化させ、特にアジアやヨーロッパのエネルギー輸入国に大きな影響を与えると警告。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融市場",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドバイ・アブダビ株式市場、イラン戦争開始以来1200億ドル損失",
-          "country": "アラブ首長国連邦",
-          "category": "市場動向",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイスラエルのイラン戦争開始以来、ドバイとアブダビの株式市場が1200億ドル近くの価値を失い、指数は9～16%下落した。",
-          "affected_sectors": [
-            "金融市場",
-            "観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争の不確実性継続で原油価格高止まり、アジア株は下落",
-          "country": "グローバル",
-          "category": "エネルギー市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の不確実性により原油価格は高止まりし、アジア市場（日経平均-1.2%、KOSPI-3.4%など）は下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツのインフレ率、イラン戦争によるエネルギー価格高騰で反発",
-          "country": "ドイツ",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドイツの3月消費者物価指数は前年比2.8%上昇。イラン紛争によるエネルギー価格高騰が主な要因。",
-          "affected_sectors": [
-            "エネルギー",
-            "小売",
-            "消費財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "JPモルガン・チェース、American Dream Initiativeを立ち上げ",
-          "country": "米国",
-          "category": "企業戦略",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "JPモルガン・チェースは、経済機会を拡大するための複数年にわたる「American Dream Initiative」を立ち上げ、中小企業支援などに注力。",
-          "affected_sectors": [
-            "銀行",
-            "中小企業",
-            "不動産"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化、世界的な原油価格上昇と株価下落を引き起こす"
-    }
-  },
-  {
     "timestamp": "2026-03-31 22:00",
     "data": {
       "breaking_news": [
@@ -12733,6 +12640,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "トランプ大統領、イランに48時間期限を警告し情勢緊迫化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計、予想上回る好調 - 株価先物は下落",
+          "country": "USA",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国3月の雇用者数が17.8万人増と予想を上回り、失業率4.3%に。インフレ懸念で株価先物は小幅下落。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東紛争激化で原油価格高騰、世界的なインフレ懸念が上昇",
+          "country": "GLOBAL",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争が原油供給を脅かし、ブレント原油価格が高騰。欧米でインフレ懸念が高まり、住宅ローン金利にも影響。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、日本銀行に利上げ継続を要請 - 円安と原油高でインフレ圧力",
+          "country": "Japan",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFが日銀に対し、中東紛争起因の原油高と円安によるインフレ抑制のため、段階的な利上げ継続を推奨。",
+          "affected_sectors": [
+            "Financials",
+            "Export",
+            "Domestic Consumption"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国住宅ローン金利が上昇、30年固定型が6.86%に",
+          "country": "USA",
+          "category": "Housing Market",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の30年固定型住宅ローン金利が7bps上昇し6.86%に。原油価格上昇と世界情勢の不確実性が要因。",
+          "affected_sectors": [
+            "Real Estate",
+            "Financials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU加盟国、エネルギー企業に「超過利潤税」導入を要請",
+          "country": "European Union",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "スペインなどEU5カ国が、原油・ガス価格高騰によるインフレ抑制のため、エネルギー企業への超過利潤税を提唱。",
+          "affected_sectors": [
+            "Energy",
+            "Utilities",
+            "Government Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化による原油価格高騰が世界経済の主要リスクに。"
     }
   }
 ]
