@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争で原油価格高騰、米国株は乱高下",
-          "country": "米国",
-          "category": "地政学, コモディティ, 市場変動",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の不確実性により原油価格が上昇し続け、米国株式市場は乱高下。アジア市場も下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBパウエル議長、インフレ抑制と利上げ不要を示唆",
-          "country": "米国",
-          "category": "金融政策, 経済見通し",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "パウエルFRB議長、インフレは抑制されており、当面の利上げは不要との見解を示す。",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "豪州株式市場、中東紛争緩和期待で上昇",
-          "country": "オーストラリア",
-          "category": "地政学, 株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領の停戦発言を受け、豪州株式市場が上昇。テクノロジー・銀行セクターが好調に推移。",
-          "affected_sectors": [
-            "テクノロジー",
-            "銀行",
-            "金"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ソニー、PlayStation 5の価格を値上げ",
-          "country": "日本",
-          "category": "企業業績, テクノロジー, 消費財",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ソニーがメモリチップコスト高騰を受けPlayStation 5の価格を引き上げると発表。",
-          "affected_sectors": [
-            "テクノロジー",
-            "家電",
-            "ゲーム"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争が原油高を招き、世界市場の不確実性が高まる。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 16:30",
     "data": {
       "breaking_news": [
@@ -12522,6 +12456,104 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油価格高騰による世界的なインフレ懸念が再燃。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州連合、エネルギー企業への暴利税導入を検討",
+          "country": "EU",
+          "category": "Government Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争による市場の歪みに対処するため、欧州連合の主要財務大臣らがエネルギー企業へのEU全域での暴利税導入を要請。",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ヘッジファンド、過去13年で最速のペースで世界株式を売却",
+          "country": "Global",
+          "category": "Market Activity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ヘッジファンドが世界の株式を過去13年間で最も速いペースで売却しており、市場の不確実性が高まっています。",
+          "affected_sectors": [
+            "Equities",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢の緊迫化が原油価格高騰と世界の株式市場に影響",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化により原油価格が高止まりし、アジア市場や日経平均に影響を与え、ドバイ・アブダビ市場は大幅下落を記録しています。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の3月雇用統計は好調も、先物市場は小幅安",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は予想を上回る好調さを見せたものの、米株先物は小幅に下落し、市場は複雑な反応を示しています。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏の2027年予算案、国防費増額と非国防支出削減を提案",
+          "country": "USA",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領の2027年予算案は、非国防支出を10%削減し、国防費を増額することを提案しており、各セクターへの影響が注目されます。",
+          "affected_sectors": [
+            "Defense",
+            "Public Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "MetaとAlphabet、ソーシャルメディア中毒訴訟で責任を認定される",
+          "country": "USA",
+          "category": "Legal/Regulatory",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国で陪審員がMetaとAlphabetをソーシャルメディア中毒訴訟で責任ありと認定。テック企業への規制強化の可能性が浮上しています。",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAI、ディープフェイク懸念でAI動画アプリSoraを停止、資金調達も鈍化",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "OpenAIがディープフェイクコンテンツ生成の懸念からAI動画アプリSoraを一時的に停止。また、資金調達の勢いも鈍化しています。",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化とヘッジファンドの株式売却が市場に重圧。"
     }
   }
 ]
