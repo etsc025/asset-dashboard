@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争激化で原油価格高騰、市場にリスクオフ心理",
-          "country": "Global",
-          "category": "Geopolitical, Commodity",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化でブレント原油は1バレル114ドル、WTIは105ドル超えを記録。供給懸念から原油高が進行し、世界経済への逆風が強まり、市場全体のリスクオフ心理が加速している。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場、ナスダックはAI懸念で下落、ダウは堅調",
-          "country": "USA",
-          "category": "Equity Market, Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米株式市場は軟調な展開。ナスダックはAIバリュエーションへの懸念から0.7%下落し、S&P500も続落した。一方で、ダウ平均は防衛関連株などに支えられ小幅に上昇した。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductor",
-            "Energy",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債市場が上昇、FRB議長が2026年の利上げを否定",
-          "country": "USA",
-          "category": "Monetary Policy, Fixed Income",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "FRBパウエル議長が2026年の利上げの可能性を否定するコメントを発表し、米国債市場が上昇した。これにより、市場の金利上昇圧力に対する懸念が一部緩和された。",
-          "affected_sectors": [
-            "Financial Services",
-            "Real Estate",
-            "Fixed Income"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争による原油高騰と米ハイテク株下落が市場を圧迫。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 09:00",
     "data": {
       "breaking_news": [
@@ -12637,6 +12584,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化による原油高と世界経済への負の影響に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式先物、好調な3月雇用統計にもかかわらず下落",
+          "country": "United States",
+          "category": "Economic Data, Market Reaction",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国株式先物は、堅調な3月雇用統計発表後も下落。グッドフライデー休場中も市場の警戒感を示唆。",
+          "affected_sectors": [
+            "Stock Market",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "グローバル市場、グッドフライデーで休場中にSP500がわずかに上昇",
+          "country": "Global",
+          "category": "Market Holiday, Market Performance",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "グローバル市場はグッドフライデーで休場。SP500はわずかに上昇し、静かな取引日となった。",
+          "affected_sectors": [
+            "All financial markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Intelの法務責任者が6月に退任を発表",
+          "country": "United States",
+          "category": "Company News, Executive Change",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インテルの法務責任者エイプリル・ボイスが6月に退任へ。企業内部の変動として注目される。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ・アルバータ州の移民法案にホスピタリティ部門が反発",
+          "country": "Canada",
+          "category": "Government Policy, Labour Market",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "アルバータ州の新移民法案にホスピタリティ部門が反発。労働力確保に新たな障壁となる懸念。",
+          "affected_sectors": [
+            "Hospitality",
+            "Tourism",
+            "Labour Market"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国雇用統計好調も先物下落、市場はグッドフライデーで静穏。"
     }
   }
 ]
