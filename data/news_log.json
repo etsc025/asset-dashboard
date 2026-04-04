@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均が大幅続落、中東情勢と原油高で今年の最安値更新",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争長期化と原油高を嫌気し、日経平均株価が一時1200円超下落し今年の最安値を更新。投資家のリスク回避姿勢が強まる。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化で原油先物急騰、WTIは1バレル106ドル台に",
-          "country": "グローバル",
-          "category": "商品市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化を受け、WTI原油先物価格が1バレル106ドル台まで上昇。ホルムズ海峡封鎖の可能性も懸念。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国市場でハイテク・半導体株が大幅下落、ナスダック3日続落",
-          "country": "米国",
-          "category": "株式市場, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "30日の米株式市場でナスダックが3日続落、SOX指数は昨年12月以来の安値。半導体関連株の売りが目立つ。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "為替市場で安全資産の円買いが継続、クロス円が下げ幅拡大",
-          "country": "グローバル",
-          "category": "為替市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化と株安を受け、安全資産としての円買いが継続。ドル円は159円台、クロス円は下げ幅拡大。",
-          "affected_sectors": [
-            "為替市場",
-            "輸出企業",
-            "輸入企業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化による原油価格急騰と世界的な株安に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 13:30",
     "data": {
       "breaking_news": [
@@ -12569,6 +12502,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化と原油高、米雇用堅調もインフレ懸念続く。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月雇用統計が予想を大幅に上回る",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "3月の雇用統計は17.8万人の新規雇用増で市場予想を大幅に上回り、経済の力強い回復を示唆。",
+          "affected_sectors": [
+            "全セクター",
+            "消費関連",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国住宅ローン金利、2025年9月以来の高水準に急騰",
+          "country": "米国",
+          "category": "金融政策、不動産",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "住宅ローン金利が6.46%に急騰し、2025年9月以来の最高水準となり住宅市場に悪影響を及ぼす可能性。",
+          "affected_sectors": [
+            "不動産",
+            "金融",
+            "建設"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン作戦中に米軍機が撃墜、中東紛争が激化",
+          "country": "米国, グローバル",
+          "category": "地政学、防衛",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランに対する作戦中に米軍機が撃墜され、中東地域の緊張と紛争激化の懸念が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国の雇用回復と裏腹に、イラン紛争激化と住宅金利上昇が市場のリスクを高める。"
     }
   }
 ]
