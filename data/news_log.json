@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン戦争起因の原油高で下落",
-          "country": "US",
-          "category": "Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による原油価格高騰が響き、米国株式市場は下落。S&P 500は初期の上昇分を消し、アジア市場も軟調な展開。投資家は警戒を強めている。",
-          "affected_sectors": [
-            "Technology",
-            "Industrials",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争で原油価格急騰、100ドル超え",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争激化と中東情勢緊迫化を受け、世界の原油価格が1バレル100ドルを超え急騰し、過去数年で最高水準に達している。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争が世界経済に負の影響と警告",
-          "country": "Global",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "国際通貨基金は、イラン戦争が世界的な物価上昇と経済成長の減速を招くと警鐘。特にエネルギー価格高騰が主な要因。",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国ガソリン価格、イラン戦争で4ドル突破",
-          "country": "US",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による原油高を受け、米国ガソリン価格が1ガロン4ドルを突破し、数年ぶりの高値。消費者に大きな負担がのしかかっている。",
-          "affected_sectors": [
-            "Transportation",
-            "Retail",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争終結期待で米国株一時反発も変動",
-          "country": "US",
-          "category": "Market",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イラン戦争の de-escalation 期待から米国株が一時上昇したが、市場の変動は継続。投資家は状況の展開に依然警戒中。",
-          "affected_sectors": [
-            "All market sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争による原油価格高騰と世界経済への影響に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 01:30",
     "data": {
       "breaking_news": [
@@ -12532,6 +12455,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、米軍機撃墜とイスラエルによるイラン攻撃懸念が市場を圧迫。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin Rangebound Near $66K; Hovers Near $67,000 Mark",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Bitcoin (BTC) hovers near $67,000, facing mixed signals impacting April's market direction.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Trump Warns Iran of 48-Hour Deadline on Strait of Hormuz",
+          "country": "USA",
+          "category": "Geopolitics, Energy Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Trump gives Iran 48-hour ultimatum for Strait of Hormuz reopening, threatening military escalation.",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Shipping",
+            "Global Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Fed Still Likely to Cut Rates in 2026 Despite Oil Shock, Morgan Stanley Says",
+          "country": "USA",
+          "category": "Monetary Policy, Economic Forecast",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Morgan Stanley forecasts Fed rate cuts in 2026 despite oil shock, easing financial conditions.",
+          "affected_sectors": [
+            "Financial Services",
+            "Real Estate",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Anthropic Scoops Up Biotech Startup Coefficient Bio for $400M",
+          "country": "USA",
+          "category": "Corporate, M&A, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Anthropic acquires biotech startup Coefficient Bio for $400M, boosting AI capabilities in the sector.",
+          "affected_sectors": [
+            "Artificial Intelligence",
+            "Biotechnology",
+            "Venture Capital"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Trump's Iran ultimatum heightens Mideast conflict risk."
     }
   }
 ]
