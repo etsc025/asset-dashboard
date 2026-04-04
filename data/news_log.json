@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢悪化で原油価格が急騰し、市場のインフレ懸念が増大",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争激化を受け、ブレント原油が1バレル118ドル台まで上昇。供給不安と高インフレ懸念が世界経済に重くのしかかる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株式市場、中東紛争とインフレ圧力で乱高下",
-          "country": "Global",
-          "category": "Market Movement",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化とエネルギー価格高騰によるインフレ加速を受け、主要株式市場は下落基調。投資家のリスク回避姿勢が強まる。",
-          "affected_sectors": [
-            "All sectors",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏インフレ加速、米消費者信頼感は経済不確実性で低下",
-          "country": "Eurozone, US",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月ユーロ圏CPIは2.5%に加速。米国消費者信頼感も経済の不確実性と高エネルギーコストで低下し、景気減速懸念が浮上。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Central Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化による原油価格高騰と世界経済への影響に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 00:30",
     "data": {
       "breaking_news": [
@@ -12564,6 +12512,53 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油高と市場の不確実性が金融市場を揺るがす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領、イランに警告を発し、原油価格が急騰",
+          "country": "米国 / 中東",
+          "category": "地政学 / コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領がイランに厳しい警告を発し、ホルムズ海峡の封鎖を巡る緊張が高まる中、原油価格が急騰している。市場は供給懸念から動揺している。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計は好調、しかし2月改定値は下方修正、市場の注目はFRBの政策に",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は予想を上回ったが、2月の改定値は下方修正された。FRBの将来の金融政策に対する市場の憶測が続いている。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Meta、AI投資集中の中、湾岸地域で約200人の従業員をレイオフ",
+          "country": "米国",
+          "category": "企業ニュース / テクノロジー",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "MetaがAIインフラへの数十億ドル投資を継続する中、湾岸地域で約200人の人員削減を実施した。テクノロジー業界の動向を示唆している。",
+          "affected_sectors": [
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化による原油高と市場の変動に厳重警戒。"
     }
   }
 ]
