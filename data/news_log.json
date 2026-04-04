@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争激化で原油価格高騰、世界経済に脅威",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争激化により原油価格が1バレル100ドル超えで高騰。世界の株式市場に影響し、インフレと景気後退懸念が高まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株不安定、S&P500は不吉な兆候、パウエル議長は原油ショックを注視",
-          "country": "US",
-          "category": "Stock Market",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国株式市場は不安定で、S&P500が「不吉な」売りシグナルを発している。FRBは当面の原油ショックを見過ごす可能性を示唆も限界あり。",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国、中東紛争に対応し170億ドルの追加景気刺激策を提案",
-          "country": "South Korea",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東紛争による経済的影響に対抗するため、韓国が170億ドルの追加景気刺激予算を提案。",
-          "affected_sectors": [
-            "General Economy",
-            "Infrastructure",
-            "Consumer Goods"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化で原油高騰、世界経済へのインフレ・景気後退リスク増大。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 17:30",
     "data": {
       "breaking_news": [
@@ -12597,6 +12545,89 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学リスクと米経済指標が市場に交錯し不安定。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米軍F-15戦闘機がイラン上空で撃墜、乗組員捜索中",
+          "country": "米国, イラン",
+          "category": "地政学, 軍事紛争",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍F-15戦闘機がイラン上空で撃墜され、乗組員捜索中。中東情勢の深刻なエスカレーションを示唆。",
+          "affected_sectors": [
+            "石油・ガス",
+            "防衛",
+            "航空",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン、ホルムズ海峡封鎖を長期化させる見通しと情報機関が警告",
+          "country": "イラン, グローバル",
+          "category": "地政学, エネルギー安全保障",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "情報機関は、イランがホルムズ海峡の封鎖を長期化させる見通しだと警告。原油供給に重大な影響の可能性。",
+          "affected_sectors": [
+            "石油・ガス",
+            "海運",
+            "航空",
+            "製造業",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争と円安がインフレリスクを高める中、日銀の段階的利上げを支持",
+          "country": "日本, グローバル",
+          "category": "金融政策, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "IMFは、中東紛争と円安によるインフレリスク増大を受け、日本銀行の段階的利上げを支持すると表明した。",
+          "affected_sectors": [
+            "金融",
+            "輸出関連企業",
+            "日本国債",
+            "外国為替"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU主要5カ国、ガス価格70%急騰を受けエネルギー企業への暴利税を要求",
+          "country": "欧州連合 (ドイツ, イタリア, スペイン, ポルトガル, オーストリア)",
+          "category": "エネルギー政策, 課税",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるガス価格急騰を受け、EU主要5カ国がエネルギー企業への暴利税導入を欧州委員会に要請した。",
+          "affected_sectors": [
+            "エネルギー",
+            "公益事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国、為替レート防御に苦戦…外貨準備高が世界10位圏外に",
+          "country": "韓国",
+          "category": "マクロ経済, 通貨, 財政政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "韓国の外貨準備高が世界10位圏外に減少し、中東事態の余波で為替レート防御に苦戦している。",
+          "affected_sectors": [
+            "韓国株式",
+            "金融",
+            "輸入関連企業",
+            "外国為替"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の深刻な悪化：米軍機撃墜、ホルムズ海峡封鎖長期化の警告で市場はリスクオフへ。原油価格と主要国政策に注目。"
     }
   }
 ]
