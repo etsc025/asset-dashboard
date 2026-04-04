@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-03-31 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格急騰、中東情勢緊迫化で市場不安増大",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化を受け原油価格が急騰し、米国産原油は100ドル超え。世界経済の減速懸念が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国ウォンが約17年ぶりの安値更新",
-          "country": "South Korea",
-          "category": "Currency, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化を受け、韓国ウォンが対ドルで1,520ウォンを割り込み、世界金融危機以来の安値に。",
-          "affected_sectors": [
-            "South Korean Exports/Imports",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "債券市場にストレスの兆候、株式市場への波及を警戒",
-          "country": "Global",
-          "category": "Fixed Income, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "債券市場のボラティリティが急増し、過去の金融不安時と同水準。株式市場への影響が懸念される。",
-          "affected_sectors": [
-            "Financials",
-            "Equity Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢と原油高が市場を圧迫、ウォン安と債券市場に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-03-31 12:00",
     "data": {
       "breaking_news": [
@@ -12597,6 +12546,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化と原油高騰がグローバル市場の最大懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-04 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争激化、原油価格高騰で世界市場に変動",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の激化により原油価格が急騰し、アジア市場を含む世界株式市場に売り圧力がかかり、投資家のリスク回避姿勢が強まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Financials",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計が予想を上回る堅調さ、インフレ懸念が再燃",
+          "country": "US",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は市場予想を大幅に上回る堅調な結果となり、経済の強さを示す一方で、インフレ加速とFRBの金融引き締め長期化への懸念が再燃している。",
+          "affected_sectors": [
+            "Broad Market",
+            "Technology",
+            "Consumer Discretionary",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の住宅ローン金利が急騰、住宅市場に冷や水",
+          "country": "US",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の住宅ローン金利が2025年9月以来の高水準に急騰し、住宅購入希望者の購買力を低下させ、住宅市場の活動に悪影響を与える可能性がある。",
+          "affected_sectors": [
+            "Real Estate",
+            "Banking",
+            "Construction"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化と原油高で世界市場はリスクオフへ"
     }
   }
 ]
