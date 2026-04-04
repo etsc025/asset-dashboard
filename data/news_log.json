@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式市場、原油価格安定の期待で大幅反発",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争による原油価格高騰が落ち着きを見せ、S&P 500は1.6%上昇、ダウ平均も大幅高となり、米国株式市場が反発した。",
-          "affected_sectors": [
-            "株式市場",
-            "航空",
-            "旅行・レジャー",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争と高油価により世界的なインフレ圧力増大",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が原油価格を記録的に押し上げ、欧州のガス価格もほぼ倍増。ユーロ圏の3月インフレ率は2.5%に跳ね上がるなど、世界的にインフレが加速している。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "輸送",
-            "製造業",
-            "金融サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争で中東株式市場が大幅下落",
-          "country": "アラブ首長国連邦",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響でドバイとアブダビの株式市場は計約1,200億ドルの価値を失い、世界の金融市場で最も大きな打撃を受けている。",
-          "affected_sectors": [
-            "株式市場（中東）",
-            "旅行・観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "S&Pグローバル・レーティング、中東戦争で世界経済見通しを下方修正",
-          "country": "グローバル",
-          "category": "経済予測",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "S&Pグローバル・レーティングは、中東戦争が史上最大のエネルギー供給ショックを引き起こし、2026年の世界経済成長予測を下方修正したと発表した。",
-          "affected_sectors": [
-            "グローバル経済",
-            "複数の産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の消費者信頼感改善、求人件数も予想上回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の消費者信頼感が予想外に改善し、2月の求人件数も予想を上回る結果となった。",
-          "affected_sectors": [
-            "小売",
-            "一般消費財",
-            "雇用"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン戦争による地政学的リスクと世界的なインフレ圧力が継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 01:00",
     "data": {
       "breaking_news": [
@@ -12559,6 +12479,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化による原油高と市場の変動に厳重警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イスラエル、イランのエネルギー施設攻撃を検討し米国の承認待ち",
+          "country": "イスラエル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルがイランのエネルギー施設への攻撃を検討しており、米国の承認を待っている。中東情勢のさらなる緊迫化は原油価格高騰や市場のボラティリティを高める恐れがある。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計、予想上回る好結果で失業率4.3%に低下",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米雇用統計では、予想を大幅に上回る17.8万人の雇用が増加し、失業率も4.3%に低下。これはFRBの金融政策決定に影響を与え、利下げ期待を後退させる可能性もある。",
+          "affected_sectors": [
+            "金融",
+            "小売",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イランで米軍戦闘機が撃墜、乗員1名が行方不明",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン上空で米軍の戦闘機が撃墜され、乗員1名が行方不明となっている。この事件は中東の地政学的リスクを著しく高め、市場の不安定化を招く可能性がある。",
+          "affected_sectors": [
+            "防衛",
+            "エネルギー",
+            "航空",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、米軍機撃墜とイスラエルによるイラン攻撃懸念が市場を圧迫。"
     }
   }
 ]
