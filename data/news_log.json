@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株がイラン戦争終結期待で急騰、主要指数が大幅上昇",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランとの戦争終結への期待が高まり、ダウ平均株価が1,125ポイント、S&P 500が2.9%、ナスダックが3.8%それぞれ上昇した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "全般市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債利回り低下、融資金利への下押し圧力",
-          "country": "米国",
-          "category": "債券市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "10年物米国債利回りが4.32%に低下し、住宅ローンなどの融資金利への下押し圧力となり、景気回復を支援する可能性。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "全般経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格100ドル超え維持、インフレと経済成長への懸念が残る",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による供給不安から原油価格が1バレル100ドルを超えて推移しており、インフレ高進と経済成長鈍化への懸念が続く。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費者向け"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国消費者信頼感指数が予想を上回り改善",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の米国消費者信頼感指数が91.8に上昇し、予想の87.9を上回る結果となり、景気回復への楽観論を強める。",
-          "affected_sectors": [
-            "小売",
-            "消費者サービス",
-            "全般経済"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧州銀行株、3年間の強気相場が終焉の危機に直面",
-          "country": "欧州",
-          "category": "銀行",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Stoxx 600欧州銀行指数が年初から約7%下落し、3年間の強気相場が終焉に向かう可能性があり、地域経済への影響が懸念される。",
-          "affected_sectors": [
-            "金融",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NvidiaがMarvell Technologyに20億ドル投資、半導体セクターに影響",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "NvidiaがMarvell Technologyに20億ドルを投資し、半導体業界におけるAIインフラ開発の提携を強化すると発表。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "AI"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結期待で米国株急騰、しかし原油高とインフレ懸念は継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 09:00",
     "data": {
       "breaking_news": [
@@ -12528,6 +12435,74 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、ホルムズ海峡リスクと米軍機撃墜"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、同盟国がイラン紛争に不参加でNATOの将来に疑問",
+          "country": "米国, 欧州",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイラン紛争への同盟国不参加に不満、NATOの将来に疑問を呈し西側安全保障体制に亀裂。",
+          "affected_sectors": [
+            "防衛",
+            "国際関係",
+            "欧州金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の流量急減で世界の石油供給が「1970年代型」崩壊の危機",
+          "country": "世界, 中東",
+          "category": "地政学, 商品, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争がホルムズ海峡の海上交通を遮断し、世界の石油供給が1970年代型崩壊の危機に直面している。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "製造業",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡危機：情勢と実務リスク（2026年4月5日更新）",
+          "country": "世界, 中東, 日本",
+          "category": "地政学, 物流, リスク管理",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡は依然高リスクで全面正常化せず。原油・LNG・保険等に影響、企業は契約・在庫の見直し急務。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "保険",
+            "物流",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "来週（4/6〜4/10）の日経平均株価の予想レンジは、5万～5万5000円！ 引き続きイラン情勢やトランプ大統領の発言、米・個人所得など経済指標の動向に注目",
+          "country": "日本, 米国, 中東",
+          "category": "市場見通し, 地政学, テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "来週の日経平均はイランのデータセンター攻撃やトランプ発言、米経済指標に注目。リスク回避姿勢が継続見込み。",
+          "affected_sectors": [
+            "テクノロジー",
+            "株式市場全般",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化とホルムズ海峡危機が世界の金融市場に高まるリスクをもたらす。"
     }
   }
 ]
