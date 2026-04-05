@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結期待で世界株高、原油安",
-          "country": "グローバル",
-          "category": "地政学、市場センチメント、商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米提案によるイラン戦争終結期待が高まり、世界株が急騰し、原油価格は大幅下落。市場は楽観ムード。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "金融",
-            "一般消費財",
-            "素材",
-            "工業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国ホスピタリティ産業、高コストで雇用削減・閉鎖の危機",
-          "country": "英国",
-          "category": "経済指標、企業ニュース",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国ホスピタリティ産業の3分の2が人員削減を計画、7社に1社が閉鎖の危機に直面。コスト増が原因。",
-          "affected_sectors": [
-            "ホスピタリティ",
-            "一般消費財",
-            "雇用"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのアダニ・ポーツが貨物取扱量5億トン突破",
-          "country": "インド",
-          "category": "企業ニュース、経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドのアダニ・ポーツが貨物取扱量5億トン突破し株価5%上昇。インドインフラ成長の勢いを反映。",
-          "affected_sectors": [
-            "工業",
-            "物流",
-            "インフラ"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日本の地域金融機関がAIを導入し業務効率化",
-          "country": "日本",
-          "category": "テクノロジー、金融サービス、企業戦略",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "日本の地域金融機関がAIを導入し住宅ローン審査や文書検索を効率化、業務改善とコスト削減目指す。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で世界株高、原油安。市場はリスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 19:30",
     "data": {
       "breaking_news": [
@@ -12311,6 +12244,87 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米・イラン間の地政学的緊張激化で原油高と市場の不確実性が増大"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "OPEC+、石油増産を理論上承認の見込み",
+          "country": "Global",
+          "category": "Energy Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "OPEC+が日曜のオンライン会議で理論的な石油増産を承認する見込みだが、実際の影響は限定的か。",
+          "affected_sectors": [
+            "Energy",
+            "Oil & Gas"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン、クウェート石油公社本社に無人機攻撃",
+          "country": "Kuwait",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日曜早朝、イランが無人機でクウェート石油公社本社を攻撃、中東情勢の緊張が高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Oil & Gas",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米軍機2機がイランの反撃で撃墜、ホルムズ海峡の供給危機迫る",
+          "country": "US, Iran",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国が「完全支配」を主張する中、イランが反撃し米軍機2機を撃墜。ホルムズ海峡の石油供給危機が深刻化。",
+          "affected_sectors": [
+            "Energy",
+            "Oil & Gas",
+            "Aviation",
+            "Defense",
+            "Shipping",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争による高エネルギーコストがAIブームの経済を脅かす",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争による高エネルギーコストがAI関連産業の経済に悪影響を及ぼす可能性があり、成長を阻害しかねない。",
+          "affected_sectors": [
+            "Technology",
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ECB専務理事、ユーロ圏経済には追加刺激策が必要と発言",
+          "country": "Eurozone",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB専務理事のセンテノ氏が、ユーロ圏経済はECBからの追加刺激策が必要だと述べた。",
+          "affected_sectors": [
+            "Financials",
+            "European Equities",
+            "Government Bonds"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、石油施設攻撃と米軍機撃墜でリスクオフ拡大。"
     }
   }
 ]
