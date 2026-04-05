@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-05",
+  "summary": "\n【AI Bot 週次パフォーマンスレポート】2026-04-05\n\n■ 全体サマリ\n  総資産: ¥10,981,244  週次損益: -0.17%\n  稼働bot: 11体  初期資産: ¥11,000,000\n\n■ 上位3 Bot\n  #1 Bot11_SubspacePCA: ¥1,011,900 (+1.19%) 週次+1.22% Sharpe=3.13\n  #2 Bot1_ML_AbsChange: ¥1,001,167 (+0.12%) 週次+0.12% Sharpe=0.66\n  #3 Bot8_NewsTech: ¥1,000,640 (+0.06%) 週次+0.06% Sharpe=1.81\n\n■ 下位5 Bot\n  Bot2_DL_Transformer: ¥987,142 (-1.29%) MDD=-1.36% 取引4件\n  Bot3_FactorAI: ¥995,756 (-0.42%) MDD=-0.53% 取引7件\n  Bot5_TrendMomentum: ¥995,835 (-0.42%) MDD=-0.89% 取引19件\n  Bot7_AdaptiveMarket: ¥996,527 (-0.35%) MDD=-0.48% 取引8件\n  Bot6_RL_MA: ¥996,948 (-0.31%) MDD=-0.29% 取引1件\n\n■ 最高パフォーマー: Bot11_SubspacePCA (+1.19%)\n■ 最低パフォーマー: Bot2_DL_Transformer (-1.29%)\n",
+  "analysis": "プロのクオンツアナリストとして、貴AI Botの週次パフォーマンスを分析します。\n\n**1. 全体的な市場環境の評価**\n総資産が初期資産を下回り、週次損益が-0.17%とわずかながらマイナスを記録しています。これは、全体として明確な上昇トレンドや下降トレンドがなく、やや軟調または方向感に乏しいレンジ相場であった可能性を示唆します。多くのBotが小幅なマイナスに終わっていることから、アルファを見つけにくい、難しい市場環境だったと評価できます。\n\n**2. 上位botの成功要因の考察**\n#1 Bot11_SubspacePCAの+1.19%は突出しており、Sharpe比率3.13はリスク調整後リターンが非常に高いことを示します。これは、多次元データからノイズを除去し、市場の微細な構造的歪みや潜在的なトレンドを効率的に捉えることに成功したと考えられます。#2 Bot1_ML_AbsChangeは短期的な価格変動を、#3 Bot8_NewsTechは特定のニュースフローやテクノロジー関連の情報を基に、小幅ながらも優位性を確保できたと推察されます。\n\n**3. 下位botの問題点と改善提案**\n- **Bot2_DL_Transformer**: -1.29%と最下位で、MDDが週次損益とほぼ同値であることから、少数の取引で大きな損失を出した可能性が高いです。モデルの過学習、現在の市場環境への適応不足、または過度なポジションサイジングが疑われます。改善策として、モデルのロバスト性向上、損切りルールの厳格化、一時的な稼働停止またはポジションサイズの大幅縮小を推奨します。\n- **Bot5_TrendMomentum**: 取引頻度が高いにもかかわらず-0.42%であり、トレンドレスな相場での「ダマシ」に遭ったか、トレンド転換点でのロスカットが遅れた可能性があります。レンジ相場での取引を抑制するロジックの導入や、ボラティリティに応じた戦略調整が必要です。\n- **Bot6_RL_MA**: 取引1件で損失を出しており、強化学習モデルの学習が不十分であるか、特定の市場状況での判断に誤りがあったと考えられます。学習期間の延長や異なる市場環境でのバックテスト強化が望ましいでしょう。\n\n**4. 来週の戦略提言**\n来週も現在の市場環境が続く可能性を考慮し、以下の戦略を提言します。\n- **Bot11_SubspacePCA**の安定的なパフォーマンスに注目し、ポートフォリオ内での比重を慎重に検討します。\n- **リスク管理の徹底**: 特にMDDが大きいBot2は、早急な対策が必要です。他の下位Botも、ロジックの見直しやポジションサイズ調整を進めます。\n- **ポートフォリオのリバランス**: 全体的な損益がマイナスであることを踏まえ、現在の市場環境で機能している戦略（Bot11のような構造解析型、あるいは情報優位型）に資金配分を集中させ、機能不全の戦略は改善が確認されるまで稼働を抑制することを検討します。明確なトレンドが出ない限り、短期的な優位性やリスクヘッジを重視した戦略が賢明でしょう。",
+  "total_return": -0.171,
+  "stats": [
+    {
+      "bot": "Bot11_SubspacePCA",
+      "total_return": 0.0119,
+      "mdd": -0.0078,
+      "win_rate": 0.1429,
+      "sharpe": 3.13,
+      "n_trades": 17,
+      "latest_equity": 1011900.0,
+      "days": 7,
+      "weekly_return": 1.223
+    },
+    {
+      "bot": "Bot1_ML_AbsChange",
+      "total_return": 0.001167,
+      "mdd": -0.007,
+      "win_rate": 0.25,
+      "sharpe": 0.66,
+      "n_trades": 5,
+      "latest_equity": 1001167.0,
+      "days": 8,
+      "weekly_return": 0.117
+    },
+    {
+      "bot": "Bot8_NewsTech",
+      "total_return": 0.00064,
+      "mdd": -0.0011,
+      "win_rate": 0.125,
+      "sharpe": 1.81,
+      "n_trades": 7,
+      "latest_equity": 1000640.0,
+      "days": 8,
+      "weekly_return": 0.064
+    },
+    {
+      "bot": "Bot10_CorrGraph",
+      "total_return": -0.001308,
+      "mdd": -0.0013,
+      "win_rate": 0.0,
+      "sharpe": -7.94,
+      "n_trades": 2,
+      "latest_equity": 998692.0,
+      "days": 5,
+      "weekly_return": -0.131
+    },
+    {
+      "bot": "Bot9_VolAsymmetry",
+      "total_return": -0.0014,
+      "mdd": -0.0088,
+      "win_rate": 0.2857,
+      "sharpe": -0.64,
+      "n_trades": 16,
+      "latest_equity": 998600.0,
+      "days": 7,
+      "weekly_return": -0.126
+    },
+    {
+      "bot": "Bot4_Momentum_Intl",
+      "total_return": -0.001963,
+      "mdd": -0.0068,
+      "win_rate": 0.2,
+      "sharpe": -1.32,
+      "n_trades": 12,
+      "latest_equity": 998037.0,
+      "days": 5,
+      "weekly_return": -0.196
+    },
+    {
+      "bot": "Bot6_RL_MA",
+      "total_return": -0.003052,
+      "mdd": -0.0029,
+      "win_rate": 0.0,
+      "sharpe": -8.25,
+      "n_trades": 1,
+      "latest_equity": 996948.0,
+      "days": 7,
+      "weekly_return": -0.289
+    },
+    {
+      "bot": "Bot7_AdaptiveMarket",
+      "total_return": -0.003473,
+      "mdd": -0.0048,
+      "win_rate": 0.2857,
+      "sharpe": -4.29,
+      "n_trades": 8,
+      "latest_equity": 996527.0,
+      "days": 7,
+      "weekly_return": -0.317
+    },
+    {
+      "bot": "Bot5_TrendMomentum",
+      "total_return": -0.004165,
+      "mdd": -0.0089,
+      "win_rate": 0.4286,
+      "sharpe": -3.46,
+      "n_trades": 19,
+      "latest_equity": 995835.0,
+      "days": 7,
+      "weekly_return": -0.373
+    },
+    {
+      "bot": "Bot3_FactorAI",
+      "total_return": -0.004244,
+      "mdd": -0.0053,
+      "win_rate": 0.125,
+      "sharpe": -6.57,
+      "n_trades": 7,
+      "latest_equity": 995756.0,
+      "days": 8,
+      "weekly_return": -0.311
+    },
+    {
+      "bot": "Bot2_DL_Transformer",
+      "total_return": -0.012858,
+      "mdd": -0.0136,
+      "win_rate": 0.25,
+      "sharpe": -8.71,
+      "n_trades": 4,
+      "latest_equity": 987142.0,
+      "days": 8,
+      "weekly_return": -1.057
+    }
+  ]
+}
