@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和期待で世界株式が上昇",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領の中東紛争終結示唆発言を受け、米欧アジア市場で株価が軒並み上昇。リスクオンムードが広がる。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "製造業",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東の緊張緩和で原油価格が下落",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争終結への期待から、世界の原油価格が下落。供給途絶懸念が後退し、エネルギーコストの緩和に繋がる。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AI・半導体株が上昇、イラン紛争解決期待が背景",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東情勢の安定化期待から、リスク選好が高まり、AIおよび半導体関連企業の株価が堅調に推移している。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Beyond Meat、決算不振で株価10%下落",
-          "country": "米国",
-          "category": "企業決算",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "代替肉企業のBeyond Meatが予想を下回る決算を発表し、株価が急落。消費者の需要減退が懸念される。",
-          "affected_sectors": [
-            "食品・飲料",
-            "一般消費財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oracleが数千人規模の人員削減、AI投資を加速",
-          "country": "米国",
-          "category": "企業戦略",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OracleはAI分野への投資を強化するため、数千人規模の人員削減を発表。戦略的転換を図る。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東緊張緩和期待がグローバル株式市場を押し上げ、原油価格は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 03:00",
     "data": {
       "breaking_news": [
@@ -12190,6 +12112,43 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化とそれに伴う原油価格の高騰が、週明けの世界市場に大きな影響を与える見込み。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領、ホルムズ海峡再開をイランに期限設定、攻撃を示唆",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領がイランに対し、火曜夜までにホルムズ海峡を再開しなければ攻撃すると警告。原油市場の混乱と地政学リスクが急騰中。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "グローバル市場",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計、予想を上回る17.8万人の雇用増",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国は3月に17.8万人の雇用を創出し、失業率は4.3%に低下。賃金伸び率は鈍化し、FRBの金融政策見通しに影響を与える可能性。",
+          "affected_sectors": [
+            "金融",
+            "消費財"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡を巡る米国のイランへの警告で、地政学リスクと原油価格が急上昇中。"
     }
   }
 ]
