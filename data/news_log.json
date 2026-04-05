@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結観測で世界的に株価が急伸、日経平均は大幅反発",
-          "country": "グローバル",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領のイラン戦争終結示唆を受け、中東情勢緩和期待から米・日株式市場が大幅反発。S&P500は2.9%超、日経平均は5%超上昇した。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争終結期待で原油価格が軟化、$100前後で推移",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イラン戦争終結への期待感から、原油価格は高騰が一服し、現在$100付近で推移。供給懸念が後退した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緩和で債券市場に買い、長期金利は低下",
-          "country": "米国, 日本",
-          "category": "債券市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東紛争終結観測が広がり、安全資産としての債券買いが優勢に。米国債・日本国債の長期金利が低下している。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結観測で世界株式市場が急伸、投資家心理が改善"
-    }
-  },
-  {
     "timestamp": "2026-04-02 03:30",
     "data": {
       "breaking_news": [
@@ -12149,6 +12098,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡を巡る米国のイランへの警告で、地政学リスクと原油価格が急上昇中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Geopolitical Conflict Escalates: Strait of Hormuz Closed, Global Energy Market Disrupted",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Hormuz closure due to US-Iran conflict sparks global oil price surge, supply chain chaos, and recession fears.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Logistics",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Economy Adds 178,000 Jobs in March; Unemployment Rate Dips to 4.3%",
+          "country": "U.S.",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US created 178K jobs in March with 4.3% unemployment. Strong data, but Treasury yields jump, Fed remains cautious.",
+          "affected_sectors": [
+            "Financials",
+            "General Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF Warns Tokenized Finance Could Amplify Market Crises Without Global Regulation",
+          "country": "Global",
+          "category": "Digital Finance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMF warns tokenized finance risks amplifying market crises without urgent global regulatory oversight.",
+          "affected_sectors": [
+            "Financial Services",
+            "Fintech",
+            "Cryptocurrency",
+            "Digital Assets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Hormuz closure sparks energy crisis, recession fears."
     }
   }
 ]
