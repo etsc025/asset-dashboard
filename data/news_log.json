@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "世界市場がイラン戦争終結への期待で上昇、原油価格は100ドルを下回る",
-          "country": "グローバル",
-          "category": "地政学・市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待から、世界の株式市場が大幅に上昇し、原油価格は1バレル100ドルを下回った。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イングランド銀行、イラン戦争の影響で英国の130万世帯が住宅ローン支払い増加の可能性を警告",
-          "country": "イギリス",
-          "category": "金融政策・経済影響",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イングランド銀行は、イラン戦争による経済的影響で、英国の130万世帯が住宅ローン支払い増加に直面する可能性があると警告した。",
-          "affected_sectors": [
-            "不動産",
-            "銀行",
-            "消費者金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "オラクル、AI投資強化のため数千人規模の人員削減を実施",
-          "country": "アメリカ",
-          "category": "テクノロジー・企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米テクノロジー企業オラクルは、人工知能への投資を加速するため、世界的に数千人の従業員を削減した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド自動車販売が好調、Z世代による仮想通貨先物取引が活発化",
-          "country": "インド",
-          "category": "経済データ・消費者トレンド",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月のインド自動車販売は成長を示し、Z世代が仮想通貨先物取引を主導し、女性の参加も増加している。",
-          "affected_sectors": [
-            "自動車",
-            "仮想通貨",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結への期待で世界市場が上昇、原油価格下落"
-    }
-  },
-  {
     "timestamp": "2026-04-01 21:00",
     "data": {
       "breaking_news": [
@@ -12334,6 +12271,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢と米雇用統計が市場に複合的な影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン無人機攻撃でクウェート石油本社が炎上",
+          "country": "クウェート",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランによる無人機攻撃でクウェート石油本社が炎上。中東情勢の緊迫化が世界の石油供給に深刻な影響を与える懸念が高まっている。",
+          "affected_sectors": [
+            "石油・ガス",
+            "航空",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の流量急減で世界の石油供給が「1970年代型」崩壊の危機",
+          "country": "世界",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争によりホルムズ海峡の交通量が急減、世界の石油供給が1970年代のような危機的状況に陥る可能性が指摘されている。",
+          "affected_sectors": [
+            "石油・ガス",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OPECプラス、生産枠引き上げへ－戦争下で象徴的対応",
+          "country": "OPEC+加盟国",
+          "category": "エネルギー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢による石油供給懸念を受け、OPEC+がオンライン会議で名目上の増産を承認する見通し。実効性には疑問符も。",
+          "affected_sectors": [
+            "石油・ガス",
+            "商品"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "セルビア軍、ハンガリーへの重要エネルギー動脈への破壊工作を阻止",
+          "country": "セルビア",
+          "category": "地政学リスク",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "セルビア治安部隊がハンガリーへの重要なエネルギーインフラに対する大規模な破壊工作を阻止した。",
+          "affected_sectors": [
+            "エネルギー",
+            "欧州経済"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油供給不安が世界経済を圧迫。市場はリスク回避姿勢。"
     }
   }
 ]
