@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争終結期待で世界株高騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ氏の発言を受け、イラン紛争終結への期待が高まり、米国・アジア市場で株価が急上昇、原油価格は下落。",
-          "affected_sectors": [
-            "Equities",
-            "Energy",
-            "Transportation",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国主要株価指数、イラン紛争終結期待で急騰",
-          "country": "USA",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争終結への期待感から、ダウ平均は1,100ポイント超の急騰を見せ、米国株式市場は大幅上昇。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Industrials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、イラン紛争終結期待で急落し100ドル割れ",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争終結の兆候により原油価格が乱高下し、一部報道では一時1バレル100ドルを下回った。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン紛争終結期待が市場を動かす。株価高騰、原油急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 17:00",
     "data": {
       "breaking_news": [
@@ -12273,6 +12219,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米FRB利下げ期待消滅、原油高でインフレ懸念再燃。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "OPECプラス、石油生産枠の理論的引き上げを承認予定",
+          "country": "Global",
+          "category": "Energy, Commodities, Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "OPEC+が石油生産枠の理論的引き上げを承認する見込み。中東情勢緊迫化による原油高に対し供給増の可能性。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、イランで2人目のパイロットを救出",
+          "country": "US, Iran",
+          "category": "Geopolitics, Defense",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イランでの作戦中に墜落した米軍機の2人目のパイロットが救出。中東情勢の緊張は継続。",
+          "affected_sectors": [
+            "Defense",
+            "Energy",
+            "Global Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、3月の雇用統計は予想を上回り堅調",
+          "country": "US",
+          "category": "Economy, Labor Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "3月の非農業部門雇用者数は17.8万人増、失業率4.3%に低下。FRBの利下げ期待に影響か。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円安進行と日本の長期金利、中東情勢と原油高が重荷",
+          "country": "Japan",
+          "category": "Currency, Fixed Income, Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢による原油高で円安が進行し、日本の長期金利は27年ぶり高水準。金融政策に注目。",
+          "affected_sectors": [
+            "Export-oriented companies",
+            "Import-oriented companies",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢緊迫化と原油高騰が市場を圧迫。各国金融政策に注目。"
     }
   }
 ]
