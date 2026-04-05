@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結期待で世界の株式市場が急騰、原油価格は下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待感から原油価格が下落し、世界の株式市場が大幅に上昇。リスク選好度が改善した。",
-          "affected_sectors": [
-            "Energy",
-            "Equities",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場が大幅高、ダウ平均1100ポイント超上昇",
-          "country": "US",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結期待を受け米国株式市場が大幅高。ダウ平均は1100ポイント超、S&P500は2.9%上昇。",
-          "affected_sectors": [
-            "Equities",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国で住宅ローン金利上昇、約520万世帯に影響の可能性とイングランド銀行が警告",
-          "country": "UK",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争が銀行の住宅ローン商品撤回や金利上昇を招き、520万世帯が支払増に直面する可能性。",
-          "affected_sectors": [
-            "Real Estate",
-            "Banking",
-            "Consumer Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カナダ財務大臣、米国保護主義の中、中国との貿易関係強化を目指し訪問",
-          "country": "Canada",
-          "category": "Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "カナダ財務大臣が中国を訪問し、米国保護主義政策に対抗するため、貿易関係強化と投資誘致を図る。",
-          "affected_sectors": [
-            "International Trade",
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "オラクルがAI投資を拡大する一方で数千人の人員削減を実施",
-          "country": "US",
-          "category": "Corporate News",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "オラクルがAI分野への支出を増やす中、数千人の従業員を削減。テクノロジー業界の再編を示唆。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "Cloud Computing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ユーロ圏2月の失業率がわずかに上昇、エネルギー価格高騰を前に",
-          "country": "Eurozone",
-          "category": "Economic Data",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の2月失業率がわずかに上昇。今後のエネルギー価格高騰が経済に与える影響が懸念される。",
-          "affected_sectors": [
-            "Labor Market",
-            "Consumer Discretionary"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結期待で市場がリスクオンに転換、株価上昇・原油安。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 22:00",
     "data": {
       "breaking_news": [
@@ -12334,6 +12242,45 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "進行中の戦争が世界の経済に影響、インフレ懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争激化で原油価格急騰、世界経済にインフレ圧力と成長懸念",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東イラン戦争長期化懸念で原油価格が急騰し、世界のエネルギー市場に負担をかけ、インフレと経済成長の鈍化懸念が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月雇用統計が予想を大幅に上回り、経済回復の力強さを示す",
+          "country": "United States",
+          "category": "Macroeconomics, Labor Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の3月雇用統計は予想を大幅に上回り、17.8万人の新規雇用と失業率4.3%を記録。力強い経済回復を示唆し、FRBの金融政策への期待が高まる。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化で原油高、世界経済にインフレ圧力と成長懸念。"
     }
   }
 ]
