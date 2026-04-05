@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争終結期待で世界株高・原油安",
-          "country": "GLOBAL",
-          "category": "Geopolitics, Equities, Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ氏発言で中東紛争終結期待高まり、米欧株価急騰。原油価格は急落。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英中銀、中東紛争による市場変動とAI評価への脅威を警告",
-          "country": "UK",
-          "category": "Financial Stability, Geopolitics, Technology",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英中銀は中東紛争が金融市場に「激しい変動」をもたらし、AI企業の評価にも脅威と警告。",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology (AI)",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本・豪州・中国製造業PMIが軟化、景気減速示唆",
-          "country": "Japan, Australia, China",
-          "category": "Macroeconomics, Manufacturing",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本・豪州・中国の製造業PMIが低下。豪州は景気収縮、エネルギー高騰がコスト押し上げ。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Industrials",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI、1220億ドル資金調達完了、IPO準備か",
-          "country": "USA",
-          "category": "Technology, Venture Capital",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが評価額8520億ドルで1220億ドル調達完了。2026年IPO準備と見られる。",
-          "affected_sectors": [
-            "Technology (AI)",
-            "Venture Capital"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東紛争終結への期待感から市場はリスクオンに転換、株価上昇と原油安が続く。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 00:00",
     "data": {
       "breaking_news": [
@@ -12226,6 +12161,125 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化で原油価格高騰、世界経済に悪影響の恐れ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油・金価格高騰",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の緊張が高まり、世界の原油価格は1バレル116ドル、金は1トロイオンス5,080ドルに向かい、エネルギー市場を不安定化させ安全資産への需要を高めている.",
+          "affected_sectors": [
+            "エネルギー",
+            "貴金属",
+            "グローバル経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国でイースター週末燃料危機迫る",
+          "country": "英国",
+          "category": "エネルギー, 小売, 国内経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "需要増加と中東情勢の緊張により、イースター週末に英国でガソリン・ディーゼル不足と価格高騰が見込まれ、消費者に影響.",
+          "affected_sectors": [
+            "エネルギー",
+            "小売",
+            "運輸",
+            "消費者"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "プライベートクレジットにストレス、Blue Owl Capitalが出金制限",
+          "country": "米国",
+          "category": "金融, クレジット市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Blue Owl Capitalは、出金要求の急増を受け、払い戻しを制限。流動性の低いプライベートクレジット市場での懸念が上昇.",
+          "affected_sectors": [
+            "金融",
+            "資産運用",
+            "プライベートエクイティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Microsoft、日本でAI分野に100億ドル投資",
+          "country": "日本",
+          "category": "テクノロジー, AI, 国際投資",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Microsoftは日本でAIとデータセンターの拡張に100億ドルを投資。AIへの大規模なテクノロジー投資が継続していることを示す.",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "データセンター"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "テスラ、第1四半期の納車台数が予測を下回る",
+          "country": "グローバル",
+          "category": "自動車, テクノロジー, 株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "テスラの第1四半期納車台数は358,023台で、前四半期から14%減少し予測を下回り、株価が急落.",
+          "affected_sectors": [
+            "自動車",
+            "電気自動車",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の30年住宅ローン借り換え金利がわずかに低下",
+          "country": "米国",
+          "category": "不動産, 金利, 消費者金融",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国の30年固定型住宅ローン借り換え金利が5ベーシスポイント低下し6.80%に。わずかな緩和だが需要は大幅に軟化している.",
+          "affected_sectors": [
+            "不動産",
+            "銀行",
+            "消費者金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧州各国、エネルギー企業への超過利潤課税を要請",
+          "country": "欧州",
+          "category": "エネルギー, 政府政策, 課税",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧州5カ国が、イラン戦争による原油価格高騰を理由に、エネルギー企業への協調的な超過利潤課税を正式に要請.",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Kyndryl、株価暴落前の財務状況隠蔽疑惑で集団訴訟",
+          "country": "米国",
+          "category": "法務, 株式",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Kyndryl Holdingsは、株価暴落前の真の財務状況を隠蔽したとして、拡大された集団訴訟に直面.",
+          "affected_sectors": [
+            "テクノロジー (ITサービス)",
+            "法務"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化により原油・金価格高騰、市場はリスク回避ムード。"
     }
   }
 ]
