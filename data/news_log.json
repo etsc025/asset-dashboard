@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結への期待が世界市場を押し上げ、原油価格は下落",
-          "country": "Global",
-          "category": "地政学, 市場センチメント, コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待が高まり、世界的な株式市場が急騰し、原油価格は大幅に下落。トランプ大統領の発言が影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "金融",
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "オラクル、AIインフラ投資のため数千人規模の雇用削減計画を発表し株価上昇",
-          "country": "米国",
-          "category": "企業戦略, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "オラクルはAIデータセンター投資のため数千人規模の雇用削減計画を発表し、株価が上昇。コスト削減でAI投資を加速。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イーライ・リリーのGLP-1経口減量薬が米FDAの承認を取得",
-          "country": "米国",
-          "category": "医薬品, ヘルスケア",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米FDAがイーライ・リリーのGLP-1経口減量薬を承認。ノボノルディスクの競合薬に続き、株価は上昇し市場が注目。",
-          "affected_sectors": [
-            "医薬品",
-            "バイオテクノロジー",
-            "ヘルスケア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナイキ、低調な財務予測が嫌気され株価が急落",
-          "country": "米国",
-          "category": "企業業績, 小売",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ナイキは予想を上回る四半期利益にもかかわらず、低調な財務予測により株価が急落。投資家心理に悪影響。",
-          "affected_sectors": [
-            "小売",
-            "アパレル",
-            "一般消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結への期待が世界市場を押し上げ原油価格下落"
-    }
-  },
-  {
     "timestamp": "2026-04-02 02:30",
     "data": {
       "breaking_news": [
@@ -12205,6 +12140,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化、原油高で市場はリスク回避ムード継続"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢の緊迫化、原油価格高騰が続く",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領の軍事行動示唆とホルムズ海峡の安全保障を巡る懸念が続き、WTI原油価格は1バレル112ドル台に高騰。市場は地政学的リスクを警戒。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計、非農業部門雇用者数が大幅増も賃金伸びは鈍化",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の非農業部門雇用者数は17.8万人増と予想を大幅に上回ったが、平均時給の伸びは0.2%に鈍化。FRBの利上げペースへの影響が注目される。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ユーロ圏3月インフレ率、エネルギー高で2.5%に上昇",
+          "country": "Eurozone",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の3月インフレ率は前月1.9%から2.5%へ上昇し、2025年1月以来の高水準。エネルギー価格の急騰が主な要因。ECBの金融政策に影響か。",
+          "affected_sectors": [
+            "Consumer Staples",
+            "Utilities",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化とそれに伴う原油価格の高騰が、週明けの世界市場に大きな影響を与える見込み。"
     }
   }
 ]
