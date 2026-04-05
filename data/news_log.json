@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株市場は原油価格上昇を受け続落、不安定な市場が続く",
-          "country": "米国",
-          "category": "市場変動",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米株式市場は原油価格上昇を受け軟調に推移し、中東情勢の緊迫化による不確実性が高まっています。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場はイラン戦争の懸念と原油価格の変動で下落",
-          "country": "アジア太平洋",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "本日、イラン戦争と原油価格の変動を受け、アジア太平洋地域の市場は概ね下落しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏3月インフレ率がエネルギー価格高騰により2.5%に急上昇",
-          "country": "ユーロ圏",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月のユーロ圏年間インフレ率は2.5%に急上昇。中東紛争によるエネルギー価格高騰が主な要因です。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FTSE 100は四半期上昇も、他の主要欧州指数は下落",
-          "country": "欧州",
-          "category": "市場変動",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FTSE 100は四半期を上昇で終えましたが、CAC 40やDAXなどの主要欧州指数は下落しました。",
-          "affected_sectors": [
-            "金融",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "2026年の米国大豆作付け面積増加予想、農業セクターに影響",
-          "country": "米国",
-          "category": "商品",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "2026年の米国農家は大豆作付け面積の増加を予想しており、農業セクターに影響を与える可能性があります。",
-          "affected_sectors": [
-            "農業",
-            "商品"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争と原油高騰が世界市場に深刻な不確実性をもたらしています。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 05:00",
     "data": {
       "breaking_news": [
@@ -12502,6 +12424,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イスラエルがイランのエネルギー施設攻撃検討、原油高騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油価格高騰とイスラエルによるイラン攻撃準備報道",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での緊張が継続し、原油価格が上昇。イスラエルがイランのエネルギー施設への攻撃を準備していると報じられ、市場は警戒感を強めている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計、予想を上回るも賃金上昇鈍化",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "MIXED",
+          "summary": "米国の3月雇用者数は17.8万人増で予想を大幅に上回り失業率も低下。しかし、賃金上昇の勢いは鈍化しており、FRBの金融政策に影響を与える可能性。",
+          "affected_sectors": [
+            "全セクター",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2月国際貿易赤字が拡大",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国2月の国際貿易赤字は573億ドルに拡大。輸入が輸出の増加を上回り、ドルの重しとなる可能性があり貿易政策への影響も注視される。",
+          "affected_sectors": [
+            "製造業",
+            "小売",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東の地政学的緊張と原油価格高騰が市場の主要懸念。"
     }
   }
 ]
