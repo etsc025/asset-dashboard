@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、中東情勢の緊張緩和期待で急騰",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊張緩和への期待から投資家心理が改善し、ウォール街は大幅高で引けた。主要指数は著しく上昇した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "一般消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏3月消費者物価指数、2.5%に上昇しECB目標超え",
-          "country": "ユーロ圏",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東紛争によるエネルギー価格高騰を受け、ユーロ圏の3月年間インフレ率は2.5%に達し、ECBの2%目標を上回った。",
-          "affected_sectors": [
-            "消費者関連",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国2月求人件数、予想を下回り減少",
-          "country": "米国",
-          "category": "労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "2月の米求人件数は35.8万件減の688.2万件で、市場予想を下回った。宿泊・飲食サービス、鉱業・伐採で減少。",
-          "affected_sectors": [
-            "サービス業",
-            "鉱業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金価格、戦争懸念緩和で反発し4,650ドル付近へ",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東での軍事作戦縮小の報道を受け、リスクセンチメントが改善。金は火曜日に2週間ぶりの高値に上昇した。",
-          "affected_sectors": [
-            "貴金属",
-            "投資ファンド"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢の緊張緩和期待が市場を押し上げ、米国株は急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 06:00",
     "data": {
       "breaking_news": [
@@ -12394,6 +12332,54 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化に厳重な警戒。原油価格とリスク資産への影響に注意。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランに対し「48時間以内に合意がなければ地獄が降り注ぐ」と警告",
+          "country": "米国/中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイランに対し48時間以内の合意なければ「地獄が降り注ぐ」と警告。原油急騰し市場にリスクオフ圧力。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU5カ国がエネルギー企業への超過利潤税を提案",
+          "country": "EU (欧州連合)",
+          "category": "財政政策/エネルギー規制",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "欧州連合の5カ国が、エネルギー企業に対する超過利潤税の導入を検討していると報じられた。エネルギー株に売り圧力。",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計が予想上振れ、高金利長期化懸念で米株先物下落",
+          "country": "米国",
+          "category": "経済指標/金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の3月雇用統計は市場予想を大きく上回る強い結果。FRBの利上げ長期化観測から米株先物が小幅下落。",
+          "affected_sectors": [
+            "全セクター",
+            "特に金利敏感株"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ大統領のイラン強硬発言とEUの超過利潤税提案で市場の不確実性高まる。"
     }
   }
 ]
