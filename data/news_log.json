@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株急騰、イラン紛争終結期待でS&P500が2.9%高",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランとの紛争終結への期待感から、米国株式市場は大幅に上昇。S&P500は2.9%高、ダウは1100ポイント以上の上昇を記録。アジア市場も連れ高。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が1バレル100ドルを下回る、トランプ大統領のイラン紛争終結発言受け",
-          "country": "グローバル",
-          "category": "商品市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がイラン紛争の2～3週間内終結を示唆したことで、ブレント原油価格が急落し、1バレル100ドルを割り込んだ。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国製造業PMIが3月に4年ぶりの高水準、チップ需要が牽引",
-          "country": "韓国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "韓国の3月製造業購買担当者景気指数（PMI）が、チップ需要に支えられ4年以上ぶりの高水準を記録し、経済回復の兆しを示す。",
-          "affected_sectors": [
-            "半導体",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国Laplace Renewable Energy、テスラからの受注報道でストップ高",
-          "country": "中国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "中国のLaplace Renewable Energy株が、テスラからの受注に関する現地報道を受け、日中取引で20%のストップ高に達した。",
-          "affected_sectors": [
-            "再生可能エネルギー",
-            "自動車",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "TSMC、2028年より日本で3nmチップ生産計画を発表",
-          "country": "日本",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "TSMCは2028年から日本の第2工場で先進的な3ナノメートルチップの生産を開始する計画を明らかにした。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン紛争終結期待で世界的に株価が急騰、原油価格は急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 19:00",
     "data": {
       "breaking_news": [
@@ -12269,6 +12190,127 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油価格高騰、OPEC会合に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン間の地政学的緊張激化と原油価格高騰",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの緊張激化で原油価格が$110超え。英国では燃料危機が発生し、中央銀行はインフレ加速を懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AI・ハイテク株からバリュー・小型株への市場ローテーション",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "AI株の上昇が停止し、投資家はバリュー株や小型株へ資金をシフト。S&P500でセクターローテーションが進行中。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "金融",
+            "エネルギー",
+            "産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国プライベートクレジット市場のストレスと住宅ローン金利上昇",
+          "country": "米国",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国プライベートクレジット市場で解約制限の動き。10年債利回り上昇で住宅ローン金利が5週連続で上昇。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドIT大手Infosysの株価が上昇",
+          "country": "インド",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "インドのITサービス大手Infosys社の株価が本日1.97%上昇し、1300.80ルピーで取引されている。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ITサービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "金価格が地政学的不確実性の中で反発",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "地政学的な緊張を背景に、金価格は安値から反発し週間の上昇を記録。安全資産としての需要が高まる。",
+          "affected_sectors": [
+            "貴金属",
+            "投資"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPX、仮想通貨保有比率の高い企業をTOPIX新規追加から除外",
+          "country": "日本",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "JPXが総資産の50%超を仮想通貨で保有する企業をTOPIX新規追加から除外する方針を発表した。",
+          "affected_sectors": [
+            "仮想通貨",
+            "金融",
+            "投資サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ソラナDEXで大規模ハッキング、メタプラネットがBTC追加購入",
+          "country": "グローバル",
+          "category": "仮想通貨",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ソラナDEXドリフトで約456億円の大規模ハッキング発生。一方、日本のメタプラネットは5,075BTCを追加購入。",
+          "affected_sectors": [
+            "仮想通貨",
+            "ブロックチェーン",
+            "サイバーセキュリティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NZドル/円見通し：RBNZ利上げ期待再燃、イラン情勢影響",
+          "country": "ニュージーランド",
+          "category": "外国為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン戦争でNZインフレ懸念が高まり、RBNZの早期利上げ期待が再燃。NZドル/円は変動が予想される。",
+          "affected_sectors": [
+            "外国為替",
+            "銀行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米・イラン間の地政学的緊張激化で原油高と市場の不確実性が増大"
     }
   }
 ]
