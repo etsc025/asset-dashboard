@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和期待で世界株式大幅反発、原油下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの戦闘終結観測が高まり、世界の株式市場が大幅反発。日経平均は今年最大の上げ幅。原油価格は100ドルを下回った。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Energy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英中銀、イラン戦争による「供給ショック」と金融システム脆弱性を警告",
-          "country": "UK",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英中銀はイラン戦争が世界経済に「深刻な供給ショック」を与え、金融システムの脆弱性を指摘。国債市場やリスク資産の評価を注視。",
-          "affected_sectors": [
-            "Financials",
-            "Global Economy",
-            "Government Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均、中東情勢緩和期待で大幅反発し今年最大の上げ幅を記録",
-          "country": "Japan",
-          "category": "Equity Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊張緩和観測により、日経平均株価は今年最大の上げ幅を記録し大幅反発。海外勢の買い戻しが主導した。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Technology",
-            "Industrial"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で世界的に株高、原油安。市場はリスクオンへ転換。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 20:00",
     "data": {
       "breaking_news": [
@@ -12325,6 +12274,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、石油施設攻撃と米軍機撃墜でリスクオフ拡大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "OPECプラス、5月増産を議論 海峡封鎖の緩和に備え",
+          "country": "Global",
+          "category": "Commodity Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "OPECプラスが5月増産を議論し、海峡封鎖緩和に備える。原油供給増加の可能性があり、エネルギー市場に影響。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ロシア ウクライナに軍事侵攻(4月5日の動き)",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "ロシアによるウクライナ侵攻の動向が報じられた。地政学的リスクが継続しており、関連市場を要注視。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Agriculture",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "2月の外食市場規模は2カ月連続で前年下回る、関西圏と東海圏が大幅減",
+          "country": "Japan",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本の2月外食市場は2ヶ月連続で前年比下回る。関西・東海圏で大幅減。消費低迷を示唆し、飲食・小売セクターに逆風。",
+          "affected_sectors": [
+            "Restaurants",
+            "Retail",
+            "Tourism"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "地政学リスク継続、エネルギー市場への影響に警戒。"
     }
   }
 ]
