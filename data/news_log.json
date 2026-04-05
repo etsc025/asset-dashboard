@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争終結への期待で原油価格下落、株式市場が急騰",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争終結への期待感から、原油価格が下落。米国およびアジアの株式市場は大幅に上昇し、一時的なリスクオンムードに。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAIが1220億ドルの資金調達を完了、AIブーム継続を示す",
-          "country": "Global",
-          "category": "Technology, Venture Capital",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ChatGPTの親会社であるOpenAIが1220億ドルの資金調達を完了し、AI分野への継続的な高い投資意欲を示唆。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "AI Development",
-            "Venture Capital"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国、生活費危機と高インフレ懸念が継続、経済下押し圧力",
-          "country": "United Kingdom",
-          "category": "Economy, Inflation",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国では、高騰するエネルギー価格と食料インフレにより生活費危機が深刻化。家計と企業に負担、経済成長への逆風となる見込み。",
-          "affected_sectors": [
-            "Retail",
-            "Hospitality",
-            "Utilities",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国消費者信頼感、3月に2026年最低水準へ下落",
-          "country": "United States",
-          "category": "Economy, Consumer Sentiment",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者信頼感指数が予想外に悪化し、年初来最低水準に。今後の消費支出の先行きに対する懸念が高まる。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で市場一時リスクオン。インフレと景気減速リスクは残存。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 20:30",
     "data": {
       "breaking_news": [
@@ -12326,6 +12258,82 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "地政学リスク継続、エネルギー市場への影響に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米3月雇用統計が予想上振れ、市場に楽観論も金利上昇懸念",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米労働省が発表した3月雇用統計は市場予想を大幅に上回り、経済回復の勢いを示唆。",
+          "affected_sectors": [
+            "全セクター",
+            "金融",
+            "消費裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争の経済的影響拡大、原油高騰がAI産業を圧迫",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争によるエネルギーコスト上昇がAI産業の経済性を脅かし、景気悪化懸念が増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "テクノロジー",
+            "輸送",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の金融犯罪が4.4兆ドルに達、Nasdaqが警戒報告",
+          "country": "グローバル",
+          "category": "金融規制",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Nasdaqの2026年レポートによると、世界の金融犯罪額が4.4兆ドルに到達。",
+          "affected_sectors": [
+            "金融サービス",
+            "サイバーセキュリティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米先物市場、グッドフライデーで小幅下落 – 雇用統計後",
+          "country": "米国",
+          "category": "市場動向",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "好調な3月雇用統計にもかかわらず、グッドフライデーで米先物が小幅下落し、市場は慎重。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Lucid、第1四半期の生産・納入実績を発表",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "電気自動車メーカーLucidが第1四半期の生産台数と納車台数を発表。",
+          "affected_sectors": [
+            "自動車",
+            "電気自動車"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢と米雇用統計が市場に複合的な影響。"
     }
   }
 ]
