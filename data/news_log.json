@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争終結への期待高まり、世界株価が大幅上昇",
-          "country": "Global",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米大統領のイラン戦争早期終結発言を受け、原油価格が下落し、世界中の株式市場でリスクオンムードが広がり株価が上昇中。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Goldman Sachs、利上げの可能性は「はるかに低い」",
-          "country": "US",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Goldman Sachsが、現在の市場環境と地政学的要因を考慮し、米連邦準備制度による今後の利上げの可能性は低いとの見方を示した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "不動産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "SpaceX、株式市場への上場を秘密裏に申請",
-          "country": "US",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イーロン・マスク氏率いる宇宙開発企業SpaceXが、株式公開に向けた申請を秘密裏に行ったと報じられ、市場の注目を集めている。",
-          "affected_sectors": [
-            "航空宇宙",
-            "テクノロジー",
-            "プライベートエクイティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oracle、AI投資強化のため数千人規模を削減",
-          "country": "US",
-          "category": "企業戦略",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OracleがAI関連事業への投資を拡大する戦略の一環として、数千人の従業員を解雇。テクノロジー業界の構造変化を示唆する動き。",
-          "affected_sectors": [
-            "ソフトウェア",
-            "クラウドコンピューティング",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン紛争終結期待で世界株高、原油価格下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 04:00",
     "data": {
       "breaking_news": [
@@ -12151,6 +12086,109 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Hormuz closure sparks energy crisis, recession fears."
+    }
+  },
+  {
+    "timestamp": "2026-04-06 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF Warns Tokenized Markets Could Accelerate Financial Crises",
+          "country": "Global",
+          "category": "Financial Regulation",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、トークン化された市場が金融危機を加速させる可能性があり、政策適応を促すと警告。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology",
+            "Blockchain"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Kyndryl Faces Class Action Over Alleged Concealed Financials",
+          "country": "United States",
+          "category": "Corporate",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Kyndrylは、不正なキャッシュフロー報告で集団訴訟に直面、株価は55%急落。",
+          "affected_sectors": [
+            "Technology Services",
+            "Investment"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Financial Crime Hits $4.4 Trillion",
+          "country": "Global",
+          "category": "Financial Crime",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Nasdaq Verafinの報告によると、世界の金融犯罪は現在4.4兆ドルを超過。",
+          "affected_sectors": [
+            "Financial Services",
+            "Cybersecurity"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Geopolitics Overtakes Economics in Global Trade",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "地政学的緊張が世界の貿易フローの主要な推進力となり、ビジネスリスク増大。",
+          "affected_sectors": [
+            "Trade",
+            "Logistics",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "International Stocks Outperform Growth, Offering Yield",
+          "country": "Global",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "国際株はグロース株を上回り、軟調なドル恩恵で高利回りを提供。",
+          "affected_sectors": [
+            "Investment",
+            "Asset Management"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Iran War May Threaten AI Boom Due to Energy Costs",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争によるエネルギーコスト上昇が、AIブームの脆弱な経済を脅かす可能性。",
+          "affected_sectors": [
+            "AI",
+            "Energy",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Nepal Central Bank Absorbs Rs 40B Liquidity",
+          "country": "Nepal",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ネパール中央銀行は、銀行システムの過剰流動性管理のため400億ルピーを吸収。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "IMFがトークン化市場の金融危機加速を警告、各国対応急務。"
     }
   }
 ]
