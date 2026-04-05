@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株大幅続伸、中東情勢の緊張緩和への期待で",
-          "country": "米国",
-          "category": "株式市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東の緊張緩和への期待が高まり、米国株式市場が大幅に続伸。ダウは一時1125ドル高、ナスダックも約4％高となった。",
-          "affected_sectors": [
-            "株式全般",
-            "テクノロジー",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、中東情勢の緊張緩和期待で失速も不安定な動き",
-          "country": "グローバル",
-          "category": "商品市場, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の緊張緩和期待で原油価格は上昇を失速。しかし、ホルムズ海峡の混乱が続き不安定な動きが続く。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル下落、「有事の買い」一服",
-          "country": "グローバル",
-          "category": "外国為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊張緩和への期待から、安全資産としてのドルの買いが一服し、ドルは主要通貨に対して下落した。",
-          "affected_sectors": [
-            "外国為替市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で米株大幅高、ドルは下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 08:30",
     "data": {
       "breaking_news": [
@@ -12499,6 +12450,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢緊迫、原油高とインフレ再燃警戒。主要指標に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、同盟国がイラン紛争に不参加でNATOの将来に疑問",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイラン紛争への同盟国の不参加を理由にNATOの将来に疑問を呈し、地政学的リスクが高まる。",
+          "affected_sectors": [
+            "防衛",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の流量急減で世界の石油供給が「1970年代型」崩壊の危機",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡の流量が急減し、世界の石油供給が1970年代型の崩壊に直面するとの懸念。原油価格高騰のリスク。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争と円安がインフレリスクを高める中、日銀の段階的利上げを支持",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFは、イラン戦争と円安によるインフレリスクを受け、日銀の段階的な利上げを支持。金融政策の行方に注目。",
+          "affected_sectors": [
+            "金融",
+            "為替",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏のホルムズ海峡開放軍事計画は「不可能な任務」と同盟国が警告",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ氏のホルムズ海峡開放軍事計画が同盟国から「不可能な任務」と警告され、中東情勢の緊張が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米軍F-15戦闘機がイラン上空で撃墜、乗組員の捜索活動が進行中",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍F-15戦闘機がイラン上空で撃墜され、乗組員捜索中。中東での軍事衝突が激化し、市場に懸念を広げる。",
+          "affected_sectors": [
+            "防衛",
+            "エネルギー",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、ホルムズ海峡リスクと米軍機撃墜"
     }
   }
 ]
