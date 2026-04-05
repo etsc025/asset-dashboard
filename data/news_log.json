@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米トランプ氏のイラン戦争早期撤退発言で世界株が急騰",
-          "country": "Global",
-          "category": "Geopolitics, Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領がイラン戦争からの早期撤退を示唆したことで、世界株式市場は大幅に上昇し、原油価格は100ドルを下回った。",
-          "affected_sectors": [
-            "Global Equities",
-            "Energy",
-            "Financials",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株が急騰、原油価格は100ドル割れ - トランプ氏のイラン発言受け",
-          "country": "Europe",
-          "category": "Market Performance, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領のイラン戦争終結示唆を受け、欧州株式市場が急騰し、パンヨーロピアンStoxx 600が2.3%上昇、原油は100ドルを下回った。",
-          "affected_sectors": [
-            "European Equities",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イランが米国との交渉を否定、原油価格が上昇し緊張緩和期待が後退",
-          "country": "Global",
-          "category": "Geopolitics, Commodity Market",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イランが米国との和平交渉を否定したことで、中東情勢の緊張緩和への期待が後退し、原油価格が再び上昇。市場に不確実性再燃。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン情勢に動揺。終結期待と交渉否定が市場を揺らす。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 17:30",
     "data": {
       "breaking_news": [
@@ -12283,6 +12233,43 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢緊迫化と原油高騰が市場を圧迫。各国金融政策に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争による高騰するエネルギー費用がAIブームの脆弱な経済を脅かす可能性。",
+          "country": "グローバル",
+          "category": "エネルギー, テクノロジー, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争による高騰するエネルギー費用がAI産業の経済的健全性を脅かし、広範な市場への影響を示唆しています。",
+          "affected_sectors": [
+            "エネルギー",
+            "テクノロジー",
+            "人工知能"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東紛争による市場の変動がエネルギー取引業者に多大な損失をもたらす。",
+          "country": "グローバル",
+          "category": "金融市場, エネルギー, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争に起因する市場の変動性がエネルギー取引業者に多大な損失を与え、高リスク環境を示しています。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "トレーディング"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争がAI経済とエネルギー市場を不安定化、警戒。"
     }
   }
 ]
