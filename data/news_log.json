@@ -1,66 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株が急騰、イラン戦争終結への期待高まる",
-          "country": "アメリカ",
-          "category": "地政学, 市場動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待から米国株式市場が大幅上昇し、ダウ平均は1,100ポイント超の急騰を記録。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争終結期待でアジア株が続伸",
-          "country": "アジア",
-          "category": "地政学, 市場動向",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウォール街の好調を受け、イラン情勢の沈静化期待からアジア株式市場が急伸した。",
-          "affected_sectors": [
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OracleがAI投資加速で数千人規模のレイオフ実施か",
-          "country": "アメリカ",
-          "category": "企業ニュース, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OracleはAIインフラ投資に伴う組織再編の一環として、数千人規模のレイオフを進めている模様。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国ホスピタリティ産業、雇用削減と事業閉鎖の危機に直面",
-          "country": "英国",
-          "category": "経済指標, 産業動向",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "調査によると、英国ホスピタリティ企業の3分の2が雇用削減を計画し、7社に1社が閉鎖を検討。",
-          "affected_sectors": [
-            "ホスピタリティ",
-            "飲食"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン紛争沈静化期待で世界株高、原油価格は注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 14:00",
     "data": {
       "breaking_news": [
@@ -12302,6 +12241,45 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油急騰と市場ボラティリティに警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil Prices Surge Amid Escalating Iran-US Tensions and Potential Israeli Strikes on Energy Facilities",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Iran-US tensions escalate; oil surges past $116. Israel eyes strikes on Iran energy. Global energy crisis deepens.",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US March Jobs Report Exceeds Expectations While Wage Growth Slows",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US March jobs strong (178K added), unemployment 4.3%, but wage growth slowed (0.2%). Treasury yields rose on data.",
+          "affected_sectors": [
+            "Financials",
+            "Consumer Discretionary",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Iran tensions escalate, boosting oil and market risk."
     }
   }
 ]
