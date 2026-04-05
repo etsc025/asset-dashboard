@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン戦争終結期待で大幅高",
-          "country": "米国",
-          "category": "地政学、株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待感から米国主要株価指数が大幅上昇し、市場心理が改善。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "WTI原油、イラン停戦期待で反落",
-          "country": "グローバル",
-          "category": "商品市場、地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦期待が高まり、WTI原油価格が5営業日ぶりに下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "化学"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド、2026年財務法を通知し新税制施行",
-          "country": "インド",
-          "category": "財政政策、規制変更",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "2026年財務法が施行され、新税制、ATM規則変更など広範な金融規制が発効。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス",
-            "小売",
-            "個人消費",
-            "法人"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナイジェリア、天然ガス価格を値上げ",
-          "country": "ナイジェリア",
-          "category": "エネルギー政策、インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ナイジェリア政府が国内天然ガス価格を値上げ、消費者と企業に新たな経済的圧力を。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "公益事業",
-            "家計"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "暗号資産ファンド、地政学とFRB影響で資金流出",
-          "country": "グローバル",
-          "category": "暗号資産、地政学、金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "地政学的緊張とFRBの影響により、暗号資産ファンドから4億1400万ドルが流出。",
-          "affected_sectors": [
-            "暗号資産",
-            "フィンテック"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結期待で米国株が急騰、原油価格は反落。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 10:30",
     "data": {
       "breaking_news": [
@@ -12483,6 +12402,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン戦争終結期待が世界株式市場を押し上げ、リスクオンムード。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil Surges Above $110/bbl Amid Iran War Escalation and Supply Chain Fears",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の地政学的緊張が高まり、原油価格が1バレル110ドルを超え、インフレ懸念と世界のサプライチェーンに混乱をもたらしている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US March Jobs Report Exceeds Expectations with 178K New Jobs, Unemployment Dips to 4.3%",
+          "country": "United States",
+          "category": "Economic Data, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は178,000人の新規雇用を創出し、予想を上回った。失業率は4.3%に低下し、堅調な労働市場を示唆している。",
+          "affected_sectors": [
+            "Financials",
+            "Consumer Cyclical",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bank of England Warns Global Current Account Imbalances Nearing 150-Year Highs",
+          "country": "Global",
+          "category": "Macroeconomics, International Trade",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "世界的な経常収支の不均衡が過去150年で最高水準に近づいているとイングランド銀行が警告。過去には経済的混乱の前兆だった。",
+          "affected_sectors": [
+            "Global Trade",
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化で原油価格110ドル超え、市場に不確実性増大。"
     }
   }
 ]
