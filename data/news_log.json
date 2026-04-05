@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "インド株式市場が大幅上昇、GST徴収額が過去最高を記録",
-          "country": "インド",
-          "category": "経済データ, 財政政策, 市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "インド株式市場は2.5%上昇し、3月のGST徴収額が2兆ルピーに達し過去最高を記録。SEZ産品関税も引き下げられた。",
-          "affected_sectors": [
-            "株式市場",
-            "航空",
-            "製造業",
-            "防衛",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争終結への期待と原油価格緩和で米国株先物が反発",
-          "country": "米国, グローバル",
-          "category": "地政学, エネルギー市場, 市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待と原油価格の下落を受け、米国株先物が上昇。主要指数は好調な一日となった。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争継続が原油ショックを引き起こし、世界市場に影響",
-          "country": "グローバル",
-          "category": "地政学, エネルギー市場, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が継続し、前例のない原油ショックを引き起こし、世界の株式市場で約14兆ドルの損失を招いた。",
-          "affected_sectors": [
-            "エネルギー",
-            "グローバル株式市場",
-            "債券市場",
-            "新興市場",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AirwallexがマレーシアでEマネーおよびクラスAライセンスを取得",
-          "country": "マレーシア",
-          "category": "フィンテック, 規制",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Airwallexがマレーシア中央銀行からEマネー発行およびクラスAライセンスの承認を受け、同国での金融サービスを拡大する。",
-          "affected_sectors": [
-            "フィンテック",
-            "決済",
-            "銀行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン戦争終結への期待と原油価格変動が市場を動かす。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 18:00",
     "data": {
       "breaking_news": [
@@ -12270,6 +12201,74 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争がAI経済とエネルギー市場を不安定化、警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争による高騰でAI産業の経済が脅かされる可能性",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の激化による原油価格上昇がAI産業のコスト増と成長阻害を招き、経済全体に影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "テクノロジー",
+            "AI",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国でイースターにガソリン不足、ディーゼル不足も警告",
+          "country": "イギリス",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イースター期間中、英国でガソリンが不足し、数週間以内にディーゼル不足も発生する恐れがあり、物流・小売に悪影響。",
+          "affected_sectors": [
+            "小売",
+            "運輸",
+            "物流",
+            "自動車"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国市場は慎重なトーンで週を終える、金利と原油価格が上昇",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国市場は原油高と金利上昇を受け週末を警戒感を持って終え、S&P 500、Nasdaq、Dow Jonesはまちまちの動き。",
+          "affected_sectors": [
+            "全セクター",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マイクロソフトが日本で100億ドルのAI投資を発表",
+          "country": "日本",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "マイクロソフトが日本に100億ドルを投資し、データセンターとAI能力を拡大。大手テクノロジー企業のAI投資継続を示す。",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI",
+            "クラウドコンピューティング",
+            "半導体"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化で原油高、金利上昇、市場はリスク回避モードに。"
     }
   }
 ]
