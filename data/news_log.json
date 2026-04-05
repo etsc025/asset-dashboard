@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化と原油高、市場は和平期待で一時反発",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の緊迫化で原油価格は高止まり。しかし和平への期待から一部市場で株価が一時的に反発、状況は不安定。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国2月求人件数、2020年以来の低水準に減少",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国2月の求人件数が減少し、採用率は2020年以来の最低水準。労働市場の減速は金融政策に影響を与える可能性。",
-          "affected_sectors": [
-            "Staffing",
-            "Retail",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国製造業PMI、中東情勢をよそに活動拡大に転じる",
-          "country": "China",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の製造業活動が中東情勢の混乱にもかかわらず成長を回復。世界経済の回復を示すポジティブな兆候。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Industrials",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京株式市場、日経平均が2000円超の大幅高",
-          "country": "Japan",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "東京株式市場で日経平均株価が2000円超上昇。中東紛争終結への期待が市場の好転に寄与した模様。",
-          "affected_sectors": [
-            "Technology",
-            "Automotives",
-            "Export"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢と原油価格が市場の最重要焦点。株価動向も注視が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 16:30",
     "data": {
       "breaking_news": [
@@ -12275,6 +12209,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化、原油価格高騰による世界経済へのインフレ圧力に警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米FRB、2026年利下げを市場が完全に織り込み済みの中、政策金利据え置き見通し",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "市場は2026年の米FRBによる利下げを完全に織り込み済みとなり、政策金利は据え置かれる見通し。利上げの可能性も浮上。",
+          "affected_sectors": [
+            "債券",
+            "株式市場全般",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米軍機、イラン救出任務中に自国機を破壊。2人目のパイロット救出",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランでの救出任務中に米軍機が自国機を破壊。中東情勢の緊迫化と原油価格高止まりの懸念が続く。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空宇宙・防衛",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "プレミアリーグのクラブ、ギャンブル禁止により8000万ポンドのシャツスポンサー収入損失に直面",
+          "country": "英国",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国のギャンブル広告禁止により、プレミアリーグのクラブは8000万ポンドのシャツスポンサー収入を失う可能性。",
+          "affected_sectors": [
+            "スポーツエンターテイメント",
+            "広告",
+            "消費者裁量"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EV市場の大きな変化：第1四半期の納車台数が市場の変化を示す",
+          "country": "グローバル/米国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "第1四半期のEV納車台数が市場の期待を下回り、EV市場の競争激化や需要の変化を示唆。",
+          "affected_sectors": [
+            "自動車",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米FRB利下げ期待消滅、原油高でインフレ懸念再燃。"
     }
   }
 ]
