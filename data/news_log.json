@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン紛争終結期待で急騰",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争終結への期待感から、NYダウは1100ドル超、S&P 500は2.9%上昇し、ナスダックも急反発した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "資本財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国ウォン、中東情勢悪化で17年ぶり安値",
-          "country": "韓国",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化への懸念から、韓国ウォンが対米ドルで急落し、17年ぶりの安値水準を記録。",
-          "affected_sectors": [
-            "輸出企業",
-            "輸入企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナイキ株下落、業績見通しが予想を下回る",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ナイキが軟調な業績ガイダンスを発表し、株価が9%下落。業績回復にはばらつきが見られる。",
-          "affected_sectors": [
-            "アパレル",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "オラクル、AI強化の再編で人員削減に着手か",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "オラクルがAIインフラ投資に伴うworkforce再編のため、数千人規模の人員削減を進めていると報じられた。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ブラジル、WTOデジタル貿易無関税協定の更新を阻止",
-          "country": "ブラジル",
-          "category": "貿易政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ブラジルが世界貿易機関（WTO）における電子商取引の無関税協定の更新を阻止した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "電子商取引"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米大統領のイラン戦争終結示唆で世界市場に安心感、株価急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 12:30",
     "data": {
       "breaking_news": [
@@ -12387,6 +12312,28 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油高が市場に不確実性をもたらす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン大統領、安全保障の保証があれば紛争終結に前向きと表明、米国株が急騰",
+          "country": "米国, イラン",
+          "category": "地政学, 市場反応",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン大統領が安全保障の保証があれば紛争終結に意欲を示し、ダウ平均が1,000ポイント以上、ナスダックが3.4%上昇するなど米国株が急騰した。",
+          "affected_sectors": [
+            "株式市場全般",
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン紛争終結期待で米国株急騰、原油価格に下落圧力。"
     }
   }
 ]
