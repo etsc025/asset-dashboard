@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和期待で世界的に株価が急上昇",
-          "country": "グローバル",
-          "category": "地政学、市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領の発言などからイラン戦争終結への期待が高まり、米国、欧州、アジアの主要株価指数が大幅に上昇した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "産業",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "メキシコ中央銀行が予想外の利下げを実施",
-          "country": "メキシコ",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "メキシコ中銀は市場予想に反し、政策金利を0.25%引き下げ6.75%とした。中東情勢の混乱やインフレ懸念続く中での決定。",
-          "affected_sectors": [
-            "銀行",
-            "債券",
-            "外国為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀短観、大企業業況判断が改善",
-          "country": "日本",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "2026年第1四半期の日銀短観では、大企業製造業・非製造業の業況判断が予想を上回り改善を示した。",
-          "affected_sectors": [
-            "製造業",
-            "サービス業",
-            "一般経済"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で世界的に株価が急上昇、市場はリスクオンモードへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 18:30",
     "data": {
       "breaking_news": [
@@ -12269,6 +12217,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争激化で原油高、金利上昇、市場はリスク回避モードに。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "OPEC-JMMC 会合が開催中、世界の原油市場動向に注目",
+          "country": "グローバル",
+          "category": "エネルギー政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "石油輸出国機構（OPEC）と非加盟産油国（JMMC）による会合が開催中。原油市場の動向が注目される。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争激化：トランプ氏の最後通告とクウェート攻撃、原油価格高騰",
+          "country": "中東",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領がイランに最後通告を発し、クウェートの発電所がドローン攻撃を受けるなど中東情勢が緊迫化。原油価格高騰で市場に動揺。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "自動車",
+            "グローバル金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州5カ国、高騰する原油価格受けエネルギー企業への超過利潤税を提案",
+          "country": "欧州",
+          "category": "財政政策, エネルギー政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧州5カ国がエネルギー企業への超過利潤税導入を欧州委員会に要請。イラン戦争による原油価格高騰が背景。",
+          "affected_sectors": [
+            "エネルギー",
+            "公益事業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油価格高騰、OPEC会合に注目。"
     }
   }
 ]
