@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢悪化、原油価格高騰が継続",
-          "country": "グローバル",
-          "category": "地政学・エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の激化により原油供給懸念が高まり、ブレント原油価格が高値圏で推移。世界経済のインフレ圧力が増大しています。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "物流",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB、中東情勢の不確実性から政策金利を据え置き",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧州中央銀行（ECB）は、中東紛争によるインフレと経済成長への不確実性を理由に、政策金利を据え置くことを決定しました。",
-          "affected_sectors": [
-            "金融",
-            "株式市場",
-            "債券市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日本、日銀短観で大企業製造業の業況判断が予想を上回る",
-          "country": "日本",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "2026年第1四半期の日銀短観において、大企業製造業の業況判断DIが市場予想を上回り、日本経済の回復期待が高まっています。",
-          "affected_sectors": [
-            "製造業",
-            "株式市場",
-            "円相場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化と原油高騰が主要リスク、ECBは金利据え置き。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 16:00",
     "data": {
       "breaking_news": [
@@ -12278,6 +12226,55 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油価格高騰と供給不安が市場の重石に。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "エジプト非石油民間部門、中東戦争とコスト増で約2年ぶりの大幅悪化",
+          "country": "エジプト",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東戦争によるコスト上昇と需要減退を受け、3月のエジプト非石油民間部門PMIが約2年ぶりの低水準に悪化。燃料費とドル高が輸入物価を押し上げた。",
+          "affected_sectors": [
+            "サービス",
+            "製造業",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SGアメリカズ・セキュリティーズ、モエリス＆カンパニーへの出資を大幅拡大",
+          "country": "米国",
+          "category": "企業・M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SGアメリカズ・セキュリティーズが第4四半期にモエリス＆カンパニーの株式保有を312.5%増加させ、207万ドル相当の30,145株を保有。",
+          "affected_sectors": [
+            "金融サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イランで2人目の米パイロットを救出、トランプ大統領「捕らえた！」と発表",
+          "country": "イラン, 米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領がイランで2人目の米パイロットが救出されたと発表。中東の紛争情勢に影響を与える可能性あり。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化、原油価格高騰による世界経済へのインフレ圧力に警戒"
     }
   }
 ]
