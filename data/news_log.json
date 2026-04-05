@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米大統領がイラン軍事作戦の早期終了を示唆、市場が急騰",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領がイランでの軍事作戦の早期終了を示唆し、世界の株式市場が大幅に上昇した。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "貴金属"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米主要株価指数、イラン情勢緩和期待で数ヶ月ぶりの大幅上昇",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ダウ、ナスダック、S&P500が前日比1.7%以上上昇し、2025年5月以来の好調な取引日となった。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "工業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金価格、地政学リスク緩和とドル安を受け2週間ぶり高値に",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "金はリスクセンチメント改善とドル安に支えられ、1トロイオンスあたり4,650ドル近くまで上昇。",
-          "affected_sectors": [
-            "貴金属",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ドル軟化によりEUR/USD、GBP/USDが上昇",
-          "country": "グローバル",
-          "category": "外国為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米ドルの広範な軟化を受け、EUR/USDは1.1560、GBP/USDは1.3200を上回って取引された。",
-          "affected_sectors": [
-            "外国為替",
-            "国際貿易"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン情勢緩和期待で世界の株式市場が急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 07:30",
     "data": {
       "breaking_news": [
@@ -12509,6 +12446,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、イランがホルムズ海峡封鎖長期化の可能性、原油高とインフレ懸念が継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東地政学的緊張の継続と原油価格高騰",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での地政学的緊張が継続し、原油価格は高止まり。ホルムズ海峡の混乱懸念が根強く、市場の不確実性が高い状態です。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、高インフレ懸念と利下げ期待の後退",
+          "country": "US",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "予想を上回る経済データとエネルギー価格高騰により、米国のインフレ懸念が再燃。FRB利下げ期待は後退し、政策金利は高止まりの可能性があります。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology",
+            "Interest-Rate Sensitive Sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "今週は米雇用統計、CPI、主要企業決算に注目",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "来週は米国の非農業部門雇用者数、CPI、PCEなどの主要経済指標に加え、Nvidiaを含む企業決算が市場を動かすと予想されます。",
+          "affected_sectors": [
+            "All Sectors",
+            "Technology",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢緊迫、原油高とインフレ再燃警戒。主要指標に注目。"
     }
   }
 ]
