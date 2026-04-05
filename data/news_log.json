@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日本株、中東情勢緩和期待で大幅反発",
-          "country": "日本",
-          "category": "株式市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "4月1日、東京株式市場は中東紛争終結観測で日経平均が大幅反発。リスク回避姿勢が和らぎ、広範なセクターで買い戻しが進んだ。",
-          "affected_sectors": [
-            "全セクター",
-            "非鉄金属",
-            "銀行",
-            "半導体関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争が世界経済に「深刻な供給ショック」と英中銀が警告",
-          "country": "英国",
-          "category": "金融政策, 地政学, 経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英中銀はイラン戦争が世界経済に深刻な供給ショックをもたらしたと警告。金融システムの脆弱性監視を継続。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "住宅"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀総裁、円安が経済・物価に及ぼす影響を注視し金融政策を判断",
-          "country": "日本",
-          "category": "金融政策, 為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀の植田総裁は、為替市場の円安が経済や物価見通しに与える影響を見極め、適切に金融政策を判断する方針を示した。",
-          "affected_sectors": [
-            "金融",
-            "輸出入関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国市場、イラン紛争終結期待で原油価格下落し株価上昇",
-          "country": "米国",
-          "category": "株式市場, 商品, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株式市場はイラン紛争終結への期待から大幅上昇し、原油価格は100ドルを下回った。投資家心理改善。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "幅広い株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本のコアコアCPI、2月に2.5%上昇し予想を上回る",
-          "country": "日本",
-          "category": "経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "2月の日本の食料・エネルギー除くコアコアCPIが2.5%上昇し市場予想を上回る。内需主導のインフレ圧力が継続中。",
-          "affected_sectors": [
-            "全セクター",
-            "消費財",
-            "小売"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で世界株が大幅反発、リスクオンムード。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 00:30",
     "data": {
       "breaking_news": [
@@ -12280,6 +12201,61 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化により原油・金価格高騰、市場はリスク回避ムード。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン戦争が世界のエネルギー市場とインフレを押し上げ、株式市場に影響",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争により原油価格が高騰し、世界的なエネルギー危機とインフレ懸念が深刻化。株式市場は変動し、消費者物価に影響。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月の賃金上昇が予想を下回る、インフレ圧力緩和の兆候か",
+          "country": "United States",
+          "category": "Macroeconomics, Labor Market",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国労働者の3月平均時給は0.2%増と予想を下回り、賃金上昇の勢いが鈍化。インフレと消費者支出への影響が注目される。",
+          "affected_sectors": [
+            "Consumer Discretionary",
+            "Retail",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Anker製モバイルバッテリー110万個以上が米国でリコール",
+          "country": "United States",
+          "category": "Corporate, Consumer Products",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "発火・爆発の報告を受け、Anker Innovations製モバイルバッテリー110万個以上が米国でリコール。消費者に注意喚起。",
+          "affected_sectors": [
+            "Consumer Electronics",
+            "Retail",
+            "Manufacturing",
+            "Insurance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争による原油高と世界的なインフレ圧力に警戒"
     }
   }
 ]
