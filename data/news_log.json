@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結期待で世界市場が急騰、原油価格は軟化",
-          "country": "Global",
-          "category": "Geopolitics, Equities, Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待が高まり、米国、欧州、アジアの株式市場が大幅に上昇。原油価格は下落した。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英デジタル銀行Monzo、米国事業から撤退へ",
-          "country": "UK, US",
-          "category": "Banking, Fintech",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国のデジタル銀行Monzoが米国事業からの撤退を発表し、英国および欧州市場での成長に注力する方針。",
-          "affected_sectors": [
-            "Fintech",
-            "Retail Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Keurig Dr PepperがJDE Peet'sを買収し、グローバルコーヒー大手誕生",
-          "country": "Global",
-          "category": "M&A, Consumer Goods",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Keurig Dr PepperがJDE Peet'sの主要株式を取得し、世界的なコーヒー事業を統合することで合意した。",
-          "affected_sectors": [
-            "Food & Beverage",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結期待で市場がリスクオンに転換、株式急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 01:30",
     "data": {
       "breaking_news": [
@@ -12203,6 +12153,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油高騰で市場の不確実性増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争が世界のエネルギー市場に圧力をかけ、米国は経済的優位性を獲得",
+          "country": "グローバル/米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争が世界のエネルギー市場に緊張をもたらし、原油価格が高騰。米国は相対的な経済的優位性を獲得中。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米自動車業界団体、ガソリン税を車両重量手数料に代替提案",
+          "country": "米国",
+          "category": "政府政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の自動車業界団体が、連邦ガソリン税を車両重量ベースの手数料に置き換えるよう提案した。",
+          "affected_sectors": [
+            "自動車",
+            "輸送",
+            "インフラ",
+            "消費者"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "サンフランシスコのディーゼル価格が1ガロンあたり8ドル超え",
+          "country": "米国",
+          "category": "エネルギー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "サンフランシスコでディーゼル価格が1ガロンあたり8ドルを超え、輸送コスト増とインフレ懸念。",
+          "affected_sectors": [
+            "輸送",
+            "物流",
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米脚本家組合とスタジオが暫定合意、ハリウッドの閉鎖回避",
+          "country": "米国",
+          "category": "労働",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の脚本家組合とスタジオが暫定合意し、ハリウッドのさらなる閉鎖を回避した。",
+          "affected_sectors": [
+            "エンターテインメント",
+            "メディア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "グラスルイス、モンテパスキ銀行CEO選でパレルモ氏を支持",
+          "country": "イタリア",
+          "category": "企業統治",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "議決権行使助言会社グラスルイスがモンテパスキ銀行のCEO選でパレルモ氏を支持した。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争によるエネルギー市場の緊張と原油価格高騰が継続中。"
     }
   }
 ]
