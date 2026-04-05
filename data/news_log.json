@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争終結の意向で米株価指数が大幅上昇",
-          "country": "米国",
-          "category": "地政学, 市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランが戦争終結の意向を示したことで、ダウ、ナスダック、S&P 500といった米主要株価指数が急騰。市場に楽観論が広がる。",
-          "affected_sectors": [
-            "全般",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU、イラン戦争終結でも石油・ガス価格の即時正常化はないと警告",
-          "country": "欧州",
-          "category": "エネルギー, 地政学, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イランとの紛争終結への期待があるものの、欧州連合のエネルギー委員は、現在の制約から石油・ガス価格がすぐに正常化することはないと警告した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ政権、401(k)におけるプライベートエクイティおよび暗号通貨投資の解禁を提案",
-          "country": "米国",
-          "category": "規制, 金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ政権が、401(k)退職金制度でプライベートエクイティや暗号通貨への投資を許可する規制案を提出した。",
-          "affected_sectors": [
-            "金融サービス",
-            "資産運用",
-            "テクノロジー",
-            "暗号通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "JPモルガンCEO、世界経済保護のためイラン問題の解決を強調",
-          "country": "米国",
-          "category": "地政学, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "JPモルガンCEOのジェイミー・ダイモン氏は、世界経済を守るためにはイラン紛争を解決する必要があると警告した。",
-          "affected_sectors": [
-            "全般",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結の期待で米株が急騰。エネルギー価格は依然高止まり。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 06:30",
     "data": {
       "breaking_news": [
@@ -12380,6 +12315,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "トランプ大統領のイラン強硬発言とEUの超過利潤税提案で市場の不確実性高まる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、1バレル100ドル超を維持",
+          "country": "Global",
+          "category": "Commodities, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の激化により原油価格が再び1バレル100ドルを突破し、エネルギーコスト増とインフレ懸念が強まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国サービス部門PMIが3年ぶりに活動縮小、景気減速懸念",
+          "country": "United States",
+          "category": "Economic Indicator",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "S&Pグローバルが発表した3月の米サービスPMIが49.8に低下し、3年ぶりの活動縮小を記録。 中東紛争とコスト増が影響している模様。",
+          "affected_sectors": [
+            "Services",
+            "Retail",
+            "Technology",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要中央銀行、インフレ圧力継続で金融引き締め姿勢を維持か",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "高止まりするインフレと地政学リスクにより、主要中銀は利上げ観測や利下げ期待の後退で引き締め姿勢を維持する可能性が高い。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology",
+            "Growth Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀、賃金・GDP好調で4月利上げ観測高まるも円安進行",
+          "country": "Japan",
+          "category": "Monetary Policy, Currency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日本のGDPと賃金上昇を受け日銀の4月利上げ観測が高まるが、ドル高の影響で円安基調は継続している。",
+          "affected_sectors": [
+            "Export-oriented industries",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢緊迫化とインフレ懸念が市場の不確実性を高める"
     }
   }
 ]
