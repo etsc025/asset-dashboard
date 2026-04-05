@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株が大幅上昇、イラン戦争終結への期待が高まる",
-          "country": "US",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待から、S&P500が2.9%、ダウ平均が1,100ポイント超上昇し、米国株式市場は大幅高となった。",
-          "affected_sectors": [
-            "全体市場",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が下落、イラン戦争終結への期待感から",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争終結の期待感が高まり、原油価格は上昇分を一部戻し、エネルギー市場の緊張が緩和した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要中央銀行、中東紛争によるインフレリスクと経済への不確実性を指摘",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国FRB、ECB、BOEは中東紛争がインフレリスクと経済成長の不確実性を高めると警告、金融政策の判断を複雑化。",
-          "affected_sectors": [
-            "金融",
-            "全体市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結への期待で米国株が急騰、原油価格は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-01 11:30",
     "data": {
       "breaking_news": [
@@ -12412,6 +12361,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "市場は「極度の恐怖」状態にあり、地政学的リスク（イラン情勢）が継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-05 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Oil Prices Surge Amid Iran Conflict",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊張、特にイラン関連で原油価格が大幅上昇。世界経済へのインフレ懸念が高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Meta、人員削減とAI投資を強化",
+          "country": "USA",
+          "category": "Technology, Corporate Restructuring",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Metaがサンフランシスコ・ベイエリアで約200人を削減。AIインフラへの大規模投資に注力。",
+          "affected_sectors": [
+            "Technology",
+            "Social Media"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国3月雇用統計、予想を上回る",
+          "country": "USA",
+          "category": "Economic Data, Labor Market",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国経済は3月に17万8000人の雇用を創出。予想を上回り、失業率もわずかに低下。",
+          "affected_sectors": [
+            "Broad Market",
+            "Consumer Discretionary"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争激化で世界原油価格高騰；米雇用統計は堅調。"
     }
   }
 ]
