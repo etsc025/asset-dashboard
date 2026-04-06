@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイラン強硬発言で原油急騰、世界株急落",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Financial Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランへの強硬発言がエスカレーション懸念を強め、原油価格が急騰し、世界株価は大幅下落。市場はリスクオフに転換。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Technology",
-            "Automotive"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Blue Owl Capital、投資家からの大規模償還要求で出金制限",
-          "country": "US",
-          "category": "Financial Services, Alternative Investments",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Blue Owl Capitalが投資家による54億ドルの償還要求を受け、出金制限を実施。代替投資市場に流動性懸念が浮上。",
-          "affected_sectors": [
-            "Financial Services",
-            "Asset Management",
-            "Private Equity"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "航空会社が破産により運航停止、旅行業界に影",
-          "country": "Global",
-          "category": "Corporate, Travel & Tourism",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ある航空会社が破産により運航を停止。これは旅行業界における厳しい競争環境と構造的課題を浮き彫りにする。",
-          "affected_sectors": [
-            "Airlines",
-            "Travel & Tourism",
-            "Aerospace"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油急騰・世界株急落、リスク回避。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 04:00",
     "data": {
       "breaking_news": [
@@ -12532,6 +12480,95 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争がインフレ再燃と金利上昇懸念を強め、市場は警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Medicare Advantage Payment Hike Finalized, Insurance Stocks Surge",
+          "country": "USA",
+          "category": "Regulatory",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "U.S. government finalized a 2.48% average payment increase for Medicare Advantage, causing insurance stocks to surge.",
+          "affected_sectors": [
+            "Healthcare",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Humana Shares Jump 12% on 2027 Medicare Rate Boost; UNH, CVS Rally",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Humana shares surged 12% after hours due to a 2027 Medicare rate boost, with UnitedHealth and CVS also rallying.",
+          "affected_sectors": [
+            "Healthcare",
+            "Insurance",
+            "Pharmaceuticals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Phillips 66 Reports $900M Q1 Mark-to-Market Losses",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Phillips 66 reported nearly $900 million in pre-tax mark-to-market losses for its first-quarter results.",
+          "affected_sectors": [
+            "Energy",
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Jamie Dimon Warns Iran War Could Drive Higher Inflation, Interest Rates",
+          "country": "Global",
+          "category": "Geopolitics, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPMorgan CEO Jamie Dimon warns Iran conflict may lead to higher inflation and interest rates in 2025 and beyond.",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Brent Crude Climbs Above $110 Amid Iran War Uncertainty",
+          "country": "Global",
+          "category": "Geopolitics, Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Brent crude oil prices rose above $110/barrel due to ongoing Iran war signals, impacting global energy.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Neurocrine Biosciences to Acquire Soleno Therapeutics in $2.9B Deal",
+          "country": "USA",
+          "category": "M&A, Biotechnology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Neurocrine Biosciences announced plans to acquire Soleno Therapeutics for $2.9 billion in cash.",
+          "affected_sectors": [
+            "Biotechnology",
+            "Pharmaceuticals"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "Iran conflict drives oil prices up, threatening global inflation and rates."
     }
   }
 ]
