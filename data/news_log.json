@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争終結への期待で世界の株式市場が急騰",
-          "country": "Global",
-          "category": "Market Reaction",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの紛争終結への期待から、ウォール街は急伸し、世界中の株価指数が大幅に上昇しました。",
-          "affected_sectors": [
-            "Equities",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緩和の観測で原油価格が下落",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争終結への希望が高まり、世界の株式市場が回復する中で、原油価格は下落しました。",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均株価、中東情勢の緩和観測で大幅反発",
-          "country": "Japan",
-          "category": "Market Reaction",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東戦闘の終結観測を受け、東京株式市場で日経平均株価が5営業日ぶりに大幅反発。今年最大の上げ幅を記録しました。",
-          "affected_sectors": [
-            "Equities",
-            "Technology",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB当局者、エネルギー価格高止まりで4月利上げの可能性示唆",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ECB政策委員会メンバーが、エネルギー価格が高止まりすれば4月の利上げも排除できないと発言。インフレリスクを警戒。",
-          "affected_sectors": [
-            "Financials",
-            "Bond Markets",
-            "European Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東紛争終結期待が高まり、世界市場で株高・原油安"
-    }
-  },
-  {
     "timestamp": "2026-04-02 09:30",
     "data": {
       "breaking_news": [
@@ -12169,6 +12104,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化により原油高騰、世界経済に懸念"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領、イランにホルムズ海峡開放の期限設定し市場に緊張",
+          "country": "米国, イラン, 中東",
+          "category": "地政学, エネルギー, 政治",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領がイランに対しホルムズ海峡開放の期限を設定。中東情勢の緊迫化が原油高騰と市場不確実性を招く。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "株式市場",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドル指数、堅調な雇用統計と地政学的リスクで100.00超え",
+          "country": "米国",
+          "category": "為替, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国の堅調な非農業部門雇用者数と中東の地政学的リスクが米ドル指数を100.00以上に押し上げた。",
+          "affected_sectors": [
+            "為替市場",
+            "輸出入"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "WTI原油価格、供給リスク残存も高値から$104.00を下回る水準へ後退",
+          "country": "グローバル",
+          "category": "商品, エネルギー",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中東の供給リスクが続く中、WTI原油価格は4週間ぶりの高値から$104.00を下回る水準に小幅後退した。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格、米国の利上げ観測とドル高を受け下落バイアスを継続",
+          "country": "グローバル",
+          "category": "商品, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国FRBのタカ派的な見通しと米ドルの堅調さにより、金価格は依然として下落傾向にある。",
+          "affected_sectors": [
+            "貴金属",
+            "投資"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EUR/JPY、日銀の利上げ観測が重しとなり184.00を下回る",
+          "country": "日本, ユーロ圏",
+          "category": "為替, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本銀行の利上げに関する市場の織り込みが進み、EUR/JPYは184.00の抵抗線を下回って推移している。",
+          "affected_sectors": [
+            "為替市場",
+            "輸出入"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油供給リスクが市場の最重要懸念事項。"
     }
   }
 ]
