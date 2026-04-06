@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランへの「極めて強力な」攻撃を示唆",
-          "country": "米国",
-          "category": "地政学リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領が今後2-3週間でイランへの軍事作戦を強化すると表明、中東情勢緊迫化懸念が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "金融市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均大幅反落、トランプ大統領演説で投資家心理悪化",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領のイランに関する強硬発言を受け、投資家心理が悪化し日経平均株価が大幅に反落した。",
-          "affected_sectors": [
-            "株式市場全般",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル・円は強含み、有事のドル買い再開とトランプ演説でドル指数上昇",
-          "country": "グローバル",
-          "category": "為替市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領の演説や有事のドル買いが再開し、ドル円は強含みで推移。ドル指数も上昇を見せる。",
-          "affected_sectors": [
-            "輸出企業",
-            "輸入企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UBS、上昇リスク高まる中で金の強気相場が続くと予想",
-          "country": "グローバル",
-          "category": "商品市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UBSは金に対する強気見通しを維持し、地政学リスクの高まりを背景に年内に新高値を更新すると予測。",
-          "affected_sectors": [
-            "貴金属関連",
-            "資源株"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ米大統領のイラン強硬発言で中東情勢緊迫、市場はリスクオフへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 22:30",
     "data": {
       "breaking_news": [
@@ -12367,6 +12304,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン停戦協議期待で原油価格下落、ドル円でドル売り。市場は期待と懸念が交錯。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国インフレ率、中東紛争で高騰の可能性",
+          "country": "米国, 中東",
+          "category": "経済指標, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争による原油価格高騰を受け、3月の米CPIが2022年以来最大の月間上昇となる約1%上昇と予測され、インフレ懸念が強まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "消費財",
+            "航空",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本長期金利、約27年ぶり高水準 米利下げ観測後退で",
+          "country": "日本, 米国",
+          "category": "金融政策, 債券市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月の米雇用統計が堅調で米利下げ観測が後退。これを受け、日本の10年物国債利回りが27年ぶりの高水準に上昇し、国内金利を押し上げている。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "建設"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "香港IPO市場、2026年第1四半期に世界トップに",
+          "country": "中国 (香港)",
+          "category": "株式市場, 資本市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "香港のIPO市場が2026年第1四半期に1,030億香港ドル以上を調達し、世界で最も活発なIPO市場となった。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ドル円159円台半ば、中東情勢と米停戦案で乱高下",
+          "country": "日本, 米国, 中東",
+          "category": "為替市場, 地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢の不透明感と米・イラン停戦協議の報道により、ドル円は159円台半ばで乱高下。円売りドル買いの動きが見られる一方、ドルに戻り売りも出ている。",
+          "affected_sectors": [
+            "輸出",
+            "輸入",
+            "観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国、仮想資産市場監視院設立を推進",
+          "country": "韓国",
+          "category": "仮想通貨, 金融規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "韓国与党がデジタル資産市場の監督強化のため「仮想資産市場監視院」の設立を推進しているが、金融委員会は役割重複に難色を示している。",
+          "affected_sectors": [
+            "仮想通貨取引所",
+            "フィンテック"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油高が世界的なインフレ懸念を増幅させ、主要国の中央銀行の金融政策に影響を与えている。"
     }
   }
 ]
