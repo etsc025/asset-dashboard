@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイラン警告で原油急騰、世界市場が下落",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国大統領のイランへの追加攻撃警告を受け、原油価格が急騰し、世界の株式市場が下落。地政学リスク高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ブレント原油価格が7%以上急騰、中東情勢緊迫化で",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊迫化を受けてブレント原油価格が1バレル110ドル近くまで7%超急騰。インフレ懸念が再燃。",
-          "affected_sectors": [
-            "Energy",
-            "Industrials",
-            "Aviation",
-            "Chemicals"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会、イラン情勢が利下げを遅らせる可能性",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米FRB当局者、イラン情勢による原油価格ショックがインフレ期待を高め、利下げを遅らせる可能性に言及。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円が160円に迫る、イラン戦争長期化懸念で",
-          "country": "Japan",
-          "category": "Currency Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東でのイラン戦争長期化の懸念が高まり、安全資産としてのドル買いが優勢となりドル円が160円に接近。",
-          "affected_sectors": [
-            "Export-oriented sectors (Japan)",
-            "Import-oriented sectors (Japan)"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の工場活動が急増、フランスのインフレ率が上昇",
-          "country": "China, France",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の製造業PMIが予想を上回り活動が急増する一方、フランスではインフレ率が予想以上に上昇。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail",
-            "European Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油急騰、株式市場は下落。中銀の利下げ観測後退。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 23:30",
     "data": {
       "breaking_news": [
@@ -12423,6 +12344,99 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争が原油・インフレ懸念を増大、FRB高金利化か"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株と原油価格がイラン情勢の緊迫化で乱高下",
+          "country": "USA",
+          "category": "地政学 / コモディティ / 株式市場",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領のイラン爆撃期限を控え、米国株と原油価格が乱高下。中東情勢の不確実性が市場を動揺させている。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "工業",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イスラエル、イランの石油化学工場を攻撃と発表",
+          "country": "中東",
+          "category": "地政学 / エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルがイランの南パルス石油化学工場を攻撃したと発表。中東情勢のさらなるエスカレーションが懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米財務省、BNYメロンを「トランプ口座プログラム」の金融代理人に指名",
+          "country": "USA",
+          "category": "政府 / 金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米財務省は、新しい「トランプ口座プログラム」の実施を支援するため、BNYメロンを金融代理人に指名した。",
+          "affected_sectors": [
+            "金融サービス",
+            "銀行"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oracle、新CFOにヒラリー・マクソン氏を任命",
+          "country": "USA",
+          "category": "企業ニュース / テクノロジー",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Oracle Corporationは、ヒラリー・マクソン氏を最高財務責任者（CFO）に任命したことを発表。クラウド需要増に対応。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "スパークス・グループ、日本ものづくり未来ファンドIIを設立",
+          "country": "日本",
+          "category": "投資 / 製造業",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "スパークス・グループは、トヨタなどと共同で日本ものづくり未来ファンドIIを設立し、日本の製造業を支援する。",
+          "affected_sectors": [
+            "製造業",
+            "自動車",
+            "銀行",
+            "投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン戦争による高エネルギーコスト、AIブームの経済を脅かす可能性",
+          "country": "Global",
+          "category": "エネルギー / テクノロジー / 経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争によるエネルギーコスト上昇がAI産業の成長に悪影響を及ぼす可能性があり、懸念が高まっている。",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー",
+            "AI"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化、米国株と原油価格が乱高下、市場警戒。"
     }
   }
 ]
