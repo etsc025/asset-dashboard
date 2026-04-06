@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Markets Surge on Hopes for Iran War De-escalation",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "President Trump's comments on a swift end to the Iran war fuel a global stock rally and lead to easing oil prices.",
-          "affected_sectors": [
-            "Equities",
-            "Energy",
-            "Financials",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Economic Data Exceeds Forecasts, Boosting Growth Outlook",
-          "country": "USA",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "February US retail sales and private payrolls surpassed expectations, indicating a resilient consumer and stable labor market.",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Iran war de-escalation hopes spark global market rally."
-    }
-  },
-  {
     "timestamp": "2026-04-02 06:30",
     "data": {
       "breaking_news": [
@@ -12177,6 +12139,32 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン紛争沈静化期待で世界株上昇、原油価格が軟化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、ホルムズ海峡リスク増大とトランプ発言で市場警戒",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領の強硬姿勢とホルムズ海峡の原油供給危機懸念が市場を圧迫。世界経済への影響に警戒感が高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Transportation",
+            "Manufacturing",
+            "Global Equities",
+            "Currencies"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、ホルムズ海峡リスクで原油高と市場警戒。"
     }
   }
 ]
