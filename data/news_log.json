@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格が地政学的緊張で急騰、世界市場に不確実性",
-          "country": "グローバル",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領のイランへの追加攻撃示唆で原油価格が急騰。世界市場に不確実性が高まり、供給懸念が増大している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢懸念でアジア株式市場が下落",
-          "country": "アジア",
-          "category": "株式市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の悪化懸念から、日本の日経平均、韓国のKOSPI、香港のハンセン指数が下落。",
-          "affected_sectors": [
-            "全株式セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英企業、イラン戦争でコスト増を予想し価格引き上げへ",
-          "country": "英国",
-          "category": "経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるコスト上昇圧力で、英国企業が今後より迅速な価格引き上げを予想し、インフレ懸念が増大。",
-          "affected_sectors": [
-            "小売",
-            "製造",
-            "消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油価格高騰、世界株式市場に広範な下落圧力が継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 22:00",
     "data": {
       "breaking_news": [
@@ -12352,6 +12302,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争とホルムズ海峡期限により市場の不確実性が高まり、石油価格の変動と債務危機懸念が上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米3月ISM非製造業指数、予想下回るも投入価格高水準",
+          "country": "United States",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米3月ISM非製造業景況指数は54.0で市場予想を下回る。しかし投入価格は3年半ぶりの高水準を記録し、インフレ懸念が続く。",
+          "affected_sectors": [
+            "全セクター",
+            "金融",
+            "サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン、米国の停戦要求に回答準備中との速報",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランが米国の停戦要求に対し回答を準備しているとの速報。中東情勢の緊張緩和に期待感が高まり、市場に好影響をもたらすか注目される。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "貴金属"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY為替序盤、イラン報道受けドル円159円台半ばでドル売り",
+          "country": "Global",
+          "category": "FX",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "NY為替市場序盤、イラン関連の報道を受けドル円は159円台半ばでドルに戻り売り。中東情勢の緩和期待が円高に寄与。",
+          "affected_sectors": [
+            "外国為替",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイランの停戦提案で原油価格が下落",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦提案が報じられ、世界の原油価格が下落。エネルギー供給不安が和らぐとの見方から市場に安心感が広がる。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦協議期待で原油価格下落、ドル円でドル売り。市場は期待と懸念が交錯。"
     }
   }
 ]
