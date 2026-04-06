@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイランに関する発言で原油価格高騰、主要株価指数が下落",
-          "country": "グローバル",
-          "category": "地政学的リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領のイランに関するタカ派的発言を受け、原油価格は急騰。米国、日本、韓国の株式市場は売りが優勢となり、ダウ平均や日経平均、KOSPIは大幅に下落しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "製造業",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド、自国通貨防衛のためオフショアルピー取引を禁止",
-          "country": "インド",
-          "category": "金融規制",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "インドがルピーのオフショア取引を禁じ、1日1490億ドル規模の市場を抑制。通貨安対策の極端な措置ですが、外国からの投資を抑制する可能性があります。",
-          "affected_sectors": [
-            "金融",
-            "為替",
-            "輸出入"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争リスクが日本経済の回復と金融政策に影響",
-          "country": "日本",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるエネルギー価格高騰は日本経済の回復を阻害し、インフレを加速させる可能性。日銀の金融政策運営は複雑化する見通しです。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "小売",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化と原油高による世界的な市場下落に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 02:00",
     "data": {
       "breaking_news": [
@@ -12498,6 +12445,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東紛争が激化、原油とインフレリスク増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Iranが停戦提案を拒否、トランプ大統領が新たな警告を発し、地政学的緊張が高まる。",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが停戦提案を拒否し、トランプ大統領が新たな警告と期限を発令、地政学的緊張が高まった。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国-イラン間の緊張と停戦への期待が交錯し、原油価格が変動。",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの紛争激化と停戦への期待が変動し、原油価格は不安定な取引となっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的不確実性の中、世界市場のセンチメントが「極度の恐怖」に陥る。",
+          "country": "グローバル",
+          "category": "市場センチメント",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "恐怖と貪欲指数は「極度の恐怖」(21)を示し、投資家の高い警戒感と市場の不安定性を示唆。",
+          "affected_sectors": [
+            "すべての株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的なヘッドラインにもかかわらず、米国株式は堅調に推移し、上昇を維持。",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国株は地政学的な緊張が続くにもかかわらず、わずかな上昇を維持し、回復力を示した。",
+          "affected_sectors": [
+            "広範な市場",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Soleno TherapeuticsがNeurocrine Biosciencesに買収され、半導体株がアナリストによって格上げ。",
+          "country": "米国",
+          "category": "M&A, セクター別ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Soleno TherapeuticsはNeurocrineによる29億ドルの買収で33%急騰。半導体株も格上げされた。",
+          "affected_sectors": [
+            "バイオテクノロジー",
+            "製薬",
+            "半導体"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランの停戦拒否とトランプの警告で地政学的緊張が激化。原油価格は変動し、市場センチメントは「極度の恐怖」にある。"
     }
   }
 ]
