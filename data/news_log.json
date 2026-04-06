@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイラン攻撃継続発言で株価下落、原油価格急騰",
-          "country": "グローバル",
-          "category": "地政学, エネルギー市場, 株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランへの攻撃継続発言を受け、世界の株式市場は下落、原油価格は急騰し、市場心理が悪化。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争によるコスト増で英国企業は物価上昇を加速",
-          "country": "英国",
-          "category": "インフレ, 経済見通し, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン紛争によるコスト増を受け、英国企業は物価上昇を加速させると予想。インフレ圧力が高まる見込み。",
-          "affected_sectors": [
-            "小売",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争が英国の住宅ローン支払額を増加させる可能性、イングランド銀行が警告",
-          "country": "英国",
-          "category": "金融政策, 家計金融, 経済見通し",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英中央銀行は、イラン紛争により英国の130万世帯で住宅ローン支払額が増加する可能性を警告。家計への影響大。",
-          "affected_sectors": [
-            "不動産",
-            "銀行",
-            "消費支出"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢緊迫化でWTI原油がブレントを上回る",
-          "country": "グローバル",
-          "category": "エネルギー市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン情勢緊迫化を受け、WTI原油価格がブレント原油を上回る。供給途絶懸念が市場に強く反映されている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油高・株安、金融市場はリスクオフへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 04:30",
     "data": {
       "breaking_news": [
@@ -12569,6 +12504,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "Iran conflict drives oil prices up, threatening global inflation and rates."
+    }
+  },
+  {
+    "timestamp": "2026-04-07 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランにホルムズ海峡再開を要求、イランは停戦提案を拒否",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領はイランにホルムズ海峡の即時再開を要求、イランは停戦案を拒否。原油価格は高止まり。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株は中東停戦への期待で上昇も、原油価格は高値維持",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東停戦への期待感から米国株式市場は上昇したが、原油価格は1バレル112ドル超で高値圏を維持した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OracleがAI事業強化のためCFOを再任、数千人規模の解雇を実施",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "OracleはAI事業の拡大に伴いCFOを再任し、同時に数千人規模の従業員解雇を行うと発表。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "堅調な3月米雇用統計でFRBの利下げ見通しに疑問符",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "予想を上回る3月の米雇用統計が発表され、連邦準備制度理事会（FRB）の利下げ開始時期に関する不確実性が高まった。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "金利に敏感なセクター"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン・米国間の地政学的緊張が高まり、原油高と利下げ観測に注視。"
     }
   }
 ]
