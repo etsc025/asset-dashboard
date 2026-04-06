@@ -1,10 +1,10 @@
 {
   "date": "2026-04-07",
-  "timestamp": "2026-04-07T04:13:32.397396",
-  "usdjpy": 159.69,
+  "timestamp": "2026-04-07T04:43:48.002880",
+  "usdjpy": 159.71,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
-  "vix": 24.139999389648438,
+  "vix": 24.469999313354492,
   "ranking": [
     {
       "bot": "Bot9_VolAsymmetry",
@@ -22,17 +22,17 @@
     },
     {
       "bot": "Bot4_Momentum_Intl",
-      "total_return": 0.0001,
+      "total_return": 0.0006,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -53973326.75,
       "n_trades": 5,
-      "latest_equity": 1000113.0,
+      "latest_equity": 1000637.0,
       "days": 1,
       "rank": 2,
-      "score": 0.592,
-      "profit_jpy": 113.0,
-      "daily_target": 10001.0
+      "score": 0.6092,
+      "profit_jpy": 637.0,
+      "daily_target": 10006.0
     },
     {
       "bot": "Bot6_RL_MA",
@@ -92,31 +92,31 @@
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": -0.0006,
+      "total_return": -0.0007,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -42861171.24,
       "n_trades": 5,
-      "latest_equity": 999437.0,
+      "latest_equity": 999339.0,
       "days": 1,
       "rank": 7,
-      "score": 0.6007,
-      "profit_jpy": -563.0,
-      "daily_target": 9994.0
+      "score": 0.5975,
+      "profit_jpy": -661.0,
+      "daily_target": 9993.0
     },
     {
       "bot": "Bot10_CorrGraph",
-      "total_return": -0.0015,
+      "total_return": -0.0016,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -20636860.23,
       "n_trades": 2,
-      "latest_equity": 998459.0,
+      "latest_equity": 998379.0,
       "days": 1,
       "rank": 8,
-      "score": 0.6304,
-      "profit_jpy": -1541.0,
-      "daily_target": 9985.0
+      "score": 0.6277,
+      "profit_jpy": -1621.0,
+      "daily_target": 9984.0
     },
     {
       "bot": "Bot5_TrendMomentum",
