@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争終結観測で世界株式市場が大幅反発、日経平均は5%超上昇",
-          "country": "Global",
-          "category": "Geopolitics, Market Movement",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領の中東紛争早期終結発言を受け、リスク回避姿勢が緩和。日経平均は5%超急伸し、欧米アジア市場も続伸。",
-          "affected_sectors": [
-            "Stock Markets",
-            "Oil & Gas",
-            "Technology",
-            "Banking",
-            "Non-ferrous metals",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東紛争終結期待で原油価格が下落、市場の需給不安が緩和",
-          "country": "Global",
-          "category": "Commodity, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊張緩和観測により、ニューヨーク原油先物価格が下落。供給不安が和らぎ、インフレ圧力軽減の可能性。",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Airlines",
-            "Transportation",
-            "Manufacturing",
-            "Consumers"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国3月製造業PMIが予想を下回り、景気回復の不確実性示唆",
-          "country": "China",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国3月のRatingDog製造業PMIは50.8と予想51.5を下回り、中国経済回復のペースに不確実性を示唆。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Global Supply Chain",
-            "Asian Equities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB議長、金融政策は「良い位置」中東情勢の影響を見極め様子見可能と発言",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パウエルFRB議長、現在の金融政策は適切とし、中東情勢の経済・インフレへの影響を注視するため様子見姿勢が可能。",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東紛争終結観測で世界的にリスクオンムード、株価急伸。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 07:00",
     "data": {
       "breaking_news": [
@@ -12165,6 +12097,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、ホルムズ海峡リスクで原油高と市場警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国がイランに最後通告、ホルムズ海峡情勢緊迫化で原油急騰",
+          "country": "世界",
+          "category": "地政学, エネルギー市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領がイランに最後通告、ホルムズ海峡封鎖継続ならインフラ攻撃示唆。原油価格急騰し世界経済に不確実性。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "航空",
+            "世界経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月米雇用者数が予想上回る、堅調な労働市場でドル高圧力",
+          "country": "米国",
+          "category": "マクロ経済, 為替",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の米雇用者数17.8万人増で予想を上回り、米ドル高を支援。ユーロ/米ドルは下落圧力に直面。",
+          "affected_sectors": [
+            "外国為替",
+            "金利感応型セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格が利上げ観測とドル高で下落圧力、安全資産としての魅力低下",
+          "country": "世界",
+          "category": "コモディティ, 貴金属",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "利上げ観測と堅調な米ドルにより、金価格は下落圧力に直面。安全資産としての魅力が一時的に低下。",
+          "affected_sectors": [
+            "貴金属採掘",
+            "宝飾品",
+            "投資"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高騰が市場の不確実性を高める。"
     }
   }
 ]
