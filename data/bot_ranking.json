@@ -1,10 +1,10 @@
 {
   "date": "2026-04-07",
-  "timestamp": "2026-04-07T01:11:54.649427",
-  "usdjpy": 159.64,
+  "timestamp": "2026-04-07T01:42:11.195411",
+  "usdjpy": 159.63,
   "regime": "VOLATILE",
   "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
-  "vix": 24.25,
+  "vix": 24.100000381469727,
   "ranking": [
     {
       "bot": "Bot6_RL_MA",
@@ -72,37 +72,51 @@
       "latest_equity": 999642.0,
       "days": 1,
       "rank": 5,
-      "score": 0.7918,
+      "score": 0.7919,
       "profit_jpy": -358.0,
       "daily_target": 9996.0
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": -0.0013,
+      "total_return": -0.0007,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -42861171.24,
       "n_trades": 5,
-      "latest_equity": 998698.0,
+      "latest_equity": 999323.0,
       "days": 1,
       "rank": 6,
-      "score": 0.6495,
-      "profit_jpy": -1302.0,
-      "daily_target": 9987.0
+      "score": 0.6767,
+      "profit_jpy": -677.0,
+      "daily_target": 9993.0
     },
     {
       "bot": "Bot10_CorrGraph",
-      "total_return": -0.0019,
+      "total_return": -0.0016,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -20636860.23,
       "n_trades": 2,
-      "latest_equity": 998071.0,
+      "latest_equity": 998434.0,
       "days": 1,
       "rank": 7,
-      "score": 0.6841,
-      "profit_jpy": -1929.0,
-      "daily_target": 9981.0
+      "score": 0.7001,
+      "profit_jpy": -1566.0,
+      "daily_target": 9984.0
+    },
+    {
+      "bot": "Bot4_Momentum_Intl",
+      "total_return": -0.0021,
+      "mdd": 0.0,
+      "win_rate": 0.0,
+      "sharpe": -53973326.75,
+      "n_trades": 5,
+      "latest_equity": 997936.0,
+      "days": 1,
+      "rank": 8,
+      "score": 0.586,
+      "profit_jpy": -2064.0,
+      "daily_target": 9979.0
     },
     {
       "bot": "Bot5_TrendMomentum",
@@ -113,24 +127,10 @@
       "n_trades": 5,
       "latest_equity": 997648.0,
       "days": 1,
-      "rank": 8,
-      "score": 0.7099,
+      "rank": 9,
+      "score": 0.7103,
       "profit_jpy": -2352.0,
       "daily_target": 9976.0
-    },
-    {
-      "bot": "Bot4_Momentum_Intl",
-      "total_return": -0.0027,
-      "mdd": 0.0,
-      "win_rate": 0.0,
-      "sharpe": -53973326.75,
-      "n_trades": 5,
-      "latest_equity": 997254.0,
-      "days": 1,
-      "rank": 9,
-      "score": 0.5561,
-      "profit_jpy": -2746.0,
-      "daily_target": 9973.0
     },
     {
       "bot": "Bot8_NewsTech",
@@ -142,23 +142,23 @@
       "latest_equity": 990678.0,
       "days": 1,
       "rank": 10,
-      "score": 0.3551,
+      "score": 0.3567,
       "profit_jpy": -9322.0,
       "daily_target": 9907.0
     },
     {
       "bot": "Bot3_FactorAI",
-      "total_return": -0.0115,
+      "total_return": -0.0116,
       "mdd": 0.0,
       "win_rate": 0.0,
       "sharpe": -31749015.73,
       "n_trades": 3,
-      "latest_equity": 988454.0,
+      "latest_equity": 988410.0,
       "days": 1,
       "rank": 11,
       "score": 0.2368,
-      "profit_jpy": -11546.0,
-      "daily_target": 9885.0
+      "profit_jpy": -11590.0,
+      "daily_target": 9884.0
     }
   ]
 }
