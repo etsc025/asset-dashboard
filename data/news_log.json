@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "地政学的緊張と原油価格変動で世界市場が乱高下、イラン戦争終結の兆候も",
-          "country": "Global",
-          "category": "Geopolitics, Energy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ大統領のイラン戦争終結発言で期待高まるも、地政学的緊張が続き原油価格は高騰。市場は不安定な動きを見せる。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Transportation",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドIT・自動車・エネルギー部門が好調、WiproのAI事業拡大も寄与",
-          "country": "India",
-          "category": "Corporate News, Technology, Automotive, Energy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "WiproがAI事業部門を設立し、TVSモーターは販売25%増、Indian Oilは過去最高の原油処理量を達成し経済を牽引している。",
-          "affected_sectors": [
-            "IT",
-            "Automotive",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "塩野義製薬、ALS治療薬RADICAVAの全世界での権利取得を完了",
-          "country": "Japan",
-          "category": "M&A, Pharmaceuticals",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "塩野義製薬がALS治療薬RADICAVAの権利を田辺三菱製薬から買収完了。希少疾患分野の強化と収益拡大に貢献すると期待される。",
-          "affected_sectors": [
-            "Pharmaceuticals",
-            "Healthcare"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコイン担保債券が初の格付け取得、ミレニアムは社債再発行を価格設定",
-          "country": "Global",
-          "category": "Fixed Income, Cryptocurrency, Corporate Finance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ビットコインを担保とする債券が初めて格付けを獲得したほか、Millicomが2032年満期社債7500万ドルの再発行を価格設定した。",
-          "affected_sectors": [
-            "Financial Services",
-            "Cryptocurrency",
-            "Telecommunications"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン戦争の展開と原油価格が市場の最重要焦点"
-    }
-  },
-  {
     "timestamp": "2026-04-02 15:00",
     "data": {
       "breaking_news": [
@@ -12244,6 +12179,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン停戦交渉期待が市場を押し上げ。原油高と地政学リスクは継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国のイラン最後通牒で中東情勢緊迫化、原油価格が急騰",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国はイランにホルムズ海峡再開の期限を設定し、軍事行動を示唆。これにより原油価格が急騰し、市場は警戒を強めている。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計が予想上振れ、失業率も低下",
+          "country": "米国",
+          "category": "経済指標, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月非農業部門雇用者数は17.8万人増、失業率は4.3%に低下し、市場予想を上回る堅調な結果となった。",
+          "affected_sectors": [
+            "金融",
+            "小売",
+            "労働集約型産業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "中東情勢で世界市場に警戒感、本日ISMサービスPMI発表",
+          "country": "グローバル (米国)",
+          "category": "市場動向, 経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東紛争が続く中、投資家は慎重な姿勢を維持。本日は米国の3月ISMサービスPMIが発表され、市場の注目を集める。",
+          "affected_sectors": [
+            "全セクター",
+            "サービス業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、米国のイラン最後通牒で原油高騰、市場警戒"
     }
   }
 ]
