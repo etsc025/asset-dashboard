@@ -1,88 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランへの軍事作戦強化を示唆し市場が動揺",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領のイラン軍事作戦強化示唆で地政学的リスク再燃。原油高騰、欧州・アジア株式市場は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Transportation",
-            "Financials",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均が大幅反落、イラン紛争早期終結期待が後退し売り優勢",
-          "country": "Japan",
-          "category": "Market Reaction",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏の強硬発言を受け、イラン紛争の早期終結期待が後退。日経平均は1200円以上下落し、リスクオフに。",
-          "affected_sectors": [
-            "Japanese Equities",
-            "Technology",
-            "Export-oriented industries"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急騰で世界的なインフレ懸念が再燃、ガソリン価格も上昇",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化により原油価格が再び高騰、米国ガソリン価格は$4超え。消費者と企業にインフレ圧力が。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Airlines",
-            "Consumer Discretionary",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イーロン・マスク氏のSpaceX、史上最大規模のIPOを申請",
-          "country": "USA",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "マスク氏率いるSpaceXがIPOを申請、宇宙産業への投資を活性化する可能性も、市場は慎重姿勢。",
-          "affected_sectors": [
-            "Aerospace & Defense",
-            "Technology",
-            "Venture Capital"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イーライリリー、新経口減量薬が米国FDA承認を受け株価に好影響",
-          "country": "USA",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イーライリリーの経口減量薬が米FDA承認。肥満治療市場に大きな影響を与え、同社株価にプラス要因。",
-          "affected_sectors": [
-            "Pharmaceuticals",
-            "Healthcare",
-            "Biotechnology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化で原油高と株価下落、リスク回避を推奨。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 19:30",
     "data": {
       "breaking_news": [
@@ -12306,6 +12223,70 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン停戦協議で市場はリスクオン、トランプ会見に注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの紛争激化、ホルムズ海峡の封鎖を巡る懸念が市場を圧迫",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領は火曜日までにホルムズ海峡の再開をイランに警告、緊張が高まり原油価格が変動。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイラン間の和平計画の検討報道、市場の沈静化に寄与",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "パキスタン仲介の和平案が米国とイランで検討中と報じられ、緊張緩和への期待が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国のインフレ率安定、中央銀行の積極的な利上げ懸念が後退",
+          "country": "英国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国のインフレ率は2.5%で安定、イングランド銀行による積極的な利上げ懸念を緩和。",
+          "affected_sectors": [
+            "金融",
+            "小売",
+            "不動産"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ユーロ圏製造業PMIが上昇、ユーロを押し上げる",
+          "country": "ユーロ圏",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ユーロ圏製造業PMIは51.5に上昇し拡大を示唆、対ドルでユーロに好影響を与えた。",
+          "affected_sectors": [
+            "製造業",
+            "輸出"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン紛争とホルムズ海峡封鎖は世界の原油供給を脅かす。"
     }
   }
 ]
