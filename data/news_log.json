@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ氏のイラン警告で原油急騰、世界市場は下落",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領によるイランへの警告が緊張を高め、地政学的リスクから原油価格が急騰し、世界の株式市場が下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン和平への期待で世界株価が上昇、原油価格は緩和",
-          "country": "グローバル",
-          "category": "地政学, マクロ経済, 市場心理",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争終結への期待が高まり、世界の株式市場が回復。和平への憶測が広がり、原油価格は軟化。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "通信サービス",
-            "エネルギー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン紛争、市場乱高下。石油高騰、株価変動。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 21:30",
     "data": {
       "breaking_news": [
@@ -12341,6 +12302,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争と高インフレが市場の主要懸念事項。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、ホルムズ海峡再開の期限をイランに設定し、石油価格が変動",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領はイランに対し火曜日までにホルムズ海峡を再開するよう期限を設定し、行動を警告。紛争激化と停戦期待により石油価格は不安定。",
+          "affected_sectors": [
+            "石油・ガス",
+            "海運",
+            "株式市場",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争が世界的な債務危機懸念を引き起こす",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の経済的衝撃とドルシステムの信頼性低下が、特に新興国市場で世界的な債務危機懸念を高めている。",
+          "affected_sectors": [
+            "金融",
+            "ソブリン債市場",
+            "新興国市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の雇用統計が予想を上回る",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の非農業部門雇用者数は17.8万人増で予想を上回り、失業率は4.3%に改善。賃金は0.2%上昇。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争とホルムズ海峡期限により市場の不確実性が高まり、石油価格の変動と債務危機懸念が上昇。"
     }
   }
 ]
