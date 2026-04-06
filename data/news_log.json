@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争停戦期待で世界株式市場が上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領のイラン戦争終結の可能性に関する発言がリスク選好度を高め、世界的に株価が急騰。",
-          "affected_sectors": [
-            "Equities",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争沈静化期待で原油価格が下落",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の解決への楽観論が広がり、世界的に原油価格が下落。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米債券利回り、重要経済指標発表を控え低下",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月製造業PMIとADP雇用統計など、主要経済指標の発表を控え、米国債利回りが低下。",
-          "affected_sectors": [
-            "Fixed Income",
-            "Financials",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インフレと戦争で米国債市場が過去最長の下落基調を継続",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米債券市場は記録的な68ヶ月間の下落が続き、根強いインフレとエネルギー価格高騰に直面。",
-          "affected_sectors": [
-            "Fixed Income",
-            "Financials",
-            "Pensions"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国製造業PMIが急上昇、世界経済の見通しを押し上げ",
-          "country": "China",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の工場活動が大幅に成長し、世界経済の回復力と前向きな勢いを示唆。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Global Trade",
-            "Commodities"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争停戦期待で世界株高、原油価格下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 08:00",
     "data": {
       "breaking_news": [
@@ -12179,6 +12099,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油価格高騰、地政学リスクに警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランにホルムズ海峡再開期限を設定。不履行ならエスカレーション示唆",
+          "country": "USA/Iran/Global",
+          "category": "Geopolitics/Energy Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領はイランに対し、ホルムズ海峡の再開期限を火曜日午後8時（ET）に設定。不履行の場合の対応を示唆し、原油市場に緊張が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Equities",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イスラエル、イランのエネルギー施設への攻撃を検討中。米国の承認待ち",
+          "country": "Israel/Iran/USA",
+          "category": "Geopolitics/Energy/Military",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルはイランのエネルギー施設への攻撃を視野に入れており、米国の承認を待っている。中東情勢のさらなる緊迫化が懸念される。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OPEC+、名目上の増産を協議するも、イラン戦争で世界の石油供給の15%が麻痺",
+          "country": "Global/Middle East",
+          "category": "Energy Policy/Commodities/Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "OPEC+が名目的な増産を協議中だが、イラン戦争により世界の石油供給の15%が麻痺状態にある。実質的な供給問題が続く可能性が高い。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パラマウント、ワーナー取引のために湾岸ファンドから240億ドルを確保",
+          "country": "USA/Middle East",
+          "category": "M&A/Media & Entertainment",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "パラマウントは、ワーナーとの取引に向けて湾岸ファンドから240億ドルの資金を確保した。メディア・エンタメ業界でM&Aが活発化している。",
+          "affected_sectors": [
+            "Media & Entertainment",
+            "Private Equity"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、原油供給懸念で市場にリスクオフムード。"
     }
   }
 ]
