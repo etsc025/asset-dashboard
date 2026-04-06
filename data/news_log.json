@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "世界株価上昇、原油下落：イラン戦争終結期待",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結の期待感が高まり、世界の株式市場は全面高。一方で原油価格は供給懸念後退から下落している。",
-          "affected_sectors": [
-            "Global Equities",
-            "Energy",
-            "Transportation",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株・米国株が続伸、イラン紛争終結観測でリスクオン",
-          "country": "Europe, US",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ米大統領のイラン紛争終結検討発言を受け、欧州・米国市場の株価が続伸しリスクオンムードが強まる。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Industrials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY原油続落、中東紛争早期終結への期待で価格軟化",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の早期終結期待が市場を支配し、ニューヨーク原油価格は続落。供給過剰懸念が強まっている。",
-          "affected_sectors": [
-            "Energy (Oil & Gas Producers)",
-            "Utilities",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン戦争終結期待で世界的にリスクオン相場、株高・原油安へ。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 14:00",
     "data": {
       "breaking_news": [
@@ -12231,6 +12178,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イランを巡る地政学リスクの高まりで原油高、米国株先物下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領のイランへの最後通告で緊張高まり、原油価格が急騰。",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国トランプ大統領のホルムズ海峡封鎖巡るイランへの脅威が地政学リスクを高め、原油価格を110ドル超に押し上げ、市場に不安が広がる。",
+          "affected_sectors": [
+            "Energy",
+            "Aviation",
+            "Shipping",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "エネルギー価格高騰が世界的なインフレ懸念を煽り、中央銀行の利下げ期待が後退。",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢緊迫化と高エネルギー価格が「高金利長期化」観測を強め、中央銀行の金融政策余地を狭める。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏製造業PMI上昇でセクター拡大、地政学リスク下で一部市場は軟調。",
+          "country": "Eurozone, Indonesia",
+          "category": "Economic Data, Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ユーロ圏製造業PMIは51.5に上昇し拡大を示す一方、トランプ大統領の強硬発言を受けインドネシアIHSGは下落。",
+          "affected_sectors": [
+            "Industrials",
+            "Manufacturing",
+            "Equities"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン衝突激化、原油急騰とインフレ懸念が市場を圧迫。"
     }
   }
 ]
