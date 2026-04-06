@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランからの軍事撤退を計画、市場は楽観視",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランからの米軍撤退の可能性を示唆。中東情勢の緊張緩和期待から市場は上昇、原油下落。",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格下落、エネルギーセクターに打撃",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢緩和期待で原油価格が大幅下落。エネルギー株が売られ、投資家は他の資産クラスへ資金を移動中。",
-          "affected_sectors": [
-            "Energy",
-            "Oil & Gas",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場、ハイテク株主導で続伸",
-          "country": "United States",
-          "category": "Equity Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国株は中東情勢改善期待で2日続伸。特にハイテク株がS&P 500とナスダックを牽引し市場全体を押し上げた。",
-          "affected_sectors": [
-            "Technology",
-            "Information Technology",
-            "Broad Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国ポンド、インフレデータ発表後に軟化",
-          "country": "United Kingdom",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国のインフレデータ発表後、ポンドが対ドルで下落。市場は英国中央銀行の今後の金融政策動向に注目している。",
-          "affected_sectors": [
-            "FX Markets",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、2026年世界経済成長率予測を上方修正、インフレは漸減",
-          "country": "Global",
-          "category": "Economic Outlook",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFは2026年の世界成長率予測を3.3%に上方修正。インフレは減速するも、米国の減速はより緩やか。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン情勢緩和期待で原油安、株式市場はリスクオンに転換。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 11:30",
     "data": {
       "breaking_news": [
@@ -12198,6 +12122,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化による原油価格高騰が世界経済を脅かす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ米大統領のイランへの新たな脅威と原油価格高騰",
+          "country": "グローバル",
+          "category": "地政学/コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国トランプ大統領のイランへの新たな脅威とホルムズ海峡閉鎖発言で、原油価格が急騰。中東情勢の緊迫化が世界経済に懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債利回りの上昇と経済指標発表への注目",
+          "country": "米国",
+          "category": "債券/マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "トランプ氏のイラン発言を受け米国債利回りが上昇。今後の雇用統計、貿易収支など経済指標発表に市場が注目。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "一般経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア株式市場、休戦協議の報道で上昇もイラン情勢を注視",
+          "country": "アジア",
+          "category": "株式/地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "休戦協議の報道で日韓株式市場は上昇したが、投資家はイラン情勢と原油価格の動向を注視。",
+          "affected_sectors": [
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米経済指標に混合シグナル：サービス業PMIと雇用統計",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国サービス業PMIは予想外の収縮、賃金成長鈍化。一方で雇用者数は増加し失業率は低下。",
+          "affected_sectors": [
+            "一般経済"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油価格高騰が世界市場にリスクオフ圧力"
     }
   }
 ]
