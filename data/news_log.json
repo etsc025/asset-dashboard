@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ米大統領、イランに対し強硬姿勢を表明",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領がイランに対し「極めて強く」攻撃すると表明し、中東情勢の緊張が高まり、株式市場が下落、原油価格が急騰している。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "グローバル株式市場、中東情勢緊迫化で下落",
-          "country": "グローバル",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領によるイランへの強硬発言を受け、欧州および米国の株式市場が下落し、投資家心理が悪化している。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が急騰、中東情勢の緊張高まりを反映",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の地政学的緊張が高まる中、世界の原油価格が大幅に上昇。WTI原油は110ドル超えを記録している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン緊張激化で原油急騰・株安、市場はリスクオフ"
-    }
-  },
-  {
     "timestamp": "2026-04-03 03:00",
     "data": {
       "breaking_news": [
@@ -12519,6 +12467,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争激化懸念で原油価格高騰、市場は地政学的リスクを警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イランが停戦提案を拒否、トランプ大統領は新たな警告を発し、中東情勢緊迫化",
+          "country": "中東/米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランは停戦提案を正式に拒否し、トランプ大統領が新たな警告を発したことで、中東情勢はさらに緊迫化。原油価格が上昇中。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、中東情勢の緊迫化と供給懸念で高騰",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランの停戦拒否とトランプ大統領の警告を受け、WTI原油先物は1バレル114ドルへ上昇。供給ショック懸念が再燃。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イスラエルがイランの石油化学施設を攻撃、イランはクウェートのエネルギーインフラを標的",
+          "country": "中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルがイラン最大の石油化学施設を攻撃し、イランは報復としてクウェートのエネルギーインフラを標的にした模様。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の3月ISMサービスPMIが予想を下回り、雇用減速を示唆",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "3月のISMサービスPMIは54に低下し、ビジネス活動成長の減速と雇用の新たな減少を示した。市場予想を下回る。",
+          "affected_sectors": [
+            "サービス業",
+            "労働市場",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "地政学的S不確実性でドルが軟化",
+          "country": "グローバル",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東での地政学的緊張が市場を慎重にさせ、米ドルはわずかに軟化。DXYは0.05%下落。",
+          "affected_sectors": [
+            "為替市場",
+            "輸出入"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、イランが停戦案拒否し原油価格高騰。"
     }
   }
 ]
