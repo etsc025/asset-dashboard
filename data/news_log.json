@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Oil Soars as Trump Threatens Iran War Escalation, Global Stocks Tumble",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領のイラン戦争激化発言を受け原油価格が1バレル110ドル超に急騰し、世界株式市場が大幅下落。",
-          "affected_sectors": [
-            "Energy",
-            "Technology",
-            "Financials",
-            "Aviation",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Blue Owl, KKR Private Credit Funds Curb Redemptions Amid Market Strain",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Blue Owl CapitalとKKRのプライベートクレジットファンドが償還を抑制し、市場の流動性懸念を示唆。",
-          "affected_sectors": [
-            "Financials",
-            "Asset Management"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "India Bans Offshore Rupee Trading, Shaking $149 Billion Market",
-          "country": "India",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "インドがオフショアでのルピー取引を禁止し、1490億ドル規模の市場に影響を与え、ヘッジコストを上昇。",
-          "affected_sectors": [
-            "Banking & Finance",
-            "International Trade",
-            "Foreign Exchange",
-            "Fixed Income"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争激化で原油110ドル超、世界株下落。プライベートクレジット償還制限。インドがオフショアルピー取引禁止。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 01:30",
     "data": {
       "breaking_news": [
@@ -12472,6 +12419,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化による原油高とインフレ懸念が市場心理を悪化させている。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争激化、原油価格高騰と世界経済成長への懸念を増幅",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争の激化により原油価格が上昇し、世界的なインフレと成長鈍化への懸念が高まっています。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国雇用市場が回復、FRB議長は利上げに慎重な姿勢を維持",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用者数は予想を上回りましたが、FRB議長はインフレ警戒も利上げに慎重です。",
+          "affected_sectors": [
+            "金融",
+            "消費裁量",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "2026年第1四半期のグローバルM&A活動が過去最高を記録",
+          "country": "グローバル",
+          "category": "企業金融",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "2026年第1四半期にグローバルM&Aのメガディールが過去最高を記録し、企業活動の活発化を示唆。",
+          "affected_sectors": [
+            "産業財",
+            "航空宇宙",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国消費者は経済不確実性に対応し支出・貯蓄習慣を調整",
+          "country": "米国",
+          "category": "消費者行動",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国人は経済的圧力に対応し、日々の金銭的選択と貯蓄を増やすことで賢明な支出をしています。",
+          "affected_sectors": [
+            "小売",
+            "一般消費財",
+            "金融サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国株式市場は地政学的緊張でまちまちの動き",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東紛争とハイテク株の動向を受け、米国株式市場はまちまちのパフォーマンスを示しています。",
+          "affected_sectors": [
+            "テクノロジー",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争が激化、原油とインフレリスク増大。"
     }
   }
 ]
