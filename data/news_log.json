@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争を巡る報道で原油価格が変動、世界市場に不確実性",
-          "country": "Global",
-          "category": "Geopolitics, Commodities, Energy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国大統領のイラン戦争終結発言で原油価格急落後、相反する報道により変動。世界市場は不確実性に直面。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAIが1220億ドルの資金調達完了、SpaceXがIPOを秘密裏に申請",
-          "country": "United States",
-          "category": "Technology, IPO, Venture Capital",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが1220億ドルの資金調達完了、SpaceXがIPOを秘密裏に申請。AIと宇宙産業への投資関心高まる。",
-          "affected_sectors": [
-            "Technology",
-            "Aerospace",
-            "Venture Capital"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国、鉄鋼、アルミニウム、医薬品に追加関税を検討",
-          "country": "United States",
-          "category": "Trade, Politics, Manufacturing",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国、鉄鋼、アルミ、医薬品に追加関税を検討中。貿易摩擦とサプライチェーンへの影響が懸念される。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Pharmaceuticals",
-            "Metals"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン戦争を巡る報道が市場を大きく揺らし、原油価格は高騰中。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 14:30",
     "data": {
       "breaking_news": [
@@ -12230,6 +12179,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン衝突激化、原油急騰とインフレ懸念が市場を圧迫。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米株先物、中東停戦交渉進展期待で上昇",
+          "country": "USA",
+          "category": "Geopolitics, Market Movement",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の45日間の停戦交渉が報じられ、S&P500およびナスダック100先物が上昇。投資家心理が改善。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドのサービス業成長、中東紛争で14ヶ月ぶり低水準",
+          "country": "India",
+          "category": "Economic Indicator",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東戦争による需要減退を受け、3月のインドサービス業PMIは14ヶ月ぶりの低成長に鈍化。",
+          "affected_sectors": [
+            "Services",
+            "Tourism",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国のガソリン価格が1ガロンあたり4ドルを突破、消費に重圧",
+          "country": "USA",
+          "category": "Energy, Inflation",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争開始以来、米国の平均ガソリン価格が2022年8月以来初めて4ドルを超え、消費者家計を圧迫。",
+          "affected_sectors": [
+            "Transportation",
+            "Retail",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、停戦期待で一時下落も地政学リスクで不安定",
+          "country": "Global",
+          "category": "Commodities, Energy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン停戦交渉への期待感からWTI原油が一時下落。しかし、中東情勢の不透明感が残り、価格は不安定な推移。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Chemicals"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン停戦交渉期待が市場を押し上げ。原油高と地政学リスクは継続。"
     }
   }
 ]
