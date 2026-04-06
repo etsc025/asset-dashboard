@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均が大幅反落、中東情勢の不透明感で失望売り",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領の演説で中東紛争終結への具体的な言及がなく、市場の失望感が広がり、日経平均は1200円超の大幅安。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英中銀総裁、プライベートクレジット市場の懸念を世界金融危機に例示",
-          "country": "英国",
-          "category": "金融システム",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英中銀総裁はプライベートクレジット市場の問題が世界金融危機を彷彿させると警告。金融安定性への懸念が高まる。",
-          "affected_sectors": [
-            "金融機関",
-            "プライベートエクイティ",
-            "投資ファンド"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀審議委員に「リフレ派」浅田氏就任、金融緩和と積極財政を重視",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日銀の新しい審議委員に積極財政と金融緩和を重視する浅田統一郎氏が就任。中東情勢による原油高の物価への影響を注視する姿勢。",
-          "affected_sectors": [
-            "銀行",
-            "建設",
-            "輸出企業"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の不確実性再燃、世界的な株安と原油高に警戒が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 16:30",
     "data": {
       "breaking_news": [
@@ -12275,6 +12224,55 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油高が世界経済に懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン・米国、紛争終結とホルムズ海峡再開の提案を受領。原油価格は乱高下。",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランが紛争終結とホルムズ海峡再開の提案を受け、原油価格は乱高下。停戦期待と新たな条件で市場は揺れる。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本の長期金利、イラン情勢を受け2.425%に上昇、27年ぶりの高水準",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日本の長期金利がイラン情勢を受け2.425%に上昇し、27年ぶりの高水準を記録。金融市場に警戒感。",
+          "affected_sectors": [
+            "銀行",
+            "不動産",
+            "政府債券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国経済、高税率と過剰規制で停滞と専門家が指摘",
+          "country": "英国",
+          "category": "財政政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "専門家が英国経済は高い税金と過剰な規制により停滞していると指摘。成長見通しに懸念。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢が原油市場と日本の長期金利を揺るがし、世界的なリスクオフムードが強まる。"
     }
   }
 ]
