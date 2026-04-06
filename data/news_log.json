@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、中東衝突沈静化期待で上昇、原油価格下落",
-          "country": "United States",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領の停戦発言を受け、中東情勢の沈静化期待から米国株式市場が続伸し、原油価格は下落した。",
-          "affected_sectors": [
-            "Energy",
-            "Technology",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月の民間雇用6.2万件増加、製造業も拡大",
-          "country": "United States",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の米民間雇用は6.2万件増加、中小企業とヘルスケアが牽引。製造業活動も拡大し経済の底堅さ示す。",
-          "affected_sectors": [
-            "Labor Market",
-            "Manufacturing",
-            "Healthcare"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AIデータセンター向け資金調達で警戒感、借入コスト増",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "AIデータセンターの建設資金調達において、リース条件の厳格化と借入コスト上昇により警戒感が高まっている。",
-          "affected_sectors": [
-            "Technology",
-            "Real Estate",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和期待で米国株上昇。AI投資の資金調達に警戒も。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 11:00",
     "data": {
       "breaking_news": [
@@ -12184,6 +12133,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢緊迫化と原油高継続が世界経済の主要リスク。日銀の早期利上げ観測も浮上。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で原油価格高騰、株式市場に下落圧力",
+          "country": "グローバル",
+          "category": "地政学・コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化と原油価格の高騰が世界経済に不確実性をもたらし、広範な市場で株価下落圧力となっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "製造業",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計、予想上回る堅調な伸びで失業率低下",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月雇用統計は予想を上回る堅調な伸びを示し、失業率も低下。FRBの利下げ判断に影響を与える可能性。",
+          "affected_sectors": [
+            "全般",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏3月インフレ率、エネルギー価格高騰で上昇",
+          "country": "ユーロ圏",
+          "category": "経済指標・金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の3月インフレ率がエネルギーコスト急騰により上昇し、欧州中央銀行の金融政策にタカ派的な圧力を加えている。",
+          "affected_sectors": [
+            "消費裁量品",
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本3月東京CPIは鈍化も、日銀4月利上げ観測が残る",
+          "country": "日本",
+          "category": "経済指標・金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "日本の3月東京CPIは鈍化も、エネルギー価格高騰で日銀の4月利上げ観測は根強く、市場の注目を集める。",
+          "affected_sectors": [
+            "金融",
+            "輸出",
+            "消費裁量品"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化による原油価格高騰が世界経済を脅かす。"
     }
   }
 ]
