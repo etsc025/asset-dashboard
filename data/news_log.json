@@ -1,101 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東紛争終結への期待で世界株が上昇、原油価格は緩和",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランとの紛争終結への期待から、世界的に株価が上昇し、原油価格が緩和しています。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceX、米国での記録的IPOに向け秘密裏に申請",
-          "country": "米国",
-          "category": "テクノロジー, IPO",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イーロン・マスク氏のSpaceXが米国でのIPOに向け秘密裏に申請。テクノロジー・宇宙産業に注目。",
-          "affected_sectors": [
-            "テクノロジー",
-            "航空宇宙",
-            "投資銀行",
-            "資本市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ワシントン州、データセンターの税制優遇を撤廃",
-          "country": "米国 (ワシントン州)",
-          "category": "税制, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ワシントン州が既存データセンターのサーバー交換に関する売上税免除を撤廃。",
-          "affected_sectors": [
-            "テクノロジー",
-            "データセンター",
-            "州財政"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "2026年2月の米求人件数は横ばい、採用件数は減少",
-          "country": "米国",
-          "category": "労働市場, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の2月求人件数は690万件で横ばい。採用件数は480万件に減少。労働市場の冷え込みを示唆。",
-          "affected_sectors": [
-            "全セクター",
-            "人事"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イリノイ州、2026年第1四半期にグローバル企業から数十億ドル規模の投資と約4,000人の雇用を誘致",
-          "country": "米国 (イリノイ州)",
-          "category": "地域経済, 投資",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "イリノイ州が2026年第1四半期に約25億ドルの投資と約4,000人の新規雇用を確保。",
-          "affected_sectors": [
-            "製造業",
-            "ライフサイエンス",
-            "食品生産",
-            "地域経済"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国、ジェット燃料不足に脆弱、イラン紛争で住宅ローン支払い増の可能性",
-          "country": "英国",
-          "category": "エネルギー, 経済, 地政学, 不動産",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国はジェット燃料不足に脆弱。イラン紛争により130万世帯の住宅ローン支払いが増加する可能性。",
-          "affected_sectors": [
-            "航空産業",
-            "エネルギー",
-            "不動産",
-            "銀行",
-            "家計"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン紛争終結への期待が世界的な株価上昇を牽引。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 10:00",
     "data": {
       "breaking_news": [
@@ -12181,6 +12085,91 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油供給リスクが市場の最重要懸念事項。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランにホルムズ海峡開放を要求、爆撃の可能性示唆",
+          "country": "USA/Iran",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国大統領がイランに対し、ホルムズ海峡の開放を要求し、従わなければ爆撃すると警告。中東の地政学リスクが高まり、原油市場に強い上昇圧力がかかる。世界経済への影響に警戒が必要。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Aviation",
+            "Industrials",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イスラエルがイランのエネルギー施設への攻撃を検討中と報道",
+          "country": "Israel/Iran",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルがイランのエネルギー施設への攻撃を検討しているとの報道。中東の地政学的緊張が極度に高まり、原油供給の混乱と価格高騰リスクが懸念される。",
+          "affected_sectors": [
+            "Energy",
+            "Geopolitics",
+            "Global Markets",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、イラン紛争懸念で戦略石油備蓄をさらに放出",
+          "country": "USA",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国政府はイラン紛争による供給不安を背景に、戦略石油備蓄をさらに1000万バレル放出。原油価格の急騰を抑制する狙いだが、地政学リスクは根強い。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争による燃料費高騰、ユナイテッド航空とアマゾンが値上げ",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争激化で燃料費が高騰し、ユナイテッド航空が手荷物料金、アマゾンが販売手数料を値上げ。企業のコスト増が最終的に消費者へ転嫁される懸念が高まる。",
+          "affected_sectors": [
+            "Aviation",
+            "E-commerce",
+            "Logistics",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の金融犯罪が4.4兆ドルに到達、Nasdaq報告書が明らかに",
+          "country": "Global",
+          "category": "Financial Services",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Nasdaqの2026年報告書で、世界の金融犯罪が4.4兆ドルに達したと判明。金融機関はAI活用などにより、コンプライアンス強化とリスク管理体制の抜本的見直しが急務となる。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology",
+            "Cybersecurity",
+            "Regulation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢の緊迫化による原油価格高騰と地政学リスク増大に警戒。"
     }
   }
 ]
