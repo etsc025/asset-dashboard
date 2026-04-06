@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-02 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ドルが上昇、トランプ氏がイランへのさらなる攻撃を誓う",
-          "country": "米国",
-          "category": "外国為替, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランへの追加攻撃を誓ったことを受け、ドルが主要通貨に対し上昇。市場はリスク回避姿勢を強める。",
-          "affected_sectors": [
-            "為替市場",
-            "株式市場",
-            "商品市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "石油価格が上昇し、アジア株が下落、トランプ氏がイランを強く攻撃すると発言",
-          "country": "アジア各国",
-          "category": "商品, 株式市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領のイラン戦争に関する演説後、石油価格が4%以上上昇し、アジア株は下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場 (アジア)",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、米国は今後2～3週間でイランを「非常に強く」攻撃すると発言",
-          "country": "米国",
-          "category": "地政学, 政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領が今後2～3週間でイランへの軍事作戦強化を示唆。地政学的リスクが高まり市場に警戒感。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の中央銀行、戦争が経済見通しを不透明にする中、ほぼ現状維持",
-          "country": "グローバル",
-          "category": "金融政策, 経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東紛争による不確実性から、世界の中央銀行は金融政策を現状維持。経済成長への下振れリスクに言及。",
-          "affected_sectors": [
-            "金融",
-            "株式市場全般"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢の悪化により石油価格が高騰、世界市場に下落圧力。"
-    }
-  },
-  {
     "timestamp": "2026-04-02 18:30",
     "data": {
       "breaking_news": [
@@ -12307,6 +12243,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争が激化し、原油価格高騰と市場のボラティリティが増加。"
+    }
+  },
+  {
+    "timestamp": "2026-04-06 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "JPMorgan CEO Dimon warns Iran war may drive inflation and interest rates higher",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPMorganのダイモンCEOは、イラン戦争が原油価格を押し上げ、世界的なインフレと金利上昇を招くと警告した。",
+          "affected_sectors": [
+            "Financials",
+            "Energy",
+            "Global Markets",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Brent oil's price surge sends a jolt through global markets",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ブレント原油価格が急騰し、世界市場に衝撃。インフレ圧力が強まり、景気減速懸念が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Iran conflict latest: IRGC intel chief killed as mediators push for ceasefire",
+          "country": "Iran",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン革命防衛隊の情報部長が殺害され、調停者が停戦を推進する中、中東紛争が激化している。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争激化で原油価格急騰、世界的なインフレと金利上昇懸念が強まり市場は警戒モード。"
     }
   }
 ]
