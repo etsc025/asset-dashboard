@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格が高騰、世界市場に影響",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東の政治的緊張激化と紛争懸念により原油価格が急騰し、エネルギーコスト上昇を通じて世界経済に影響を及ぼしている.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMFがトークン化された金融が世界金融システムに与える4つのリスクを警告",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFは、トークン化された金融が、流動性の断片化や金融安定性への影響など、4つの主要なリスクをもたらすと警告した.",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology",
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ大統領、イラン橋破壊攻撃後テヘランへのさらなる報復を警告",
-          "country": "United States",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がイランの橋破壊攻撃後、テヘランに対しさらなる報復措置を警告し、地政学的リスクと市場の不確実性を高めている.",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国スターマー顧問、原油価格高騰を受け燃料税引き下げを要求",
-          "country": "United Kingdom",
-          "category": "Fiscal Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "英国労働党のコスト・オブ・リビング顧問が、イラン戦争による原油価格高騰を受け、燃料税引き下げを政府に求めた.",
-          "affected_sectors": [
-            "Retail",
-            "Transportation",
-            "Government Finances"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米上院議員、チケットマスターの隠れた手数料値上げを非難",
-          "country": "United States",
-          "category": "Corporate",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "米上院議員がチケットマスターに対し、隠れた手数料の値上げに関する懸念を表明し、消費者保護の強化を求めた.",
-          "affected_sectors": [
-            "Entertainment",
-            "Technology",
-            "Consumer Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油価格高騰が市場の主要懸念事項"
-    }
-  },
-  {
     "timestamp": "2026-04-03 21:30",
     "data": {
       "breaking_news": [
@@ -12816,6 +12736,81 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "トランプ大統領のイラン最後通告が市場の不安と原油高を招く"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 01:08",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランのハルグ島を攻撃。地政学リスクで世界株下落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランのハルグ島を攻撃したとの報道を受け、世界の株式市場は下落。地政学的緊張が高まりリスク回避の動き強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン、米国との交渉停止。中東情勢の緊迫化で市場に懸念",
+          "country": "Iran, US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが米国との交渉を停止し、裏チャネル外交を打ち切り。中東情勢の緊迫化が市場に更なるリスクオフをもたらす。",
+          "affected_sectors": [
+            "Energy",
+            "Global Markets",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドNifty、イラン情勢悪化でギャップダウン開始予測",
+          "country": "India",
+          "category": "Market Movement",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランに対する威嚇を受け、インドのNifty市場はギャップダウンで取引を開始する見込み。リスク回避が鮮明。",
+          "affected_sectors": [
+            "All sectors on Indian stock market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英Senior PLC、ブラックストーン・ティニカム連合による買収に合意",
+          "country": "UK",
+          "category": "Corporate M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英Senior PLCがブラックストーンとティニカムのコンソーシアムによる買収提案に合意。株主には好材料となる。",
+          "affected_sectors": [
+            "Aerospace",
+            "Defense",
+            "Engineering"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "88 Energyが新規3D地震探査データセット確保、探査活動を強化へ",
+          "country": "Global",
+          "category": "Corporate News",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "88 Energyが新たな3D地震探査データセットへのアクセスを確保。今後の石油・ガス探査活動に活用し、事業強化を目指す。",
+          "affected_sectors": [
+            "Oil & Gas Exploration"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国によるイランのハルグ島攻撃の報道が市場に重くのしかかる。"
     }
   }
 ]
