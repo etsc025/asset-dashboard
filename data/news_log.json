@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、トランプ大統領の新たな脅威を受けて地上戦に備え動員、原油価格急騰",
-          "country": "グローバル",
-          "category": "地政学・エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領の新たな脅威を受け、イランが地上戦への動員を強化し、世界の原油価格が急騰している。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、トークン化された金融が世界金融システムにもたらす4つのリスクについて警鐘",
-          "country": "グローバル",
-          "category": "フィンテック・金融規制",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFは、トークン化された金融が断片化、金融安定性への脅威、法的ギャップ、新興国市場の不安定化を引き起こすリスクを警告している。",
-          "affected_sectors": [
-            "フィンテック",
-            "ブロックチェーン",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、3月の雇用者数が予想を上回る17.8万人増",
-          "country": "米国",
-          "category": "経済・労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の米国の雇用者数は17.8万人と予想を上回ったが、2月の損失は当初報告よりも悪化していた。",
-          "affected_sectors": [
-            "全般",
-            "消費者裁量",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "マイクロソフト、日本のAIインフラとサイバーセキュリティに100億ドル投資へ",
-          "country": "日本",
-          "category": "テクノロジー・投資",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "マイクロソフトは、AIインフラとサイバーセキュリティ能力を強化するため、日本に100億ドルを投資する計画を発表した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "AI",
-            "サイバーセキュリティ",
-            "日本経済"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ヘッジファンドが13年で最速のペースで世界の株式を売却",
-          "country": "グローバル",
-          "category": "市場・投資",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ヘッジファンドは、世界的な地政学的緊張と不確実性を背景に、過去13年間で最も速いペースで世界の株式を売却している。",
-          "affected_sectors": [
-            "全般",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争が激化し、原油価格を押し上げ市場の不確実性が高まっている。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 00:00",
     "data": {
       "breaking_news": [
@@ -12801,6 +12722,109 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と急速な円安が市場のリスク回避を促す"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化による米国株下落と原油高騰",
+          "country": "米国",
+          "category": "地政学、マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランのハルグ島への攻撃を実施したとの報道を受け、米国株式市場は下落。原油価格は高騰し、インフレ懸念が増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "テクノロジー",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FinCEN、AML監督における主導的役割を提案",
+          "country": "米国",
+          "category": "金融規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米金融犯罪取締ネットワーク(FinCEN)は、AML・テロ資金供与対策の監督において銀行規制機関との連携強化を義務付ける新規則案を発表。",
+          "affected_sectors": [
+            "金融サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国のインフレ期待が急上昇",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ニューヨーク連銀の調査によると、3月の1年先インフレ期待は3.4%に上昇。中東紛争によるガソリン価格高騰が主な要因。",
+          "affected_sectors": [
+            "全セクター",
+            "債券市場",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ロイズ銀行、マネーミュール対策に量子コンピューティングを試験導入",
+          "country": "英国",
+          "category": "企業、テクノロジー",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "ロイズ・バンキング・グループは、金融犯罪対策強化のため、マネーミュール活動の検知に量子アルゴリズムを試験的に導入。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "マイクロソフト、オンタリオ州でのAIインフラ拡張に数十億ドル投資",
+          "country": "カナダ",
+          "category": "企業、テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "マイクロソフトはオンタリオ州でクラウド・AIインフラを拡張するため数十億ドルを投資、建設で1000人、運用で250人の雇用を創出。",
+          "affected_sectors": [
+            "テクノロジー",
+            "インフラ",
+            "地方経済"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ランウェイ・グロース・ファイナンス、SWKホールディングス買収完了",
+          "country": "米国",
+          "category": "企業、M&A",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "ランウェイ・グロース・ファイナンスはSWKホールディングスの買収を完了し、ベンチャーレンディング市場での規模拡大とヘルスケア分野の多様化を図る。",
+          "affected_sectors": [
+            "金融サービス",
+            "ヘルスケア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、中東情勢で新興市場の金融安定リスクを警告",
+          "country": "国際",
+          "category": "マクロ経済、地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFは、ヘッジファンドの借り入れが、中東情勢の緊迫化により新興市場の金融安定性を脅かす可能性があると警告。",
+          "affected_sectors": [
+            "新興市場",
+            "金融安定性"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化により米国株式市場が下落、原油価格とインフレ期待が上昇中。"
     }
   }
 ]
