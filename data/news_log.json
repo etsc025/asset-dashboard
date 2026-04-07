@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格が高騰、アジア株式市場は緩やかな上昇",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争長期化への懸念から原油価格が急騰。アジア株式は慎重な取引の中、緩やかに上昇している。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBローガン総裁、バランスシート縮小の選択肢を提示",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ダラス連銀のローガン総裁が、現行システムの金融安定性上の利点を考慮し、バランスシート縮小の選択肢を提案。",
-          "affected_sectors": [
-            "金融",
-            "金利変動に敏感なセクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "バンク・オブ・アメリカ、インドの成長予測を下方修正しインフレリスクを警告",
-          "country": "インド",
-          "category": "マクロ経済, 地域経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "バンク・オブ・アメリカはインドの成長予測を下方修正し、中東紛争起因のインフレリスク高まりを警告。",
-          "affected_sectors": [
-            "全セクター",
-            "インフレおよび成長減速に敏感なセクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Melius ResearchがRTXを格上げ、防衛需要急増が牽引",
-          "country": "米国",
-          "category": "企業ニュース, 防衛",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "防衛需要の急増を背景にMelius ResearchがRTX Corp.の投資判断をホールドからバイに格上げした。",
-          "affected_sectors": [
-            "防衛"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油高とインフレ懸念が世界市場を圧迫"
-    }
-  },
-  {
     "timestamp": "2026-04-03 18:30",
     "data": {
       "breaking_news": [
@@ -12785,6 +12723,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争による原油高とインフレ加速、利下げ遅延に市場が警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イランが停戦案を拒否、原油価格は高騰し地政学的リスク増大",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが停戦案を拒否し、トランプ氏の警告で中東情勢緊迫。原油価格は1バレル110ドル台で推移、インフレ懸念が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米サービス部門の活動減速とインフレ過熱の兆し",
+          "country": "US",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米ISMサービスPMIが予想を下回り活動減速を示す一方、原油高がインフレを加速させる懸念。米経済の軟化と物価上昇の兆候。",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英中央銀行が金利据え置き、中東情勢によるインフレ押し上げを警告",
+          "country": "UK",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英中央銀行は政策金利を3.75%に据え置くも、中東紛争によるエネルギー価格上昇がインフレを押し上げると指摘、経済への影響を警戒。",
+          "affected_sectors": [
+            "Banking",
+            "Real Estate",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが中東情勢と原油ショックを理由に世界経済成長見通しを下方修正",
+          "country": "Global",
+          "category": "Economic Outlook",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは中東紛争と原油価格上昇による供給網混乱を背景に、世界経済の成長見通しを下方修正。地政学的リスクが拡大。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、原油高騰で世界経済に下押し圧力"
     }
   }
 ]
