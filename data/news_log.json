@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争激化で世界原油価格が急騰",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の激化により原油価格が急騰し、米国産原油は1バレル110ドル超え、ブレント原油は116ドルに達した。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学的緊張で世界株式市場が乱高下",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン戦争の不確実性により世界株式市場は乱高下。S&P 500は回復も見せるが、地政学的緊張が続く。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争が世界的なインフレ圧力を増大",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が世界的にインフレ圧力を高め、英国企業は値上げを予想。Amazonは燃料サーチャージを導入。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Goods",
-            "Real Estate",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争による原油高騰と世界的なインフレ圧力の増大に警戒が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 14:00",
     "data": {
       "breaking_news": [
@@ -12627,6 +12574,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦交渉決裂懸念、原油高とインフレ加速に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイラン間の緊張激化で原油価格が高騰、市場に不確実性拡大",
+          "country": "GLOBAL",
+          "category": "Geopolitics & Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランへの最後通牒期限が迫り、ホルムズ海峡封鎖懸念から原油が1バレル110ドル超に。市場の不確実性が高まっている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Global Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月雇用統計は予想上回る、今週のCPIデータに注目集まる",
+          "country": "US",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の3月非農業部門雇用者数は好調だったが、今週発表されるCPIがFRBの利上げ（緩和サイクル）見通しにどう影響するか市場が注視。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国保険株が上昇、メディケアアドバンテージの料率引き上げが追い風",
+          "country": "US",
+          "category": "Healthcare Policy / Sector News",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "メディケアアドバンテージの料率引き上げ決定を受け、HumanaやUnitedHealthなど大手保険会社の株価が大幅に上昇し、セクターを牽引。",
+          "affected_sectors": [
+            "Healthcare",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIチップ需要が好調、サムスン電子は大幅増益予測。バイオテックM&Aも活発",
+          "country": "GLOBAL",
+          "category": "Technology, M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "AIチップ需要増でサムスン電子は利益急増を予測。NeurocrineによるSoleno買収など、バイオテック分野でのM&Aが引き続き活発化している。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors",
+            "Biotechnology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫、原油高とインフレ懸念が市場圧迫。FRBと決算に注目。"
     }
   }
 ]
