@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "東証、トランプ氏演説で一転売りに、日経平均大幅反落",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "2日の東京株式市場で日経平均が大幅反落。トランプ米大統領の演説で早期中東紛争終結期待が剥落。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY各市場、ダウ平均が大幅反落、ナスダックもマイナス圏で推移",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "4月2日のNY株式市場でダウ平均が一時660ドル超安の大幅反落、ナスダックもマイナス圏。中東情勢の緊迫化と原油高が嫌気された。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円、159円台後半で推移、原油高でドル堅調",
-          "country": "日本, 米国",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドル円相場は159円台後半で推移し、ドルは堅調。中東情勢を受けた原油価格高騰がドル買いを誘発し、円安圧力が続く。",
-          "affected_sectors": [
-            "輸出入企業",
-            "エネルギー関連",
-            "観光業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化、NY原油先物が急反発し112ドル台に",
-          "country": "世界",
-          "category": "商品市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン情勢緊迫化を受け、NY原油先物価格が急反発し一時113ドル台を記録。中東紛争終結への期待が後退し、市場に懸念が広がっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "消費"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日商会頭、中小企業の賃上げ「楽観視できない」中東情勢でコスト増見込む",
-          "country": "日本",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本商工会議所の小林会頭は、中東情勢悪化によるコスト増加で、中小企業の賃上げは楽観できないとの見解を示した。",
-          "affected_sectors": [
-            "中小企業全般",
-            "サービス業",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油高が市場の重し、主要株価指数は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 05:30",
     "data": {
       "breaking_news": [
@@ -12570,6 +12493,75 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化とインフレ懸念が市場に重圧、原油高と株価変動に注意。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランにホルムズ海峡再開の期限設定; 原油価格高止まり",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がイランにホルムズ海峡再開の期限を設定。イランは停戦案を拒否し、原油価格は高止まりし市場は警戒感を強めている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、地政学的緊張とインフレ懸念の中、小幅高",
+          "country": "米国",
+          "category": "株式市場, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株は原油価格高騰とインフレ懸念にもかかわらず小幅高。3月雇用統計は好調も、今週のインフレ指標が焦点となる。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国のインフレ圧力上昇、FRBの金融政策見通しに影響",
+          "country": "米国",
+          "category": "経済指標, 金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ISMサービスPMIがインフレ上昇を示唆し、3月CPIも高止まり予想。FRBのPCE指数と議事録に注目が集まっている。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "テクノロジー",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "個別銘柄動向：テスラ下落、マイクロン・Kratos・Plug Power上昇、Invesco下落",
+          "country": "米国",
+          "category": "企業業績, 株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "JPM警告でテスラ下落、アナリスト評価でマイクロン、Kratos上昇。Plug Powerは契約獲得で上昇、Invescoは競争激化で下落した。",
+          "affected_sectors": [
+            "自動車",
+            "半導体",
+            "防衛",
+            "クリーンエネルギー",
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学的緊張とインフレ懸念が市場を支配。原油価格は高止まり。"
     }
   }
 ]
