@@ -1,41 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国住宅ローン金利が5週連続上昇、イラン戦争が市場混乱を継続",
-          "country": "米国",
-          "category": "金融市場、地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の30年固定住宅ローン金利が5週連続で上昇し6.46%に達した。イラン戦争の継続が市場に混乱をもたらしている。",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "テスラの中国販売台数、3月は8.7%増加し5カ月連続の伸びを記録",
-          "country": "中国",
-          "category": "企業業績、経済データ",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "テスラが3月の中国での販売台数で前年同月比8.7%増を達成し、5ヶ月連続で増加を記録した。",
-          "affected_sectors": [
-            "自動車",
-            "電気自動車"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争による市場混乱と米住宅ローン金利上昇に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 06:30",
     "data": {
       "breaking_news": [
@@ -12561,6 +12525,123 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン戦争によるインフレ再燃懸念と金利高止まりリスクが最重要。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン緊張激化、トランプ大統領の最後通牒で市場警戒、停戦交渉も継続",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がホルムズ海峡開放期限を設定しイラン施設攻撃を警告。停戦交渉続くがイランは即時停戦を拒否。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "貿易",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPMorgan CEOダイモン、イラン戦争がインフレ再燃と金利高止まりを招くと警告",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ジェイミー・ダイモンCEOは、イラン戦争がエネルギー市場を混乱させ、インフレを再燃させると警告した。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NZIERシャドーボード、原油価格ショックの不確実性からRBNZのOCR据え置きを推奨",
+          "country": "ニュージーランド",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "NZIERは、原油価格ショックの不確実性と経済回復を理由に、RBNZが4月8日のOCRを2.25%に据え置くことを推奨。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株式市場は停戦期待で上昇も、中東情勢の混迷が警戒され不確実な動き",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株はイラン停戦期待とトランプ氏の警告が交錯する中、緩やかに上昇。原油価格は高止まり。",
+          "affected_sectors": [
+            "全セクター",
+            "テクノロジー",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドルは停戦期待で下落、主要通貨ペアはイラン紛争の影響で変動激しい",
+          "country": "グローバル",
+          "category": "外国為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米ドル指数は米・イラン間の緊張緩和期待で下落。原油高背景で変動は大きく、主要通貨ペアは不安定。",
+          "affected_sectors": [
+            "金融",
+            "輸出入"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ウクライナ国立銀行、為替介入を30%削減。フリヴニャは対ドルで強化",
+          "country": "ウクライナ",
+          "category": "金融政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ウクライナ国立銀行は先週、為替介入を30%削減し8億8850万ドルに。フリヴニャはドルに対し上昇。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "カリフォルニア経済、高GDP成長とクリーンエネルギー部門の急増で優位性",
+          "country": "米国",
+          "category": "地域経済",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "カリフォルニア州のGDPは2019年以降40%増加。クリーンエネルギー企業はAI投資で収益が大幅増。",
+          "affected_sectors": [
+            "テクノロジー",
+            "クリーンエネルギー",
+            "インフラ"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド株式市場が力強く反発、Niftyは銀行・IT株とルピー高に支えられ上昇",
+          "country": "インド",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド株式市場は初期の損失から大きく回復。銀行とIT株の強い買いとルピー高がNiftyを押し上げた。",
+          "affected_sectors": [
+            "銀行",
+            "IT"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米・イラン緊張激化、トランプの最後通牒が市場に重くのしかかる。"
     }
   }
 ]
