@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、今後2-3週間でイランを「極めて強力に」攻撃すると表明",
-          "country": "US",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏がイランに対する「極めて強力な」攻撃を今後2-3週間で実施すると表明し、中東情勢の緊迫化が世界市場に大きな影響を与えると予想される。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "世界株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融危機並みに跳ね上がった対ドル為替レート…静観しすぎる韓国通貨当局",
-          "country": "韓国",
-          "category": "Currency Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "韓国ウォンが対ドルで金融危機以来の最高水準に急騰。通貨当局の静観姿勢が国内経済に懸念を招く状況。",
-          "affected_sectors": [
-            "韓国輸出入企業",
-            "金融",
-            "観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京為替：ドル・円は強含み、有事のドル買い再開で",
-          "country": "日本",
-          "category": "Currency Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "東京市場でドル・円は有事のドル買いが再開し、強含みで推移。地政学リスクの高まりが背景にある。",
-          "affected_sectors": [
-            "日本輸出企業",
-            "日本輸入企業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UBS、上昇リスク高まる中で金の強気相場が続くと予想",
-          "country": "グローバル",
-          "category": "Commodity Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UBSが金価格の強気見通しを維持し、上昇リスクの拡大に伴い年内に新高値更新を予想。安全資産需要も後押し。",
-          "affected_sectors": [
-            "貴金属",
-            "鉱業",
-            "投資ファンド"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アンジオダイナミクス、メドテック部門の好調で予想上回る決算、株価は約3%上昇",
-          "country": "US",
-          "category": "Corporate Earnings",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "アンジオダイナミクスがメドテック部門好調で予想を上回る決算を発表し、株価が約3%上昇した。",
-          "affected_sectors": [
-            "医療機器 (MedTech)"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ氏のイラン攻撃示唆で地政学リスク高まり、市場はリスクオフへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 14:30",
     "data": {
       "breaking_news": [
@@ -12637,6 +12560,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫、原油高とインフレ懸念が市場圧迫。FRBと決算に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン情勢緊迫化、原油価格110ドル超えで世界市場に警戒感",
+          "country": "グローバル",
+          "category": "地政学、エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランに対する期限設定が迫り、原油価格が1バレル110ドルを超え、世界市場に緊張が走る。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏、ビジネス活動の成長が過去最低水準に鈍化",
+          "country": "ユーロ圏",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏のビジネス活動成長率が過去最低を記録。経済の減速が明確になり、景気後退への懸念が高まる。",
+          "affected_sectors": [
+            "全般",
+            "金融",
+            "産業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "サムスン電子、AIチップ需要急増で8倍の利益見込み",
+          "country": "韓国",
+          "category": "企業業績、テクノロジー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "サムスン電子がAIチップの強い需要により、四半期利益が8倍に急増すると発表。テクノロジー株に好影響。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "エレクトロニクス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ゴールド価格、イラン情勢とインフレ懸念で3日連続下落",
+          "country": "グローバル",
+          "category": "コモディティ、地政学、マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランへの期限設定と高まるインフレ懸念を受け、金価格は3営業日連続で下落した。",
+          "affected_sectors": [
+            "貴金属",
+            "金融",
+            "投資"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化で原油高騰、世界市場にインフレ懸念が広がる。"
     }
   }
 ]
