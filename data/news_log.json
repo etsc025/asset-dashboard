@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国大統領のイラン攻撃継続発言で原油高・株安に",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がイラン攻撃継続を表明し、中東紛争終結への期待が後退。原油価格は急騰し、米国株は下落し市場に動揺が広がる。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融",
-            "全体市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡の供給途絶懸念で原油価格高騰が継続",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の原油供給途絶懸念が続き、WTI原油価格は1バレル113ドルに上昇。世界経済へのインフレ圧力と景気減速リスクが高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英FCAとイングランド銀行、取引・ポストトレード報告タスクフォースを設立",
-          "country": "英国",
-          "category": "金融規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英FCAとイングランド銀行が取引・ポストトレード報告の改善に向けた合同タスクフォースを設置。金融市場の透明性向上を目指す。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争の長期化懸念で原油高・株安。警戒強まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 07:30",
     "data": {
       "breaking_news": [
@@ -12601,6 +12549,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "世界市場、イラン情勢と原油価格の変動に反応中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米大統領がイランに期限を再提示、原油価格が上昇し地政学的リスク高まる",
+          "country": "グローバル",
+          "category": "地政学, 商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米大統領がイランへの期限を再提示し、ホルムズ海峡封鎖の脅威により原油価格が上昇。地政学的リスクが高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン情勢の不確実性の中、アジア株式市場はテクノロジー株主導で上昇",
+          "country": "アジア",
+          "category": "株式市場, 地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン情勢の不確実性にもかかわらず、韓国のKOSPIや日本のTOPIXなどアジア株式市場はテクノロジー株主導で上昇した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "中東紛争によるエネルギーショックを受け、ドイツのGDP予測が下方修正",
+          "country": "ドイツ",
+          "category": "経済見通し, エネルギー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東紛争によるエネルギーショックを理由に、ドイツの主要経済研究所が2026年GDP成長率予測を1.3%から0.6%に下方修正した。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー集約型産業",
+            "輸出志向型セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国で新たな農場相続税規則が施行され、小規模企業に課題",
+          "country": "英国",
+          "category": "財政政策, 農業",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "英国で4月6日に新たな農場相続税規則が施行され、250万ポンド以上の農場や家族経営の事業に「重大な課題」を引き起こすとされる。",
+          "affected_sectors": [
+            "農業",
+            "不動産"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "コロンビア中央銀行が政策金利を100bps引き上げ、金融大臣が距離を置く意向",
+          "country": "コロンビア",
+          "category": "金融政策, 政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "コロンビア中央銀行は政策金利を100bps引き上げインフレ抑制を図ったが、財務大臣が理事会からの距離を置く意向を示し不確実性が高まった。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米大統領がイランに期限を設定、原油価格は急騰し地政学リスク高まる。"
     }
   }
 ]
