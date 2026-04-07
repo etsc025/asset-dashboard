@@ -1,96 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、米空母にミサイル攻撃",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランが米空母エイブラハム・リンカーンにミサイル攻撃を実行。中東情勢の深刻な緊迫化を招く。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、一部医薬品に100%関税",
-          "country": "米国",
-          "category": "貿易政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏が特定医薬品輸入に100%関税を課すと発表。製薬業界と国際貿易に大きな影響。",
-          "affected_sectors": [
-            "医薬品",
-            "ヘルスケア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米IRS、脱税摘発にPalantir技術導入",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米内国歳入庁が脱税摘発のためPalantirの技術を採用。政府機関でのデータ活用が加速。",
-          "affected_sectors": [
-            "テクノロジー",
-            "政府サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Amazon、クレジットカード事業を強化",
-          "country": "米国",
-          "category": "金融サービス",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Amazonがクレジットカード分野で新たな動き。金融サービス市場での競争が激化。",
-          "affected_sectors": [
-            "Eコマース",
-            "金融サービス",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Eli Lilly、肥満症薬がFDA迅速承認",
-          "country": "米国",
-          "category": "ヘルスケア",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Eli Lillyの肥満症治療薬がFDAから迅速承認を獲得。同社株価および医療市場に好影響。",
-          "affected_sectors": [
-            "医薬品",
-            "ヘルスケア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏演説後、米原油価格が急騰",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイランに対する強硬発言を受け、米原油価格が6年ぶりの大幅な一日上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イランが米空母をミサイル攻撃、中東情勢緊迫化し原油急騰"
-    }
-  },
-  {
     "timestamp": "2026-04-03 12:00",
     "data": {
       "breaking_news": [
@@ -12623,6 +12532,88 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Iran conflict: oil jumps, inflation fears, markets uneasy."
+    }
+  },
+  {
+    "timestamp": "2026-04-07 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF warns of lasting economic impact from Middle East conflict, higher inflation",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF warns Middle East conflict will slow global growth and fuel inflation due to oil supply disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing",
+            "Transportation",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge to $110 amid Middle East conflict escalation",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Crude oil prices near $110-$112 per barrel as Middle East tensions disrupt supplies and increase geopolitical risk.",
+          "affected_sectors": [
+            "Energy (Upstream)",
+            "Airlines",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPMorgan CEO Dimon warns Iran war could reignite inflation, keep Fed rates higher",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Jamie Dimon states Iran war risks oil price shocks, persistent inflation, and higher interest rates for longer.",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology",
+            "Interest-Rate Sensitive"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK manufacturers face £940m annual increase in business rates",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK manufacturers projected to pay an additional £940m yearly due to recent business rates changes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail",
+            "Industrial"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "India's RBI faces trade-off with rising oil prices and global uncertainty",
+          "country": "India",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "RBI faces challenge balancing growth and inflation due to rising oil prices and global economic uncertainty.",
+          "affected_sectors": [
+            "Banking",
+            "Energy",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Middle East conflict escalating, driving oil spikes and global stagflation risks."
     }
   }
 ]
