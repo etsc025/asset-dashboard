@@ -1,88 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "NY連銀総裁、イラン情勢による原油高騰の経済波及を警告",
-          "country": "米国",
-          "category": "金融政策/地政学/コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "NY連銀ウィリアムズ総裁がイラン情勢に起因する原油価格高騰が広範な経済波及をもたらす可能性について警告を発した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユナイテッド航空、燃料費高騰を受け受託手荷物料金を値上げ",
-          "country": "米国",
-          "category": "企業/コモディティ/インフレ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ユナイテッド航空がイラン情勢による燃料費高騰を受け、受託手荷物料金を10～50ドル値上げすると発表した。",
-          "affected_sectors": [
-            "航空",
-            "旅行",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、トークン化金融が世界の金融システムに及ぼす4つのリスクを指摘",
-          "country": "グローバル",
-          "category": "フィンテック/規制/金融安定",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、トークン化された金融が世界の金融システムにもたらす分断化、金融安定性への脅威など4つのリスクを警告した。",
-          "affected_sectors": [
-            "フィンテック",
-            "ブロックチェーン",
-            "銀行",
-            "規制機関"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "マイクロソフト、日本に100億ドルを投資しAIインフラとサイバーセキュリティを強化",
-          "country": "日本",
-          "category": "テクノロジー/投資/企業",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "マイクロソフトが日本に100億ドルを投資し、AIインフラとサイバーセキュリティを強化する計画を発表した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "サイバーセキュリティ",
-            "AI",
-            "クラウドコンピューティング",
-            "日本経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "2026年、初めての住宅購入者にとって有利な10の住宅市場が発表",
-          "country": "米国",
-          "category": "不動産/経済",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "2026年に初めて住宅を購入するバイヤーにとって有利な10の住宅市場が発表され、特定の地域での好機を示唆。",
-          "affected_sectors": [
-            "不動産",
-            "住宅ローン",
-            "建設"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "NY連銀、原油高騰の経済波及を警告。IMFはトークン化金融リスク指摘。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 00:30",
     "data": {
       "breaking_news": [
@@ -12825,6 +12742,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化により米国株式市場が下落、原油価格とインフレ期待が上昇中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US strikes on Iran's Kharg Island hit market sentiment, sending global stocks lower.",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US strikes on Iran's Kharg Island send global stock markets lower, escalating geopolitical tensions and oil volatility.",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Global Equities",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bloomberg analyst warns of 'hurricane' threat, putting Bitcoin's top market position at risk.",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Bloomberg analyst warns of 'hurricane' threat to Bitcoin, potentially jeopardizing its leading market position.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FBI reports a 22% surge in crypto fraud losses in 2025, raising digital asset risks.",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "FBI reports significant 22% rise in crypto fraud losses in 2025, urging caution for digital asset investors.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Financial Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学リスクの高まりで世界市場が下落。エネルギー市場に警戒。"
     }
   }
 ]
