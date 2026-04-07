@@ -537,6 +537,20 @@ async function fetchAll(){
     const sorted = [...data.ranking].sort((a, b) => b.total_return - a.total_return);
     // バー幅: 最大損益率を100%として相対表示（マイナスは赤バー）
     const maxRet = Math.max(...sorted.map(b => Math.abs(b.total_return)), 0.001);
+    // Bot名 → 市場ラベルマッピング
+    const MARKET_LABEL = {
+      'Bot1_ML_AbsChange':    { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+      'Bot2_DL_Transformer':  { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+      'Bot3_FactorAI':        { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+      'Bot8_NewsTech':        { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+      'Bot5_TrendMomentum':   { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+      'Bot6_RL_MA':           { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+      'Bot7_AdaptiveMarket':  { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+      'Bot9_VolAsymmetry':    { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+      'Bot11_SubspacePCA':    { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+      'Bot4_Momentum_Intl':   { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
+      'Bot10_CorrGraph':      { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
+    };
     const rows = sorted.map((b, i) => {
       const ret  = (b.total_return * 100).toFixed(2);
       const mdd  = (b.mdd * 100).toFixed(2);
@@ -544,17 +558,18 @@ async function fetchAll(){
       const eq   = b.latest_equity.toLocaleString();
       const retColor = b.total_return > 0 ? '#22c55e' : b.total_return < 0 ? '#ef4444' : '#8b949e';
       const mddColor = b.mdd <= -0.1 ? '#ef4444' : b.mdd <= -0.05 ? '#f59e0b' : '#8b949e';
-      // バー幅: 損益率の絶対値で表示（最大値=100%）
       const barPct = Math.max(4, Math.round(Math.abs(b.total_return) / maxRet * 100));
       const barColor = i === 0 ? '#f59e0b'
                      : i === 1 ? '#9ca3af'
                      : i === 2 ? '#b45309'
                      : b.total_return > 0 ? '#22c55e' : '#ef4444';
       const retSign = b.total_return > 0 ? '+' : '';
+      const mkt = MARKET_LABEL[b.bot] || { label:'―', color:'#8b949e', bg:'#21262d' };
+      const mktTag = `<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:${mkt.bg};color:${mkt.color};margin-left:5px;white-space:nowrap;">${mkt.label}</span>`;
       return `
         <div style="padding:6px 0;border-bottom:1px solid #21262d;">
           <div style="display:flex;justify-content:space-between;align-items:center;">
-            <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace(/_/g,' ')}</strong></span>
+            <span>${medals[i]||'  '} <strong style="font-size:12px;">${b.bot.replace(/_/g,' ')}</strong>${mktTag}</span>
             <span style="color:${retColor};font-weight:700;font-size:13px;">${retSign}${ret}%
               <span style="color:#8b949e;font-size:10px;font-weight:400;margin-left:4px;">¥${eq}</span>
             </span>
