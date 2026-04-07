@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月雇用統計、予想を上回るも米株先物は下落",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は予想を上回る堅調な結果だったが、米株先物は若干下落して推移している。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争激化：米軍戦闘機がイランで撃墜、ホルムズ海峡情勢に懸念",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米軍戦闘機がイランで撃墜され、ドナルド・トランプ氏がホルムズ海峡の「容易な開通」を示唆。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争が世界の食料価格を4ヶ月ぶりの高値に押し上げ、国連が更なる悪化を警告",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争により、3月の世界の食料価格が9月以来の最高水準に達し、国連は紛争継続による更なる価格上昇を警告している。",
-          "affected_sectors": [
-            "食品・飲料",
-            "農業",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油輸送船がイラン戦争の影響でインドから中国へ進路変更",
-          "country": "グローバル",
-          "category": "エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の影響を受け、インドに向かっていた原油輸送船が中国へ進路変更した。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "PNC Financial、1株あたり1.70ドルの配当を発表",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "PNC Financial Services Groupが1株あたり1.70ドルの配当を宣言した。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECARX Holdings、GAAP EPSと売上高が市場予想を下回る",
-          "country": "中国",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ECARX HoldingsのGAAP EPSは-0.20ドルで予想を0.21ドル下回り、売上高は8億4790万ドルで予想を2億8210万ドル下回った。",
-          "affected_sectors": [
-            "自動車",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AviLeaseがロンドン証券取引所に初の債券発行を祝し上場",
-          "country": "英国",
-          "category": "金融市場",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "航空機リース会社AviLeaseがロンドン証券取引所で初の8億5000万ドル債券発行を記念し上場を祝った。",
-          "affected_sectors": [
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化により、世界の食料価格が高騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 03:00",
     "data": {
       "breaking_news": [
@@ -12817,6 +12715,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化、米軍攻撃で原油高騰、世界市場警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Military Strikes Iran's Kharg Island, Escalating Tensions",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍がイランのハルク島を攻撃し、緊張が高まり原油価格が上昇、世界市場は下落圧力に直面。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Financial Services",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Markets React to Iran Tensions: US Stocks Lower, Oil Volatile",
+          "country": "Global",
+          "category": "Market Reaction",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランを巡る地政学的緊張が世界市場を圧迫し、米国株は下落し、原油価格は変動している。",
+          "affected_sectors": [
+            "Financial Services",
+            "Energy",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF Releases Key Reports: Georgia Article IV, Morocco Public Investments",
+          "country": "Global",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFがジョージアの第4条協議声明とモロッコの公共投資に関する報告書を発表。",
+          "affected_sectors": [
+            "Government",
+            "Infrastructure",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK Government Caps Student Loan Interest Rates at 6%",
+          "country": "United Kingdom",
+          "category": "Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "英国政府が9月から学生ローンの金利上限を6%に設定。",
+          "affected_sectors": [
+            "Education",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Gilead Sciences Acquires Tubulis for Up to $5 Billion",
+          "country": "United States",
+          "category": "Corporate M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Gilead Sciencesがドイツのバイオテクノロジー企業Tubulisを最大50億ドルで買収合意。",
+          "affected_sectors": [
+            "Pharmaceuticals",
+            "Biotechnology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン間の地政学的緊張が市場を圧迫し、原油高。"
     }
   }
 ]
