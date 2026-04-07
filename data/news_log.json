@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国の3月雇用統計が予想を大幅に上回る",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国の3月雇用統計は予想を大幅に上回り、経済の堅調さを示すも、金融引き締め懸念も浮上。",
-          "affected_sectors": [
-            "Financial",
-            "Consumer Discretionary",
-            "All"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、イランの地上戦準備に対しホルムズ海峡再開の可能性を示唆",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏、イランの地上戦準備に対しホルムズ海峡再開の可能性を示唆。原油供給不安と地政学リスク増大。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Aerospace & Defense",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ヘッジファンドが過去13年で最速のペースで世界株式を売却",
-          "country": "Global",
-          "category": "Market Movement",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ヘッジファンドが過去13年で最速のペースで世界株式を売却。リスクオフの強いシグナルとなる。",
-          "affected_sectors": [
-            "All",
-            "Technology",
-            "Financial"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英中央銀行、イラン情勢による「供給ショック」と金融安定への脅威増大を警告",
-          "country": "UK",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英中銀、イラン情勢が世界経済に「相当な負の供給ショック」をもたらし、金融安定に脅威と警告。",
-          "affected_sectors": [
-            "All",
-            "Energy",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本の金融庁、「トークン化預金」の実証実験を支援",
-          "country": "Japan",
-          "category": "Fintech",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "日本の金融庁、ディーカレットなど3社によるトークン化預金の実証実験を支援。デジタル金融の推進に期待。",
-          "affected_sectors": [
-            "Financial Services",
-            "Fintech",
-            "Blockchain"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化と原油供給不安、ヘッジファンドの株式売却が市場を押し下げ。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 02:00",
     "data": {
       "breaking_news": [
@@ -12824,6 +12743,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国の中東軍事行動と原油価格高騰が市場を動揺させている。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 05:37",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、イランに最後通牒。米軍がハルグ島を攻撃",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領がホルムズ海峡に関してイランに最後通牒を突きつけ、米国がイランの主要な石油拠点であるハルグ島を攻撃したと報じられ、緊張が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "テクノロジー",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が急騰、WTIは115ドル前後で推移",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランを巡る地政学的緊張の高まりを受け、原油価格が大幅に上昇。WTIは1バレルあたり114ドルから116ドルに達している。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、イラン情勢への懸念から下落",
+          "country": "米国",
+          "category": "市場動向",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イランを巡る地政学的リスクと原油価格の高騰により、米国株式市場は下落しており、特にテクノロジー株が影響を受けている。",
+          "affected_sectors": [
+            "グローバル株式",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格が上昇、安全資産としての需要が増加",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "地政学的不確実性の高まりを受け、安全資産としての金への需要が増加し、金価格はわずかに上昇している。",
+          "affected_sectors": [
+            "貴金属",
+            "鉱業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国の耐久財受注が2月に減少",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "2026年2月の米国の耐久財受注は前月比1.4%減となり、経済成長の鈍化を示唆している。",
+          "affected_sectors": [
+            "製造業",
+            "一般消費財"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米軍がイランの石油拠点ハルグ島を攻撃。地政学リスク急騰。"
     }
   }
 ]
