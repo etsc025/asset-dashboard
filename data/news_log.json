@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランへの攻撃を示唆し、原油価格が高騰",
-          "country": "グローバル",
-          "category": "地政学, コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がイランのインフラへの攻撃を示唆し、地政学的緊張が急激に高まった。これにより原油価格が7%急騰、世界市場は強い下押し圧力に直面している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢悪化で安全資産としてのドル選好が高まり、金価格は下落",
-          "country": "グローバル",
-          "category": "通貨, 貴金属",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイラン情勢に関する発言により、地政学的リスクが高まる中、投資家は安全資産としてドルを選好し、金価格は下落した。",
-          "affected_sectors": [
-            "金融",
-            "鉱業",
-            "貴金属"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢が緊迫化し、原油価格が急騰。地政学的リスクの高まりから、世界の金融市場はリスクオフモードに転換している。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 15:30",
     "data": {
       "breaking_news": [
@@ -12628,6 +12590,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争激化、原油価格高騰で世界市場はリスクオフへ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイラン間の緊張激化、原油価格を110ドル超に押し上げ",
+          "country": "グローバル",
+          "category": "地政学, コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの地政学的緊張が高まり、トランプ大統領の期限設定で原油価格は110ドルを超え、市場にボラティリティをもたらしている。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運送",
+            "製造業",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏の景気活動が減速、過去最低の成長率を記録",
+          "country": "ユーロ圏",
+          "category": "マクロ経済, 経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏のビジネス活動成長率が過去最低水準に鈍化し、景気見通しに懸念を投げかけている。",
+          "affected_sectors": [
+            "産業",
+            "消費裁量品",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の緊張下でインド市場は底堅さを示す",
+          "country": "インド",
+          "category": "市場動向, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "世界的な地政学的緊張にもかかわらず、インド市場は堅調な動きを維持。国内資金流入が支えとなっている。",
+          "affected_sectors": [
+            "多岐にわたる"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油高騰、世界経済のインフレと成長減速に警戒。"
     }
   }
 ]
