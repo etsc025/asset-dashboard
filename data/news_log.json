@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランへの継続攻撃を表明し市場動揺",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイラン攻撃継続発言で緊張高まる。原油価格は急騰、世界株価は下落し市場に動揺が広がる。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB当局者、利上げを示唆も時期は不透明",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECBのビレロイ氏が次なる動きは利上げの可能性が高いと発言したが、地政学的緊張下で時期は不明。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ブルーオウル・キャピタル、投資家からの償還制限を発表",
-          "country": "US",
-          "category": "Financial Services",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ブルーオウル・キャピタルが54億ドルの償還要求を受け資金引き出しを制限。流動性懸念が浮上。",
-          "affected_sectors": [
-            "Financial Services",
-            "Asset Management"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化で原油急騰、世界株価は下落中。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 06:00",
     "data": {
       "breaking_news": [
@@ -12562,6 +12512,55 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学的緊張とインフレ懸念が市場を支配。原油価格は高止まり。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "JPMorgan CEO Dimon: Iran war could reignite inflation, keep Fed rates higher",
+          "country": "米国",
+          "category": "金融政策, 地政学, インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPMorgan CEOジェイミー・ダイモン氏は、イラン戦争が米国のインフレを再燃させ、FRBの金利を長期的に高く維持させる可能性を警告しました。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争の先行き不透明感で原油価格が上昇、世界のエネルギー供給に影響",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ブレント原油は、イラン戦争を巡る複合的なシグナルを受けて1バレル110ドルを超え、世界のエネルギー供給に混乱をもたらしています。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株式市場はイラン戦争の動向を注視しつつ小幅高で推移",
+          "country": "米国",
+          "category": "株式市場, 地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米株式市場は、イラン戦争の動向、特にイランのエネルギーインフラへの潜在的な攻撃を注視しながら、慎重ながらも上昇しました。",
+          "affected_sectors": [
+            "全株式市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン戦争によるインフレ再燃懸念と金利高止まりリスクが最重要。"
     }
   }
 ]
