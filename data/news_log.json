@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式市場、グッドフライデーで休場",
-          "country": "米国",
-          "category": "市場休場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "2026年4月3日、米国株式市場はグッドフライデーのため休場。NasdaqとNYSEの両方が取引を停止。銀行は通常営業。",
-          "affected_sectors": [
-            "金融",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月サービスPMI下方修正、経済成長懸念",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "S&Pグローバル発表の米国3月最終サービスPMIが下方修正され、予想と前月を下回った。サービス部門の成長鈍化を示唆。",
-          "affected_sectors": [
-            "サービス業",
-            "経済全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢懸念で原油価格高騰、グローバル市場にインフレ圧力",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学的リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "長期化するイラン戦争への懸念が原油価格を押し上げ、世界の株式市場にインフレ圧力とボラティリティをもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "経済全般"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米国株式市場は休場。イラン情勢と米経済指標が市場の重し。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 01:30",
     "data": {
       "breaking_news": [
@@ -12793,6 +12743,87 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と米インフレ懸念で市場はリスク回避モード。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国がハルク島を攻撃、トランプ大統領のイラン期限で緊張高まる",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍がイランのハルク島を攻撃したと報じられ、ホルムズ海峡合意に関するトランプ大統領の期限が迫る中、中東の緊張が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル市場",
+            "防衛",
+            "海運・物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化で原油価格が2022年高値に急騰",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東の緊張激化とホルムズ海峡のリスクを受け、WTI原油を含む原油価格は2022年高値付近まで急騰している。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国と中東欧でインフレ期待が急上昇",
+          "country": "米国, 中東欧",
+          "category": "マクロ経済, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の年間インフレ期待が3月に3.4%に上昇し今年最高水準となる中、中東欧諸国では燃料価格主導のインフレ急騰を予想。",
+          "affected_sectors": [
+            "一般消費財",
+            "金融",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要中央銀行がインフレ懸念からタカ派姿勢を維持",
+          "country": "グローバル",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "FRBやECBを含む世界の中央銀行はインフレ抑制のためタカ派的姿勢を維持し、一部地域ではさらなる利上げを予想。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXが記録的な株式市場上場を目指す",
+          "country": "米国",
+          "category": "テクノロジー, IPO",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "イーロン・マスク氏率いるSpaceXは、記録的な株式市場への上場に向け個人投資家を募っていると報じられている。",
+          "affected_sectors": [
+            "テクノロジー",
+            "航空宇宙",
+            "ベンチャーキャピタル"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国の中東軍事行動と原油価格高騰が市場を動揺させている。"
     }
   }
 ]
