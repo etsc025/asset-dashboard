@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式市場はグッドフライデーのため休場",
-          "country": "米国",
-          "category": "市場休日",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国株式市場（Nasdaq、NYSEを含む）は、グッドフライデーのため4月3日金曜日に休場し、4月6日月曜日に取引を再開する予定です。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、トークン化された金融がもたらす4つのリスクについて警鐘を鳴らす",
-          "country": "グローバル",
-          "category": "金融規制, デジタル資産",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFは、トークン化された金融が世界の金融システムにもたらす断片化、金融安定性への影響、法的ギャップ、新興国市場の不安定性という4つの主要なリスクを指摘しました。",
-          "affected_sectors": [
-            "金融サービス",
-            "フィンテック",
-            "暗号通貨",
-            "新興市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ダイフク、半導体製造ライン向け新工場を日本に完成",
-          "country": "日本",
-          "category": "製造業, テクノロジー",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "ダイフクは、半導体製造ライン向けの新工場を日本に完成させ、クリーンルーム事業の国内生産能力を30%増強し、AI需要に対応します。",
-          "affected_sectors": [
-            "半導体",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米市場休場。IMF、トークン化金融のリスク警告。イラン情勢に注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 19:00",
     "data": {
       "breaking_news": [
@@ -12788,6 +12738,100 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油高騰で世界経済に下押し圧力"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil Dips Below $110 as Trump's Iran Deadline Looms, Threatening Strait of Hormuz",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "原油価格は110ドルを下回り、トランプ大統領のイランに関する期限とホルムズ海峡への脅威が市場を動揺させている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Open Cautious Amid Rising US-Iran Tensions",
+          "country": "Europe",
+          "category": "Equity Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領のイランへの最後通牒が迫る中、欧州株式市場は慎重な始まりとなり、一部で下落が見られる。",
+          "affected_sectors": [
+            "Financials",
+            "Consumer Cyclicals",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Stock Futures Slip as Iran Tensions Escalate",
+          "country": "US",
+          "category": "Equity Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランとの地政学的緊張が高まり、ホルムズ海峡に関する期限が迫る中、米国株先物が下落している。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Industrials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Gold and Silver Prices Edge Lower Amid Middle East Tensions and Crude Surge",
+          "country": "India",
+          "category": "Commodity Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東の緊張と原油価格の急騰にもかかわらず、金銀価格は下落しており、安全資産市場で複合的な動きが見られる。",
+          "affected_sectors": [
+            "Mining",
+            "Jewelry",
+            "Investment Funds"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Spain Services PMI Unexpectedly Accelerates in March",
+          "country": "Spain",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "スペインのS&PグローバルサービスPMIが3月に53.3に上昇し、予想を上回り、力強い経済活動を示した。",
+          "affected_sectors": [
+            "Services",
+            "Tourism",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK New Car Registrations Climb to 2019 High in March",
+          "country": "UK",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英国の新車登録台数は3月に2019年以来の高水準に達し、個人需要と電気自動車の販売が好調。",
+          "affected_sectors": [
+            "Automotive",
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "トランプ大統領のイランに関する期限が迫り、原油市場は不安定、世界株式は警戒。"
     }
   }
 ]
