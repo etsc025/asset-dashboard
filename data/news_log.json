@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "円相場、続落し159円台後半 中東の戦闘長期化懸念で",
-          "country": "日本",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での軍事衝突の長期化懸念が再燃し、米原油先物相場が高止まり。原油高が日本の貿易収支悪化につながるとの懸念から円売りが優勢。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3日の中国本土市場概況：上海総合指数は続落",
-          "country": "中国",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3日の中国本土市場では、主要指標の上海総合指数が続落。地政学リスクや経済成長への懸念が影響。",
-          "affected_sectors": [
-            "広範",
-            "テクノロジー",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で円安進行、原油高懸念が市場に重圧。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 23:30",
     "data": {
       "breaking_news": [
@@ -12784,6 +12747,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化で米国株下落、原油高が続く。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ドル円が一時160円台に上昇、日本円の急激な下落続く",
+          "country": "日本",
+          "category": "為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日銀と主要中央銀行の金融政策の乖離を背景に、ドル円が一時160円台に上昇し、日本円の急激な下落が進行している。",
+          "affected_sectors": [
+            "輸出関連",
+            "観光",
+            "輸入関連",
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国がカーグ島軍事標的を空爆、中東情勢の緊張高まる",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がカーグ島の軍事標的を空爆したと報じられた。これにより中東情勢の緊迫化が一段と進み、原油価格や地政学的リスクプレミアムへの影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "防衛",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏3月CPI速報値が加速、ECB・BOEの利上げ観測高まる",
+          "country": "ユーロ圏",
+          "category": "インフレ, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ユーロ圏3月消費者物価速報値が前月比加速を示し、イラン情勢によるエネルギー価格高騰を受け、ECBとBOEは6月にも利上げ実施の可能性が浮上している。",
+          "affected_sectors": [
+            "銀行",
+            "不動産",
+            "消費裁量"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と急速な円安が市場のリスク回避を促す"
     }
   }
 ]
