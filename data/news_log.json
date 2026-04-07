@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイラン強硬発言が原油価格を急騰させ、世界の株式市場は混乱",
-          "country": "グローバル/米国",
-          "category": "地政学/エネルギー市場/株式",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国大統領のタカ派的イラン発言が原油価格を急騰させ、株式市場は下落しボラティリティ増大。中東緊張が市場を動揺させている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "株式市場全般",
-            "金融",
-            "商品"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ大統領のイラン攻撃示唆を受け韓国KOSPIが急落、5,300を下回る",
-          "country": "韓国",
-          "category": "株式/地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイラン攻撃示唆により韓国KOSPIが5,300割れ。投資家の不安心理が広がり市場は急落。",
-          "affected_sectors": [
-            "韓国株式市場",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢緊迫化で安全資産米ドルは上昇、ビットコインは下落",
-          "country": "グローバル/米国",
-          "category": "外国為替/暗号通貨/地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イラン情勢緊迫化で安全資産米ドルは上昇。リスク回避の動きからビットコイン含む暗号通貨は下落。",
-          "affected_sectors": [
-            "外国為替",
-            "暗号通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国新規失業保険申請は減少するも、ISM製造業PMIの価格指数がインフレ懸念を示唆",
-          "country": "米国",
-          "category": "経済指標/金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米新規失業保険申請は減少も、ISM製造業PMI価格指数上昇でインフレ懸念再燃。金融政策に影響か。",
-          "affected_sectors": [
-            "経済全般",
-            "製造業",
-            "金利変動に敏感なセクター"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国のイラン強硬姿勢で市場が動揺、リスク回避姿勢が強まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 08:30",
     "data": {
       "breaking_news": [
@@ -12631,6 +12566,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢の緊迫化と原油市場の不安定化に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化で円安・原油高が進行、為替介入に警戒感",
+          "country": "日本, グローバル",
+          "category": "地政学, 外国為替, コモディティ, 金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の長期化懸念が再燃し、リスクオフの円売り・ドル買いが優勢。原油価格も高止まりし、世界的なインフレ懸念が高まる。日本政府・日銀による為替介入への警戒感も高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY金価格もみ合い、利下げ観測後退で下落の可能性",
+          "country": "グローバル",
+          "category": "コモディティ, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "NY金先物6月限はもみ合いで推移。各国での利下げ観測が後退していることが金価格に下落圧力となっている。",
+          "affected_sectors": [
+            "貴金属採掘",
+            "投資ファンド"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "東証、日経平均は反発も中東情勢懸念で上値抑制",
+          "country": "日本",
+          "category": "株式, 地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "東京株式市場では日経平均が反発。米ハイテク株高が牽引したが、中東軍事衝突の長期化懸念による原油高が企業業績への悪影響として上値の抑制要因に。",
+          "affected_sectors": [
+            "テクノロジー",
+            "製造業",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ラキール、中期経営計画「LaKeel 2030」発表で続伸",
+          "country": "日本",
+          "category": "企業ニュース, テクノロジー, 株式",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "ラキールが中期経営計画「LaKeel 2030」を策定し、AIへの積極投資を表明。売上高・営業利益率・ROEの目標達成を目指す。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア",
+            "AI関連"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "NZ準備銀行、政策金利据え置き予想もインフレ動向注視",
+          "country": "ニュージーランド",
+          "category": "金融政策, 外国為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ニュージーランド準備銀行（RBNZ）は政策金利を現行の2.25％に据え置く見込み。ただし、インフレ見通しに影響を与える場合は慎重な調整の可能性も示唆。",
+          "affected_sectors": [
+            "金融",
+            "外国為替"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化による原油高と円安進行、為替介入警戒。"
     }
   }
 ]
