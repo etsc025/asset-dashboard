@@ -1,91 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米3月雇用統計は予想超えも、2月は下方修正",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は予想を上回るも、2月の数値は下方修正され、労働市場に複雑なシグナルを示した。",
-          "affected_sectors": [
-            "全セクター",
-            "消費者サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東紛争で食料価格が急騰、国連が警告",
-          "country": "グローバル",
-          "category": "コモディティ, インフレ, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争によるエネルギーコスト高騰が原因で、3月の食料価格が急上昇したと国連が発表した。",
-          "affected_sectors": [
-            "農業",
-            "食品・飲料",
-            "消費者必需品"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU、トランプ氏の関税変更の影響を評価",
-          "country": "EU",
-          "category": "貿易政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "EUがトランプ氏の関税変更がもたらす影響を評価中。貿易摩擦の激化や国際市場への波及が懸念される。",
-          "affected_sectors": [
-            "国際貿易",
-            "多岐にわたる産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国、政治局員を解任し幹部粛清を深化",
-          "country": "中国",
-          "category": "政治, ガバナンス",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国で政治局員が解任され、最高幹部層の粛清が深化。政治の不安定化や政策変更の可能性が懸念される。",
-          "affected_sectors": [
-            "全セクター (政策変更のリスク)"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "PNCファイナンシャル、1.70ドルの配当を発表",
-          "country": "米国",
-          "category": "企業ニュース, 配当",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "PNCファイナンシャルが1株あたり1.70ドルの配当を発表し、株主還元策を強化。投資家には好材料。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ECARXホールディングス、EPSと売上が予想下回る",
-          "country": "中国",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ECARXホールディングスの最新決算は、EPSと売上の両方が市場予想を大幅に下回る結果となった。",
-          "affected_sectors": [
-            "自動車技術",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争によるエネルギー・食料価格高騰がグローバル市場を揺るがす。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 02:30",
     "data": {
       "breaking_news": [
@@ -12821,6 +12735,88 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米軍がイランの石油拠点ハルグ島を攻撃。地政学リスク急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米軍がイランのハルグ島を攻撃、原油価格が急騰し世界市場に警戒感が広がる。",
+          "country": "アメリカ",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍のイラン・ハルグ島攻撃報道で市場センチメント悪化、原油急騰し世界経済への影響懸念が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "石油・ガス",
+            "航空",
+            "運輸",
+            "製造業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パキスタンがイラン期限延長を要求、市場のわずかな安堵で米国株は小幅高に。",
+          "country": "パキスタン",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "パキスタンがイランとの期限延長をトランプ大統領に要請。緊張緩和の期待から米国株は小幅上昇したが、不確実性は残る。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPモルガンCEO、イラン戦争がインフレ再燃の恐れがあると警告。",
+          "country": "アメリカ",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPモルガンCEOが、イラン戦争によるエネルギー市場混乱がインフレを再燃させ、金利高止まりを招くと警告。",
+          "affected_sectors": [
+            "金融",
+            "一般消費財",
+            "エネルギー",
+            "中央銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXが上場を計画、Universal Music Groupに550億ユーロの買収提案。",
+          "country": "アメリカ",
+          "category": "企業金融",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SpaceXが株式上場を検討し、Universal Music Groupは買収提案を受諾。大手企業の動きが活発化。",
+          "affected_sectors": [
+            "航空宇宙",
+            "テクノロジー",
+            "エンターテイメント",
+            "音楽産業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "VRA仮想通貨が60分で55.7%急騰、アルトコイン市場に注目。",
+          "country": "グローバル",
+          "category": "暗号通貨",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "VRA仮想通貨が60分で55.7%急騰。アルトコイン市場への資金流入が活発で、投資家の関心を集める。",
+          "affected_sectors": [
+            "暗号通貨",
+            "ブロックチェーン"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化、米軍攻撃で原油高騰、世界市場警戒。"
     }
   }
 ]
