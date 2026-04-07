@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "NY連銀総裁、イラン情勢による原油急騰が経済に波及と警告",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "NY連銀総裁がイラン情勢に起因する原油価格高騰が経済全体に波及する可能性を警告。インフレ懸念が増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "消費財",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナイキCEO、利益減少に不満表明し更なる落ち込みを警告",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ナイキCEOが利益減少への不満を表明し、さらなる落ち込みを警告。消費財セクターに懸念が広がる。",
-          "affected_sectors": [
-            "小売",
-            "アパレル",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国3月のサービス部門成長が鈍化、需要軟化が影響",
-          "country": "中国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の3月サービス部門の成長は需要軟化により鈍化したが、依然として拡大基調を維持。",
-          "affected_sectors": [
-            "サービス",
-            "消費財",
-            "アジア市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢緊迫化で原油価格高騰、WTIは110ドル超え",
-          "country": "グローバル",
-          "category": "地政学、商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の緊迫化とホルムズ海峡の不確実性を受け、原油価格が高騰。WTIは110ドルを突破。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油急騰、NY連銀総裁が経済波及を警告。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 13:30",
     "data": {
       "breaking_news": [
@@ -12641,6 +12574,59 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン交渉と高止まりする原油価格が金融市場の主要な焦点。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油価格が急騰し世界経済に供給不安",
+          "country": "グローバル",
+          "category": "地政学・コモディティ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン交渉難航、米軍攻撃期限迫りWTI原油が115ドル台に急騰。世界的な供給不安とインフレ懸念が増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "製造業",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ECB、エネルギー起因インフレ加速で6月利上げ観測が強まる",
+          "country": "ユーロ圏",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧州中央銀行はエネルギー高騰によるインフレ再加速を受け、6月にも0.25%以上の利上げ実施の可能性が高まる。",
+          "affected_sectors": [
+            "金融",
+            "債券",
+            "為替",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本円、対ドルで下落継続　中東情勢と日米金利差で売り圧力",
+          "country": "日本",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東情勢不透明感と原油高による貿易赤字拡大懸念で、円は対ドル159円台後半に下落。",
+          "affected_sectors": [
+            "為替",
+            "輸出入",
+            "観光"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン停戦交渉決裂懸念、原油高とインフレ加速に警戒。"
     }
   }
 ]
