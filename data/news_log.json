@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、米F-15戦闘機がイラン上空で撃墜され原油価格高騰",
-          "country": "グローバル/米国/イラン",
-          "category": "地政学/コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米F-15戦闘機がイラン上空で撃墜され、トランプ大統領はイランが地上戦に動員する中、米国がホルムズ海峡を再開できると発言。これにより原油価格が急騰している。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京株式市場、日経平均が反発し半導体株に買い流入",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3日の東京株式市場で日経平均株価は反発し、海外短期筋による先物買いが主導。半導体関連株が上昇したが、中東の軍事衝突長期化懸念による原油高が上値を抑制した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "輸出関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "3月の米雇用者数が予想を大幅に上回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の米雇用者数が市場予想を大幅に上回り、堅調な労働市場を示唆。これは米連邦準備制度理事会の金融政策決定に影響を与える可能性がある。",
-          "affected_sectors": [
-            "全般",
-            "消費者裁量",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油価格高騰が主要懸念。米雇用統計は好調。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 04:30",
     "data": {
       "breaking_news": [
@@ -12897,6 +12845,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、米イラン停戦期限が迫り市場は警戒継続。原油価格は高止まり。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランとの停戦交渉期限迫る",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ米大統領がイランとの停戦交渉期限を設定し、合意なき場合は軍事行動を示唆。市場は緊張、原油価格は高騰中。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "金融市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国小売売上高が堅調、ポンドを押し上げ",
+          "country": "英国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国の堅調な小売売上高報告が発表され、消費者心理の回復を示唆。英ポンドに対するセンチメントを押し上げている。",
+          "affected_sectors": [
+            "小売",
+            "消費財",
+            "外国為替"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Tradeweb、3月の取引量が過去最高を記録",
+          "country": "グローバル",
+          "category": "金融市場インフラ",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "電子取引プラットフォームTradewebが2026年3月に総取引量87兆ドルの新記録を達成。金利とクレジット市場のボラティリティが主因。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国とイランの緊張激化で市場警戒、原油価格高騰中。"
     }
   }
 ]
