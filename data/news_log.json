@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米トランプ氏、イランに「極めて強く」攻撃警告、原油価格急騰で市場下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏がイランへの攻撃を警告したことで、原油価格が急騰し、世界中の株式市場が大幅に下落。市場の不確実性が高まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Manufacturing",
-            "Financial Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "テスラ、第1四半期納車台数が予想を下回る、株価下落",
-          "country": "US",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "テスラが第1四半期の納車台数で市場予想を下回り、売上減少が深まり株価が下落。EV市場への懸念も。",
-          "affected_sectors": [
-            "Automotive",
-            "Technology",
-            "Electric Vehicles"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "スペースX、米国での新規株式公開を秘密裏に申請",
-          "country": "US",
-          "category": "Capital Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イーロン・マスク氏のスペースXが米国での新規株式公開を秘密裏に申請し、史上最大の株式上場になる可能性。",
-          "affected_sectors": [
-            "Space Exploration",
-            "Technology",
-            "Private Equity"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化で原油価格高騰、世界市場はリスクオフへ警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 11:30",
     "data": {
       "breaking_news": [
@@ -12611,6 +12558,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東戦争による世界経済の成長鈍化とインフレ高進リスク増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Trump's Iran Deadline Looms; Tehran Rejects Ceasefire Proposal",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US futures dip as Iran rejects ceasefire; Trump's Strait of Hormuz deadline fuels market uncertainty.",
+          "affected_sectors": [
+            "Energy",
+            "Global Markets",
+            "Shipping"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPMorgan CEO Dimon Warns of Iran War Reigniting Inflation, Higher Rates",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPMorgan's Dimon warns Iran war could reignite inflation, keeping Fed rates higher for longer.",
+          "affected_sectors": [
+            "Banking",
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Jump Above $110 as Iran Tensions Escalate",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Global oil prices surge past $110/barrel amidst escalating Iran tensions, raising supply fears.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian Shares Extend Losses Amid Oil Price Worries",
+          "country": "Asia",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Asian stocks extend losses, driven by concerns over surging oil prices and geopolitical instability.",
+          "affected_sectors": [
+            "Global Equities",
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Iran conflict: oil jumps, inflation fears, markets uneasy."
     }
   }
 ]
