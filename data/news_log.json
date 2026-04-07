@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-03 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国原油価格急騰、イラン巡るトランプ氏発言で市場に懸念",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランに関する強硬姿勢により米国原油価格が急騰、エネルギー市場と地政学リスクが高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国貿易赤字が2月に拡大、輸入増が主因",
-          "country": "米国",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "2026年2月、米国の国際貿易赤字が拡大し573億ドルに達した。輸入の増加が主要因で、貿易バランスに懸念。",
-          "affected_sectors": [
-            "輸出入業",
-            "製造業",
-            "小売業",
-            "為替市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国新規失業保険申請件数、3月最終週に予想を下回り減少",
-          "country": "米国",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の新規失業保険申請件数は3月第4週に20.2万件に減少し、労働市場の堅調さを示唆。",
-          "affected_sectors": [
-            "全セクター（消費支出）",
-            "人材派遣",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "トランプ氏、製薬会社への100%関税を警告",
-          "country": "米国",
-          "category": "Trade Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏が価格引き下げに応じない製薬会社に対し100%の関税を警告。医薬品業界に新たな貿易障壁の懸念。",
-          "affected_sectors": [
-            "医薬品",
-            "医療",
-            "国際貿易"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "地政学リスクと高騰する原油価格、米国の貿易政策に警戒が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-03 13:00",
     "data": {
       "breaking_news": [
@@ -12613,6 +12545,102 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イランを巡る地政学的緊張が高まり、原油高とインフレ懸念が市場を圧迫。警戒を要する。"
+    }
+  },
+  {
+    "timestamp": "2026-04-07 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉期待で市場は上昇するも、中東情勢の不透明感が原油高を維持",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Equities",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランの停戦交渉進展への期待から世界株式市場は上昇。しかし、中東情勢の根強い不透明感が重荷となり、原油価格は高止まりしている。特に日本市場では米株高を受け主力株が買われたが、円安も進行中。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "円相場、159円台後半へ下げ幅拡大：米イラン情勢と貿易赤字懸念",
+          "country": "Japan",
+          "category": "Forex",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "東京外国為替市場で円相場は1ドル＝159円80銭台まで下げ幅を拡大。米国とイランの停戦交渉を巡る不透明感による原油価格上昇と、日本の貿易赤字拡大懸念が円売り・ドル買いを加速させた。",
+          "affected_sectors": [
+            "Import-heavy industries",
+            "Export-heavy industries",
+            "Tourism"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均、停戦期待で続伸後反落：中東情勢の不透明感が重荷",
+          "country": "Japan",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "東京株式市場の日経平均株価は、前日の米株高と米イラン停戦期待で続伸後、中東情勢の不透明感と原油高による利益確定売りで反落。値がさ株が牽引する一方、一部銘柄は下落した。",
+          "affected_sectors": [
+            "Technology",
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株、イラン交渉期待で modest な上昇：通信、エネルギー、裁量消費財が主導",
+          "country": "USA",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国株式市場は、イランとの停戦交渉への期待感から小幅に上昇。通信サービス、エネルギー、一般消費財が市場を牽引し、金融も好調。ヘルスケアや素材は一部銘柄で軟調な動きを見せた。",
+          "affected_sectors": [
+            "Communication Services",
+            "Energy",
+            "Consumer Discretionary",
+            "Financials",
+            "Healthcare",
+            "Materials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米保険株、メディケア・アドバンテージ料率引き上げで上昇",
+          "country": "USA",
+          "category": "Healthcare, Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国ではメディケア・アドバンテージの料率引き上げを受け、ヒューマナやユナイテッドヘルスなどの保険株が上昇した。",
+          "affected_sectors": [
+            "Healthcare",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "フィリップス66、原油価格上昇で最大10億ドルのデリバティブ損失を予測",
+          "country": "USA",
+          "category": "Energy, Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "精製大手フィリップス66は、原油価格上昇により最大10億ドルのデリバティブ損失を計上する見込みを発表した。これは原油価格の変動リスクを示している。",
+          "affected_sectors": [
+            "Energy",
+            "Chemicals"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン交渉と高止まりする原油価格が金融市場の主要な焦点。"
     }
   }
 ]
