@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "東京株式市場、日経平均は反発も原油高が上値抑制",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "日経平均は海外先物買いで反発も、中東情勢の長期化懸念と原油高が企業業績への悪影響を警戒させ、上値は抑えられた。売買代金は低水準だった。",
-          "affected_sectors": [
-            "株式市場全般",
-            "資源関連",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米軍F-15戦闘機がイラン上空で撃墜、衝突激化懸念",
-          "country": "米国, イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン上空で米軍F-15戦闘機が撃墜され、紛争開始以来初の米軍機損失。中東情勢の深刻な激化が懸念され、原油価格や市場に影響を与える可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "みずほFG、AI開発専門人材を400人体制へ倍増、独自AIアシスタント開発へ",
-          "country": "日本",
-          "category": "金融テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "みずほフィナンシャルグループはAI開発専門人材を2026年度中に倍増し400人体制へ。2028年度まで最大1000億円投資し、独自AIアシスタントを開発し顧客利便性を向上する。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、米軍機撃墜で原油高と市場不安定化に警戒が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 06:30",
     "data": {
       "breaking_news": [
@@ -12888,6 +12837,93 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡情勢緊迫化、原油・金高騰で市場に不確実性。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "GameSquareが2025年第4四半期決算を発表",
+          "country": "米国",
+          "category": "決算",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "GameSquare Holdingsが2025年第4四半期決算を4月8日に発表。ウェブキャストと電話会議も開催される。",
+          "affected_sectors": [
+            "テクノロジー",
+            "メディア",
+            "エンターテイメント"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国社会保障給付金が4月8日に支払い開始",
+          "country": "米国",
+          "category": "経済政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米国社会保障給付金が4月8日に支払い開始。受給者の誕生日によって支払日が異なる定期的な給付。",
+          "affected_sectors": [],
+          "action_needed": false
+        },
+        {
+          "title": "Applied DigitalがQ3決算発表、アナリストは大幅な上昇を予測",
+          "country": "米国",
+          "category": "決算",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Applied Digitalが第3四半期決算を発表予定。アナリストはAIデータセンター事業の好調で株価2倍を予測。",
+          "affected_sectors": [
+            "テクノロジー",
+            "データセンター",
+            "人工知能"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが世界経済見通し分析章を4月8日に発表",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "IMFが2026年4月の世界経済見通し分析章を4月8日に発表。世界経済の動向と政策に関する見解を提示。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bowman Consulting Groupが2026年第1四半期決算を発表",
+          "country": "米国",
+          "category": "決算",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Bowman Consulting Groupが2026年第1四半期決算を5月5日に発表予定。ガイダンスも提供される。",
+          "affected_sectors": [
+            "エンジニアリングサービス",
+            "インフラ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的緊張：トランプ大統領のイランへの期限とホルムズ海峡への懸念",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のイランへの期限とホルムズ海峡を巡る地政学的緊張が市場に重くのしかかる。石油価格上昇の懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル市場",
+            "防衛"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学的緊張とイランの期限が市場を動揺させている。"
     }
   }
 ]
