@@ -117,7 +117,11 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
     
   <!-- ===== AI Bot ランキング ===== -->
   <div class="card" style="margin-bottom:12px;">
-    <h2>🤖 AI Bot 日次ランキング <span style="font-size:10px;color:#f59e0b;background:#2d2a00;padding:2px 6px;border-radius:4px;margin-left:4px;">損益順</span> <span id="botRankDate" style="font-size:10px;color:#8b949e;"></span></h2>
+    <h2>🤖 AI Bot 日次ランキング <span style="font-size:10px;color:#f59e0b;background:#2d2a00;padding:2px 6px;border-radius:4px;margin-left:4px;">損益順</span> <span id="botRankDate" style="font-size:10px;color:#8b949e;margin-left:4px;"></span></h2>
+    <div style="font-size:11px;margin-bottom:6px;">
+      <span id="marketStatus" style="color:#6b7280;">読み込み中...</span>
+      <span style="color:#6b7280;margin-left:8px;">※市場時間外の損益は参考値です（実取引なし）</span>
+    </div>
     <div id="botRankingTable">読み込み中...</div>
     <div style="margin-top:8px;font-size:10px;color:#8b949e;">
       スコア = 総利益30% + 勝率20% + MDD20% + Sharpe20% + 取引数10%
@@ -532,6 +536,12 @@ async function fetchAll(){
     .then(r => r.json()).then(data => {
     if (!data || !data.ranking) return;
     document.getElementById('botRankDate').textContent = data.date || '';
+    // 市場ステータス表示
+    const ms = data.market_status || 'none';
+    const msLabel = ms==='jp' ? '🇯🇵 日本市場取引中' : ms==='us' ? '🇺🇸 米国市場取引中' : '💤 市場時間外（表示は参考値）';
+    const msColor = ms==='none' ? '#6b7280' : '#22c55e';
+    const msEl = document.getElementById('marketStatus');
+    if(msEl){ msEl.textContent = msLabel; msEl.style.color = msColor; }
     const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪'];
     // 損益率（total_return）の高い順にソート
     const sorted = [...data.ranking].sort((a, b) => b.total_return - a.total_return);
