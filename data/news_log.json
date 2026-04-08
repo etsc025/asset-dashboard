@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式先物、強い雇用統計を受け下落",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国株式先物は、予想を上回る雇用統計発表後、FRBの利上げ継続懸念などから小幅に下落している。",
-          "affected_sectors": [
-            "全般",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Lucid Group、第1四半期の車両納入台数が予測を下回る",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "電気自動車メーカーのLucid Groupは、サプライヤーの混乱により第1四半期の車両納入台数が市場予測を下回ったと発表した。",
-          "affected_sectors": [
-            "自動車",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化で原油価格が高止まり、世界経済への懸念増大",
-          "country": "グローバル",
-          "category": "エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での紛争継続とホルムズ海峡閉鎖懸念により原油価格が高騰。世界的なエネルギー危機とインフレ圧力への懸念が深まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国商業銀行の資産・負債および金利スプレッドが更新",
-          "country": "米国",
-          "category": "金融指標",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "米国連邦準備制度理事会が商業銀行の資産・負債および金利スプレッドに関する最新データを公開。金融市場の健全性評価に利用される。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油高と世界経済への負の影響に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 13:00",
     "data": {
       "breaking_news": [
@@ -12870,6 +12808,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国とイランの停戦合意により、市場の地政学的リスクが低下。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意でアジア株式市場が急伸",
+          "country": "インド, 台湾, 中国, 香港",
+          "category": "地政学, 市場変動",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の停戦合意を受け、インド、台湾、中国、香港などのアジア株式市場が軒並み続伸・急伸。地政学リスク後退で投資家心理が改善した。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコイン、2週間停戦で7.2万ドル反発",
+          "country": "グローバル",
+          "category": "暗号資産, 市場変動",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東情勢の一時緩和（2週間停戦）を受け、ビットコインが7.2万ドルに反発。6万ドルが短期的な底値となる可能性が示唆された。",
+          "affected_sectors": [
+            "暗号資産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米2月個人消費0.5%増加速、コアPCEは0.4%上昇予測",
+          "country": "米国",
+          "category": "経済指標, インフレ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "2月の米個人消費は0.5%増に加速し、コアPCEは0.4%上昇と予測された。FRBの金融政策決定に影響を与える可能性。",
+          "affected_sectors": [
+            "金利敏感セクター",
+            "債券市場",
+            "株式市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意でアジア市場急伸、ビットコイン反発"
     }
   }
 ]
