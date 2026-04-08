@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "パキスタン、イスラエル・イラン戦争中にガソリン価格を80ルピー引き下げ",
-          "country": "パキスタン",
-          "category": "経済政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "パキスタンはイスラエル・イラン戦争中、国民負担軽減のためガソリンを80ルピー値下げ。国内経済にプラスか。",
-          "affected_sectors": [
-            "エネルギー",
-            "小売",
-            "運輸"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "原油価格100ドル超えが6%超のインフレと利上げを誘発する可能性：HSBC",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "HSBCは原油価格100ドル超えが世界的に6%超のインフレと利上げを誘発すると警告。金融市場に大きな影響を与える可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "銀行",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceXのIPO申請が宇宙関連株を押し上げ",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "SpaceXのIPO申請準備で宇宙技術セクター全体に好感触が広がり、関連株が上昇。投資家の注目を集める。",
-          "affected_sectors": [
-            "宇宙産業",
-            "テクノロジー",
-            "投資"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融犯罪が4.4兆ドルに達する：Nasdaqの2026年レポート",
-          "country": "グローバル",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Nasdaqの2026年レポートによると、世界の金融犯罪被害額が4.4兆ドルに達。金融機関は対策強化が必要。",
-          "affected_sectors": [
-            "金融サービス",
-            "サイバーセキュリティ",
-            "規制"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "原油高騰が世界的なインフレと利上げを加速させるリスク。金融市場は警戒を。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 19:30",
     "data": {
       "breaking_news": [
@@ -12916,6 +12850,81 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "AI企業OpenAIへの訴訟が技術セクターに波及。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン暫定停戦で原油急落、世界株高",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イランの暫定停戦合意で、原油価格が急落し、欧米・アジア市場で株価が急騰。ホルムズ海峡再開へ。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英金融Close Brothers、自動車ローン費用吸収で株価急騰",
+          "country": "UK",
+          "category": "Financial, Corporate News",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英Close Brothersは自動車ローン補償費用を吸収可能と発表、株価が急騰。金融セクターに注目。",
+          "affected_sectors": [
+            "Financials",
+            "Automotive Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国住宅価格3月下落、中東情勢の不確実性影響",
+          "country": "UK",
+          "category": "Real Estate, Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "3月の英国住宅価格は下落。中東情勢の不確実性が英国経済と不動産市場に影響を与えている可能性を示唆。",
+          "affected_sectors": [
+            "Real Estate",
+            "Construction"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "印ルピー対ドル上昇、RBI金利据え置きと米イラン停戦で",
+          "country": "India",
+          "category": "Forex, Monetary Policy, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦とインド準備銀行の政策金利据え置きを受け、インド・ルピーが対ドルで大幅に上昇した。",
+          "affected_sectors": [
+            "Forex",
+            "Indian Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "サウジ石油パイプラインにドローン攻撃、停戦下も緊張継続",
+          "country": "Saudi Arabia, Middle East",
+          "category": "Geopolitics, Energy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "暫定停戦中にもかかわらず、サウジアラビアの主要石油パイプラインがドローン攻撃を受け、地域緊張継続。",
+          "affected_sectors": [
+            "Energy",
+            "Geopolitics"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で原油急落、世界株高。地政学リスク後退。"
     }
   }
 ]
