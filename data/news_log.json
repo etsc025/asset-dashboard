@@ -1,29 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国雇用統計、予想を大幅に上回る堅調な結果",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "3月の米雇用統計で非農業部門雇用者数が17.8万人増、失業率は4.3%に低下し、市場予想を大幅に上回った。イラン情勢による原油高騰が懸念される。",
-          "affected_sectors": [
-            "金融",
-            "労働市場",
-            "消費財",
-            "サービス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米国雇用統計が堅調だが、イラン情勢と原油価格の動向に注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 14:00",
     "data": {
       "breaking_news": [
@@ -12818,6 +12794,67 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦で市場急騰、原油価格急落"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン一時停戦合意、原油価格急落で世界市場が上昇",
+          "country": "グローバル",
+          "category": "地政学, エネルギー市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、ホルムズ海峡が再開。原油価格が急落し、世界中の株式市場が上昇。インフレ懸念が緩和された。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "航空",
+            "自動車"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド準備銀行、レポレートを据え置き",
+          "country": "インド",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インド準備銀行は市場予想通りレポレートを5.25%に据え置いた。イラン紛争がGDP成長とインフレに与える影響を考慮。",
+          "affected_sectors": [
+            "金融",
+            "株式市場 (インド)"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "韓国金融当局、市場変動への影響限定的と発表も監視継続",
+          "country": "韓国",
+          "category": "規制当局, 金融安定性",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "韓国の金融当局は中東危機による市場変動の影響は限定的と発表。ただし、潜在的なリスク要因の監視は継続する。",
+          "affected_sectors": [
+            "金融 (韓国)"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF世界経済見通し、分析章が本日発表",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "国際通貨基金は本日、世界経済見通し（2026年4月版）の分析章をリリース。世界の経済成長とインフレ予測が示される予定。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦で原油急落、世界株高。市場はリスクオン。"
     }
   }
 ]
