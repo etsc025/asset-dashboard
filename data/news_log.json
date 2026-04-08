@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米大統領、イランに警告を発し、原油価格が急騰",
-          "country": "米国 / 中東",
-          "category": "地政学 / コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領がイランに厳しい警告を発し、ホルムズ海峡の封鎖を巡る緊張が高まる中、原油価格が急騰している。市場は供給懸念から動揺している。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月雇用統計は好調、しかし2月改定値は下方修正、市場の注目はFRBの政策に",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は予想を上回ったが、2月の改定値は下方修正された。FRBの将来の金融政策に対する市場の憶測が続いている。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Meta、AI投資集中の中、湾岸地域で約200人の従業員をレイオフ",
-          "country": "米国",
-          "category": "企業ニュース / テクノロジー",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "MetaがAIインフラへの数十億ドル投資を継続する中、湾岸地域で約200人の人員削減を実施した。テクノロジー業界の動向を示唆している。",
-          "affected_sectors": [
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化による原油高と市場の変動に厳重警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 05:00",
     "data": {
       "breaking_news": [
@@ -12495,6 +12448,81 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意、市場に安心感。原油下落、株式は上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意、ホルムズ海峡再開",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、ホルムズ海峡が再開。世界の市場に安心感をもたらした。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Equities",
+            "Currencies"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の株式市場が米イラン停戦で急騰",
+          "country": "US, UK, Europe, Asia",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦合意を受け、主要国の株式市場が大幅上昇。リスク選好度が回復し投資家は歓喜。",
+          "affected_sectors": [
+            "Equities",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、米イラン停戦で15%急落",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦合意とホルムズ海峡再開で、供給懸念が後退し原油価格が15%以上急落。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格、リスクオンで上昇幅縮小",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "地政学的緊張緩和によるリスクオンセンチメント回復で、金価格は初期の上昇分を一部失う。",
+          "affected_sectors": [
+            "Precious Metals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米ドル下落、リスク通貨上昇",
+          "country": "Global",
+          "category": "Currencies",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦を受け米ドルは下落。豪ドル、ユーロなどのリスク選好通貨は価値を上げた。",
+          "affected_sectors": [
+            "Forex",
+            "International Trade"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で世界市場がリスクオンに転換、原油急落、株式急騰に注目。"
     }
   }
 ]
