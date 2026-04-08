@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格が急騰、一部で1バレル116ドルに達する",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の激化とホルムズ海峡への脅威により、原油価格が急騰し、供給懸念とインフレリスクが高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計、非農業部門雇用者数17.8万人増で市場予想を大幅に上回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国経済は3月に17.8万人の雇用を創出し、失業率は4.3%に低下。賃金上昇は鈍化したが、力強い労働市場を示す。",
-          "affected_sectors": [
-            "金融",
-            "株式市場",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "FRB議長、短期的な原油価格上昇を容認する姿勢、利上げ見送りの見方強まる",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FRB議長パウエルは、短期的な原油価格上昇は「見過ごす」可能性を示唆し、堅調な雇用統計にもかかわらず利上げ見送りの見方を強めた。",
-          "affected_sectors": [
-            "金融",
-            "株式市場",
-            "債券市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン、ホルムズ海峡封鎖の可能性で世界的なエネルギー供給に不確実性",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランによるホルムズ海峡の継続的な支配に関する懸念が続き、供給途絶のリスクが高まり、世界のエネルギー市場に不確実性をもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバルサプライチェーン"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金価格、中東情勢の緊迫化を受けインフレヘッジとして上昇",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊迫化を受け、金価格はインフレヘッジとしての需要が高まり、一部では4,600ドル/オンスを突破した。",
-          "affected_sectors": [
-            "貴金属",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化、原油価格急騰で市場のボラティリティが増大。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 22:30",
     "data": {
       "breaking_news": [
@@ -12740,6 +12661,44 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国・イラン停戦合意、原油急落、世界株高で市場はリスクオンへ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイラン、2週間の停戦に合意し、原油価格が急落、世界株価が急騰",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, 金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意。地政学的緊張緩和とインフレ懸念後退から、原油価格は15%急落し、S&P 500は2.5%超上昇。米国債利回りも低下。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "債券市場",
+            "航空",
+            "運輸"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "リーバイ・ストラウス、第1四半期決算が予想を上回り株価5%上昇、ガイダンス引き上げ",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "リーバイ・ストラウスが発表した第1四半期決算はアナリスト予想を上回り、通期ガイダンスも引き上げられた。時間外取引で株価は5%上昇。",
+          "affected_sectors": [
+            "アパレル",
+            "小売"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で市場はリスクオン、原油急落と株高が進行中。"
     }
   }
 ]
