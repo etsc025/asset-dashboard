@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "FOMC Press Release Updates Economic Outlook and Monetary Policy",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "連邦公開市場委員会が最新の声明を発表し、経済見通しを更新し現在の金融政策スタンスを再確認。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Real Estate",
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "情報機関、イランによるホルムズ海峡の長期封鎖を警告",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "情報機関の報告によると、イランによるホルムズ海峡の長期封鎖の可能性が示唆され、地政学的緊張が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping & Logistics",
-            "Aerospace & Defense",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国先物、3月の堅調な雇用統計を受け利上げ懸念で下落",
-          "country": "United States",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の堅調な雇用統計後、米国の株式先物がわずかに下落。投資家の利上げ懸念が再燃。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イランによるホルムズ海峡封鎖警告が世界的なリスクを高め、FOMCは政策を再確認。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 23:30",
     "data": {
       "breaking_news": [
@@ -12685,6 +12632,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン停戦合意で世界市場はリスクオン、原油急落・株価急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランが2週間の停戦に合意、原油価格急落と世界株高を引き起こす",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、ホルムズ海峡の再開も含まれる。これにより原油価格が急落し、世界の株式市場は大幅に上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "テクノロジー",
+            "海運",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "デルタ航空が予想を上回る決算を発表、株価が急騰",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "デルタ航空が第1四半期の決算で予想を上回るEPSと売上高を報告し、株価が13%急騰した。",
+          "affected_sectors": [
+            "航空"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "メタ社が初のAIモデルを発表",
+          "country": "米国",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "メタ社が初のAIモデルを発表し、テクノロジーセクターへのポジティブな影響が期待される。",
+          "affected_sectors": [
+            "テクノロジー",
+            "AI"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で市場に安堵、株高・原油安が進む"
     }
   }
 ]
