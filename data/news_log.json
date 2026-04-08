@@ -1,41 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ECB理事、ユーロ圏経済は追加刺激が必要と発言",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB理事のセンテノ氏がユーロ圏経済には追加的な刺激策が必要であると発言。金融緩和への期待感が高まる可能性がある。",
-          "affected_sectors": [
-            "銀行",
-            "ユーロ通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英貿易担当大臣、ホルムズ海峡の安全確保を強調",
-          "country": "英国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "英貿易担当大臣が同盟国との協議でホルムズ海峡の開放維持が重要と発言。中東情勢の緊迫が継続。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫、原油価格高止まりで世界経済への懸念"
-    }
-  },
-  {
     "timestamp": "2026-04-05 03:00",
     "data": {
       "breaking_news": [
@@ -12546,6 +12510,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で市場リスクオン、原油急落。一部懸念も。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン一時停戦合意で株価急騰、原油急落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、ホルムズ海峡再開期待から原油価格が急落。世界各地の株式市場が大幅に上昇した。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イランの停戦違反主張で米国株上げ幅縮小",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イランが米国による停戦合意違反を主張。米国株式市場は初期の急騰から上げ幅を縮小し、市場に警戒感が広がる。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドイツ2月製造業新規受注、予想を下回る伸び",
+          "country": "Germany",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ドイツの2月製造業新規受注は前月比0.9%増に留まり、市場予想を下回った。製造業部門の回復鈍化を示唆。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Automotive"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦合意後の市場は警戒継続。合意の脆弱性に注目。"
     }
   }
 ]
