@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油高懸念が継続し市場に影響",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での軍事衝突長期化懸念から原油価格が高止まり、世界経済や企業業績への悪影響が警戒される。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Manufacturing",
-            "Logistics",
-            "General Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円相場が続落、中東情勢と日米金利差が重荷",
-          "country": "Japan",
-          "category": "Currency",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドル円は159円台後半で推移、中東情勢の長期化懸念による原油高と日米金利差が円安を助長。",
-          "affected_sectors": [
-            "Exporters",
-            "Importers",
-            "Tourism",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油高が世界経済に重圧。円安も継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 01:00",
     "data": {
       "breaking_news": [
@@ -12674,6 +12634,46 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で世界の金融市場はリスクオン、原油急落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン停戦合意、原油価格急落、世界株価急騰",
+          "country": "グローバル",
+          "category": "地政学、エネルギー、金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意しホルムズ海峡が再開。地政学的緊張緩和とインフレ懸念後退から原油価格が急落し、世界中の株式市場が急騰した。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "株式市場全般",
+            "テクノロジー",
+            "暗号資産",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、太陽光発電記録を更新し、国内最大の太陽光発電所が承認",
+          "country": "英国",
+          "category": "エネルギー、環境政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国が太陽光発電記録を2度更新し、国内最大の太陽光発電所が承認された。再生可能エネルギー部門に好影響。",
+          "affected_sectors": [
+            "再生可能エネルギー",
+            "電力"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン停戦で原油急落、世界株価急騰。"
     }
   }
 ]
