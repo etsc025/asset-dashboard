@@ -1,66 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "欧州、エネルギー企業への利益上限設定要求",
-          "country": "EU",
-          "category": "経済, エネルギー, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による原油・ガス価格高騰を受け、欧州5カ国財務相がEUにエネルギー企業への超過利益課税を提案。インフレ抑制が目的。",
-          "affected_sectors": [
-            "エネルギー",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争、米国の住宅ローン金利見通しに暗雲",
-          "country": "米国",
-          "category": "不動産, 経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争起因のインフレ懸念が米国債利回りを押し上げ、住宅ローン金利が上昇。米住宅市場に下押し圧力。",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "建設"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月の雇用者数17.8万人増、予想上回る",
-          "country": "米国",
-          "category": "経済, 労働市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米労働省データ、3月の非農業部門雇用者数は17.8万人増加し、前月の減少から回復。医療・建設業で増加。",
-          "affected_sectors": [
-            "全般"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UAE、銀行システム支援のため80億ドル注入",
-          "country": "UAE",
-          "category": "銀行, 金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "アラブ首長国連邦（UAE）が自国の銀行システム安定化のため80億ドルを注入したと報じられた。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争が原油価格とインフレを押し上げ、世界市場にリスクオフムードが広がる。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 01:30",
     "data": {
       "breaking_news": [
@@ -12674,6 +12613,59 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン停戦で原油急落、世界株価急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イランが2週間の停戦に合意、ホルムズ海峡再開へ",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の条件付き停戦に合意し、世界のエネルギー供給に不可欠なホルムズ海峡の再開が含まれる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Equities",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が急落、1バレル100ドルを下回る水準に",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦合意を受け、原油価格は1バレル100ドルを下回る水準まで大幅に急落し、エネルギー市場の供給不安が緩和された。",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Automotive",
+            "Transportation",
+            "Chemicals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界中の株式市場が大幅に上昇、地政学的緊張緩和で",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦発表により地政学的緊張が緩和され、ダウ、S&P 500、FTSEなど世界中の主要株式市場が急騰した。",
+          "affected_sectors": [
+            "All Sectors",
+            "Cyclical Stocks",
+            "Airlines"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦で市場はリスクオン、原油急落し株価急騰"
     }
   }
 ]
