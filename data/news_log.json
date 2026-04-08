@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争激化、原油価格高騰で世界市場に変動",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の激化により原油価格が急騰し、アジア市場を含む世界株式市場に売り圧力がかかり、投資家のリスク回避姿勢が強まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Financials",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計が予想を上回る堅調さ、インフレ懸念が再燃",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は市場予想を大幅に上回る堅調な結果となり、経済の強さを示す一方で、インフレ加速とFRBの金融引き締め長期化への懸念が再燃している。",
-          "affected_sectors": [
-            "Broad Market",
-            "Technology",
-            "Consumer Discretionary",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の住宅ローン金利が急騰、住宅市場に冷や水",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の住宅ローン金利が2025年9月以来の高水準に急騰し、住宅購入希望者の購買力を低下させ、住宅市場の活動に悪影響を与える可能性がある。",
-          "affected_sectors": [
-            "Real Estate",
-            "Banking",
-            "Construction"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化と原油高で世界市場はリスクオフへ"
-    }
-  },
-  {
     "timestamp": "2026-04-04 16:31",
     "data": {
       "breaking_news": [
@@ -12889,6 +12836,94 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で原油急落、市場はリスクオン。中銀は地政学リスクを注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン、2週間の停戦合意で原油急落、世界株高",
+          "country": "Global",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イランが停戦に合意しホルムズ海峡再開。原油急落、世界株市場が大幅上昇。地政学的リスク緩和。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が大幅下落、ブレント原油は一時16%安",
+          "country": "Global",
+          "category": "エネルギー, 商品",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦合意を受け、ブレント原油が16%下落し$95/バレル付近に。地政学リスク後退。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の株式市場が急騰、アジア株・米国株先物が大幅高",
+          "country": "Global",
+          "category": "株式市場, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "地政学的緊張緩和と原油安を受け、アジア、米国、欧州の主要株価指数が軒並み大幅に上昇。",
+          "affected_sectors": [
+            "全株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格が上昇、インフレ懸念緩和と地政学リスク後退を反映",
+          "country": "Global",
+          "category": "商品",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦合意と原油安によるインフレ懸念の緩和を受け、金価格が約3週間ぶり高値を記録。",
+          "affected_sectors": [
+            "貴金属採掘"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国債利回り低下、原油安と米FRB利上げ見送り期待",
+          "country": "英国",
+          "category": "債券市場, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦による原油安で英国債利回りが低下。インフレ懸念和らぎ、FRB利上げ見送り期待高まる。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "シェル、イラン紛争影響でガス生産見通しを下方修正",
+          "country": "Global",
+          "category": "企業業績, エネルギー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "エネルギー大手シェルが、イラン紛争がカタール産ガス量に与える影響で生産見通しを下方修正。",
+          "affected_sectors": [
+            "エネルギー",
+            "石油・ガス大手"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で原油急落、世界株高。市場はリスクオンへ。"
     }
   }
 ]
