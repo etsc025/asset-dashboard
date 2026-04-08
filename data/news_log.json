@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの紛争激化、原油価格急騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの紛争が激化し、中東情勢が緊迫。米国戦闘機がイランで撃墜され、トランプ大統領が追加攻撃を示唆。原油価格は1バレル110ドル超に急騰し、供給懸念が拡大しています。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計、非農業部門雇用者数17.8万人増、失業率4.3%",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国3月の非農業部門雇用者数は17.8万人増と予想を上回り、失業率は4.3%で横ばい。労働市場の堅調さを示すものの、市場は不安定な動きを見せています。",
-          "affected_sectors": [
-            "Broad Market",
-            "Consumer Discretionary",
-            "Staffing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Applied Optoelectronicsがデータセンター向け新規受注で株価20%急騰",
-          "country": "US",
-          "category": "Company News",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Applied Optoelectronicsが800Gデータセンター用トランシーバーの新規受注を獲得し、株価が20%上昇。テクノロジー株に前向きな動きが見られます。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors",
-            "Data Centers"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Air France-KLMがポルトガルTAP航空の株式取得を提案",
-          "country": "Europe",
-          "category": "M&A",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Air France-KLMがポルトガル国営航空会社TAPの株式取得を提案。欧州航空業界における再編動向を示唆する動きです。",
-          "affected_sectors": [
-            "Airlines",
-            "Travel"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化で原油価格高騰、市場の不確実性が増大しています。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 23:00",
     "data": {
       "breaking_news": [
@@ -12699,6 +12634,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で市場はリスクオン、原油急落と株高が進行中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イランが2週間の停戦に合意、ホルムズ海峡再開で原油急落・株価急騰",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領が2週間の条件付き停戦を発表。ホルムズ海峡の再開により原油価格が大幅下落し、世界の株式市場は急騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "自動車",
+            "半導体",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "エクソンモービル、イラン紛争関連のヘッジ損失でQ1利益が予想を下回る見込み",
+          "country": "US",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "エクソンモービルは、イラン紛争による原油価格上昇の恩恵にもかかわらず、ヘッジ損失が影響し、第1四半期の利益が予想を下回ると示唆。",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドSEBI、IPOロックアップ期間中の誓約済み株式に関する規制を緩和",
+          "country": "India",
+          "category": "Regulatory",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インド証券取引委員会（SEBI）が、新規株式公開（IPO）のロックアップ期間中に誓約された株式のコンプライアンス規則を緩和した。",
+          "affected_sectors": [
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン停戦合意で世界市場はリスクオン、原油急落・株価急騰。"
     }
   }
 ]
