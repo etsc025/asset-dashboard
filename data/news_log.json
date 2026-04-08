@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "主要市場、グッドフライデーのため休場",
-          "country": "Global",
-          "category": "Market Holiday",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "主要な金融市場はグッドフライデーの祝日のため休場し、取引活動は限定的となる見込みです。",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "グッドフライデーにより主要市場が休場。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 18:30",
     "data": {
       "breaking_news": [
@@ -12918,6 +12897,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US-Iran ceasefire boosts global stocks, plunges oil prices; RBI holds rates."
+    }
+  },
+  {
+    "timestamp": "2026-04-08 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イランが2週間の停戦に合意、原油価格が急落しグローバル株式市場が急騰",
+          "country": "Global",
+          "category": "地政学, エネルギー, 市場変動",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、原油価格が急落。欧州、アジア市場の株価が急騰し、リスクオンムードに。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "レイ・ダリオ氏、市場は「世界大戦」リスクを過小評価していると警告",
+          "country": "Global",
+          "category": "地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "レイ・ダリオ氏が、市場が長期化する世界紛争リスクを過小評価していると警鐘。広範囲な影響を予測。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国の住宅価格が3月に下落、中東紛争の不確実性が影響",
+          "country": "UK",
+          "category": "不動産, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の住宅価格が3月に下落。中東紛争の不確実性が影響し、不動産市場への懸念が高まっている。",
+          "affected_sectors": [
+            "不動産",
+            "建設",
+            "銀行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦で株価高騰・原油急落。地政学リスク継続に注意。"
     }
   }
 ]
