@@ -576,10 +576,31 @@ async function fetchAll(){
       const retSign = netRet > 0 ? '+' : '';
       const mkt = MARKET_LABEL[b.bot] || { label:'―', color:'#8b949e', bg:'#21262d' };
       const mktTag = `<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:${mkt.bg};color:${mkt.color};margin-left:5px;white-space:nowrap;">${mkt.label}</span>`;
-      // コスト内訳ツールチップ用
+      // コスト内訳
       const costDetail = costTotal > 0
         ? `手数料¥${costComm.toLocaleString()} スリッページ¥${costSlip.toLocaleString()} 税¥${costTax.toLocaleString()}${costFx!==0?' 為替¥'+costFx.toLocaleString():''}`
         : 'コストなし';
+
+      // Auto Tune 情報
+      const tuneActions = b.tune_actions || [];
+      const tuneStats   = b.tune_stats   || {};
+      const lastTuned   = b.last_tuned   ? b.last_tuned.slice(0,16).replace('T',' ') : '';
+      const conf        = b.conf_threshold ? b.conf_threshold.toFixed(2) : '―';
+      const pos         = b.position_ratio ? (b.position_ratio*100).toFixed(0)+'%' : '―';
+      const stopL       = b.stop_loss ? (b.stop_loss*100).toFixed(1)+'%' : '―';
+      // tune_actionsを日本語に変換して表示
+      const tuneHTML = tuneActions.length > 0
+        ? `<div style="margin-top:4px;padding:4px 6px;background:#1c2333;border-radius:4px;border-left:2px solid #f59e0b;">
+            <div style="font-size:9px;color:#f59e0b;font-weight:600;margin-bottom:2px;">
+              🔧 Auto Tune ${lastTuned ? '（'+lastTuned+'）' : ''}
+              <span style="color:#8b949e;font-weight:400;margin-left:6px;">
+                conf=${conf} pos=${pos} stop=${stopL}
+              </span>
+            </div>
+            ${tuneActions.map(a=>`<div style="font-size:9px;color:#94a3b8;line-height:1.4;">・${a}</div>`).join('')}
+          </div>`
+        : '';
+
       return `
         <div style="padding:6px 0;border-bottom:1px solid #21262d;">
           <div style="display:flex;justify-content:space-between;align-items:center;">
@@ -597,6 +618,7 @@ async function fetchAll(){
             <span>取引 <span style="color:#e6edf3;">${b.n_trades}件</span></span>
           </div>
           ${costTotal > 0 ? `<div style="font-size:9px;color:#6b7280;margin-top:1px;">${costDetail}</div>` : ''}
+          ${tuneHTML}
           <div class="rank-bar"><div class="rank-bar-fill" style="width:${barPct}%;background:${barColor};"></div></div>
         </div>`;
     }).join('');
