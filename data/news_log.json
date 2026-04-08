@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月雇用統計、予想を大きく上回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国3月の雇用者数が予想を大幅に上回り、力強い経済回復を示す。今後の金融政策に影響か。",
-          "affected_sectors": [
-            "金融",
-            "一般消費財",
-            "労働市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Metaがベイエリアで約200人をレイオフ、AI投資は継続",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Metaがベイエリアで約200人の従業員を解雇。AIインフラへの数十億ドル規模の投資は継続。",
-          "affected_sectors": [
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコイン、67,000ドル付近で推移",
-          "country": "グローバル",
-          "category": "暗号資産",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ビットコイン価格は現在67,000ドル付近で安定。暗号資産市場は現状を維持している。",
-          "affected_sectors": [
-            "暗号資産",
-            "フィンテック"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "北海油田の新規掘削、英国のガス輸入削減にほぼ寄与せず",
-          "country": "英国",
-          "category": "エネルギー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "新たなデータにより、北海での新規掘削が英国のガス輸入削減努力にほとんど貢献しないことが判明。",
-          "affected_sectors": [
-            "エネルギー",
-            "公益事業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米軍機が湾で墜落、パイロットは救助",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米軍機が湾で2度目の墜落事故。パイロットは無事救助されたが、地域の緊張状況を注視。",
-          "affected_sectors": [
-            "防衛",
-            "石油・ガス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "トランプ氏の2027年度予算案、非国防費10%削減と国防費増額を要求",
-          "country": "米国",
-          "category": "財政政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ氏の2027年度予算案は、非国防費の大幅削減と国防費の増額を提案。",
-          "affected_sectors": [
-            "防衛",
-            "公共サービス",
-            "広範な産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国のフードホール、苦境のホスピタリティ業界で成長",
-          "country": "英国",
-          "category": "消費財・小売",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国のフードホールが低迷するホスピタリティ業界で逆境を乗り越え、回復力と成長を示す。",
-          "affected_sectors": [
-            "ホスピタリティ",
-            "小売",
-            "食品・飲料"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国3月雇用統計が市場予想を大幅に上回り、米国経済の力強い回復を示す。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 20:00",
     "data": {
       "breaking_news": [
@@ -12925,6 +12823,44 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で原油急落、世界株高。地政学リスク後退。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン、条件付き停戦合意。原油価格急落、株式市場は上昇。",
+          "country": "国際",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが条件付きの2週間停戦に合意し、ホルムズ海峡の再開も含まれる。これにより地政学リスクが後退し、原油価格は急落、世界的な株式市場は上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド準備銀行、政策金利を据え置き。インフレと国際情勢の不確実性を理由に。",
+          "country": "インド",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インド準備銀行（RBI）は、インフレリスクと世界的な不確実性を考慮し、政策金利を据え置いた。これは市場の予想通りとみられる。",
+          "affected_sectors": [
+            "銀行",
+            "金融",
+            "株式市場（インド市場）"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で世界株高、原油急落。RBIは金利据え置き。"
     }
   }
 ]
