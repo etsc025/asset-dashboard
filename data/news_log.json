@@ -1,76 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 16:31",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "GM、第1四半期の米国車両販売が9.7%減少",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "GMのQ1米国車両販売が9.7%減。自動車セクターにネガティブな影響、投資家は動向を注視する必要がある。",
-          "affected_sectors": [
-            "自動車"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国株式市場、本日上昇で始まる可能性",
-          "country": "中国",
-          "category": "市場予測",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "中国株は本日上昇で始まる見込み。ポジティブなセンチメントがグローバル株式市場に波及する可能性も。",
-          "affected_sectors": [
-            "株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン戦争終結への期待で株式市場が上昇",
-          "country": "グローバル",
-          "category": "地政学/市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待感から、世界の株式市場は上昇して取引を終えた。原油価格にも好影響。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "堅調な3月雇用統計にもかかわらず米国先物は小幅下落",
-          "country": "米国",
-          "category": "経済指標/金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "予想を上回る3月雇用統計発表後も米国先物はわずかに下落。利上げ懸念が背景にある可能性。",
-          "affected_sectors": [
-            "金融",
-            "株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "グローバル市場がグッドフライデーで休場",
-          "country": "グローバル",
-          "category": "市場イベント",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "グッドフライデーのため、世界の主要な金融市場は休場。取引活動が低下し、流動性が減少する見込み。",
-          "affected_sectors": [
-            "全ての金融市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "グッドフライデーによりグローバル市場が休場、取引活動が低下。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 17:00",
     "data": {
       "breaking_news": [
@@ -12924,6 +12853,86 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意で原油急落、世界株高。市場はリスクオンへ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US-イラン停戦合意で世界の株式市場が急騰、原油価格が急落",
+          "country": "グローバル",
+          "category": "地政学, 市場動向, コモディティ, 通貨",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意したことで、世界の株式市場が大幅に上昇し、原油価格は急落した。ポンドも対ドルで上昇している。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "航空",
+            "製造業",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新興市場、世界のポートフォリオ投資家への依存度高まり資本流出リスク増大",
+          "country": "グローバル（新興国市場）",
+          "category": "経済, 投資",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "新興市場は世界のポートフォリオ投資家への依存度が高まっており、リスクセンチメントの変化により突然の資本流出のリスクが増大している。",
+          "affected_sectors": [
+            "金融",
+            "投資ファンド",
+            "新興国の各セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "シェル、イラン紛争影響でガス生産予測を下方修正",
+          "country": "英国",
+          "category": "エネルギー, 企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "シェルは、イラン紛争がカタール産ガス量に影響を与えたため、統合ガス生産予測を下方修正した。一方で、石油取引利益は急増。",
+          "affected_sectors": [
+            "エネルギー",
+            "石油・ガス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "中東紛争の不確実性を受け英国の住宅価格が下落",
+          "country": "英国",
+          "category": "不動産, 経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東紛争による不確実な影響が懸念され、3月に英国の住宅価格が下落した。",
+          "affected_sectors": [
+            "不動産",
+            "建設",
+            "銀行（住宅ローン）"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Rift Helium、ヘリウム需要増加を背景にロンドンAIM市場への上場準備",
+          "country": "英国",
+          "category": "企業ニュース, IPO/上場, コモディティ",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Rift Heliumは、ヘリウムの戦略的需要増加を背景に、4月中旬にロンドンのAIM市場に上場を準備している。",
+          "affected_sectors": [
+            "鉱業",
+            "コモディティ",
+            "産業ガス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US-イラン停戦合意で株式市場が急騰、原油価格が急落。"
     }
   }
 ]
