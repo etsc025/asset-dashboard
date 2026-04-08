@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国先物、堅調な3月雇用統計後に下落",
-          "country": "アメリカ",
-          "category": "経済, 株式市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の堅調な米雇用統計発表後、株式先物はわずかに下落。市場は金融政策への影響を警戒している模様。",
-          "affected_sectors": [
-            "株式市場",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国地方選挙控え経済公約にトリュソノミクスが影を落とす",
-          "country": "イギリス",
-          "category": "政治, 経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国の地方選挙を控え、各党の経済公約に過去のトリュソノミクス政策の影響が議論を呼んでいる。",
-          "affected_sectors": [
-            "英国経済全般",
-            "財政"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中東情勢緊迫化、原油価格高騰と世界市場の不確実性継続",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, 市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での紛争の継続が原油価格を押し上げ、世界経済と金融市場に広範な不確実性をもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "航空",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、原油高と市場の不確実性が金融市場を揺るがす。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 04:30",
     "data": {
       "breaking_news": [
@@ -12522,6 +12471,30 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン停戦合意で世界市場が急騰、原油価格急落"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 08:01",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意、世界市場を押し上げ原油価格は急落",
+          "country": "グローバル",
+          "category": "地政学、マクロ経済、エネルギー市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "パキスタン仲介による米イラン間の2週間停戦合意が市場の信頼感を高め、株式と債券が上昇。原油価格は95ドルを下回り、インフレ懸念が緩和。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "株式市場",
+            "債券市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意、市場に安心感。原油下落、株式は上昇。"
     }
   }
 ]
