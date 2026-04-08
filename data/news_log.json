@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-04 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米F-15戦闘機、イラン上空で撃墜。乗組員捜索中",
-          "country": "グローバル/米国/イラン",
-          "category": "地政学/軍事紛争",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米F-15戦闘機がイラン上空で撃墜され、地政学的緊張が高まる。乗組員の捜索が進行中。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "海運",
-            "金融市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月雇用統計、予想を大幅に上回る17.8万人の雇用増",
-          "country": "米国",
-          "category": "経済指標/労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用者数は17.8万人増で予想を上回る。失業率は4.3%に低下、賃金伸び率は鈍化。",
-          "affected_sectors": [
-            "全セクター",
-            "消費裁量",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争により原油価格が急騰、米国産原油は1バレル110ドル超え",
-          "country": "グローバル",
-          "category": "コモディティ/エネルギー市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争激化で原油価格が急騰。米国産原油WTIが1バレル110ドルを突破し、市場に影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造",
-            "消費裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米S&Pグローバル・サービスPMI、3月に49.8へ下落し3年ぶり低水準",
-          "country": "米国",
-          "category": "経済指標/サービス業",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国3月のS&Pグローバル・サービスPMIが49.8に落ち込み、3年以上ぶりの縮小を示す。",
-          "affected_sectors": [
-            "サービス業",
-            "消費裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株価指数先物、堅調な3月雇用統計を受けて小幅下落",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "予想を上回る3月雇用統計発表後、米国株価指数先物は小幅に下落。市場は複雑な反応。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国で住宅ローン金利が急騰、住宅購入者の計画に影響",
-          "country": "米国",
-          "category": "金融/不動産",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の住宅ローン金利が急上昇し、住宅市場の活動と消費者の購買力に悪影響を与えている。",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "建設"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化、米国F-15戦闘機撃墜。原油価格急騰で市場警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-04 08:30",
     "data": {
       "breaking_news": [
@@ -12881,6 +12789,73 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦合意、原油急落・アジア株高でリスクオン"
+    }
+  },
+  {
+    "timestamp": "2026-04-08 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランが2週間の停戦に合意、ホルムズ海峡再開",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、イランはホルムズ海峡を再開。中東の緊張緩和で市場に好影響。",
+          "affected_sectors": [
+            "Energy",
+            "Global Equities",
+            "Forex",
+            "Shipping"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "停戦合意を受けアジア株が急騰、原油価格は大幅下落",
+          "country": "Asia",
+          "category": "Market Reaction",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦合意により、アジア株式市場は大きく上昇。WTI原油先物は15%超急落し、ドルも下落。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Automotive",
+            "Financial Services",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BlackRock、Nasdaq-100連動ETFを申請、Invescoと競合へ",
+          "country": "US",
+          "category": "Financial Services",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BlackRockがNasdaq-100に連動するETFをSECに申請。Invescoの既存商品との競争激化が予想される。",
+          "affected_sectors": [
+            "Financial Services",
+            "Asset Management",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国シティ企業、30年ぶりの業績好転を報告",
+          "country": "UK",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国シティの企業が過去30年で最速の業績回復を報告。英国経済への信頼感を示す。",
+          "affected_sectors": [
+            "Financial Services",
+            "UK Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で中東緊張緩和、市場はリスクオン。原油急落。"
     }
   }
 ]
