@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化で原油価格急騰、世界経済にインフレ圧力と成長懸念",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東イラン戦争長期化懸念で原油価格が急騰し、世界のエネルギー市場に負担をかけ、インフレと経済成長の鈍化懸念が高まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月雇用統計が予想を大幅に上回り、経済回復の力強さを示す",
-          "country": "United States",
-          "category": "Macroeconomics, Labor Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の3月雇用統計は予想を大幅に上回り、17.8万人の新規雇用と失業率4.3%を記録。力強い経済回復を示唆し、FRBの金融政策への期待が高まる。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化で原油高、世界経済にインフレ圧力と成長懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 02:00",
     "data": {
       "breaking_news": [
@@ -12759,6 +12720,155 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦の不安定化と原油価格の再上昇に警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東和平交渉進展で米国株が上昇",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東和平交渉進展を受け、米国株式市場が上昇。投資家心理改善の兆しが見られる。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF専務理事、戦争下でのインフレ対策を中央銀行に促す",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、戦争による経済的苦痛を警告し、成長を犠牲にしても中銀にインフレ対策を要求。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国天然ガス先物、供給過剰と温暖な気候で17カ月ぶり安値",
+          "country": "US",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "供給過剰と温暖な気候が原因で、米国天然ガス先物価格が17カ月ぶりの低水準を記録した。",
+          "affected_sectors": [
+            "Energy",
+            "Utilities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Citi CIO調査、IT支出の減速と大規模プロジェクト遅延を示唆",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "CitiのCIO調査によると、企業IT支出の成長が鈍化し、大規模プロジェクトに遅延の兆しがある。",
+          "affected_sectors": [
+            "Technology (Software, IT Services)"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "グレンコアとマーキュリア、コモンウェルスからのLNG購入拡大",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "グレンコアとマーキュリアがLNG購入を拡大し、世界のエネルギー市場での需要増と供給逼迫を示唆。",
+          "affected_sectors": [
+            "Energy (LNG)",
+            "Commodities Trading"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFトップ、イラン戦争が世界経済に恒久的な傷痕を残すと警告",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFのトップが、イラン戦争が終結しても世界経済に永続的な悪影響を残すと警告した。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "リドル、英国で50店舗と初のパブを開店予定",
+          "country": "UK",
+          "category": "Retail",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "小売大手リドルが英国で50の新店舗と初のパブを開業し、2,000人近くの雇用を創出へ。",
+          "affected_sectors": [
+            "Retail",
+            "Food & Beverage"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国、タタ電池工場に3億8000万ポンドの助成金",
+          "country": "UK",
+          "category": "Government Grant",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国政府がタタの電池工場に3億8000万ポンドの助成金を供与し、EV産業を支援する。",
+          "affected_sectors": [
+            "Automotive",
+            "Manufacturing",
+            "Green Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "OpenAI、英国のStargate計画を棚上げ",
+          "country": "UK",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "OpenAIが英国でのStargate計画を中止。英国のAI分野への投資意欲に冷や水を浴びせた。",
+          "affected_sectors": [
+            "Technology (AI)"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Meta、高コストの「超知能」チームで新AIモデルを発表",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Metaが高額な「超知能」開発チームを通じて新しいAIモデルを発表し、技術競争を加速。",
+          "affected_sectors": [
+            "Technology (AI)",
+            "Social Media"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ホルムズ海峡の現実：脆弱な停戦下でも脅威と被害が継続",
+          "country": "Middle East",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "ホルムズ海峡では脆弱な停戦にもかかわらず、脅威と損害が続き、エネルギー市場に懸念。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "IMFは戦争の経済的苦痛を警告、中銀はインフレ対策優先。"
     }
   }
 ]
