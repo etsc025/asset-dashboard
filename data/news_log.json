@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、イランに対し「48時間以内に合意がなければ地獄が降り注ぐ」と警告",
-          "country": "米国/中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領がイランに対し48時間以内の合意なければ「地獄が降り注ぐ」と警告。原油急騰し市場にリスクオフ圧力。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU5カ国がエネルギー企業への超過利潤税を提案",
-          "country": "EU (欧州連合)",
-          "category": "財政政策/エネルギー規制",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "欧州連合の5カ国が、エネルギー企業に対する超過利潤税の導入を検討していると報じられた。エネルギー株に売り圧力。",
-          "affected_sectors": [
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計が予想上振れ、高金利長期化懸念で米株先物下落",
-          "country": "米国",
-          "category": "経済指標/金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の3月雇用統計は市場予想を大きく上回る強い結果。FRBの利上げ長期化観測から米株先物が小幅下落。",
-          "affected_sectors": [
-            "全セクター",
-            "特に金利敏感株"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ大統領のイラン強硬発言とEUの超過利潤税提案で市場の不確実性高まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 10:30",
     "data": {
       "breaking_news": [
@@ -12450,6 +12402,74 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン停戦の不安定さとホルムズ海峡問題で市場警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦合意と原油価格急落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の2週間の停戦合意により原油価格が急落。株式市場は一時的に上昇するも、合意の持続性に懸念が残る。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Automotive",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米連邦準備制度理事会、利上げの可能性に言及",
+          "country": "US",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米連邦準備制度理事会はインフレ高止まりを懸念し、今年の利下げ時期がずれ込み、利上げの可能性にも言及。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials",
+            "Technology",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界銀行、インドの成長予測を上方修正",
+          "country": "India",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "世界銀行は内需と自由貿易協定を背景に、インドの今年度成長率予測を6.3%から6.6%に上方修正した。",
+          "affected_sectors": [
+            "Emerging Markets",
+            "Infrastructure",
+            "Banking",
+            "Consumer Goods"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日本の中央銀行の独立性に関する警告",
+          "country": "Japan",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMF元エコノミストが、日本政府の拡張的財政政策が日銀の独立性を損ない、国債利回り上昇を招くと警告。",
+          "affected_sectors": [
+            "Financials",
+            "Government Bonds"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦合意で原油価格下落も、米連邦準備制度理事会はインフレ懸念を継続"
     }
   }
 ]
