@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "OPEC+、石油増産を理論上承認の見込み",
-          "country": "Global",
-          "category": "Energy Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OPEC+が日曜のオンライン会議で理論的な石油増産を承認する見込みだが、実際の影響は限定的か。",
-          "affected_sectors": [
-            "Energy",
-            "Oil & Gas"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン、クウェート石油公社本社に無人機攻撃",
-          "country": "Kuwait",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日曜早朝、イランが無人機でクウェート石油公社本社を攻撃、中東情勢の緊張が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Oil & Gas",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米軍機2機がイランの反撃で撃墜、ホルムズ海峡の供給危機迫る",
-          "country": "US, Iran",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国が「完全支配」を主張する中、イランが反撃し米軍機2機を撃墜。ホルムズ海峡の石油供給危機が深刻化。",
-          "affected_sectors": [
-            "Energy",
-            "Oil & Gas",
-            "Aviation",
-            "Defense",
-            "Shipping",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争による高エネルギーコストがAIブームの経済を脅かす",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争による高エネルギーコストがAI関連産業の経済に悪影響を及ぼす可能性があり、成長を阻害しかねない。",
-          "affected_sectors": [
-            "Technology",
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ECB専務理事、ユーロ圏経済には追加刺激策が必要と発言",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB専務理事のセンテノ氏が、ユーロ圏経済はECBからの追加刺激策が必要だと述べた。",
-          "affected_sectors": [
-            "Financials",
-            "European Equities",
-            "Government Bonds"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、石油施設攻撃と米軍機撃墜でリスクオフ拡大。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 23:30",
     "data": {
       "breaking_news": [
@@ -12640,6 +12559,94 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦の不安定さが原油価格を押し上げ、市場心理を悪化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場が上昇、中東和平交渉の示唆が後押し",
+          "country": "米国",
+          "category": "市場動向",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米主要株価指数が上昇。イスラエル・レバノン和平交渉示唆で地政学的緊張緩和期待も、インフレ警戒続く。",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的緊張とホルムズ海峡の不確実性で原油価格が急騰",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東の地政学的緊張とホルムズ海峡の安全保障上の懸念から、原油価格は100ドルを突破し急騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争が世界経済に恒久的な傷を残すと警告",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、イラン戦争がたとえ和平が実現しても、世界経済に長期的な悪影響を及ぼすと発言。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的不確実性によりFRB利下げ期待が後退",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "高まる地政学的緊張のため、年末までのFRB利下げ確率は30%に低下し、市場の期待が後退。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英主要株価指数FTSEが大幅上昇を記録",
+          "country": "英国",
+          "category": "市場動向",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ロンドン証券取引所の主要指数FTSE 100などが大幅な上昇を記録し、英国市場は好調を維持。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "AIの混乱懸念で米ソフトウェア株が下落",
+          "country": "米国",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Anthropicの新AIモデルが業界に変革をもたらすとの懸念から、米国のソフトウェア関連株が下落。",
+          "affected_sectors": [
+            "テクノロジー（ソフトウェア、AI）"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東地政学的緊張で原油急騰、世界経済に懸念"
     }
   }
 ]
