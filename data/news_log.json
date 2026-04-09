@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油価格が急騰し世界経済に圧力",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランと米国の緊張高まり、原油価格が急騰し1バレル110ドル超に。世界経済へのインフレ懸念と供給網リスク拡大。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計、予想を上回る結果で利下げ期待に影響",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国3月雇用統計は非農業部門雇用者数が17.8万人増と予想を上回り、早期利下げ観測が後退。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "一般消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化と原油高が市場に不確実性をもたらす。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 16:00",
     "data": {
       "breaking_news": [
@@ -12357,6 +12319,59 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化と原油高が市場を揺らす。FRB金融政策に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の不確実性により原油価格が上昇し、世界市場が動揺",
+          "country": "Global",
+          "category": "地政学, エネルギー, 市場変動",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦合意への懸念から、原油価格が再び上昇。ブレント原油は97ドル近くまで値上がりし、世界の株式市場は動揺している。ホルムズ海峡の閉鎖再開も報道されており、市場は高ボラティリティ状態。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "製造業",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "韓国の金融持ち株会社、昨年の純利益が過去最高の26兆ウォン超え",
+          "country": "韓国",
+          "category": "金融業績, 銀行",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "韓国の金融持ち株会社の昨年の連結純利益は前年比12.4%増の26兆7000億ウォンで過去最高を記録。連結総資産も初めて4000兆ウォンを突破した。証券市場の好調などが貢献。",
+          "affected_sectors": [
+            "金融",
+            "銀行",
+            "証券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価、原油価格上昇への懸念から一時1300円超下落",
+          "country": "日本",
+          "category": "市場変動, エネルギー, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の先行き不透明感とニューヨーク原油市場での原油先物価格の一時的な上昇を受け、今日の東京株式市場で日経平均株価は一時1300円以上値下がりした。",
+          "affected_sectors": [
+            "日本株式市場",
+            "半導体",
+            "輸送"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦の不確実性により原油価格が再上昇、市場警戒。"
     }
   }
 ]
