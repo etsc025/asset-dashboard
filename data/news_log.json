@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "エジプト非石油民間部門、中東戦争とコスト増で約2年ぶりの大幅悪化",
-          "country": "エジプト",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東戦争によるコスト上昇と需要減退を受け、3月のエジプト非石油民間部門PMIが約2年ぶりの低水準に悪化。燃料費とドル高が輸入物価を押し上げた。",
-          "affected_sectors": [
-            "サービス",
-            "製造業",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SGアメリカズ・セキュリティーズ、モエリス＆カンパニーへの出資を大幅拡大",
-          "country": "米国",
-          "category": "企業・M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "SGアメリカズ・セキュリティーズが第4四半期にモエリス＆カンパニーの株式保有を312.5%増加させ、207万ドル相当の30,145株を保有。",
-          "affected_sectors": [
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イランで2人目の米パイロットを救出、トランプ大統領「捕らえた！」と発表",
-          "country": "イラン, 米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ大統領がイランで2人目の米パイロットが救出されたと発表。中東の紛争情勢に影響を与える可能性あり。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化、原油価格高騰による世界経済へのインフレ圧力に警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-05 20:00",
     "data": {
       "breaking_news": [
@@ -12594,6 +12545,94 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東停戦崩壊の懸念が市場を揺るがし、原油高・株安に。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢の緊迫化で欧州・ロンドン・アジア株下落、原油価格上昇",
+          "country": "複数国",
+          "category": "地政学/マクロ経済/エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の脆弱な停戦が破綻の兆しを見せ、欧州、ロンドン、アジアの株式市場が下落。緊張再燃で原油価格は上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国の平均固定住宅ローン金利が小幅に低下",
+          "country": "英国",
+          "category": "マクロ経済/不動産",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国内の平均固定住宅ローン金利がわずかに低下したが、転換点となるかは時期尚早との見方。",
+          "affected_sectors": [
+            "不動産",
+            "銀行"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国、国内最大規模の太陽光発電所建設を承認",
+          "country": "英国",
+          "category": "環境/エネルギー/インフラ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国政府が国内最大規模となる太陽光発電プロジェクトを承認。再生可能エネルギー部門に好影響。",
+          "affected_sectors": [
+            "再生可能エネルギー",
+            "建設",
+            "公共事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Energeanがイスラエルでのガス生産を再開",
+          "country": "イスラエル",
+          "category": "エネルギー/企業",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Energeanはイスラエル政府からEnergean Powerガス施設での操業再開の承認を得た。",
+          "affected_sectors": [
+            "エネルギー",
+            "公共事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRCがPwCによるDigital 9 Infrastructureの監査を調査",
+          "country": "英国",
+          "category": "企業統治/金融",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "英国金融報告評議会が、PricewaterhouseCoopersによるDigital 9 Infrastructureの2023年財務諸表監査の調査を開始した。",
+          "affected_sectors": [
+            "プロフェッショナルサービス",
+            "インフラファンド"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SDCL Efficiency Income Trustがポートフォリオ清算へ",
+          "country": "英国",
+          "category": "企業/投資",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "SDCL Efficiency Income Trustは、株主の支持を得られず、ポートフォリオの管理された清算を開始すると発表。",
+          "affected_sectors": [
+            "投資ファンド",
+            "公共事業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化が世界の株価を下押し、原油価格高騰"
     }
   }
 ]
