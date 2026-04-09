@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月雇用統計、予想を上回るも賃金伸び率は鈍化",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米3月雇用統計は予想を上回る17.8万人の雇用増。失業率は低下も賃金伸び率は鈍化し、FRBの政策に注目が集まる。",
-          "affected_sectors": [
-            "Financials",
-            "Consumer Discretionary",
-            "Labor Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争継続で原油価格高止まり、インフレ懸念が加速",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争継続で原油価格は高止まり、ブレント原油は1バレル106ドル超え。世界的なインフレ懸念が強まり経済成長に重圧。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州5カ国、エネルギー企業への超過利潤税を提案",
-          "country": "Europe",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧州5カ国がエネルギー企業への超過利潤税を提案。政策動向によっては企業の収益性やエネルギー市場に影響の可能性。",
-          "affected_sectors": [
-            "Energy",
-            "Utilities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceXのIPO観測が宇宙関連株を牽引",
-          "country": "US",
-          "category": "Corporate News",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "SpaceXのIPOに関する憶測が広まり、宇宙技術エコシステム全体に好影響を与え、関連株を牽引している。",
-          "affected_sectors": [
-            "Aerospace & Defense",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Metaがベイエリアで約200人の人員削減を実施",
-          "country": "US",
-          "category": "Corporate News",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Metaがベイエリアで約200人の従業員を削減。AIインフラへの数十億ドル投資を続ける中での人員調整と見られる。",
-          "affected_sectors": [
-            "Technology",
-            "Social Media"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争による原油高とインフレ懸念が市場の重石。米雇用堅調も賃金伸び率鈍化。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 07:00",
     "data": {
       "breaking_news": [
@@ -12467,6 +12390,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦で世界株急騰、原油急落、市場はリスクオン。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "停戦後の静けさ、インド株市場で割安株物色広がる",
+          "country": "インド",
+          "category": "市場パフォーマンス",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米・イラン停戦後、インド市場では地政学的リスクで売られた航空、旅行、石油関連などの割安株に買いが入っている。",
+          "affected_sectors": [
+            "航空",
+            "旅行",
+            "エネルギー",
+            "金融",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "市場はホルムズ海峡通過にまだ慎重、不確実性残る",
+          "country": "グローバル",
+          "category": "市場分析",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米・イラン停戦で市場は慎重な楽観ムードだが、ホルムズ海峡の長期的影響や国内経済の懸念が残る。",
+          "affected_sectors": [
+            "全般",
+            "エネルギー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "TCS、ルピー安を追い風に9四半期ぶりの高収益を予測",
+          "country": "インド",
+          "category": "企業決算",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "タタ・コンサルタンシー・サービスは、ルピー安を背景に3月期の四半期収益が過去9四半期で最高成長を見込む。",
+          "affected_sectors": [
+            "IT",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン停戦後の市場は割安株に注目、一方で不確実性も残る"
     }
   }
 ]
