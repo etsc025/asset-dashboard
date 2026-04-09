@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米FRB、2026年利下げを市場が完全に織り込み済みの中、政策金利据え置き見通し",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "市場は2026年の米FRBによる利下げを完全に織り込み済みとなり、政策金利は据え置かれる見通し。利上げの可能性も浮上。",
-          "affected_sectors": [
-            "債券",
-            "株式市場全般",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米軍機、イラン救出任務中に自国機を破壊。2人目のパイロット救出",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランでの救出任務中に米軍機が自国機を破壊。中東情勢の緊迫化と原油価格高止まりの懸念が続く。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空宇宙・防衛",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "プレミアリーグのクラブ、ギャンブル禁止により8000万ポンドのシャツスポンサー収入損失に直面",
-          "country": "英国",
-          "category": "規制",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国のギャンブル広告禁止により、プレミアリーグのクラブは8000万ポンドのシャツスポンサー収入を失う可能性。",
-          "affected_sectors": [
-            "スポーツエンターテイメント",
-            "広告",
-            "消費者裁量"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EV市場の大きな変化：第1四半期の納車台数が市場の変化を示す",
-          "country": "グローバル/米国",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "第1四半期のEV納車台数が市場の期待を下回り、EV市場の競争激化や需要の変化を示唆。",
-          "affected_sectors": [
-            "自動車",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米FRB利下げ期待消滅、原油高でインフレ懸念再燃。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 20:30",
     "data": {
       "breaking_news": [
@@ -12633,6 +12569,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の緊迫化が世界の株価を下押し、原油価格高騰"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF、イラン戦争が世界経済に永続的な傷跡を残すと警告",
+          "country": "Global",
+          "category": "Geopolitics, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFトップは、たとえ和平が達成されてもイラン戦争が世界経済に回復不能な打撃を与えると警告した。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金融安定理事会議長、市場の「二重苦」とプライベートクレジット危機を警告",
+          "country": "Global",
+          "category": "Financial Stability, Regulatory",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "金融安定理事会議長は、市場のボラティリティがプライベートクレジット危機を悪化させる「二重苦」を警告。",
+          "affected_sectors": [
+            "金融",
+            "プライベートエクイティ",
+            "不動産",
+            "ヘッジファンド"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAI、英国への310億ポンド投資パッケージから撤退",
+          "country": "UK",
+          "category": "Technology, Investment",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "OpenAIが英国への巨額投資計画から撤退。英国のテクノロジーセクターへの信頼感と投資環境に打撃。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア",
+            "ベンチャーキャピタル",
+            "英国経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン外務次官、ホルムズ海峡「開放」も機雷で船舶は調整必要と発言",
+          "country": "Iran",
+          "category": "Geopolitics, Energy, Shipping",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン外務次官はホルムズ海峡は開放されているが、機雷により船舶は調整が必要と発言。データは交通停止を示唆。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "保険"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "世界経済の先行き不透明感が高まり、金融市場に下押し圧力。"
     }
   }
 ]
