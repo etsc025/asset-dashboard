@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、1バレル100ドル超を維持",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争の激化により原油価格が再び1バレル100ドルを突破し、エネルギーコスト増とインフレ懸念が強まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国サービス部門PMIが3年ぶりに活動縮小、景気減速懸念",
-          "country": "United States",
-          "category": "Economic Indicator",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "S&Pグローバルが発表した3月の米サービスPMIが49.8に低下し、3年ぶりの活動縮小を記録。 中東紛争とコスト増が影響している模様。",
-          "affected_sectors": [
-            "Services",
-            "Retail",
-            "Technology",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要中央銀行、インフレ圧力継続で金融引き締め姿勢を維持か",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "高止まりするインフレと地政学リスクにより、主要中銀は利上げ観測や利下げ期待の後退で引き締め姿勢を維持する可能性が高い。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology",
-            "Growth Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀、賃金・GDP好調で4月利上げ観測高まるも円安進行",
-          "country": "Japan",
-          "category": "Monetary Policy, Currency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本のGDPと賃金上昇を受け日銀の4月利上げ観測が高まるが、ドル高の影響で円安基調は継続している。",
-          "affected_sectors": [
-            "Export-oriented industries",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢緊迫化とインフレ懸念が市場の不確実性を高める"
-    }
-  },
-  {
     "timestamp": "2026-04-05 11:00",
     "data": {
       "breaking_news": [
@@ -12470,6 +12403,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東停戦合意で原油価格下落も、米連邦準備制度理事会はインフレ懸念を継続"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン停戦の不安定化で原油価格が再上昇、アジア株は下落",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, 金融市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の停戦合意の持続性に懐疑が高まり、原油価格が再び上昇し、アジア株は下落。ホルムズ海峡の閉鎖再開懸念が強まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界銀行がサヘル地域で2026-2031年の新規パートナーシップを発表",
+          "country": "ブルキナファソ、マリ、ニジェール、チャド",
+          "category": "開発, 国際金融",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "世界銀行はブルキナファソ、マリ、ニジェール、チャドとの間で、雇用創出と包摂的成長を重視した新たなパートナーシップ枠組みを承認した。",
+          "affected_sectors": [
+            "開発",
+            "インフラ",
+            "サヘル地域の地域経済"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "外国銀行、タイ経済の第2四半期を最低点と予測",
+          "country": "タイ",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "外国銀行はタイ経済の第2四半期を最低点と見ており、観光業は依然危機的状況にある。エネルギー政策事務局はディーゼル価格引き下げを承認。",
+          "affected_sectors": [
+            "観光",
+            "エネルギー",
+            "タイ銀行セクター"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ハンガリー与党が世論調査で大幅な支持率低下、経済不満が背景",
+          "country": "ハンガリー",
+          "category": "政治, 経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ハンガリーの与党が世論調査で大きく支持を失っており、経済的不満が主要因となっている。野党が大幅な支持を得ており、政権交代の可能性もある。",
+          "affected_sectors": [
+            "ハンガリー政治",
+            "国内全セクター（政策変更による）"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン停戦の不安定化で原油価格再上昇、ホルムズ海峡の閉鎖懸念"
     }
   }
 ]
