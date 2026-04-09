@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和期待で日経平均反発も、原油高懸念が根強く上値を抑制",
-          "country": "Japan",
-          "category": "Market/Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "3日の東京市場はイラン情勢緩和期待と海外勢の先物買いで反発。しかし原油高への根強い懸念が上値を抑制。",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing",
-            "Transportation",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "SpaceX、サウジPIFと50億ドルの株式引き受けを協議中と報じられる",
-          "country": "US, Saudi Arabia",
-          "category": "Corporate Finance/Tech",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "SpaceXがIPOに先立ち、サウジアラビアの政府系ファンドPIFと約50億ドル相当の株式引き受け協議中との報道。",
-          "affected_sectors": [
-            "Aerospace",
-            "Technology",
-            "Private Equity"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本企業での「つながらない権利」導入、普及率は依然1割程度に留まる",
-          "country": "Japan",
-          "category": "Labor/Corporate Governance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "従業員のワークライフバランス向上のため、日本の一部企業が「つながらない権利」を導入。普及は緩やか。",
-          "affected_sectors": [
-            "All sectors (HR, Corporate Governance)"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "マレーシア中銀、堅調な国内環境を背景に2026年成長率予想を上方修正",
-          "country": "Malaysia",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "マレーシア中央銀行が2026年の経済成長率予測を4-5%に上方修正。国内需要と輸出が寄与。",
-          "affected_sectors": [
-            "All sectors in Malaysia",
-            "ASEAN markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢と原油価格の動向が世界経済の最大の焦点。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 18:30",
     "data": {
       "breaking_news": [
@@ -12491,6 +12428,82 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、原油価格高騰と市場不安に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の不確実性により原油価格が急騰",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランとイスラエルの停戦合意への疑念が再燃し、原油価格が急騰、世界市場の不確実性が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争が米国のインフレ懸念を再燃、FRBの利上げ延期か",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争と原油価格上昇が米国のインフレを2024年水準に押し上げ、FRBの利下げを遅らせる可能性。",
+          "affected_sectors": [
+            "全セクター",
+            "債券市場",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場が下落、TCSは好決算でAIに注力",
+          "country": "インド",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "地政学的な不確実性によりインド株式市場は下落。TCSは第4四半期利益が大幅増益でAIに注力。",
+          "affected_sectors": [
+            "テクノロジー",
+            "インド株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州株式市場が反落、停戦への楽観論後退で",
+          "country": "欧州",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東停戦への当初の楽観論が後退し、欧州株式市場は下落。消費者裁量セクターが最も軟調。",
+          "affected_sectors": [
+            "消費者裁量",
+            "欧州株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "暗号通貨JOEトークンが1時間で23%以上急騰",
+          "country": "グローバル",
+          "category": "暗号通貨",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "JOEトークンは、技術的なブレイクアウトと活発な取引により、わずか60分で23.34%の劇的な価格上昇。",
+          "affected_sectors": [
+            "暗号通貨"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学的緊張の高まりで原油とインフレ懸念が再燃"
     }
   }
 ]
