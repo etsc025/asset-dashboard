@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米3月雇用統計が予想上振れ、市場に楽観論も金利上昇懸念",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米労働省が発表した3月雇用統計は市場予想を大幅に上回り、経済回復の勢いを示唆。",
-          "affected_sectors": [
-            "全セクター",
-            "金融",
-            "消費裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争の経済的影響拡大、原油高騰がAI産業を圧迫",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるエネルギーコスト上昇がAI産業の経済性を脅かし、景気悪化懸念が増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "テクノロジー",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の金融犯罪が4.4兆ドルに達、Nasdaqが警戒報告",
-          "country": "グローバル",
-          "category": "金融規制",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Nasdaqの2026年レポートによると、世界の金融犯罪額が4.4兆ドルに到達。",
-          "affected_sectors": [
-            "金融サービス",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米先物市場、グッドフライデーで小幅下落 – 雇用統計後",
-          "country": "米国",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "好調な3月雇用統計にもかかわらず、グッドフライデーで米先物が小幅下落し、市場は慎重。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Lucid、第1四半期の生産・納入実績を発表",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "電気自動車メーカーLucidが第1四半期の生産台数と納車台数を発表。",
-          "affected_sectors": [
-            "自動車",
-            "電気自動車"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢と米雇用統計が市場に複合的な影響。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 00:30",
     "data": {
       "breaking_news": [
@@ -12737,6 +12661,74 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦合意に亀裂、世界市場は警戒ムード。原油価格は再び上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "原油価格$100超え、米イラン停戦の不確実性で市場警戒",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の脆弱な停戦合意に疑念が生じ、原油価格が1バレル100ドルを突破。供給懸念が高まり、市場はリスクオフに傾斜中。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines",
+            "Global Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パラマウント、ワーナー・ブラザース買収の融資確約",
+          "country": "US",
+          "category": "M&A, Media",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "パラマウントはワーナー・ブラザース・ディスカバリー買収に向けた資金調達を確保。年内完了を目指す。",
+          "affected_sectors": [
+            "Media",
+            "Entertainment",
+            "Banking",
+            "Telecommunications"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Amazon、AI事業が年間150億ドル超収益を達成",
+          "country": "US",
+          "category": "Technology, Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Amazonのクラウド部門AI事業が年間150億ドル以上の収益を達成し、自社チップ事業も好調。",
+          "affected_sectors": [
+            "Technology",
+            "Cloud Computing",
+            "E-commerce"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "アメリカン航空、ベネズエラ便運航再開へ",
+          "country": "US, Venezuela",
+          "category": "Aviation, International Relations",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "アメリカン航空が米運輸省の承認を得て4月30日からマイアミ・カラカス便の運航を再開予定。",
+          "affected_sectors": [
+            "Airlines",
+            "Tourism",
+            "Logistics"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン停戦懸念で原油価格高騰、世界市場はリスクオフに。"
     }
   }
 ]
