@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米GMの第1四半期米国販売台数9.7%減",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ゼネラルモーターズの第1四半期米国車両販売が9.7%減少し、自動車市場の需要減速を示唆した。",
-          "affected_sectors": [
-            "自動車",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国株式市場、上昇で週明けの可能性",
-          "country": "中国",
-          "category": "市場予測",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "中国株式市場が上昇傾向で週明けを迎える可能性が示唆された。ポジティブな取引開始に期待が高まる。",
-          "affected_sectors": [
-            "株式市場全般",
-            "中国関連株"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン戦争終結への期待で株価上昇",
-          "country": "グローバル",
-          "category": "地政学、市場動向",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン戦争終結への期待から株式市場は上昇して引けた。地政学的緊張緩和への期待が市場を押し上げた。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "市場は「極度の恐怖」状態にあり、地政学的リスク（イラン情勢）が継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 15:00",
     "data": {
       "breaking_news": [
@@ -12349,6 +12301,43 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化で原油価格高騰、市場に不確実性増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦合意の脆弱性で原油価格上昇、世界株式市場に動揺",
+          "country": "グローバル",
+          "category": "地政学, 商品, 株式市場",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランの停戦合意の脆弱性により、原油価格が上昇し、世界中の株式市場に動揺が広がり、アジア市場は後退しています。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場（Sensex、Nifty）が地政学的不確実性の中で下落",
+          "country": "インド",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドのSensexおよびNifty指数は、地政学的感情と利益確定売りにより本日大幅に下落しました。",
+          "affected_sectors": [
+            "インド株式",
+            "インフラ",
+            "銀行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東の脆弱な停戦により世界市場が不安定化しています。"
     }
   }
 ]
