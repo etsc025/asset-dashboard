@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東地政学的緊張の継続と原油価格高騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での地政学的緊張が継続し、原油価格は高止まり。ホルムズ海峡の混乱懸念が根強く、市場の不確実性が高い状態です。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、高インフレ懸念と利下げ期待の後退",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "予想を上回る経済データとエネルギー価格高騰により、米国のインフレ懸念が再燃。FRB利下げ期待は後退し、政策金利は高止まりの可能性があります。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology",
-            "Interest-Rate Sensitive Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "今週は米雇用統計、CPI、主要企業決算に注目",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "来週は米国の非農業部門雇用者数、CPI、PCEなどの主要経済指標に加え、Nvidiaを含む企業決算が市場を動かすと予想されます。",
-          "affected_sectors": [
-            "All Sectors",
-            "Technology",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢緊迫、原油高とインフレ再燃警戒。主要指標に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 12:00",
     "data": {
       "breaking_news": [
@@ -12315,6 +12262,93 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "本日12:30 UTC発表の米国2025年Q4 GDP最終値に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡閉鎖の兆候で原油価格が急騰、中東停戦の不確実性が市場を圧迫",
+          "country": "Global",
+          "category": "Geopolitical, Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡閉鎖の動きを見せ、米・イラン停戦の不確実性から原油価格が急騰し、世界市場でリスクオフムードが広がる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Economy",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、イラン停戦の不確実性で先物下落",
+          "country": "USA",
+          "category": "Market Data, Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦を巡る不確実性が高まり、米国株先物が下落。市場の警戒感が強まっている。",
+          "affected_sectors": [
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド国債市場、中東情勢の動揺と原油高で下落",
+          "country": "India",
+          "category": "Fixed Income, Geopolitical, Commodities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "不安定な中東情勢と原油価格の高騰を受け、インド国債が下落。インド準備銀行は金利を据え置き。",
+          "affected_sectors": [
+            "Fixed Income",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、スリランカに7億ドル融資で合意、経済回復を支援",
+          "country": "Sri Lanka",
+          "category": "International Relations, Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "IMFがスリランカ経済の回復を支援するため、7億ドルの融資でスタッフレベル合意に達した。",
+          "affected_sectors": [
+            "Financial Services",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "野村證券、インドのPSU銀行から民間銀行へのシフトを推奨",
+          "country": "India",
+          "category": "Financial Analysis, Banking",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "野村證券はインドの公営銀行から民間銀行への投資シフトを推奨、リスクリワードの改善を理由に挙げる。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Close Brothers株が急騰、自動車金融補償費用を吸収可能と発表",
+          "country": "UK",
+          "category": "Corporate News, Financial Services",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英金融機関Close Brothersが自動車金融補償の費用を吸収可能と発表し、株価が急騰した。",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランによるホルムズ海峡閉鎖の兆候、原油急騰と市場警戒"
     }
   }
 ]
