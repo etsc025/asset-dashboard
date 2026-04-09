@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東地政学的緊張が原油価格と世界市場を揺るがす",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイラン間の軍事行動の可能性が高まり、原油価格が急騰。インフレ懸念と市場のボラティリティが増加。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "商品",
-            "航空",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "エジプトの非石油民間部門PMIが中東戦争の影響で2年ぶりの低水準に",
-          "country": "エジプト",
-          "category": "経済データ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の非石油民間部門PMIは48.0に低下。中東戦争によるコスト上昇と需要減退が原因。",
-          "affected_sectors": [
-            "製造",
-            "サービス",
-            "貿易",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Antam金価格が不安定な市場の中で急騰、安全資産への需要増",
-          "country": "インドネシア",
-          "category": "商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "不安定な市場状況の中、Antam金価格が大幅上昇。安全資産としての金の魅力が高まる。",
-          "affected_sectors": [
-            "貴金属",
-            "投資"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Valero Energyがアナリストにより「Strong Buy」に格上げ",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Wall Street Zenや他の証券会社がValero EnergyをStrong Buyに格上げ。堅調な精製事業と成長性を評価。",
-          "affected_sectors": [
-            "エネルギー",
-            "石油精製"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、原油急騰と市場ボラティリティに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 17:30",
     "data": {
       "breaking_news": [
@@ -12442,6 +12376,96 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東停戦の不安定化で原油価格高騰、世界の株式市場は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の脆弱性により原油価格が再上昇、株式市場に動揺",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦の脆弱性が露呈し、中東の緊張再燃。原油価格は再び高騰し、欧州株は下落した。",
+          "affected_sectors": [
+            "Energy",
+            "Global Equities",
+            "Aviation",
+            "Shipping"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Blackberry、第4四半期決算でEPS・売上高が市場予想を上回る",
+          "country": "Canada",
+          "category": "Corporate Earnings",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Blackberryの非GAAP EPSは$0.06、売上高$156Mで、いずれも市場予想を上回り、株価が上昇した。",
+          "affected_sectors": [
+            "Software",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "CoreWeaveとMeta、210億ドルのAIインフラ契約を締結",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "CoreWeaveとMetaが210億ドル規模のAIインフラ契約を締結し、AIセクターの成長期待を高めた。",
+          "affected_sectors": [
+            "Technology",
+            "AI",
+            "Cloud Computing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ドイツの2月輸出、予想を上回り3.6%増",
+          "country": "Germany",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "ドイツの2026年2月の輸出が前月比3.6%増となり、市場予想を上回る回復を見せた。",
+          "affected_sectors": [
+            "European Trade",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インドTCSの第4四半期決算、増益でAIが牽引",
+          "country": "India",
+          "category": "Corporate Earnings",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インドのTCSが第4四半期で増益、AI関連事業が好調も、離職率の上昇も報告された。",
+          "affected_sectors": [
+            "IT Services",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SpiceJet、資金難で500人超の人員削減を開始",
+          "country": "India",
+          "category": "Corporate",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "インドの航空会社SpiceJetは資金繰り悪化により、500人以上の人員削減に着手すると発表した。",
+          "affected_sectors": [
+            "Aviation",
+            "Airlines"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦の脆弱性が市場を圧迫、原油価格上昇で警戒感。"
     }
   }
 ]
