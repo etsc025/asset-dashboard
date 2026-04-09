@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Oil Surges Above $110/bbl Amid Iran War Escalation and Supply Chain Fears",
-          "country": "Global",
-          "category": "Geopolitics, Commodities, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の地政学的緊張が高まり、原油価格が1バレル110ドルを超え、インフレ懸念と世界のサプライチェーンに混乱をもたらしている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US March Jobs Report Exceeds Expectations with 178K New Jobs, Unemployment Dips to 4.3%",
-          "country": "United States",
-          "category": "Economic Data, Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は178,000人の新規雇用を創出し、予想を上回った。失業率は4.3%に低下し、堅調な労働市場を示唆している。",
-          "affected_sectors": [
-            "Financials",
-            "Consumer Cyclical",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bank of England Warns Global Current Account Imbalances Nearing 150-Year Highs",
-          "country": "Global",
-          "category": "Macroeconomics, International Trade",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "世界的な経常収支の不均衡が過去150年で最高水準に近づいているとイングランド銀行が警告。過去には経済的混乱の前兆だった。",
-          "affected_sectors": [
-            "Global Trade",
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化で原油価格110ドル超え、市場に不確実性増大。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 14:30",
     "data": {
       "breaking_news": [
@@ -12345,6 +12294,61 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の悪化と原油高が世界的なインフレを引き起こす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "元日銀幹部が4月利上げ示唆、インフレ抑制へ行動促す",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "元日銀幹部が4月の利上げを示唆。インフレ抑制へ「行動すべき時」と発言。市場は今後の動向に注目。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス",
+            "輸出関連",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢再燃で原油価格上昇、世界株式市場に不透明感",
+          "country": "グローバル",
+          "category": "地政学,エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢再燃で停戦合意に疑念、原油価格が再び上昇。世界株式市場は不透明感から下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "航空",
+            "製造業",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米2月CPIは予想通り安定も、短期インフレ期待上昇",
+          "country": "米国",
+          "category": "経済指標,インフレ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米2月CPIは予想通り2.4%で安定も、短期インフレ期待が上昇。金融引き締め観測に影響か。",
+          "affected_sectors": [
+            "小売",
+            "消費財",
+            "債券",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化で原油価格高騰、市場に不確実性増大。"
     }
   }
 ]
