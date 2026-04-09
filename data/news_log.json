@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "OPECプラス、石油生産枠の理論的引き上げを承認予定",
-          "country": "Global",
-          "category": "Energy, Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "OPEC+が石油生産枠の理論的引き上げを承認する見込み。中東情勢緊迫化による原油高に対し供給増の可能性。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、イランで2人目のパイロットを救出",
-          "country": "US, Iran",
-          "category": "Geopolitics, Defense",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イランでの作戦中に墜落した米軍機の2人目のパイロットが救出。中東情勢の緊張は継続。",
-          "affected_sectors": [
-            "Defense",
-            "Energy",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、3月の雇用統計は予想を上回り堅調",
-          "country": "US",
-          "category": "Economy, Labor Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "3月の非農業部門雇用者数は17.8万人増、失業率4.3%に低下。FRBの利下げ期待に影響か。",
-          "affected_sectors": [
-            "All sectors",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円安進行と日本の長期金利、中東情勢と原油高が重荷",
-          "country": "Japan",
-          "category": "Currency, Fixed Income, Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢による原油高で円安が進行し、日本の長期金利は27年ぶり高水準。金融政策に注目。",
-          "affected_sectors": [
-            "Export-oriented companies",
-            "Import-oriented companies",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢緊迫化と原油高騰が市場を圧迫。各国金融政策に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 21:00",
     "data": {
       "breaking_news": [
@@ -12636,6 +12572,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "世界経済の先行き不透明感が高まり、金融市場に下押し圧力。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の不確実性で原油価格高騰、世界経済に影響懸念",
+          "country": "Global",
+          "category": "Geopolitics / Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の脆弱な停戦の崩壊懸念が強まり、原油価格が再び1バレル100ドルに迫る。世界のサプライチェーンとインフレへの悪影響が懸念される。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF専務理事、イラン戦争が世界経済に恒久的打撃と警告",
+          "country": "Global",
+          "category": "Geopolitics / Economic Outlook",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFのトップが、イラン戦争がたとえ和平が成立しても世界経済に永続的な傷跡を残すと発言。食料や技術、サプライチェーンへの影響を指摘。",
+          "affected_sectors": [
+            "All sectors",
+            "Agriculture",
+            "Technology",
+            "Logistics"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド中銀、一時的な為替先物規制とデジタル決済遅延を計画",
+          "country": "India",
+          "category": "Monetary Policy / Financial Regulation",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インド準備銀行が為替先物規制を一時的に導入し、不正対策でデジタル決済を遅らせる計画を発表。燃料価格安定化のため精製マージンも制限。",
+          "affected_sectors": [
+            "Financials",
+            "Technology (Fintech)",
+            "Energy (India)"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高が市場の不確実性を高める。"
     }
   }
 ]
