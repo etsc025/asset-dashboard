@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、世界株式市場に下落圧力",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の長期化懸念から原油価格が上昇し、米国・欧州・アジア市場の株価が下落。航空運賃も高騰。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Global Equities",
-            "Manufacturing",
-            "Logistics"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円安が1ドル160円台に進行、日本財務省が「断固たる措置」を警告",
-          "country": "Japan",
-          "category": "Currency",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢を背景に円安が加速し、一時1ドル160円台に。財務官が投機的動きを牽制し、介入を示唆した。",
-          "affected_sectors": [
-            "Forex",
-            "Export-oriented industries",
-            "Import-oriented industries",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国雇用市場、3月は予想上回るも2月下方修正",
-          "country": "USA",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の雇用者数は予想を上回るも、2月の数値は下方修正され、雇用市場に不透明感が残る結果となった。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Financial Services",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化で原油高と世界株安、円安加速に日本介入警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-05 06:30",
     "data": {
       "breaking_news": [
@@ -12468,6 +12414,59 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン停戦合意、原油急落・株価上昇、市場はリスクオン"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意で世界株式市場急騰、原油価格急落",
+          "country": "Global",
+          "category": "Geopolitics, Market Movement",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが2週間の停戦に合意し、世界中の株式市場が大幅に上昇。原油価格は急落した。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Technology",
+            "Aviation",
+            "Travel",
+            "Industrials",
+            "Cyclical Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド市場は強い回復を予想、FII売りが上値を抑制か",
+          "country": "India",
+          "category": "Market Outlook, Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "強い国内要因とグローバルな追い風により市場は強い開場が予想されるが、FIIの継続的な売りが上値を制限する可能性。",
+          "affected_sectors": [
+            "Banking",
+            "Cyclical Stocks",
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "TCS、ルーピー安で9四半期ぶりの最高収益成長見込み",
+          "country": "India",
+          "category": "Corporate Earnings, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "タタ・コンサルタンシー・サービシズがルーピー安に牽引され、3月期四半期で9四半期ぶりの最高収益成長を達成する見込み。",
+          "affected_sectors": [
+            "IT Sector"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦で世界株急騰、原油急落、市場はリスクオン。"
     }
   }
 ]
