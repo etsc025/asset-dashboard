@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-05 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Oil Prices Surge Amid Iran Conflict",
-          "country": "Global",
-          "category": "Geopolitics, Commodities, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊張、特にイラン関連で原油価格が大幅上昇。世界経済へのインフレ懸念が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Meta、人員削減とAI投資を強化",
-          "country": "USA",
-          "category": "Technology, Corporate Restructuring",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Metaがサンフランシスコ・ベイエリアで約200人を削減。AIインフラへの大規模投資に注力。",
-          "affected_sectors": [
-            "Technology",
-            "Social Media"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国3月雇用統計、予想を上回る",
-          "country": "USA",
-          "category": "Economic Data, Labor Market",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国経済は3月に17万8000人の雇用を創出。予想を上回り、失業率もわずかに低下。",
-          "affected_sectors": [
-            "Broad Market",
-            "Consumer Discretionary"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争激化で世界原油価格高騰；米雇用統計は堅調。"
-    }
-  },
-  {
     "timestamp": "2026-04-05 15:30",
     "data": {
       "breaking_news": [
@@ -12338,6 +12288,75 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東の脆弱な停戦により世界市場が不安定化しています。"
+    }
+  },
+  {
+    "timestamp": "2026-04-09 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、イラン停戦の脆さで原油価格上昇、ホルムズ海峡リスク再燃",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦合意が脆く、中東情勢は緊迫。ホルムズ海峡の航行リスク再燃で原油価格が上昇し市場に動揺が広がる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Aviation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米インフレ懸念再燃、FRBの利上げ観測高まり2026年利下げ期待後退",
+          "country": "United States",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢に端を発する原油価格上昇で米国のインフレ懸念が再燃。FRBは利上げ検討の可能性があり、年内利下げ期待が後退。",
+          "affected_sectors": [
+            "Technology",
+            "Real Estate",
+            "Financials",
+            "Growth Stocks",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドイツ製造業の不振継続、2月の生産予想外の減少で欧州経済に逆風",
+          "country": "Germany",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン紛争以前からドイツ製造業は低迷。2月の生産が予想外に減少、欧州経済全体の成長に対する懸念が高まる。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Automotive",
+            "Chemicals",
+            "Industrials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日経平均株価、中東情勢への警戒感から下落、投資家の様子見姿勢が強まる",
+          "country": "Japan",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の不確実性とホルムズ海峡リスク再燃を受け、日経平均株価が下落。投資家は今後の展開を見極める姿勢を強める。",
+          "affected_sectors": [
+            "All sectors",
+            "Export-oriented industries"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化と原油高が市場を揺らす。FRB金融政策に注目。"
     }
   }
 ]
