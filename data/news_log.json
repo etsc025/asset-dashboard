@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株と原油価格がイラン情勢の緊迫化で乱高下",
-          "country": "USA",
-          "category": "地政学 / コモディティ / 株式市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ大統領のイラン爆撃期限を控え、米国株と原油価格が乱高下。中東情勢の不確実性が市場を動揺させている。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "工業",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イスラエル、イランの石油化学工場を攻撃と発表",
-          "country": "中東",
-          "category": "地政学 / エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イスラエルがイランの南パルス石油化学工場を攻撃したと発表。中東情勢のさらなるエスカレーションが懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米財務省、BNYメロンを「トランプ口座プログラム」の金融代理人に指名",
-          "country": "USA",
-          "category": "政府 / 金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米財務省は、新しい「トランプ口座プログラム」の実施を支援するため、BNYメロンを金融代理人に指名した。",
-          "affected_sectors": [
-            "金融サービス",
-            "銀行"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oracle、新CFOにヒラリー・マクソン氏を任命",
-          "country": "USA",
-          "category": "企業ニュース / テクノロジー",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oracle Corporationは、ヒラリー・マクソン氏を最高財務責任者（CFO）に任命したことを発表。クラウド需要増に対応。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "スパークス・グループ、日本ものづくり未来ファンドIIを設立",
-          "country": "日本",
-          "category": "投資 / 製造業",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "スパークス・グループは、トヨタなどと共同で日本ものづくり未来ファンドIIを設立し、日本の製造業を支援する。",
-          "affected_sectors": [
-            "製造業",
-            "自動車",
-            "銀行",
-            "投資"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン戦争による高エネルギーコスト、AIブームの経済を脅かす可能性",
-          "country": "Global",
-          "category": "エネルギー / テクノロジー / 経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争によるエネルギーコスト上昇がAI産業の成長に悪影響を及ぼす可能性があり、懸念が高まっている。",
-          "affected_sectors": [
-            "テクノロジー",
-            "エネルギー",
-            "AI"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化、米国株と原油価格が乱高下、市場警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 03:30",
     "data": {
       "breaking_news": [
@@ -13078,6 +12985,100 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢と米インフレが市場の主要な牽引役。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国インフレ加速、中東情勢緊迫化と原油価格高騰が主要因",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月の米CPIはガソリン価格高騰で加速し、年率3.3%に上昇。中東情勢の不確実性が原油高を招く。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Consumer Discretionary",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米消費者信頼感指数が過去最低水準に下落、インフレと中東紛争が重荷",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ミシガン大学消費者信頼感指数が47.6に急落し、記録的低水準。インフレと中東紛争への懸念が背景。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東和平交渉への期待と不確実性が原油価格の変動要因に",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米・イラン和平交渉への期待は一部市場を支えるが、中東情勢の不安定が続き原油価格に影響。",
+          "affected_sectors": [
+            "Energy",
+            "Global Markets",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カーライル、プライベートクレジットファンドの償還を制限",
+          "country": "US",
+          "category": "Financial Services",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Carlyle Groupがプライベートクレジットファンドの償還を制限し、プライベート市場の流動性懸念を示唆。",
+          "affected_sectors": [
+            "Financials",
+            "Asset Management",
+            "Private Equity"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Coreweave株急騰、Metaとの大型契約とNvidia関連需要が牽引",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "CoreweaveがMetaとの契約締結とNvidia関連のAIサービス需要増加で株価が急騰。",
+          "affected_sectors": [
+            "Technology",
+            "AI",
+            "Data Centers"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "パロアルトネットワークス主導でソフトウェア株が売り優勢",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "次期AIモデルの登場が企業ソフトウェア市場の再編懸念を呼び、パロアルトネットワークスが下落。",
+          "affected_sectors": [
+            "Technology",
+            "Software",
+            "Cybersecurity"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢とインフレ懸念が市場を圧迫、消費者信頼感は過去最低を記録。"
     }
   }
 ]
