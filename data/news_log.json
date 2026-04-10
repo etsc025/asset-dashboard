@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争が世界のエネルギー市場に圧力をかけ、米国は経済的優位性を獲得",
-          "country": "グローバル/米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争が世界のエネルギー市場に緊張をもたらし、原油価格が高騰。米国は相対的な経済的優位性を獲得中。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米自動車業界団体、ガソリン税を車両重量手数料に代替提案",
-          "country": "米国",
-          "category": "政府政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の自動車業界団体が、連邦ガソリン税を車両重量ベースの手数料に置き換えるよう提案した。",
-          "affected_sectors": [
-            "自動車",
-            "輸送",
-            "インフラ",
-            "消費者"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "サンフランシスコのディーゼル価格が1ガロンあたり8ドル超え",
-          "country": "米国",
-          "category": "エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "サンフランシスコでディーゼル価格が1ガロンあたり8ドルを超え、輸送コスト増とインフレ懸念。",
-          "affected_sectors": [
-            "輸送",
-            "物流",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米脚本家組合とスタジオが暫定合意、ハリウッドの閉鎖回避",
-          "country": "米国",
-          "category": "労働",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の脚本家組合とスタジオが暫定合意し、ハリウッドのさらなる閉鎖を回避した。",
-          "affected_sectors": [
-            "エンターテインメント",
-            "メディア"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "グラスルイス、モンテパスキ銀行CEO選でパレルモ氏を支持",
-          "country": "イタリア",
-          "category": "企業統治",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "議決権行使助言会社グラスルイスがモンテパスキ銀行のCEO選でパレルモ氏を支持した。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争によるエネルギー市場の緊張と原油価格高騰が継続中。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 05:30",
     "data": {
       "breaking_news": [
@@ -12782,6 +12705,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化とIMFのインフレ警告で市場に警戒感。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の脆弱性が高まり、新たな敵対行為と紛争が続く",
+          "country": "中東（イスラエル、イラン、レバノン）、グローバル",
+          "category": "地政学、エネルギー、外交",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦合意は不安定化。イスラエルによるレバノン攻撃継続、トランプ氏のイラン批判、ホルムズ海峡封鎖示唆で緊張が高まっている。",
+          "affected_sectors": [
+            "エネルギー（石油・ガス）",
+            "防衛",
+            "海運・物流",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "停戦にもかかわらずホルムズ海峡の通行量が限定的、イランが通行料徴収の疑い",
+          "country": "中東、グローバル",
+          "category": "エネルギー、国際貿易、地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "停戦後もホルムズ海峡の船舶交通は依然限定的。イランが通行料を徴収しているとの報道があり、原油供給不安が継続している。",
+          "affected_sectors": [
+            "エネルギー（石油・ガス）",
+            "海運・物流",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米天然ガス先物、供給過剰で17ヶ月ぶりの安値",
+          "country": "米国",
+          "category": "コモディティ、エネルギー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の天然ガス先物価格は、供給過剰と暖冬の影響で17ヶ月ぶりの安値を更新。エネルギー市場に影響を与えている。",
+          "affected_sectors": [
+            "エネルギー（天然ガス）",
+            "公益事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIによる破壊的影響への懸念が続き、ソフトウェアセクターが急落",
+          "country": "グローバル（米国市場中心）",
+          "category": "テクノロジー、市場センチメント",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "AIによる市場破壊への懸念が根強く、ソフトウェアセクターの株価が急落。サイバーセキュリティ関連企業も大きな打撃を受けている。",
+          "affected_sectors": [
+            "ソフトウェア",
+            "テクノロジー",
+            "サイバーセキュリティ"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦の脆弱性が高まり、ホルムズ海峡の緊張と原油価格変動に警戒が必要。"
     }
   }
 ]
