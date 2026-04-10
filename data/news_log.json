@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米大統領のイランへの最後通告で緊張高まり、原油価格が急騰。",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国トランプ大統領のホルムズ海峡封鎖巡るイランへの脅威が地政学リスクを高め、原油価格を110ドル超に押し上げ、市場に不安が広がる。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "エネルギー価格高騰が世界的なインフレ懸念を煽り、中央銀行の利下げ期待が後退。",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化と高エネルギー価格が「高金利長期化」観測を強め、中央銀行の金融政策余地を狭める。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏製造業PMI上昇でセクター拡大、地政学リスク下で一部市場は軟調。",
-          "country": "Eurozone, Indonesia",
-          "category": "Economic Data, Equities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ユーロ圏製造業PMIは51.5に上昇し拡大を示す一方、トランプ大統領の強硬発言を受けインドネシアIHSGは下落。",
-          "affected_sectors": [
-            "Industrials",
-            "Manufacturing",
-            "Equities"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン衝突激化、原油急騰とインフレ懸念が市場を圧迫。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 18:00",
     "data": {
       "breaking_news": [
@@ -13123,6 +13071,56 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東緊迫、米イラン停戦不安定化。米3月CPIは予想以下。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "世界市場、米イラン停戦協議への期待で上昇",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦協議進展への期待感から、世界の主要株式市場は概ね上昇。原油価格も連動して上昇した。",
+          "affected_sectors": [
+            "全体市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場、自動車・銀行株主導で大幅上昇",
+          "country": "India",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インドのNiftyとSensexが1%超上昇。自動車と銀行セクターが牽引したが、IT株は下落した。",
+          "affected_sectors": [
+            "自動車",
+            "銀行",
+            "IT"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月インフレ率、エネルギー高騰で3.3%に急上昇",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月の米消費者物価指数はイラン紛争に起因するエネルギー価格高騰を受け3.3%に上昇した。",
+          "affected_sectors": [
+            "全体経済",
+            "エネルギー",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦協議進展で世界株上昇。原油動向に警戒。"
     }
   }
 ]
