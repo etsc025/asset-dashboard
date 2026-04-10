@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "FINNIFTY、地政学リスクと原油高の中、銀行株主導で2%超上昇",
-          "country": "インド",
-          "category": "市場パフォーマンス",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドの金融指数FINNIFTYは、4月6日に2%超上昇。銀行株が回復を主導したが、地政学リスクと原油価格が上昇しボラティリティが高い。",
-          "affected_sectors": [
-            "金融",
-            "銀行",
-            "ノンバンク金融",
-            "保険"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化、トランプ大統領がホルムズ海峡巡りイランに最後通告",
-          "country": "米国, イラン, クウェート",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領はイランに対し、ホルムズ海峡の再開を火曜日までに要求。イランによるクウェート石油施設攻撃の報道もあり、緊張が高まっている。",
-          "affected_sectors": [
-            "石油・ガス",
-            "海運",
-            "航空",
-            "製造業",
-            "世界貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場は概ね上昇、イラン情勢と原油高が焦点",
-          "country": "日本, 韓国, アジア",
-          "category": "地政学, 商品, 市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "アジア市場は概ね上昇。しかし、イラン情勢と原油価格の高騰、特にホルムズ海峡を巡る緊張が投資家の注目を集めている。",
-          "affected_sectors": [
-            "エネルギー",
-            "世界貿易",
-            "海運",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "DataBeyondがアジア最大の無人AI選別センターを開設",
-          "country": "台湾",
-          "category": "テクノロジー, 環境",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "DataBeyondは、台湾にアジア最大の無人AIインテリジェント選別センターを開設。プラスチックリサイクル能力を大幅に向上させる。",
-          "affected_sectors": [
-            "廃棄物管理",
-            "リサイクル",
-            "AI",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Uxin、2025年第4四半期および通期決算を4月10日に発表予定",
-          "country": "中国",
-          "category": "企業業績",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国の中古車小売大手Uxin Limitedは、2025年第4四半期と通期の決算を4月10日の米国市場開場前に発表する予定だ。",
-          "affected_sectors": [
-            "自動車 (中古車小売)"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化と原油高が世界経済に懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 20:00",
     "data": {
       "breaking_news": [
@@ -13111,6 +13029,84 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US-Iran ceasefire drives global stock rally, oil plunge, and US inflation surge."
+    }
+  },
+  {
+    "timestamp": "2026-04-11 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの停戦交渉、不確実性の中で進行し原油と株式に影響",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦交渉が進行中だが、安定性やホルムズ海峡の状況に不確実性があり、原油価格と株式市場に変動をもたらしている。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の3月インフレ率が年率3.3%に上昇、エネルギーコストが主因",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月消費者物価指数は前年比3.3%上昇し、特にエネルギーコスト高が主要因。月次では0.9%上昇し、FRBの利下げ期待を弱めている。",
+          "affected_sectors": [
+            "一般消費財",
+            "エネルギー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の不確実性継続で原油価格が変動",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "ホルムズ海峡の閉鎖状態と停戦の不確実性により、原油価格は当初急落後にボラティリティが増加。WTIは98ドル付近で推移。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株は中東情勢とインフレデータの中、テクノロジー株主導で上昇",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東情勢とインフレデータの中、米国株式市場はテクノロジー株主導でわずかに上昇。S&P 500とナスダックは週次で上昇基調。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "CoreWeaveがAnthropicとAIクラウド契約締結; Sodexo株価は業績見通し下方修正で急落",
+          "country": "グローバル",
+          "category": "企業",
+          "impact": "MEDIUM",
+          "direction": "MIXED",
+          "summary": "CoreWeaveがAnthropicとのAIクラウド契約で株価急騰。一方、Sodexoは業績見通し下方修正で株価急落。",
+          "affected_sectors": [
+            "テクノロジー (AI, クラウド)",
+            "ケータリング/サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦の不確実性が原油価格とインフレを動かす。"
     }
   }
 ]
