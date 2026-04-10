@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米3月ISM非製造業指数、予想下回るも投入価格高水準",
-          "country": "United States",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米3月ISM非製造業景況指数は54.0で市場予想を下回る。しかし投入価格は3年半ぶりの高水準を記録し、インフレ懸念が続く。",
-          "affected_sectors": [
-            "全セクター",
-            "金融",
-            "サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン、米国の停戦要求に回答準備中との速報",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランが米国の停戦要求に対し回答を準備しているとの速報。中東情勢の緊張緩和に期待感が高まり、市場に好影響をもたらすか注目される。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "貴金属"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY為替序盤、イラン報道受けドル円159円台半ばでドル売り",
-          "country": "Global",
-          "category": "FX",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "NY為替市場序盤、イラン関連の報道を受けドル円は159円台半ばでドルに戻り売り。中東情勢の緩和期待が円高に寄与。",
-          "affected_sectors": [
-            "外国為替",
-            "輸出関連企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイランの停戦提案で原油価格が下落",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦提案が報じられ、世界の原油価格が下落。エネルギー供給不安が和らぐとの見方から市場に安心感が広がる。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦協議期待で原油価格下落、ドル円でドル売り。市場は期待と懸念が交錯。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 02:00",
     "data": {
       "breaking_news": [
@@ -13136,6 +13071,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡輸送停止、原油供給危機とインフレ懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国の3月CPIが3.3%に急騰、イラン紛争がエネルギー価格と消費者信頼感に打撃",
+          "country": "USA",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国3月CPIはイラン紛争によるエネルギー価格高騰で3.3%に急騰。消費者信頼感は過去最低を記録。",
+          "affected_sectors": [
+            "Energy",
+            "Consumer Staples",
+            "Retail",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イランの脆弱な停戦合意により市場は不安定、原油価格も変動",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イランの脆弱な停戦で市場は不安定、原油価格も変動。ホルムズ海峡の閉鎖は供給懸念を維持。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "連邦準備制度理事会、地政学的ショックとインフレ急騰の中で政策説明の必要性に直面",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "FRBは地政学的ショックと高インフレの中、金利据え置き予想も、状況説明の必要性に直面。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Interest-rate sensitive sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダの3月失業率は6.7%で安定、GDP成長は緩やか",
+          "country": "Canada",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "カナダ3月失業率は6.7%で横ばい。1月GDPは小幅な成長に留まり、経済は安定を維持している。",
+          "affected_sectors": [
+            "Employment",
+            "Retail",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争がインフレと不確実性を助長、原油市場に注目。"
     }
   }
 ]
