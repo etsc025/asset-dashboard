@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で原油価格高騰、株式市場に下落圧力",
-          "country": "グローバル",
-          "category": "地政学・コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化と原油価格の高騰が世界経済に不確実性をもたらし、広範な市場で株価下落圧力となっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計、予想上回る堅調な伸びで失業率低下",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月雇用統計は予想を上回る堅調な伸びを示し、失業率も低下。FRBの利下げ判断に影響を与える可能性。",
-          "affected_sectors": [
-            "全般",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏3月インフレ率、エネルギー価格高騰で上昇",
-          "country": "ユーロ圏",
-          "category": "経済指標・金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の3月インフレ率がエネルギーコスト急騰により上昇し、欧州中央銀行の金融政策にタカ派的な圧力を加えている。",
-          "affected_sectors": [
-            "消費裁量品",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本3月東京CPIは鈍化も、日銀4月利上げ観測が残る",
-          "country": "日本",
-          "category": "経済指標・金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "日本の3月東京CPIは鈍化も、エネルギー価格高騰で日銀の4月利上げ観測は根強く、市場の注目を集める。",
-          "affected_sectors": [
-            "金融",
-            "輸出",
-            "消費裁量品"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化による原油価格高騰が世界経済を脅かす。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 15:00",
     "data": {
       "breaking_news": [
@@ -13065,6 +13000,77 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の不安定化と原油価格動向に注視。CPI発表にも警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国3月PPIが41ヶ月ぶりに上昇、CPIは低調",
+          "country": "中国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国の3月生産者物価指数（PPI）が41ヶ月ぶりに前年比0.5%上昇。一方で消費者物価指数（CPI）は1.0%と予想を下回る伸びに留まった。中東情勢による輸入インフレと国内需要の弱さが混在する状況。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "消費財",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本の卸売物価が急加速、中東情勢が影響",
+          "country": "日本",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢による燃料・原材料コスト高騰を受け、日本の3月企業物価指数（CGPI）が前年比2.6%上昇し予想を上回った。日本銀行の早期利上げ観測が高まっている。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "輸入関連企業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米FRB高官が利上げの可能性示唆、インフレ警戒",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "一部の米連邦準備制度理事会（FRB）高官が、インフレ持続の場合の年内利上げの可能性を示唆。本日発表される3月CPIは高止まりが予想されており、金融引き締めへの警戒感が強まっている。",
+          "affected_sectors": [
+            "不動産",
+            "テクノロジー",
+            "金融",
+            "グロース株",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ECB利上げ観測継続、エネルギーインフレが主因",
+          "country": "ユーロ圏",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の停戦ムードにもかかわらず、エネルギー価格高騰によるインフレ圧力で、欧州中央銀行（ECB）は年内に複数回の利上げを行うとの市場観測が根強い。一部高官も利上げの可能性を否定せず。",
+          "affected_sectors": [
+            "欧州銀行",
+            "不動産",
+            "製造業",
+            "エネルギー",
+            "消費関連"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢によるインフレ圧力と主要中銀のタカ派姿勢強化"
     }
   }
 ]
