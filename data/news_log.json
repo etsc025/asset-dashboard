@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国のイラン最後通牒で中東情勢緊迫化、原油価格が急騰",
-          "country": "米国, イラン",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国はイランにホルムズ海峡再開の期限を設定し、軍事行動を示唆。これにより原油価格が急騰し、市場は警戒を強めている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計が予想上振れ、失業率も低下",
-          "country": "米国",
-          "category": "経済指標, 金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の3月非農業部門雇用者数は17.8万人増、失業率は4.3%に低下し、市場予想を上回る堅調な結果となった。",
-          "affected_sectors": [
-            "金融",
-            "小売",
-            "労働集約型産業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中東情勢で世界市場に警戒感、本日ISMサービスPMI発表",
-          "country": "グローバル (米国)",
-          "category": "市場動向, 経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東紛争が続く中、投資家は慎重な姿勢を維持。本日は米国の3月ISMサービスPMIが発表され、市場の注目を集める。",
-          "affected_sectors": [
-            "全セクター",
-            "サービス業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、米国のイラン最後通牒で原油高騰、市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-06 19:00",
     "data": {
       "breaking_news": [
@@ -13107,6 +13056,62 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉進展への期待高まる。米3月CPIは高止まり。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦協議進展期待で世界株高、原油価格は安定",
+          "country": "米国, イラン, 欧州, アジア",
+          "category": "地政学, 市場動向, エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦協議への期待感から、世界的に株式市場が上昇。原油価格は高水準で安定している。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "製造業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月CPI、エネルギー高騰で3.3%に急上昇",
+          "country": "米国",
+          "category": "経済指標, インフレ, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国では、イラン戦争によるエネルギー価格高騰が主因で、3月の消費者物価指数が前年比3.3%に上昇した。",
+          "affected_sectors": [
+            "一般消費財",
+            "小売",
+            "製造業",
+            "運輸",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州空港、ホルムズ海峡封鎖懸念でジェット燃料不足の危機",
+          "country": "欧州",
+          "category": "エネルギー, 地政学, サプライチェーン",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡が再開されない場合、欧州の空港が3週間以内にジェット燃料不足に直面する可能性があり、燃料抗議活動も拡大。",
+          "affected_sectors": [
+            "航空",
+            "物流",
+            "観光",
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦期待で世界株高。原油高止まり、米インフレ3.3%。"
     }
   }
 ]
