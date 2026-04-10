@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン戦争激化で原油価格が高騰、世界市場に不確実性増大",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争激化とトランプの威嚇発言で原油価格高騰、ホルムズ海峡の期限が迫り世界市場に不確実性。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア市場、イラン情勢と原油高騰の中、概ね上昇",
-          "country": "Japan, South Korea",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン戦争と原油価格高騰の中、日本・韓国の主要アジア市場は月曜の取引で概ね上昇した。",
-          "affected_sectors": [
-            "Equities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "韓国の国家債務、2025年末にGDP比49%に迫る",
-          "country": "South Korea",
-          "category": "Fiscal Policy, Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "2025年末、韓国の国家債務は1.3兆ウォン超、GDP比49%に達し財政健全化への懸念が浮上した。",
-          "affected_sectors": [
-            "Government Bonds",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国3月雇用者数好調も賃金伸び鈍化、インフレ圧力継続",
-          "country": "United States",
-          "category": "Economic Data, Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国3月雇用者数好調も賃金伸び鈍化。イラン戦争起因のインフレ懸念続く、PCE/CPI報告書に注目。",
-          "affected_sectors": [
-            "All Sectors",
-            "Interest-Rate Sensitive Sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争激化と原油高騰が世界経済の不確実性を高める。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 16:00",
     "data": {
       "breaking_news": [
@@ -13083,6 +13021,96 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢の悪化が原油価格を押し上げ、世界経済に長期的な打撃の恐れ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意で世界市場が急騰、原油価格は急落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の2週間の停戦合意により、世界の株式市場は大幅に上昇、原油価格は急落した。ホルムズ海峡の再開が条件だが、停戦の持続性には懐疑的な見方もある。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Financials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF専務理事、イラン戦争が世界経済に永続的な傷跡を残すと警告",
+          "country": "Global",
+          "category": "Economics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、イラン戦争がたとえ平和が実現しても世界経済に永続的な傷跡を残す可能性があると述べた。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日本、エネルギー危機懸念で追加石油備蓄放出を決定",
+          "country": "Japan",
+          "category": "Energy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "日本はエネルギー危機への懸念が高まる中、追加の石油備蓄放出を決定した。",
+          "affected_sectors": [
+            "Energy",
+            "Japanese Industries"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国、サマセットのタタ電池工場に3億8000万ポンドの助成金",
+          "country": "UK",
+          "category": "Corporate",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英国は、サマセットに建設されるタタの電池工場に対し、3億8000万ポンドの助成金を支給する予定。",
+          "affected_sectors": [
+            "Automotive",
+            "Green Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド、オフショアルピー取引の報告義務化を推進",
+          "country": "India",
+          "category": "Regulatory",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インドは、通貨への圧力を増幅させてきたオフショアルピーデリバティブ取引の透明性向上のため、銀行に報告を義務付ける提案を推進する。",
+          "affected_sectors": [
+            "Financials",
+            "Currency Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "TCS CEO、AIの脅威を否定しFY26でAI事業好調を報告",
+          "country": "India",
+          "category": "Corporate Earnings",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "TCSのCEOはAIによるIT大手への脅威を否定し、FY26で400億ドルの受注残高と23億ドルのAI売上を計上したと発表した。",
+          "affected_sectors": [
+            "IT",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦合意で世界株高、原油急落。地政学リスク後退。"
     }
   }
 ]
