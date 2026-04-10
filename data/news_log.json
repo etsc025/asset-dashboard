@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "フィリピン、燃料価格が本日急騰予想",
-          "country": "フィリピン",
-          "category": "エネルギー、経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "本日4月6日、フィリピンでディーゼル燃料が1リットルあたり最大19ペソ上昇する見込み。輸送費に影響。",
-          "affected_sectors": [
-            "輸送",
-            "消費者財",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、イランへの強硬措置を警告",
-          "country": "グローバル",
-          "category": "地政学、エネルギー、外交",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ前大統領は、火曜日までにイランとの合意がなければ強硬措置を取ると警告。原油市場に緊張が走る。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "国際貿易",
-            "航空",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "XRP、4月6日の「トランプ期限」で決済レール化の憶測高まる",
-          "country": "グローバル",
-          "category": "暗号通貨、金融、テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "「4月6日のトランプ期限」がXRPの新たなグローバル決済レールとしての役割を巡る憶測を呼び、注目集まる。",
-          "affected_sectors": [
-            "暗号通貨",
-            "フィンテック",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の金融犯罪が4.4兆ドル超、ナスダック2026年報告",
-          "country": "グローバル",
-          "category": "金融、規制、テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ナスダックの2026年グローバル金融犯罪報告書によると、金融犯罪額が4.4兆ドルを超え、対策強化が急務。",
-          "affected_sectors": [
-            "金融サービス",
-            "サイバーセキュリティ",
-            "ソフトウェア（コンプライアンス）"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化と原油価格高騰、地政学リスクに警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-06 11:30",
     "data": {
       "breaking_news": [
@@ -12962,6 +12895,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦の不確実性が高まり、原油価格と世界市場に影響"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の脆弱性と原油価格の反発",
+          "country": "中東地域",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米・イラン間の停戦合意に疑念が生じ、レバノンでのイスラエル攻撃継続により原油価格が反発。週末に協議を予定。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月CPI発表、インフレ高進の予測",
+          "country": "米国",
+          "category": "マクロ経済, インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "本日米国時間午前8時30分に3月消費者物価指数（CPI）が発表。高騰する原油価格がインフレを押し上げると予想され、FRBの政策に影響。",
+          "affected_sectors": [
+            "全セクター",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "WTOがデジタル貿易関税モラトリアムで合意に至らず",
+          "country": "グローバル",
+          "category": "貿易政策, テクノロジー規制",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "世界貿易機関（WTO）がeコマースへの関税モラトリアム延長で合意できず、各国がデジタルサービス課税を導入する可能性。",
+          "affected_sectors": [
+            "テクノロジー",
+            "Eコマース",
+            "ソフトウェアサービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ノルウェー3月インフレ率3.6%に上昇、エネルギー価格が主因",
+          "country": "ノルウェー",
+          "category": "マクロ経済, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ノルウェーの年間インフレ率が3月に3.6%に上昇。中東情勢によるエネルギー価格の変動が主要因。",
+          "affected_sectors": [
+            "エネルギー",
+            "消費者物価連動型セクター"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド市場は上昇、TCS株は下落、ルピーは不安定",
+          "country": "インド",
+          "category": "株式市場, 企業決算, 為替",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インド主要株価指数は上昇したが、TCSの収益減少で株価は下落。ルピーは対ドルで上昇も、国際情勢で不安定。",
+          "affected_sectors": [
+            "ITサービス",
+            "銀行",
+            "輸出入"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、原油高騰でインフレ懸念増大。本日発表の米CPIに注目。"
     }
   }
 ]
