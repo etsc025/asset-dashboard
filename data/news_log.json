@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株先物、中東停戦交渉進展期待で上昇",
-          "country": "USA",
-          "category": "Geopolitics, Market Movement",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の45日間の停戦交渉が報じられ、S&P500およびナスダック100先物が上昇。投資家心理が改善。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Aviation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのサービス業成長、中東紛争で14ヶ月ぶり低水準",
-          "country": "India",
-          "category": "Economic Indicator",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東戦争による需要減退を受け、3月のインドサービス業PMIは14ヶ月ぶりの低成長に鈍化。",
-          "affected_sectors": [
-            "Services",
-            "Tourism",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国のガソリン価格が1ガロンあたり4ドルを突破、消費に重圧",
-          "country": "USA",
-          "category": "Energy, Inflation",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争開始以来、米国の平均ガソリン価格が2022年8月以来初めて4ドルを超え、消費者家計を圧迫。",
-          "affected_sectors": [
-            "Transportation",
-            "Retail",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、停戦期待で一時下落も地政学リスクで不安定",
-          "country": "Global",
-          "category": "Commodities, Energy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン停戦交渉への期待感からWTI原油が一時下落。しかし、中東情勢の不透明感が残り、価格は不安定な推移。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Chemicals"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン停戦交渉期待が市場を押し上げ。原油高と地政学リスクは継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 18:30",
     "data": {
       "breaking_news": [
@@ -13121,6 +13056,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦協議進展で世界株上昇。原油動向に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平交渉進展への期待、グローバル市場に楽観論",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の和平交渉進展への期待感から、欧州、ロンドン、アジア市場で株価が上昇中。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月CPI、エネルギーコスト高で予想上回る上昇",
+          "country": "US",
+          "category": "経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月消費者物価指数は、エネルギーコスト上昇により前年比3.3%増で市場予想を上回った。",
+          "affected_sectors": [
+            "消費者関連",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の閉鎖継続が石油価格に影響",
+          "country": "Middle East",
+          "category": "エネルギー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米イラン停戦合意にもかかわらず、ホルムズ海峡の一部閉鎖が続き、原油価格に変動をもたらす。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "物流"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉進展への期待高まる。米3月CPIは高止まり。"
     }
   }
 ]
