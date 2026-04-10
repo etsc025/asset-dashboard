@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Geopolitical Conflict Escalates: Strait of Hormuz Closed, Global Energy Market Disrupted",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Hormuz closure due to US-Iran conflict sparks global oil price surge, supply chain chaos, and recession fears.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Logistics",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Economy Adds 178,000 Jobs in March; Unemployment Rate Dips to 4.3%",
-          "country": "U.S.",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US created 178K jobs in March with 4.3% unemployment. Strong data, but Treasury yields jump, Fed remains cautious.",
-          "affected_sectors": [
-            "Financials",
-            "General Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF Warns Tokenized Finance Could Amplify Market Crises Without Global Regulation",
-          "country": "Global",
-          "category": "Digital Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMF warns tokenized finance risks amplifying market crises without urgent global regulatory oversight.",
-          "affected_sectors": [
-            "Financial Services",
-            "Fintech",
-            "Cryptocurrency",
-            "Digital Assets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Hormuz closure sparks energy crisis, recession fears."
-    }
-  },
-  {
     "timestamp": "2026-04-06 07:30",
     "data": {
       "breaking_news": [
@@ -12813,6 +12760,95 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東停戦が脆弱化し原油価格上昇。市場はリスク回避傾向。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "原油価格、サウジ攻撃で上昇、ホルムズ海峡懸念継続",
+          "country": "中東、グローバル",
+          "category": "商品、地政学、エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦にも関わらず、サウジのエネルギー施設への攻撃とホルムズ海峡の懸念で原油価格が上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月消費者物価指数（CPI）発表、インフレ見通しに重要",
+          "country": "米国",
+          "category": "マクロ経済、インフレ",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国労働統計局が本日3月のCPIを発表。高止まりする原油価格がインフレを押し上げ、利下げ見通しに影響か。",
+          "affected_sectors": [
+            "全セクター（金利感応度が高いもの）",
+            "金融",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF専務理事、イラン戦争が世界経済に永続的な傷跡を残すと警告",
+          "country": "グローバル",
+          "category": "マクロ経済、地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事がイラン戦争が世界経済に永続的な傷跡を残し、成長鈍化を予測、各国中銀に金利維持を助言。",
+          "affected_sectors": [
+            "全セクター",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "停戦期待でドルが週次で最大の下落、他通貨が上昇",
+          "country": "グローバル",
+          "category": "通貨、マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東停戦への楽観論が広がり、他の通貨が上昇したため、ドルは1月以来最大の週次下落となる見込み。",
+          "affected_sectors": [
+            "外国為替",
+            "輸出入関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東停戦の不安定さの中、アジア株は小幅上昇",
+          "country": "アジア",
+          "category": "株式市場、地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東停戦の不安定な状況と米イラン協議を控え、投資家の慎重な見方の中、アジア株は小幅な上昇。",
+          "affected_sectors": [
+            "株式市場",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "TCS第4四半期純利益が12%増、予想を上回る",
+          "country": "インド",
+          "category": "企業ニュース、決算、テクノロジー",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "インドのIT大手TCSは、AI収入の力強い伸びと大型契約獲得により、第4四半期純利益が12%増となり予想を上回った。",
+          "affected_sectors": [
+            "ITサービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東停戦の脆さで原油高、米国CPI発表に市場警戒。"
     }
   }
 ]
