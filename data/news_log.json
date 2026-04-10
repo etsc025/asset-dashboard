@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領、ホルムズ海峡再開の期限をイランに設定し、石油価格が変動",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領はイランに対し火曜日までにホルムズ海峡を再開するよう期限を設定し、行動を警告。紛争激化と停戦期待により石油価格は不安定。",
-          "affected_sectors": [
-            "石油・ガス",
-            "海運",
-            "株式市場",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争が世界的な債務危機懸念を引き起こす",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の経済的衝撃とドルシステムの信頼性低下が、特に新興国市場で世界的な債務危機懸念を高めている。",
-          "affected_sectors": [
-            "金融",
-            "ソブリン債市場",
-            "新興国市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の雇用統計が予想を上回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の非農業部門雇用者数は17.8万人増で予想を上回り、失業率は4.3%に改善。賃金は0.2%上昇。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争とホルムズ海峡期限により市場の不確実性が高まり、石油価格の変動と債務危機懸念が上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 01:30",
     "data": {
       "breaking_news": [
@@ -13081,6 +13031,111 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米国の高インフレと中東情勢の緊迫化が市場に影響を与え、エネルギー価格の動向に警戒が必要。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "保険会社が2008年危機前より大きなリスクを抱える、報告書が警告",
+          "country": "グローバル",
+          "category": "金融規制・リスク",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "報告書は、保険会社がプライベートクレジットに過剰投資し、2008年以前より高いリスクを抱えていると警告。",
+          "affected_sectors": [
+            "保険",
+            "金融サービス",
+            "プライベートクレジット"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Raiffeisenの買収対象AddikoにスロベニアのNLBから高値の買収提案",
+          "country": "スロベニア",
+          "category": "M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "スロベニアのNLBがRaiffeisenの買収対象Addikoに対し、以前の入札を上回る高値の買収提案を実施。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ウォール街、プライベートクレジットに賭ける新たなツールを構築",
+          "country": "米国",
+          "category": "金融市場・リスク管理",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "銀行がプライベートクレジットへのエクスポージャーを減らし、ヘッジファンドが混乱から利益を得る新ツール構築。",
+          "affected_sectors": [
+            "金融サービス",
+            "ヘッジファンド",
+            "プライベートクレジット"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "マダガスカル、エネルギー供給問題で非常事態を宣言",
+          "country": "マダガスカル",
+          "category": "エネルギー・経済危機",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "マダガスカルが深刻なエネルギー供給問題により非常事態を宣言、経済危機が深まる可能性を示唆。",
+          "affected_sectors": [
+            "エネルギー",
+            "公益事業",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプショックを受け、世界の金利パスが上昇方向に転換",
+          "country": "グローバル",
+          "category": "金融政策・地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "地政学的な「トランプショック」を受け、世界の金利パスが上昇方向にシフトしており、引き締めを示唆。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "停戦にもかかわらずホルムズ海峡の船舶輸送が停止",
+          "country": "中東",
+          "category": "地政学・エネルギー・サプライチェーン",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦にもかかわらずホルムズ海峡の船舶輸送が停止、世界の石油供給と貿易への懸念高まる。",
+          "affected_sectors": [
+            "石油・ガス",
+            "海運",
+            "物流",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OpenAI CEOサム・アルトマン宅に火炎瓶が投げ込まれ男逮捕",
+          "country": "米国",
+          "category": "企業・セキュリティ",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "OpenAI CEOサム・アルトマンの自宅に火炎瓶を投げ込んだ男が逮捕され、セキュリティへの懸念が高まった。",
+          "affected_sectors": [
+            "テクノロジー（AI）"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡輸送停止、原油供給危機とインフレ懸念。"
     }
   }
 ]
