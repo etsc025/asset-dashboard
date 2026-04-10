@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "金価格が下落、トランプ氏のイランへの脅威とインフレ懸念が上昇",
-          "country": "グローバル",
-          "category": "地政学, コモディティ, グローバルマクロ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイランへの脅威激化とインフレ懸念の高まりを受け、金価格が下落。市場の不確実性が増大。",
-          "affected_sectors": [
-            "コモディティ",
-            "金融",
-            "エネルギー",
-            "貴金属"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争が海上輸送ルートを脅かし原油価格が上昇",
-          "country": "グローバル",
-          "category": "エネルギー, 地政学, コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争が主要な海上輸送ルートを脅かし、原油価格が上昇。供給懸念が高まりインフレ圧力が強化。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費財",
-            "グローバル経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "パラマウント、ワーナー・ブラザース・ディスカバリー買収向けに240億ドルの資金確保",
-          "country": "米国, 湾岸地域",
-          "category": "M&A, 企業ニュース, メディア",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パラマウントがワーナー・ブラザース・ディスカバリー買収に向け湾岸から240億ドルの資金確保。メディア業界に影響。",
-          "affected_sectors": [
-            "メディア",
-            "エンターテイメント",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油価格高騰と市場不安定化に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 17:00",
     "data": {
       "breaking_news": [
@@ -13109,6 +13055,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "USPS年金危機、地政学的緊張、テクノロジー投資動向が市場の注目を集める"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦協議への期待と混乱で市場は神経質",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン停戦協議の動向を巡り市場は混乱しており、ロンドン市場は横ばい、欧州は微増。原油価格は不安定な推移。",
+          "affected_sectors": [
+            "金融サービス",
+            "エネルギー",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド市場金融株主導で反発、ルピーは対ドルで記録的安値",
+          "country": "India",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド株式市場は金融株買いで1%反発しSensexは900ポイント上昇。ルピーは中央銀行指令を前に記録的な安値に下落。",
+          "affected_sectors": [
+            "金融サービス",
+            "IT",
+            "為替",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国政府、サマセットのタタ製バッテリー工場に3.8億ポンド助成金",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英国政府がサマセットに建設されるタタ製バッテリー工場に3億8000万ポンドの助成金を提供することを決定。",
+          "affected_sectors": [
+            "自動車",
+            "製造業",
+            "グリーンエネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米大手テクノロジー企業、EU児童性虐待防止法の不備を批判",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Google、Meta、Snap、MicrosoftがEUの児童性虐待防止法案の不作為を強く非難。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソーシャルメディア"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦の不確実性と市場の混乱が続く。インド市場は反発。"
     }
   }
 ]
