@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢の緊迫化、原油価格高騰が続く",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国大統領の軍事行動示唆とホルムズ海峡の安全保障を巡る懸念が続き、WTI原油価格は1バレル112ドル台に高騰。市場は地政学的リスクを警戒。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月雇用統計、非農業部門雇用者数が大幅増も賃金伸びは鈍化",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の非農業部門雇用者数は17.8万人増と予想を大幅に上回ったが、平均時給の伸びは0.2%に鈍化。FRBの利上げペースへの影響が注目される。",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ユーロ圏3月インフレ率、エネルギー高で2.5%に上昇",
-          "country": "Eurozone",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の3月インフレ率は前月1.9%から2.5%へ上昇し、2025年1月以来の高水準。エネルギー価格の急騰が主な要因。ECBの金融政策に影響か。",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Utilities",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化とそれに伴う原油価格の高騰が、週明けの世界市場に大きな影響を与える見込み。"
-    }
-  },
-  {
     "timestamp": "2026-04-06 06:30",
     "data": {
       "breaking_news": [
@@ -12795,6 +12745,73 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東和平交渉の進展が市場センチメントを押し上げ、株式市場が上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の脆弱性とホルムズ海峡通行料を巡るトランプ米大統領の声明が原油価格を押し上げ",
+          "country": "GLOBAL",
+          "category": "Geopolitical, Commodity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での停戦が不安定な中、トランプ大統領のホルムズ海峡通行料に関する発言が原油価格を約1%押し上げた。アジア株は小幅高で慎重な動き。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Airlines",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "CoreWeaveとMetaの210億ドルAI契約、アジア株とテクノロジー株を押し上げ",
+          "country": "GLOBAL",
+          "category": "Technology, Corporate",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "CoreWeaveがMetaにコンピューティング能力を供給する210億ドルの大規模AI契約を締結し、アジア株およびテクノロジー株が上昇した。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductor",
+            "Cloud Computing",
+            "Artificial Intelligence"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国2月PCEインフレは予想通りも個人所得・Q4 GDPが下振れ、国債利回りは上昇",
+          "country": "USA",
+          "category": "Economic Data, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国2月のPCEインフレは予想と一致したが、個人所得は減少し、第4四半期のGDPは下方修正された。国債利回りが上昇。",
+          "affected_sectors": [
+            "Financial",
+            "Consumer Discretionary",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Glencore、世界的なエネルギー市場の逼迫を受け燃料購入量を50%増加",
+          "country": "GLOBAL",
+          "category": "Commodity, Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Glencoreが年間300万トンの燃料を購入する計画を発表、初期契約から50%増で世界的なエネルギー需要増加を示唆。",
+          "affected_sectors": [
+            "Energy",
+            "Mining",
+            "Utilities"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢の緊迫化とAI関連大型契約が市場を二分、米国経済指標は軟調。"
     }
   }
 ]
