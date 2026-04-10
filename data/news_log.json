@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-06 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ米大統領のイランへの新たな脅威と原油価格高騰",
-          "country": "グローバル",
-          "category": "地政学/コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国トランプ大統領のイランへの新たな脅威とホルムズ海峡閉鎖発言で、原油価格が急騰。中東情勢の緊迫化が世界経済に懸念。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債利回りの上昇と経済指標発表への注目",
-          "country": "米国",
-          "category": "債券/マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "トランプ氏のイラン発言を受け米国債利回りが上昇。今後の雇用統計、貿易収支など経済指標発表に市場が注目。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "一般経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株式市場、休戦協議の報道で上昇もイラン情勢を注視",
-          "country": "アジア",
-          "category": "株式/地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "休戦協議の報道で日韓株式市場は上昇したが、投資家はイラン情勢と原油価格の動向を注視。",
-          "affected_sectors": [
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米経済指標に混合シグナル：サービス業PMIと雇用統計",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "米国サービス業PMIは予想外の収縮、賃金成長鈍化。一方で雇用者数は増加し失業率は低下。",
-          "affected_sectors": [
-            "一般経済"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と原油価格高騰が世界市場にリスクオフ圧力"
-    }
-  },
-  {
     "timestamp": "2026-04-06 15:30",
     "data": {
       "breaking_news": [
@@ -13071,6 +13009,80 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢によるインフレ圧力と主要中銀のタカ派姿勢強化"
+    }
+  },
+  {
+    "timestamp": "2026-04-10 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ロンドン株式市場が米イラン協議を前に上昇",
+          "country": "UK",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東の緊張緩和への期待から、ロンドン株式市場は米イラン協議を前に小幅上昇で取引を開始した。",
+          "affected_sectors": [
+            "Equity Markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧州株式市場、レバノン爆撃の懸念も上昇",
+          "country": "Europe",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イスラエルによるレバノン爆撃を巡る議論にもかかわらず、欧州株式市場は取引開始時に上昇。",
+          "affected_sectors": [
+            "Equity Markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、イラン戦争が世界経済に恒久的な傷痕を残すと警告",
+          "country": "Global",
+          "category": "Economics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、イラン戦争が和平が達成されても世界経済に恒久的な悪影響を与えると述べた。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本、エネルギー危機懸念で石油備蓄放出を決定",
+          "country": "Japan",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "エネルギー危機への懸念から、日本は石油備蓄の追加放出を決定し、供給安定化を図る。",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン間の緊張再燃で原油価格が高騰",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の緊張再燃により原油価格が急騰し、ブレント原油は100ドルに迫る勢い。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢の悪化が原油価格を押し上げ、世界経済に長期的な打撃の恐れ。"
     }
   }
 ]
