@@ -1,112 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF Warns of Global Economic Peril from Mideast War",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF chief warns Middle East conflict leads to higher prices, slower global growth, impacting world economy.",
-          "affected_sectors": [
-            "Energy",
-            "Materials",
-            "Financials",
-            "Consumer Discretionary",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Eurozone Investor Confidence Plunges Amid Iran Conflict",
-          "country": "Eurozone",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Eurozone investor sentiment drops sharply in April, attributed to escalating Iran conflict concerns.",
-          "affected_sectors": [
-            "Financials",
-            "All Eurozone sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Business Activity Slows Significantly Due to Iran War",
-          "country": "UK",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "UK service sector growth weakest in 11 months, impacted by Iran war and rising stagflation risks.",
-          "affected_sectors": [
-            "Service Sector",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Samsung Electronics Forecasts Record Q1 Earnings on Chip Demand",
-          "country": "South Korea",
-          "category": "Corporate Earnings",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Samsung Electronics projects record Q1 earnings, fueled by booming global chip demand, signaling tech strength.",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors",
-            "Consumer Electronics"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Iran, US Reportedly Receive Proposals for Conflict Resolution",
-          "country": "Iran, US",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Iran and US reportedly received proposals for conflict resolution and reopening of Strait of Hormuz.",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Tesla Faces Deepening Selling Pressure Post-Missed Deliveries",
-          "country": "US",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Tesla faces increased selling pressure after missing delivery targets, leading to analyst price target cuts.",
-          "affected_sectors": [
-            "Automotive",
-            "Technology",
-            "Electric Vehicles"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAI Calls for Probe into Musk's Anti-Competitive Practices",
-          "country": "US",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OpenAI seeks probes into Musk's alleged anti-competitive behavior, raising concerns in the AI tech sector.",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "AI"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争終結・ホルムズ海峡再開の提案浮上、市場注目"
-    }
-  },
-  {
     "timestamp": "2026-04-07 20:30",
     "data": {
       "breaking_news": [
@@ -12731,6 +12624,57 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン交渉開始、インフレ高進で市場変動に注意"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦の不確実性が原油価格と株式市場に影響",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の脆弱な停戦合意が原油価格を乱高下させ、世界市場に不確実性をもたらしている。中東の緊張も高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Global Equities",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月CPI、エネルギー高騰で上昇もコア指数は予想下回る",
+          "country": "United States",
+          "category": "Economic Data, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米3月CPIはエネルギー価格で上昇もコア指数は予想を下回った。FRBの利下げ期待への影響が注目される。",
+          "affected_sectors": [
+            "Financials",
+            "Consumer Discretionary",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米消費者信頼感が歴史的低水準に、地政学的緊張が背景",
+          "country": "United States",
+          "category": "Economic Data, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米ミシガン大学消費者信頼感指数がイラン紛争を背景に歴史的低水準に急落。消費支出への懸念が高まる。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Automotive"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン停戦の脆弱性と消費者信頼感急落が市場を圧迫。"
     }
   }
 ]
