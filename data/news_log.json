@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、停戦案を拒否し中東紛争が激化",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランが最新の停戦案を拒否したとの報道があり、中東紛争の激化懸念が高まっている。これにより原油価格が上昇し、市場の不確実性が増大している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "グローバル株式市場",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国市場、中東情勢を巡る不確実性で主要指数が変動",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東紛争終結への期待とトランプ氏の発言を受け、S&P 500、ナスダックは変動。停戦案拒否の報道で不確実性が高まっている。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が変動、中東紛争と供給リスクが市場を緊張させる",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の停戦交渉の不透明感と、ホルムズ海峡の閉鎖などの供給リスクにより、原油価格が不安定に推移。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB当局者、インフレ高進への懸念表明、金融引き締め政策の支持を示唆",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米クリーブランド連銀とシカゴ連銀総裁は、エネルギー価格上昇と雇用低迷でインフレが課題と指摘、金融引き締め支持を示唆。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー",
-            "一般消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争激化で原油価格高騰、各国市場はインフレと金融引き締め懸念でリスクオフに傾斜。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 04:30",
     "data": {
       "breaking_news": [
@@ -13028,6 +12960,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦で株価上昇、原油急落; 米インフレ懸念"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイラン、パキスタンで和平交渉開始",
+          "country": "米国, イラン",
+          "category": "政治・国際関係",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランが4月11日にパキスタンで和平交渉を開始した。中東情勢の緊張緩和への期待が高まる一方、市場は神経質な展開。原油価格は急落し、アジア市場では株価が上昇する動きも見られる。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均が反発、ファーストリテイリングが業績上方修正で牽引",
+          "country": "日本",
+          "category": "企業業績, 株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "4月10日の東京株式市場で日経平均が反発。ファーストリテイリングが2026年8月期の営業利益予想を上方修正したことが市場を牽引した。ハイテク株も好調を維持している。",
+          "affected_sectors": [
+            "小売",
+            "ハイテク",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本国債利回りが数十年ぶり高水準、市場ストレス示唆",
+          "country": "日本",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本の国債利回りが数十年ぶりの高水準を記録しており、アナリストはこれが広範囲な市場崩壊の前兆である可能性を指摘している。",
+          "affected_sectors": [
+            "債券市場",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国とイランの和平交渉の進展と中東情勢の動向に注視。"
     }
   }
 ]
