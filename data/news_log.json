@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ドル円が一時160円台に上昇、日本円の急激な下落続く",
-          "country": "日本",
-          "category": "為替",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "日銀と主要中央銀行の金融政策の乖離を背景に、ドル円が一時160円台に上昇し、日本円の急激な下落が進行している。",
-          "affected_sectors": [
-            "輸出関連",
-            "観光",
-            "輸入関連",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国がカーグ島軍事標的を空爆、中東情勢の緊張高まる",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がカーグ島の軍事標的を空爆したと報じられた。これにより中東情勢の緊迫化が一段と進み、原油価格や地政学的リスクプレミアムへの影響が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "防衛",
-            "グローバル株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏3月CPI速報値が加速、ECB・BOEの利上げ観測高まる",
-          "country": "ユーロ圏",
-          "category": "インフレ, 金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ユーロ圏3月消費者物価速報値が前月比加速を示し、イラン情勢によるエネルギー価格高騰を受け、ECBとBOEは6月にも利上げ実施の可能性が浮上している。",
-          "affected_sectors": [
-            "銀行",
-            "不動産",
-            "消費裁量"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と急速な円安が市場のリスク回避を促す"
-    }
-  },
-  {
     "timestamp": "2026-04-08 03:30",
     "data": {
       "breaking_news": [
@@ -12311,6 +12257,58 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン停戦で市場は反発したが、インフレと地政学リスクは依然として残る。"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢による原油高と米国のインフレ高騰、市場に圧力",
+          "country": "米国, 中東",
+          "category": "地政学, マクロ経済, エネルギー, インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊張と閉鎖されたホルムズ海峡により原油価格が高止まり。3月の米CPIは0.9%上昇、年間3.3%増となり、インフレ懸念が市場センチメントを圧迫している。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "一般消費財",
+            "金融",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の新車価格高騰、消費者の購買力に影響",
+          "country": "米国",
+          "category": "消費者経済, 自動車, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国で新車の平均価格が約5万ドルに達し、保険や修理費用も急増。消費者にとって新車の購入が困難になり、購買行動に悪影響を与えている。",
+          "affected_sectors": [
+            "自動車",
+            "一般消費財",
+            "保険"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "テクノロジー株のバリュエーションがAIブーム以前の水準に回帰",
+          "country": "米国",
+          "category": "株式, テクノロジー, 市場分析",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "S&P 500情報技術セクターの株価収益率がAIブーム前の20倍水準に圧縮。市場はテクノロジー株の過熱感を調整中と見られる。",
+          "affected_sectors": [
+            "テクノロジー",
+            "株式"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢と米インフレ高騰が市場を圧迫。注視を。"
     }
   }
 ]
