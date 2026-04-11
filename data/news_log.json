@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン情勢緊迫化、原油価格乱高下、停戦期待とホルムズ海峡期限延長で世界株式市場が反応",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の緊張が市場に影響。原油は乱高下し、停戦期待とホルムズ海峡期限延長で株価は上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OPEC+、ホルムズ海峡再開見据え追加増産を検討か",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "OPEC+はホルムズ海峡再開の場合、追加増産を検討する可能性があり、緊張下での世界供給安定化を目指す。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "産業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "世界市場、イラン情勢と原油価格の変動に反応中。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 11:00",
     "data": {
       "breaking_news": [
@@ -12911,6 +12873,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン停戦で市場安堵も、高インフレと景況感悪化に警戒"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国3月CPI、エネルギー価格高騰で年率3.3%に上昇、2024年5月以来の高水準",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国3月CPIはエネルギー価格高騰により年率3.3%に上昇、2024年5月以来の高水準を記録。インフレ加速が市場に警戒感を広げている。",
+          "affected_sectors": [
+            "Energy",
+            "Consumer Discretionary",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米財務長官とFRB議長、Anthropic AIモデルに関連するサイバーリスクについて銀行に警告",
+          "country": "USA",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米財務長官とFRB議長は、Anthropic AIモデルが金融システムにもたらす潜在的サイバーリスクに対し、主要銀行に注意喚起を行った。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Cybersecurity"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ADBがASEANの金融セクター支援に300億ドルのファシリティを提案",
+          "country": "ASEAN",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ADBは第13回ASEAN財務相・中央銀行総裁会議で、2026-2030年の金融セクター計画支援のため300億ドルの施設を提案。",
+          "affected_sectors": [
+            "Financials",
+            "Infrastructure",
+            "Green Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "アジア開発銀行、インドの成長予測を6.5%から6.9%に上方修正",
+          "country": "India",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "アジア開発銀行はインドの今年度経済成長予測を6.5%から6.9%に上方修正。堅調な国内需要と金融状況緩和が背景。",
+          "affected_sectors": [
+            "Indian Equities",
+            "Emerging Markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米副大統領がイラン和平協議のためパキスタンへ、中東情勢は緊迫",
+          "country": "Middle East",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米副大統領がイラン和平協議のためパキスタンへ訪問。中東情勢は緊迫し、原油価格と世界経済への影響が懸念される。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米インフレ加速と中東情勢緊迫化で市場に警戒感。AI金融リスクも浮上。"
     }
   }
 ]
