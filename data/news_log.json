@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン・米国間の緊張激化で原油価格が上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイラン間の緊張が高まり、イランが停戦提案を拒否し、原油価格が急騰、世界的なインフレ懸念を増幅しています。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF専務理事、中東紛争によるインフレ上昇と世界成長鈍化を警告",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事が、中東紛争が世界経済に与える影響として、インフレ上昇と世界成長の鈍化を警告しました。",
-          "affected_sectors": [
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の3月非農業部門雇用者数が大幅増、労働市場の底堅さ示す",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国3月の非農業部門雇用者数が予想を大幅に上回る17万8000人増となり、失業率も4.3%に低下し、労働市場の底堅さを示しています。",
-          "affected_sectors": [
-            "Employment-sensitive sectors",
-            "Consumer Staples",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY連銀、3月のサプライチェーン圧力が2023年初頭以来の高水準と報告",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ニューヨーク連銀によると、3月のグローバルサプライチェーン圧力指数が2023年初頭以来の高水準に達し、インフレ圧力の継続を示唆しています。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail",
-            "Logistics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油高とインフレ懸念が市場心理を悪化させている。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 05:00",
     "data": {
       "breaking_news": [
@@ -13010,6 +12946,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米国とイランの和平交渉の進展と中東情勢の動向に注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "U.S., Iran Prepare for Talks; Israel Agrees to Lebanon Negotiations",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランが協議準備を進める中、イスラエルがレバノンとの交渉に合意し、中東の外交努力が継続中。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equities",
+            "Forex"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Microsoft Pauses All Carbon Removal Purchases",
+          "country": "Global",
+          "category": "Corporate News",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "マイクロソフトがすべての新規炭素除去購入を一時停止し、同産業の資金調達と将来の成長に懸念。",
+          "affected_sectors": [
+            "Environmental Technology",
+            "Renewables",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "MTR Secures $27 Million Backing From Climate Investment, Appoints CEO",
+          "country": "Global",
+          "category": "Corporate News",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "炭素回収ソリューションのMTRがClimate Investmentから2700万ドルの資金を確保し、新CEOを任命。",
+          "affected_sectors": [
+            "Environmental Technology",
+            "Cleantech"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Coal India Held Average Prices of Explosives Increased 26%",
+          "country": "India",
+          "category": "Commodity",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Coal Indiaの爆発物平均価格が2月から3月の間に26%上昇し、生産コストに影響を与える可能性。",
+          "affected_sectors": [
+            "Mining",
+            "Industrials",
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢は緊迫、米イラン協議準備とMS炭素除去停止"
     }
   }
 ]
