@@ -1,59 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イランによるホルムズ海峡開放期限が本日となり、地政学的緊張が高まる",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国が設定したイランによるホルムズ海峡開放期限が本日となり、地政学的緊張が高まり、原油供給に懸念。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル市場",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "JPモルガンCEO、イラン戦争がインフレを再燃させFRB金利高止まりを警告",
-          "country": "グローバル",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "JPモルガンCEOが、イラン戦争がインフレを再燃させ、FRBの金利を高止まりさせる可能性を警告。",
-          "affected_sectors": [
-            "銀行",
-            "テクノロジー",
-            "一般消費財",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州・アジア市場休場の中、米国株式は地政学的な交渉報道を受け小幅上昇",
-          "country": "米国",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧州・アジア市場休場の中、米国株式は地政学的な交渉報道を受け小幅上昇。",
-          "affected_sectors": [
-            "広範な市場",
-            "金融",
-            "通信サービス",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢の緊迫化と原油市場の不安定化に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 12:00",
     "data": {
       "breaking_news": [
@@ -12910,6 +12856,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイラン間の停戦が依然として不安定、原油価格に変動要因。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、中東情勢とインフレ動向注視でまちまちも週足は上昇",
+          "country": "米国",
+          "category": "市場動向, 地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株は中東情勢とインフレ動向を注視し、終値はまちまちも週足では上昇。テクノロジー株が堅調。",
+          "affected_sectors": [
+            "テクノロジー",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争が経済に波及、米CPIが2年ぶりの高水準に急騰",
+          "country": "米国",
+          "category": "マクロ経済, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争が経済に波及し、米国の消費者物価指数はガソリン価格高騰で2年ぶりの高水準に急騰。",
+          "affected_sectors": [
+            "エネルギー",
+            "一般消費財",
+            "小売",
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化、石油・ガス供給に損害、中国サプライチェーンにも影響",
+          "country": "中東, 中国",
+          "category": "地政学, サプライチェーン, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢緊迫化で石油・ガス供給に損害。イラン戦争がサプライチェーンを圧迫し、中国経済にも影響。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "物流",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル為替レートの不確実性が米国銀行セクターの融資に影響",
+          "country": "米国",
+          "category": "金融政策, 銀行",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ドル為替レートの変動増大が米国銀行セクターに影響、外国銀行の融資市場からの撤退で信用基準が厳格化。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPモルガンCEOダイモン氏、金利と資産評価に関するバフェット氏の警告を繰り返す",
+          "country": "グローバル",
+          "category": "マクロ経済, 市場見通し",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "JPモルガンCEOダイモン氏が金利の資産価格への影響を警告。バフェット氏の過去の懸念と同様に市場下落を示唆。",
+          "affected_sectors": [
+            "金融サービス",
+            "全資産クラス"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化によるインフレ加速とサプライチェーン混乱"
     }
   }
 ]
