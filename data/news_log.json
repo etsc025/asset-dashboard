@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF warns of lasting economic impact from Middle East conflict, higher inflation",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF warns Middle East conflict will slow global growth and fuel inflation due to oil supply disruptions.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing",
-            "Transportation",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices surge to $110 amid Middle East conflict escalation",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Crude oil prices near $110-$112 per barrel as Middle East tensions disrupt supplies and increase geopolitical risk.",
-          "affected_sectors": [
-            "Energy (Upstream)",
-            "Airlines",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "JPMorgan CEO Dimon warns Iran war could reignite inflation, keep Fed rates higher",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Jamie Dimon states Iran war risks oil price shocks, persistent inflation, and higher interest rates for longer.",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology",
-            "Interest-Rate Sensitive"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK manufacturers face £940m annual increase in business rates",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK manufacturers projected to pay an additional £940m yearly due to recent business rates changes.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail",
-            "Industrial"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "India's RBI faces trade-off with rising oil prices and global uncertainty",
-          "country": "India",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "RBI faces challenge balancing growth and inflation due to rising oil prices and global economic uncertainty.",
-          "affected_sectors": [
-            "Banking",
-            "Energy",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Middle East conflict escalating, driving oil spikes and global stagflation risks."
-    }
-  },
-  {
     "timestamp": "2026-04-07 16:00",
     "data": {
       "breaking_news": [
@@ -12806,6 +12724,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東停戦は脆弱、米インフレ・消費者心理が悪化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦合意、原油安・NY株急反発",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの2週間の停戦合意で原油価格が下落、NYダウは大幅反発し、市場に安心感が広がった。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の通航困難継続、燃料供給に懸念",
+          "country": "Global",
+          "category": "Supply Chain",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦後もホルムズ海峡の通航は円滑でなく、EU空港はジェット燃料危機を警告、サプライチェーンの不確実性が続く。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Airlines",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月CPI予想上回る0.9%上昇、FRB利下げ観測後退",
+          "country": "United States",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米消費者物価指数が予想を上回る0.9%上昇。高インフレでFRBの4月利下げ期待が後退し、金利据え置き確率が上昇。",
+          "affected_sectors": [
+            "All Sectors",
+            "Technology",
+            "Interest-rate Sensitive"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコイン7.3万ドル突破、中東緊張緩和とETF流入が押し上げ",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東地政学的緊張の緩和と大規模なビットコインETFへの資金流入が続き、ビットコイン価格は7.3万ドルに到達した。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Fintech"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦で株高も、ホルムズ海峡と米CPIに警戒。"
     }
   }
 ]
