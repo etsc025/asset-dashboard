@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油価格が急騰し世界経済に供給不安",
-          "country": "グローバル",
-          "category": "地政学・コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉難航、米軍攻撃期限迫りWTI原油が115ドル台に急騰。世界的な供給不安とインフレ懸念が増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB、エネルギー起因インフレ加速で6月利上げ観測が強まる",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧州中央銀行はエネルギー高騰によるインフレ再加速を受け、6月にも0.25%以上の利上げ実施の可能性が高まる。",
-          "affected_sectors": [
-            "金融",
-            "債券",
-            "為替",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本円、対ドルで下落継続　中東情勢と日米金利差で売り圧力",
-          "country": "日本",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東情勢不透明感と原油高による貿易赤字拡大懸念で、円は対ドル159円台後半に下落。",
-          "affected_sectors": [
-            "為替",
-            "輸出入",
-            "観光"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦交渉決裂懸念、原油高とインフレ加速に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 17:30",
     "data": {
       "breaking_news": [
@@ -12746,6 +12693,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢の緩和期待と市場の動向に注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦合意で米国株が急騰、原油価格は急落",
+          "country": "米国",
+          "category": "地政学、株式市場、コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランとの停戦合意への期待から、米国株式市場は大幅に上昇し、S&P 500は週で3.6%高を記録。一方、原油価格は1バレル100ドルを下回って急落しました。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "輸送",
+            "製造業",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米消費者景況感、物価高と中東紛争懸念で急落",
+          "country": "米国",
+          "category": "経済指標、消費者心理",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "4月の米消費者景況感指数は、物価高とイラン紛争への懸念を背景に11%急落し、個人消費の減速が懸念されています。",
+          "affected_sectors": [
+            "小売",
+            "消費財",
+            "住宅"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月の米消費者物価指数3.3%上昇、ガソリン価格が大幅寄与",
+          "country": "米国",
+          "category": "経済指標、インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月の米CPIは3.3%上昇し、特にガソリン価格が21.2%急騰したことが全体のインフレを押し上げました。FRBの金融政策に影響を与える可能性があります。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日銀、中東情勢を受けたインフレ圧力に警戒",
+          "country": "日本",
+          "category": "金融政策、地政学",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢の緊迫化に伴うインフレ圧力に対し、日本銀行が警戒姿勢を示しており、今後の金融政策に影響を及ぼす可能性があります。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英中銀、AIモデルによる金融システムのリスクを警告",
+          "country": "英国",
+          "category": "金融安定、テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イングランド銀行は、公開には危険すぎるAIモデルが金融システムに与える脅威について、シティの幹部に警告しました。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東停戦合意で米国株急騰、原油急落。インフレ懸念は残る。"
     }
   }
 ]
