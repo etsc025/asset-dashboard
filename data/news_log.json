@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン危機激化、トランプ氏の最後通牒期限迫る中、市場は警戒態勢に。",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国大統領のイランへの最後通牒期限が迫り、ホルムズ海峡を巡る中東の緊張が激化。原油価格は高騰し、世界市場は警戒モード。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global Equities",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "スペースX、株式市場への上場を目指し個人投資家を誘致。",
-          "country": "US",
-          "category": "Technology, Capital Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イーロン・マスク氏のスペースXが過去最高の上場を目指し個人投資家を対象とした資金調達を進める意向。",
-          "affected_sectors": [
-            "Space",
-            "Technology",
-            "Venture Capital",
-            "Investment Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "サムスン電子、AIチップ需要で記録的な第1四半期業績を予測。",
-          "country": "South Korea",
-          "category": "Technology, Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "AIチップの旺盛な需要に支えられ、サムスン電子が第1四半期の営業利益が8倍超に急増する見込みで、記録的な業績を予測。",
-          "affected_sectors": [
-            "Semiconductors",
-            "Technology",
-            "Electronics"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ジェイミー・ダイモン氏、イラン戦争がインフレと金利上昇を招くと警告。",
-          "country": "US",
-          "category": "Macroeconomics, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "JPモルガンCEOがイラン情勢が激化すれば、インフレ圧力と金利上昇を引き起こし、世界経済に悪影響を与える可能性を指摘。",
-          "affected_sectors": [
-            "All Sectors",
-            "Financials",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東危機激化、米大統領のイラン最後通牒期限迫る。原油高と市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-08 00:30",
     "data": {
       "breaking_news": [
@@ -12406,6 +12338,63 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "世界的な原油供給不足と中東の地政学的緊張が市場に不確実性をもたらす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン停戦期待で株価上昇",
+          "country": "米国",
+          "category": "地政学、株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦への期待が高まり、S&P500およびナスダック先物が上昇。市場は楽観的ムード。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本市場、中東情勢と円安で下落",
+          "country": "日本",
+          "category": "株式市場、債券市場、為替、金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢と円安進行を受け日経平均が大幅下落。国債利回り高水準、金融当局は利上げ示唆。",
+          "affected_sectors": [
+            "株式、債券、為替、輸出入関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア市場下落、原油高騰でインフレ懸念",
+          "country": "アジア",
+          "category": "株式市場、商品市場、インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "アジア株式市場は下落し、リスク回避姿勢が強まる。原油高騰が世界的なインフレを引き起こす懸念。",
+          "affected_sectors": [
+            "株式市場全般、エネルギー、製造業、消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY為替、ドル円は続伸し159.27円で終了",
+          "country": "米国、日本",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ニューヨーク市場の為替でドル円が続伸し、10日の終値は159.27円だった。円安傾向が継続。",
+          "affected_sectors": [
+            "為替市場、輸出入関連企業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化と原油高騰が世界経済に重圧"
     }
   }
 ]
