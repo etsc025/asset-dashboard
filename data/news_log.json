@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化で円安・原油高が進行、為替介入に警戒感",
-          "country": "日本, グローバル",
-          "category": "地政学, 外国為替, コモディティ, 金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の長期化懸念が再燃し、リスクオフの円売り・ドル買いが優勢。原油価格も高止まりし、世界的なインフレ懸念が高まる。日本政府・日銀による為替介入への警戒感も高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY金価格もみ合い、利下げ観測後退で下落の可能性",
-          "country": "グローバル",
-          "category": "コモディティ, 金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "NY金先物6月限はもみ合いで推移。各国での利下げ観測が後退していることが金価格に下落圧力となっている。",
-          "affected_sectors": [
-            "貴金属採掘",
-            "投資ファンド"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東証、日経平均は反発も中東情勢懸念で上値抑制",
-          "country": "日本",
-          "category": "株式, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "東京株式市場では日経平均が反発。米ハイテク株高が牽引したが、中東軍事衝突の長期化懸念による原油高が企業業績への悪影響として上値の抑制要因に。",
-          "affected_sectors": [
-            "テクノロジー",
-            "製造業",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ラキール、中期経営計画「LaKeel 2030」発表で続伸",
-          "country": "日本",
-          "category": "企業ニュース, テクノロジー, 株式",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "ラキールが中期経営計画「LaKeel 2030」を策定し、AIへの積極投資を表明。売上高・営業利益率・ROEの目標達成を目指す。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア",
-            "AI関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "NZ準備銀行、政策金利据え置き予想もインフレ動向注視",
-          "country": "ニュージーランド",
-          "category": "金融政策, 外国為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ニュージーランド準備銀行（RBNZ）は政策金利を現行の2.25％に据え置く見込み。ただし、インフレ見通しに影響を与える場合は慎重な調整の可能性も示唆。",
-          "affected_sectors": [
-            "金融",
-            "外国為替"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油高と円安進行、為替介入警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 12:30",
     "data": {
       "breaking_news": [
@@ -12934,6 +12857,57 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化によるインフレ加速とサプライチェーン混乱"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦の脆弱性と米国CPI発表が市場に影響",
+          "country": "Global",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦は脆弱で、原油価格に影響し、CPI発表前の市場に不確実性をもたらしている。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "グローバル貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国3月CPI、イラン紛争によるエネルギーコストで急騰",
+          "country": "US",
+          "category": "マクロ経済, インフレ, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月CPIはイラン紛争によるエネルギーコスト上昇で3.3%に急騰、月間では0.9%増。",
+          "affected_sectors": [
+            "消費者裁量",
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "停戦期待で世界株式市場が上昇、主要指数は年初来高値に接近",
+          "country": "Global",
+          "category": "株式, 市場センチメント",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "停戦への期待と不確実性の低下観測から世界株式市場が上昇、主要指数は年初来高値に接近。",
+          "affected_sectors": [
+            "全株式",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東停戦の脆弱性と米国の高インフレ懸念が市場の最重要課題。"
     }
   }
 ]
