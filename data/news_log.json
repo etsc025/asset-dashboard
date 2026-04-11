@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イランが停戦提案を拒否、トランプ大統領は新たな警告を発し、中東情勢緊迫化",
-          "country": "中東/米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランは停戦提案を正式に拒否し、トランプ大統領が新たな警告を発したことで、中東情勢はさらに緊迫化。原油価格が上昇中。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、中東情勢の緊迫化と供給懸念で高騰",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランの停戦拒否とトランプ大統領の警告を受け、WTI原油先物は1バレル114ドルへ上昇。供給ショック懸念が再燃。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イスラエルがイランの石油化学施設を攻撃、イランはクウェートのエネルギーインフラを標的",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イスラエルがイラン最大の石油化学施設を攻撃し、イランは報復としてクウェートのエネルギーインフラを標的にした模様。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の3月ISMサービスPMIが予想を下回り、雇用減速を示唆",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月のISMサービスPMIは54に低下し、ビジネス活動成長の減速と雇用の新たな減少を示した。市場予想を下回る。",
-          "affected_sectors": [
-            "サービス業",
-            "労働市場",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "地政学的S不確実性でドルが軟化",
-          "country": "グローバル",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東での地政学的緊張が市場を慎重にさせ、米ドルはわずかに軟化。DXYは0.05%下落。",
-          "affected_sectors": [
-            "為替市場",
-            "輸出入"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、イランが停戦案拒否し原油価格高騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 07:00",
     "data": {
       "breaking_news": [
@@ -12935,6 +12856,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化によるエネルギー価格高騰が米国の3月インフレを急上昇させた。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン間の直接交渉開始、中東情勢の緊張緩和に期待",
+          "country": "米国, イラン, イスラエル, レバノン",
+          "category": "地政学, 株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランがパキスタンで直接交渉を開始予定、イスラエルとレバノンも来週協議を控える。これにより中東情勢の緊張緩和への期待が高まり、市場に買い安心感が広がっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国市場は地政学リスクと経済指標で混合反応、テクノロジー株は堅調",
+          "country": "米国",
+          "category": "株式市場, 経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "NYダウとS&P500は小幅安、ナスダック総合は小幅高で取引を終えた。ミシガン大学消費者マインド指数が予想を下回り、スタグフレーション懸念も一部で浮上。半導体など情報技術セクターはAI需要を背景に上昇を維持した。",
+          "affected_sectors": [
+            "情報技術",
+            "生活必需品",
+            "ヘルスケア",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、中国半導体産業への規制強化を推進するMATCH法を検討",
+          "country": "米国, 中国",
+          "category": "テクノロジー, 貿易政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国議員らが中国の半導体産業に対する新たな立法措置「MATCH法」を推進中。これは中国の先端チップ製造能力を制限し、既存ツールの保守を困難にする可能性があり、関連セクターに大きな影響を与えると予想される。",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州の一部空港でジェット燃料不足の懸念、燃料価格高騰の兆候",
+          "country": "英国, アイルランド, 欧州",
+          "category": "エネルギー, 物流",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧州の空港で3週間以内にジェット燃料不足に直面する可能性があり、アイルランドでは燃料抗議活動で軍が動員された。英国は特に脆弱とされ、原油価格の動向が注視されている。",
+          "affected_sectors": [
+            "航空",
+            "物流",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価は反発、中東停戦期待と半導体株が牽引",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "東京株式市場では日経平均株価が反発し、一時1カ月ぶりに5万7000円台を回復。米国とイランの停戦協議進展への期待や、半導体関連株の上昇が相場を押し上げた。",
+          "affected_sectors": [
+            "半導体",
+            "テクノロジー",
+            "輸出関連"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国・イラン間の直接交渉開始、中東情勢の緊張緩和に期待が高まる。"
     }
   }
 ]
