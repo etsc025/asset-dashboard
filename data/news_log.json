@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ大統領のイラン最後通告期限迫る、地政学的緊張が世界的に高まる",
-          "country": "Global (US, Iran, Middle East)",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領のイランへの最後通告期限が迫り、ホルムズ海峡封鎖の懸念から地政学的緊張が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Global Stock Markets",
-            "Defense",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東の地政学的リスクを受け世界の原油価格が急騰",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張激化とホルムズ海峡封鎖の懸念から、世界の原油価格が大幅に上昇。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン情勢の緊迫化で世界的な株式市場が下落、リスク回避ムード高まる",
-          "country": "Global (US, Europe, Asia)",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン情勢の緊迫化を背景に、米国、欧州、アジア市場で株価が下落しリスク回避の動き強まる。",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology",
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "サムスン電子、AIチップ需要好調で第1四半期利益が8倍に急増",
-          "country": "South Korea",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "サムスン電子の第1四半期利益がAIチップ需要の急増で8倍に。半導体市場の堅調さを示す。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "トランプ大統領のイラン最後通告が市場の不安と原油高を招く"
-    }
-  },
-  {
     "timestamp": "2026-04-08 01:08",
     "data": {
       "breaking_news": [
@@ -12395,6 +12329,67 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化と原油高騰が世界経済に重圧"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平交渉進展でドル指数下落、市場は地政学リスクを注視",
+          "country": "USA",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の和平交渉進展期待でドル指数が99を下回る。中東情勢の動向が引き続き焦点に。",
+          "affected_sectors": [
+            "Forex",
+            "Energy",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月CPIが0.9%上昇、年間3.3%に加速。FRBの利下げ期待後退",
+          "country": "USA",
+          "category": "Inflation, Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月CPIがエネルギー価格主導で大幅上昇し、年率3.3%。FRBの利下げ観測を後退させる。",
+          "affected_sectors": [
+            "All Sectors",
+            "Financials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株式市場は終日混迷、S&P500は下落。中東情勢とCPIを消化",
+          "country": "USA",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米株式市場は金曜日に混迷し、S&P500は0.1%下落。中東情勢とCPIデータが影響。",
+          "affected_sectors": [
+            "Equities"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米連邦準備制度理事会、バーク＆ハーバート金融サービス社による申請を承認",
+          "country": "USA",
+          "category": "Banking Regulation",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "米連邦準備制度理事会がバーク＆ハーバート金融サービス社の申請を承認。",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン和平交渉と米CPI高騰が焦点。市場は原油・金融政策に注目。"
     }
   }
 ]
