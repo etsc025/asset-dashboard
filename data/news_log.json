@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン情勢緊迫化、原油価格110ドル超えで世界市場に警戒感",
-          "country": "グローバル",
-          "category": "地政学、エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランに対する期限設定が迫り、原油価格が1バレル110ドルを超え、世界市場に緊張が走る。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏、ビジネス活動の成長が過去最低水準に鈍化",
-          "country": "ユーロ圏",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏のビジネス活動成長率が過去最低を記録。経済の減速が明確になり、景気後退への懸念が高まる。",
-          "affected_sectors": [
-            "全般",
-            "金融",
-            "産業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "サムスン電子、AIチップ需要急増で8倍の利益見込み",
-          "country": "韓国",
-          "category": "企業業績、テクノロジー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "サムスン電子がAIチップの強い需要により、四半期利益が8倍に急増すると発表。テクノロジー株に好影響。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "エレクトロニクス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ゴールド価格、イラン情勢とインフレ懸念で3日連続下落",
-          "country": "グローバル",
-          "category": "コモディティ、地政学、マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランへの期限設定と高まるインフレ懸念を受け、金価格は3営業日連続で下落した。",
-          "affected_sectors": [
-            "貴金属",
-            "金融",
-            "投資"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化で原油高騰、世界市場にインフレ懸念が広がる。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 18:30",
     "data": {
       "breaking_news": [
@@ -12746,6 +12679,96 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "AIによるSpotifyでの不正音楽ストリーム増加、業界に影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州エネルギー市場が取引時間拡大でボラティリティ急増",
+          "country": "欧州",
+          "category": "エネルギー市場",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "欧州のガス・電力市場は取引時間を10時間から21時間に拡大し、ボラティリティが急増する見込み。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン停戦で原油価格が急落、ダウが世界的に急伸",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦合意を受け、原油価格が95ドルを下回り急落し、ダウ平均が1,100ドル超上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "コモディティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXが1.75兆ドルの評価額でIPOを申請",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SpaceXが1.75兆ドルの評価額で新規株式公開（IPO）を申請。",
+          "affected_sectors": [
+            "テクノロジー",
+            "宇宙産業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Nike株が9%急落、業績見通しが期待外れ",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Nike株が業績見通しの不振で9%急落し、回復時期が疑問視されている。",
+          "affected_sectors": [
+            "消費財",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "CoreWeave株がMetaとの210億ドル契約で急騰",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "CoreWeave株がMetaとの210億ドルの契約を受けて急騰。",
+          "affected_sectors": [
+            "テクノロジー",
+            "クラウドコンピューティング"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の3月実質平均時給が0.6%減少",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の3月の実質平均時給は0.6%減少。",
+          "affected_sectors": [
+            "労働市場",
+            "消費",
+            "小売"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦後の市場ラリーと欧州エネルギー市場の変動に注目。"
     }
   }
 ]
