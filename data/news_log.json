@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US-Iran Tensions Escalate Ahead of Trump's Strait of Hormuz Deadline; Ceasefire Talks Ongoing",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領がホルムズ海峡再開期限を設定し軍事行動を警告。停戦協議は続くもイランは即時停戦を拒否。原油価格は高止まりし、市場のボラティリティが増大。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping/Logistics",
-            "Global Markets",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Economy Adds 178,000 Jobs in March; Unemployment Rate Dips to 4.3%",
-          "country": "United States",
-          "category": "Economics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の米雇用者数は予想を大幅に上回る17.8万人増加し、失業率は4.3%に低下。1年以上の最高水準で、医療・建設・運輸が牽引。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Q1 2026 Sees Record Spike in Global M&A Megadeals",
-          "country": "Global",
-          "category": "Corporate Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "2026年第1四半期のグローバルM&Aメガディール（100億ドル以上）は22件と過去最高を記録。しかし、マクロ経済の不確実性から最近の取引プロセスは鈍化。",
-          "affected_sectors": [
-            "Investment Banking",
-            "Private Equity",
-            "Various Industries"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Stanley Black & Decker Sells Consolidated Aerospace Manufacturing for $1.8 Billion",
-          "country": "United States",
-          "category": "Corporate News",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Stanley Black & DeckerはConsolidated Aerospace Manufacturing事業をHowmet Aerospaceに約18億ドルで売却完了。負債削減とコア事業への集中を目指す。",
-          "affected_sectors": [
-            "Industrials",
-            "Aerospace"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oracle Appoints Hilary Maxson as New CFO Amidst Cloud and AI Demand Surge",
-          "country": "United States",
-          "category": "Corporate News",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oracleは、クラウドインフラとAI需要の急増期にHilary Maxsonを新CFOに任命。",
-          "affected_sectors": [
-            "Technology",
-            "Cloud Computing",
-            "AI"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争激化懸念で原油価格高騰、市場は地政学的リスクを警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 06:30",
     "data": {
       "breaking_news": [
@@ -12947,6 +12870,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢と米インフレが市場に重し、AIサイバーリスクも浮上、警戒を。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "RBIがNBFC規制刷新に着手",
+          "country": "インド",
+          "category": "規制, 金融",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "インド準備銀行がノンバンク金融会社（NBFC）の規制見直しに着手。金融セクターに大きな影響を与える可能性。",
+          "affected_sectors": [
+            "金融サービス",
+            "ノンバンク金融会社"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英航空、夏季のインド路線を増便",
+          "country": "英国, インド",
+          "category": "航空, 観光",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国航空が夏季にインドへのサービスを拡大し、ベンガルールとロンドン間のフライトを週14便に増やす。観光と経済交流を促進。",
+          "affected_sectors": [
+            "航空",
+            "観光",
+            "ホスピタリティ"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド、重要鉱物バリューチェーン構築が最終段階に",
+          "country": "インド",
+          "category": "産業政策, 鉱業",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "インドが重要鉱物の加工バリューチェーンを構築する最終段階にあり、国内産業の強化と自給自足を目指す戦略的動き。",
+          "affected_sectors": [
+            "鉱業",
+            "製造業",
+            "EV",
+            "エレクトロニクス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "市場のボラティリティとプライベートクレジット問題",
+          "country": "グローバル",
+          "category": "金融市場, 信用",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "市場の不安定さとプライベートクレジット部門の問題が指摘されており、投資家はリスク管理の見直しが必要な状況。",
+          "affected_sectors": [
+            "金融サービス",
+            "投資ファンド",
+            "プライベートエクイティ"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化によるエネルギー価格高騰が米国の3月インフレを急上昇させた。"
     }
   }
 ]
