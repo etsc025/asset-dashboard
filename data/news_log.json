@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、中東戦争による世界経済の成長鈍化とインフレ高進を警告",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事が中東戦争により世界経済は成長鈍化と高インフレに向かうと警告。原油供給の混乱が主因。",
-          "affected_sectors": [
-            "Global Economy",
-            "Energy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東紛争とホルムズ海峡封鎖が原油価格を押し上げ、市場に不透明感",
-          "country": "Middle East",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランによるホルムズ海峡封鎖が世界のエネルギー供給を混乱させ原油価格高騰。米国の停戦交渉期限も迫る。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Global Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東戦争による世界経済の成長鈍化とインフレ高進リスク増大。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 15:00",
     "data": {
       "breaking_news": [
@@ -12821,6 +12783,43 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢とインフレ懸念が市場を圧迫、エネルギー市場の動向に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉進展期待で世界株が上昇、原油は乱高下",
+          "country": "GLOBAL",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦交渉進展への期待から、世界の株式市場が上昇。ホルムズ海峡閉鎖継続で原油は高止まり、不安定な動き。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月CPI、エネルギー高騰で3.3%に上昇 - 2024年5月以来の高水準",
+          "country": "US",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月消費者物価指数はイラン紛争起因のエネルギー高騰で年率3.3%に上昇。FRBの利下げ期待に影を落とす。",
+          "affected_sectors": [
+            "All Sectors",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン交渉とインフレ動向が市場の主要テーマ。"
     }
   }
 ]
