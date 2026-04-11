@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油価格高騰で米国株が下落",
-          "country": "米国",
-          "category": "地政学、市場動向、商品市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランへの脅威とホルムズ海峡問題により原油価格が110ドルを超え、ウォール街と欧州市場は下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会（FRB）高官、インフレとガス価格上昇で利上げの可能性を示唆",
-          "country": "米国",
-          "category": "金融政策、インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "FRB高官が、インフレと高騰するガス価格を理由に利上げの可能性を示唆し、金融政策の転換を示唆。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学的緊張の高まりを受け、米国株先物が下落",
-          "country": "米国",
-          "category": "地政学、市場動向",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊迫化とトランプ大統領のイランへの脅威がリスクセンチメントを悪化させ、米国株先物が下落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "新興市場における「ホットマネー」の増加がリスクを高めるとIMFが警告",
-          "country": "グローバル",
-          "category": "世界経済、リスク評価",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFは、新興市場での「ホットマネー」流入が世界的な金融ショックへの脆弱性を高め、経済安定にリスクをもたらすと警告した。",
-          "affected_sectors": [
-            "新興国株式",
-            "新興国債券",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Pembina Pipeline Corporationが好調な事業見通しを発表",
-          "country": "カナダ",
-          "category": "企業ニュース、エネルギー",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Pembina Pipeline Corporationは、戦略的な実行を再確認し、2030年までの年間EBITDA成長率5-7%を予測する好調な事業アップデートを発表した。",
-          "affected_sectors": [
-            "エネルギーインフラ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と米利上げ懸念で市場はリスクオフ"
-    }
-  },
-  {
     "timestamp": "2026-04-08 02:00",
     "data": {
       "breaking_news": [
@@ -12367,6 +12290,43 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢と米インフレに注目、市場のボラティリティ高まる恐れ"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平交渉と中東情勢の緊張が続く中、世界市場は警戒",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン和平交渉は不透明。欧州株は上昇したが、イスラエルによるレバノン攻撃で中東情勢緊迫化、市場に警戒感残る。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国雇用統計は堅調も中身は複雑、インフレ懸念が浮上",
+          "country": "United States",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "最新の米雇用統計は予想を上回る雇用増を示すも、家計調査は弱含み、平均時給の伸びも鈍化。インフレ懸念を残す。",
+          "affected_sectors": [
+            "全セクター",
+            "金利敏感セクター"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン交渉の不確実性と米国雇用統計の複雑性が市場の焦点。"
     }
   }
 ]
