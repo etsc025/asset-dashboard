@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 01:08",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランのハルグ島を攻撃。地政学リスクで世界株下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランのハルグ島を攻撃したとの報道を受け、世界の株式市場は下落。地政学的緊張が高まりリスク回避の動き強まる。",
-          "affected_sectors": [
-            "Energy",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン、米国との交渉停止。中東情勢の緊迫化で市場に懸念",
-          "country": "Iran, US",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランが米国との交渉を停止し、裏チャネル外交を打ち切り。中東情勢の緊迫化が市場に更なるリスクオフをもたらす。",
-          "affected_sectors": [
-            "Energy",
-            "Global Markets",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドNifty、イラン情勢悪化でギャップダウン開始予測",
-          "country": "India",
-          "category": "Market Movement",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "トランプ大統領のイランに対する威嚇を受け、インドのNifty市場はギャップダウンで取引を開始する見込み。リスク回避が鮮明。",
-          "affected_sectors": [
-            "All sectors on Indian stock market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英Senior PLC、ブラックストーン・ティニカム連合による買収に合意",
-          "country": "UK",
-          "category": "Corporate M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英Senior PLCがブラックストーンとティニカムのコンソーシアムによる買収提案に合意。株主には好材料となる。",
-          "affected_sectors": [
-            "Aerospace",
-            "Defense",
-            "Engineering"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "88 Energyが新規3D地震探査データセット確保、探査活動を強化へ",
-          "country": "Global",
-          "category": "Corporate News",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "88 Energyが新たな3D地震探査データセットへのアクセスを確保。今後の石油・ガス探査活動に活用し、事業強化を目指す。",
-          "affected_sectors": [
-            "Oil & Gas Exploration"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国によるイランのハルグ島攻撃の報道が市場に重くのしかかる。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 01:30",
     "data": {
       "breaking_news": [
@@ -12390,6 +12315,58 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン和平交渉と米CPI高騰が焦点。市場は原油・金融政策に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-12 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、ホルムズ海峡懸念で原油価格高止まり",
+          "country": "中東",
+          "category": "地政学・エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米・イラン間の停戦合意が不安定化し、ホルムズ海峡の閉鎖懸念が原油価格を押し上げている。市場の不確実性が増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月消費者物価指数、エネルギー高騰で予想上回る上昇",
+          "country": "米国",
+          "category": "経済指標・インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国の3月CPIはエネルギー価格高騰を主因に年率3.3%まで上昇。利上げ長期化観測が再燃し、市場に警戒感。",
+          "affected_sectors": [
+            "金融",
+            "小売",
+            "不動産",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Meta、AIインフラに巨額投資 新AIモデル「Muse Spark」発表",
+          "country": "米国",
+          "category": "テクノロジー・企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "MetaがAIインフラに210億ドルを追加投資し、新AIモデルを発表。AI開発競争激化で関連銘柄に注目。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "ソフトウェア"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢と米インフレに注目、市場のボラティリティ高まる恐れ"
     }
   }
 ]
