@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "JPMorgan CEO Dimon: Iran war could reignite inflation, keep Fed rates higher",
-          "country": "米国",
-          "category": "金融政策, 地政学, インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "JPMorgan CEOジェイミー・ダイモン氏は、イラン戦争が米国のインフレを再燃させ、FRBの金利を長期的に高く維持させる可能性を警告しました。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争の先行き不透明感で原油価格が上昇、世界のエネルギー供給に影響",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ブレント原油は、イラン戦争を巡る複合的なシグナルを受けて1バレル110ドルを超え、世界のエネルギー供給に混乱をもたらしています。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場はイラン戦争の動向を注視しつつ小幅高で推移",
-          "country": "米国",
-          "category": "株式市場, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米株式市場は、イラン戦争の動向、特にイランのエネルギーインフラへの潜在的な攻撃を注視しながら、慎重ながらも上昇しました。",
-          "affected_sectors": [
-            "全株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争によるインフレ再燃懸念と金利高止まりリスクが最重要。"
-    }
-  },
-  {
     "timestamp": "2026-04-07 10:00",
     "data": {
       "breaking_news": [
@@ -12953,6 +12904,82 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イラン停戦後の市場の複雑な動向と経済的影響に注意"
+    }
+  },
+  {
+    "timestamp": "2026-04-11 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "インド市場規制当局、RRP Semicon株価操作で39社を排除",
+          "country": "インド",
+          "category": "規制",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "SEBIは、RRP Semiconの株価を不当に吊り上げたとして、39の事業体を市場から排除する措置を取った。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドのマイクロファイナンス機関向けに「セーフガード」の継続を勧告",
+          "country": "インド",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インドの主要なマイクロファイナンス団体であるSa-Dhanは、財政的に脆弱な層への融資基準の維持を強調。",
+          "affected_sectors": [
+            "金融",
+            "マイクロファイナンス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "SEBI、代替投資ファンド（AIF）への幅広い規制を明確化",
+          "country": "インド",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インドの市場規制当局SEBIは、AIFの各スキームが最低20の投資家を含み、単一投資家が25%を超えないよう指示。",
+          "affected_sectors": [
+            "金融",
+            "資産運用"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPMorgan、テスラ株60%急落の可能性を警告 - 在庫急増で",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "JPMorganは、テスラの未販売車両在庫が記録的な水準に達しており、株価が年末までに60%下落する可能性があると指摘。",
+          "affected_sectors": [
+            "自動車",
+            "テクノロジー",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月CPIレポート詳細分析: インフレは見た目よりも悪い",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月のCPIレポートが発表され、インフレ状況が懸念よりも悪化している可能性が分析で示唆された。",
+          "affected_sectors": [
+            "全セクター",
+            "消費者裁量"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "インド規制当局が株価操作で39社排除。テスラ株急落の警告、米3月CPIのインフレ懸念増大。"
     }
   }
 ]
