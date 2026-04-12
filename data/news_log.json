@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の停戦に合意、ホルムズ海峡再開",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、イランはホルムズ海峡を再開。中東の緊張緩和で市場に好影響。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Forex",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "停戦合意を受けアジア株が急騰、原油価格は大幅下落",
-          "country": "Asia",
-          "category": "Market Reaction",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦合意により、アジア株式市場は大きく上昇。WTI原油先物は15%超急落し、ドルも下落。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Automotive",
-            "Financial Services",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "BlackRock、Nasdaq-100連動ETFを申請、Invescoと競合へ",
-          "country": "US",
-          "category": "Financial Services",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "BlackRockがNasdaq-100に連動するETFをSECに申請。Invescoの既存商品との競争激化が予想される。",
-          "affected_sectors": [
-            "Financial Services",
-            "Asset Management",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国シティ企業、30年ぶりの業績好転を報告",
-          "country": "UK",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国シティの企業が過去30年で最速の業績回復を報告。英国経済への信頼感を示す。",
-          "affected_sectors": [
-            "Financial Services",
-            "UK Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦合意で中東緊張緩和、市場はリスクオン。原油急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 12:30",
     "data": {
       "breaking_news": [
@@ -12344,6 +12277,74 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国・イラン和平交渉決裂、市場にボラティリティと経済コストの警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米海軍、ホルムズ海峡封鎖へ。米イラン交渉決裂後",
+          "country": "GLOBAL",
+          "category": "Geopolitics, Energy, Trade",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン平和交渉決裂を受け、米海軍がホルムズ海峡を封鎖する見込み。タンカーがUターンしており、原油供給に深刻な影響を与える可能性がある。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Financial Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争で世界経済成長予測を下方修正",
+          "country": "Global",
+          "category": "Economy, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、イラン戦争の影響で世界成長予測を下方修正すると発表。エネルギー価格高騰とインフレが懸念される。",
+          "affected_sectors": [
+            "All sectors",
+            "Energy",
+            "Consumer Goods",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン交渉決裂、週明けのリスク資産に重し",
+          "country": "Global",
+          "category": "Financial Markets, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン平和交渉の決裂を受け、週明けには世界の金融市場でリスク資産が下落する可能性が高いと報じられた。",
+          "affected_sectors": [
+            "Equities",
+            "Commodities",
+            "Forex"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英財務大臣、イラン戦争による経済的影響を警告",
+          "country": "United Kingdom",
+          "category": "Economy, Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英財務大臣が、イランでの戦争が英国の家計と企業にコストをもたらすと警告。エネルギー価格やサプライチェーンへの懸念。",
+          "affected_sectors": [
+            "All sectors",
+            "Energy",
+            "Consumer",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米海軍がホルムズ海峡封鎖へ。原油価格高騰、市場警戒。"
     }
   }
 ]
