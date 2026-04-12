@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡情勢緊迫化、原油・金高騰で市場に不確実性",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡周辺の緊張がエスカレートし、原油価格は2022年の最高値を更新。金価格も上昇し、市場の不確実性が高まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Precious Metals",
-            "Shipping",
-            "Aviation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株はまちまち、S&P500は上昇もダウは下落、交渉期限迫る",
-          "country": "United States",
-          "category": "Market Trends",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国株式市場は混調、S&P500とナスダックは小幅上昇もダウは下落。交渉期限の延長報道で一部回復した。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、イノベーター・キャピタル買収完了",
-          "country": "United States",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ゴールドマン・サックスがイノベーター・キャピタルを買収完了。ETF資産を900億ドルに拡大し、運用事業を強化した。",
-          "affected_sectors": [
-            "Financial Services",
-            "Asset Management"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMFが2026年4月の世界経済見通しを公表、成長予測を上方修正",
-          "country": "Global",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "IMFが2026年の世界成長率を3.3%に上方修正。技術投資や財政支援が貿易政策の逆風を相殺すると予測。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "RealClearMarkets/TIPP経済楽観指数が大幅下落、中東情勢が重荷",
-          "country": "United States",
-          "category": "Economic Sentiment",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "4月の米経済楽観指数が2024年6月以来の低水準に。中東紛争とガソリン価格上昇が消費者心理を悪化させた。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Retail",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡情勢緊迫化、原油・金高騰で市場に不確実性。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 10:00",
     "data": {
       "breaking_news": [
@@ -12264,6 +12189,100 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン協議決裂で世界市場はリスクオフへ転換、ボラティリティ増大"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "エジプト財務相、20以上の新規PPPプロジェクト発表",
+          "country": "エジプト",
+          "category": "経済政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "エジプト財務相が20以上の新規公共民間パートナーシップ(PPP)プロジェクトを発表し、投資流入と経済成長を促進する方針。",
+          "affected_sectors": [
+            "インフラ",
+            "建設",
+            "金融",
+            "公共部門"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF専務理事、AIの労働市場への影響と世界経済成長下方修正について警告",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事がAIによる労働市場の混乱と、地政学的な紛争による世界経済成長予測の下方修正を示唆。",
+          "affected_sectors": [
+            "テクノロジー",
+            "労働市場",
+            "全産業",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン協議決裂、停戦の行方不透明に",
+          "country": "米国/イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平協議が決裂し、2週間の停戦が危うい状況に。紛争再燃の可能性があり市場に懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "海運",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ベナン大統領選、財務相が有力候補",
+          "country": "ベナン",
+          "category": "政治",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ベナンで大統領選挙が実施され、現財務相が有力視。過去の経済成長実績が評価されている。",
+          "affected_sectors": [
+            "新興市場株式",
+            "アフリカ地域投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "GSK、卵巣がん・子宮がん治療薬の初期試験で有望な結果",
+          "country": "英国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "GSKが卵巣がんおよび子宮がん治療薬の初期臨床試験で有望な結果を発表、製薬業界に好影響。",
+          "affected_sectors": [
+            "製薬",
+            "ヘルスケア",
+            "バイオテクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン紛争後の燃料価格高騰で欧州のEV需要が急増",
+          "country": "欧州",
+          "category": "エネルギー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン紛争後の燃料価格上昇を受け、欧州で電気自動車(EV)への関心が急上昇し、関連市場が活況を呈する。",
+          "affected_sectors": [
+            "自動車(EVメーカー)",
+            "再生可能エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン協議決裂で地政学的緊張が高まり、原油市場に影響。"
     }
   }
 ]
