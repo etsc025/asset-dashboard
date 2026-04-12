@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランとの停戦交渉期限迫る",
-          "country": "米国, イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領がイランとの停戦交渉期限を設定し、合意なき場合は軍事行動を示唆。市場は緊張、原油価格は高騰中。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "金融市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国小売売上高が堅調、ポンドを押し上げ",
-          "country": "英国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国の堅調な小売売上高報告が発表され、消費者心理の回復を示唆。英ポンドに対するセンチメントを押し上げている。",
-          "affected_sectors": [
-            "小売",
-            "消費財",
-            "外国為替"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Tradeweb、3月の取引量が過去最高を記録",
-          "country": "グローバル",
-          "category": "金融市場インフラ",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "電子取引プラットフォームTradewebが2026年3月に総取引量87兆ドルの新記録を達成。金利とクレジット市場のボラティリティが主因。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国とイランの緊張激化で市場警戒、原油価格高騰中。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 08:30",
     "data": {
       "breaking_news": [
@@ -12193,6 +12143,75 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの協議決裂、地政学的緊張高まり原油価格急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、ホルムズ海峡封鎖を指示、イランとの交渉決裂",
+          "country": "USA",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランとの和平交渉決裂後、ホルムズ海峡の即時封鎖を指示。原油供給に重大な影響の恐れが市場に波及中。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖指示で原油価格が急騰",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国によるホルムズ海峡封鎖命令を受け、世界の原油価格が急騰。インフレ圧力増大の懸念が強まる。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国インフレ、エネルギー高で上昇し消費者信頼感は急落",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ封鎖によるエネルギー価格高騰を受け、米国の3月インフレが上昇。消費者信頼感が大幅に低下した。",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Discretionary",
+            "Financials",
+            "Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ハンガリー総選挙、本日実施 – EUに影響の可能性",
+          "country": "Hungary",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ハンガリーで本日、重要な総選挙が実施されている。結果次第でEU内の政治経済に影響が及ぶ可能性。",
+          "affected_sectors": [
+            "European Equities",
+            "Government Bonds",
+            "EU Politics"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン交渉決裂、ホルムズ封鎖指示で原油急騰・市場警戒"
     }
   }
 ]
