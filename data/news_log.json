@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ニューヨーク外為市場で円は159円台後半で推移",
-          "country": "日本、グローバル",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ニューヨーク外為市場で、円は対ドルで159円台後半で推移。中東情勢の緊迫化が引き続き影響している模様。",
-          "affected_sectors": [
-            "FX",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融市場でリスク警戒感が再燃",
-          "country": "グローバル",
-          "category": "市場センチメント",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金融市場でリスク警戒感が再び高まっている。中東情勢の不確実性が主な要因で、投資家は慎重姿勢。",
-          "affected_sectors": [
-            "全セクター",
-            "株式",
-            "コモディティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Mawson Infrastructureの株価が取締役会和解合意で急騰",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Mawson Infrastructure社の株価が、取締役会との和解合意を受けて急騰。投資家のポジティブな反応を誘う。",
-          "affected_sectors": [
-            "テクノロジー",
-            "インフラ"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ACイミューン株がリリーとの提携契約改訂で急騰",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "ACイミューン社の株価が、イーライリリーとのアルツハイマー病に関する提携契約改訂を受け急騰した。",
-          "affected_sectors": [
-            "バイオテクノロジー",
-            "製薬"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oracle株がデータセンター計画報道で小幅上昇",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Oracle社の株価が、大規模データセンター計画に関する報道を受けて小幅に上昇。テクノロジーセクターへの影響。",
-          "affected_sectors": [
-            "テクノロジー",
-            "クラウドコンピューティング"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "カナダ政府、新築住宅のGST削減へ全州と協議",
-          "country": "カナダ",
-          "category": "政府政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "カナダ政府が新築住宅のGST（物品サービス税）削減について全州と協議中。住宅市場を刺激する狙いがある。",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "小売"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、米イラン停戦期限が迫り市場は警戒継続。原油価格は高止まり。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 08:00",
     "data": {
       "breaking_news": [
@@ -12202,6 +12113,86 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの交渉が決裂し、海上封鎖命令と市場の変動へ。インフレも急上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの協議決裂、市場に変動と原油価格懸念",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイラン間の停戦が脆弱で協議が決裂、地政学的リスクが高まり、原油価格を押し上げている。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル市場",
+            "航空",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイランの紛争不確実性により原油価格が上昇",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの協議決裂後、中東の地政学的緊張が高まり、原油価格が上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の消費者信頼感が過去最低を記録",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ミシガン大学消費者信頼感指数が4月初旬に過去最低水準に急落、イラン紛争が影響。",
+          "affected_sectors": [
+            "小売",
+            "一般消費財",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "GSKが卵巣がんおよび子宮がん治療薬の有望な初期試験結果を発表",
+          "country": "英国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "GSKは卵巣がんおよび子宮がん治療薬の初期試験で良好な結果を報告し、製薬業界の見通しを改善。",
+          "affected_sectors": [
+            "製薬",
+            "バイオテクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン紛争後の燃料価格高騰で欧州のEV関心急増",
+          "country": "欧州",
+          "category": "産業トレンド",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン紛争後の燃料価格急騰により、欧州での電気自動車への関心が急増している。",
+          "affected_sectors": [
+            "自動車",
+            "再生可能エネルギー",
+            "公益事業"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国とイランの協議決裂、地政学的緊張高まり原油価格急騰。"
     }
   }
 ]
