@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランへの脅威を2週間停止し、緊張緩和の兆し",
-          "country": "US/Iran",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国大統領がイランへの軍事行動の脅威を2週間停止。中東地域の緊張緩和に繋がるか注目され、市場は一時安堵。",
-          "affected_sectors": [
-            "Energy",
-            "Global Markets",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢の緊迫化で原油価格が高騰、1バレル115ドルに迫る",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊迫化を受け、原油価格は1バレル115ドル近くまで上昇を継続。エネルギー市場のボラティリティが増し、企業活動への影響懸念。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の経済信頼感が約2年ぶり低水準、消費動向に懸念",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の経済信頼感指数が2026年4月に約2年ぶりの低水準に下落し、消費動向への懸念高まる。中東情勢とガソリン価格上昇が主要因。",
-          "affected_sectors": [
-            "Consumer Discretionary",
-            "Retail",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "Trumpの一時的なイラン脅威停止で市場は一時安堵も、中東情勢と原油価格は依然注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 09:30",
     "data": {
       "breaking_news": [
@@ -12253,6 +12201,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖命令で原油急騰懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "英国財務大臣、イラン紛争による経済的コストを警告",
+          "country": "United Kingdom",
+          "category": "Geopolitics, Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "英国財務大臣レイチェル・リーブス氏、イラン紛争が英国家計と企業に多大なコストをもたらすと警告。",
+          "affected_sectors": [
+            "Consumer",
+            "Industrial"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米イラン和平交渉決裂、英首相が打開を要請",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平交渉が決裂し、英国首相が両国に解決策を見出すよう要請。地政学的緊張が継続。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equity Markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米イラン協議決裂で世界市場がボラティリティに備える",
+          "country": "Global",
+          "category": "Market Sentiment, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン協議の決裂を受け、世界市場がボラティリティの増大に備える。リスク回避の動きが加速中。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Cryptocurrency",
+            "Commodities"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "イラン紛争後の燃料高騰で欧州EV需要が急増",
+          "country": "Europe",
+          "category": "Energy, Automotive",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン紛争後の燃料価格高騰を受け、欧州で電気自動車への関心が高まり、需要が急増している。",
+          "affected_sectors": [
+            "Automotive (EVs)",
+            "Renewable Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン協議決裂で世界市場はリスクオフへ転換、ボラティリティ増大"
     }
   }
 ]
