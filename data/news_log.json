@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均大幅上昇、2月実質賃金と経常黒字が好調",
-          "country": "日本",
-          "category": "経済指標, 株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "2月の実質賃金が2ヶ月連続プラスとなり、経常黒字も3.9兆円超。これを受け日経平均株価は大幅に上昇し、市場心理を押し上げている。",
-          "affected_sectors": [
-            "株式市場全般",
-            "消費関連",
-            "輸出関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、イランへの軍事攻撃2週間停止を発表",
-          "country": "米国",
-          "category": "地政学, 原油市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ氏がパキスタンの仲介でイランへの軍事攻撃を2週間停止すると発表。中東情勢の緊張緩和期待が市場に広がり、リスク回避姿勢が後退する可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "グローバル株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和でリスクオンムード、日経平均大幅高。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 11:00",
     "data": {
       "breaking_news": [
@@ -12260,6 +12222,72 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "原油価格下落で市場が上昇も、米イラン交渉決裂で成長懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン和平交渉決裂、トランプ大統領がホルムズ海峡封鎖を指示",
+          "country": "米国, イラン, グローバル",
+          "category": "地政学, 貿易",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平交渉が物別れに終わり、トランプ大統領は報復としてホルムズ海峡の封鎖を指示した模様。原油供給懸念が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "株式市場全般",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争による世界経済への恒久的な悪影響を警告",
+          "country": "グローバル",
+          "category": "経済予測, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事は、イラン戦争が世界経済に恒久的な傷跡を残すと警告し、IMFが世界経済成長予測を下方修正する意向を示した。",
+          "affected_sectors": [
+            "経済全般",
+            "投資",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧州エネルギー市場のボラティリティ急増、取引時間を大幅拡大",
+          "country": "欧州",
+          "category": "エネルギー市場, 市場規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢を受けた欧州のガス・電力市場でボラティリティが急増し、取引時間が従来の10時間から21時間へと大幅に延長される。",
+          "affected_sectors": [
+            "エネルギー",
+            "ユーティリティ",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英中央銀行、中東紛争による高インフレリスクを指摘し金利を据え置き",
+          "country": "英国",
+          "category": "金融政策, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イングランド銀行は政策金利を据え置いたが、中東紛争がエネルギー価格を押し上げ、短期的により高いインフレを引き起こすと警告。",
+          "affected_sectors": [
+            "金融",
+            "消費財",
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米・イラン和平交渉決裂、ホルムズ海峡封鎖の脅威が高まり市場はリスクオフに。"
     }
   }
 ]
