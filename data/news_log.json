@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン暫定停戦で原油急落、世界株高",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イランの暫定停戦合意で、原油価格が急落し、欧米・アジア市場で株価が急騰。ホルムズ海峡再開へ。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英金融Close Brothers、自動車ローン費用吸収で株価急騰",
-          "country": "UK",
-          "category": "Financial, Corporate News",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英Close Brothersは自動車ローン補償費用を吸収可能と発表、株価が急騰。金融セクターに注目。",
-          "affected_sectors": [
-            "Financials",
-            "Automotive Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国住宅価格3月下落、中東情勢の不確実性影響",
-          "country": "UK",
-          "category": "Real Estate, Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の英国住宅価格は下落。中東情勢の不確実性が英国経済と不動産市場に影響を与えている可能性を示唆。",
-          "affected_sectors": [
-            "Real Estate",
-            "Construction"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "印ルピー対ドル上昇、RBI金利据え置きと米イラン停戦で",
-          "country": "India",
-          "category": "Forex, Monetary Policy, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦とインド準備銀行の政策金利据え置きを受け、インド・ルピーが対ドルで大幅に上昇した。",
-          "affected_sectors": [
-            "Forex",
-            "Indian Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "サウジ石油パイプラインにドローン攻撃、停戦下も緊張継続",
-          "country": "Saudi Arabia, Middle East",
-          "category": "Geopolitics, Energy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "暫定停戦中にもかかわらず、サウジアラビアの主要石油パイプラインがドローン攻撃を受け、地域緊張継続。",
-          "affected_sectors": [
-            "Energy",
-            "Geopolitics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦合意で原油急落、世界株高。地政学リスク後退。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 23:30",
     "data": {
       "breaking_news": [
@@ -12545,6 +12470,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの交渉決裂で原油高・株安、市場はリスク回避へ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢悪化で欧州株が下落、米イラン協議決裂と海上封鎖の可能性",
+          "country": "欧州",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン交渉の決裂を受け、ホルムズ海峡周辺での海上封鎖決定により欧州株式市場が下落しました。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン停戦協議決裂、パキスタン株式市場が暴落",
+          "country": "パキスタン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦協議が決裂し、パキスタンのKSE 100指数が約6,000ポイント急落しました。",
+          "affected_sectors": [
+            "金融",
+            "全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン協議決裂と封鎖命令で原油価格が1バレル100ドル超に高騰",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン協議の決裂と海上封鎖の命令を受け、原油価格が1バレル100ドルを突破しました。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン交渉決裂と海上封鎖の可能性で日本株が下落",
+          "country": "日本",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米イラン間の交渉決裂と海上封鎖の兆候を受け、日本株が安値で取引を終えました。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "7年ぶりにイラン産原油がインドに到着、タンカーが主要港に接岸",
+          "country": "インド",
+          "category": "エネルギー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "1か月の免除措置により、イラン産原油が7年ぶりにインドの主要港に到着しました。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "貿易"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン協議決裂、市場暴落、原油価格100ドル超。"
     }
   }
 ]
