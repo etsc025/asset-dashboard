@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の停戦に合意、原油価格が急落しアジア株が急騰",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦合意により原油価格が急落し、アジア市場で株価が大幅に上昇。地政学リスクが一時的に緩和された。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行が金融政策声明を発表、政策金利は据え置き見込み",
-          "country": "インド",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド準備銀行が2026年度最初の金融政策声明を発表。西アジア情勢によるインフレ懸念から政策金利は5.25%で据え置きが予想されている。",
-          "affected_sectors": [
-            "インド金融",
-            "インド株式",
-            "金利敏感セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦で原油急落・アジア株高、地政学リスク緩和。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 15:00",
     "data": {
       "breaking_news": [
@@ -12260,6 +12221,60 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖で原油急騰とインフレ懸念。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、ホルムズ海峡の海上封鎖を発表、和平交渉決裂後",
+          "country": "Global",
+          "category": "地政学/エネルギー/貿易",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国トランプ大統領は、イランとの和平交渉決裂後、ホルムズ海峡の海上封鎖を発表。これは緊張を高め、世界のエネルギー供給を混乱させる見込みです。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運/物流",
+            "国際貿易",
+            "金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖と米イラン交渉決裂で原油価格が急騰",
+          "country": "Global",
+          "category": "コモディティ/エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国のホルムズ海峡海上封鎖発表と米イラン和平交渉決裂を受け、世界の原油価格が急騰。エネルギー供給の混乱が懸念されます。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争によるエネルギーコスト高騰で世界のインフレ懸念が拡大",
+          "country": "Global",
+          "category": "経済/インフレ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン紛争とホルムズ海峡からのエネルギー供給混乱による原油価格急騰を受け、世界のインフレ圧力が再加速しています。",
+          "affected_sectors": [
+            "全セクター",
+            "一般消費財",
+            "製造業",
+            "中央銀行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争激化、ホルムズ海峡封鎖で原油とインフレ懸念増大。"
     }
   }
 ]
