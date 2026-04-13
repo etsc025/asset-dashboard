@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イランが2週間の停戦に合意、原油価格が急落しグローバル株式市場が急騰",
-          "country": "Global",
-          "category": "地政学, エネルギー, 市場変動",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、原油価格が急落。欧州、アジア市場の株価が急騰し、リスクオンムードに。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "レイ・ダリオ氏、市場は「世界大戦」リスクを過小評価していると警告",
-          "country": "Global",
-          "category": "地政学, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "レイ・ダリオ氏が、市場が長期化する世界紛争リスクを過小評価していると警鐘。広範囲な影響を予測。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の住宅価格が3月に下落、中東紛争の不確実性が影響",
-          "country": "UK",
-          "category": "不動産, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の住宅価格が3月に下落。中東紛争の不確実性が影響し、不動産市場への懸念が高まっている。",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "銀行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦で株価高騰・原油急落。地政学リスク継続に注意。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 22:30",
     "data": {
       "breaking_news": [
@@ -12476,6 +12426,72 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化で原油価格急騰、世界株安。インフレ懸念増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、ホルムズ海峡への脅威増大",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国・イスラエルとイラン間の軍事行動やホルムズ海峡封鎖の脅威により、地政学的リスクが大幅に上昇。市場は不安定化しています。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界原油価格が急騰、供給懸念が背景",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化とホルムズ海峡封鎖の懸念から、原油価格は1バレル100ドルを突破しました。インフレ圧力が高まっています。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学リスク懸念でアジア・インド株式市場が下落",
+          "country": "Asia",
+          "category": "Equity Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国とイランの交渉決裂を受け、アジアおよびインドの主要株式市場は下落。投資家心理は冷え込んでいます。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "高騰するエネルギー価格が世界的なインフレ懸念を増幅",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での紛争がエネルギー価格を押し上げ、ガソリン価格の上昇とインフレ懸念を引き起こし、中央銀行の金融政策を複雑化させています。",
+          "affected_sectors": [
+            "All sectors",
+            "Central Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化により原油価格急騰、世界市場にリスクオフ圧力。"
     }
   }
 ]
