@@ -2,12 +2,19 @@
   "alert": false,
   "level": "NORMAL",
   "reasons": [],
-  "timestamp": "2026-04-12 22:10",
+  "timestamp": "2026-04-13 22:10",
   "vix": {
-    "vix_current": 19.23,
-    "vix_change": -1.33,
-    "level": "NORMAL",
-    "message": "VIX=19.2 (-1.3%) 正常範囲"
+    "vix_current": 20.98,
+    "vix_change": 9.1,
+    "level": "MEDIUM",
+    "message": "VIX=21.0 (+9.1%) やや不安定・慎重にエントリー"
   },
-  "futures": null
+  "futures": {
+    "es_change": 0.0,
+    "nq_change": 0.0,
+    "spy_price": 679.46,
+    "es_price": 6823.25,
+    "level": "NORMAL",
+    "message": "先物正常: ES=+0.0% NQ=+0.0%"
+  }
 }
