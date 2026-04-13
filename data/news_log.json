@@ -1,60 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の条件付き停戦に合意、原油価格は急落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、原油価格が急落。金融市場はリスクオンの動きを示しています。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global Equities",
-            "Commodity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の中央銀行、地政学的緊張を金融システムへの最重要リスクと認識",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "最新の調査によると、世界の中央銀行は地政学的緊張を金融システムへの最重要リスクと見なしています。",
-          "affected_sectors": [
-            "Financial Services",
-            "Gold",
-            "Currency Markets",
-            "Sovereign Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行、FY25/26のGDP成長見通しを上方修正もインフレに警戒",
-          "country": "India",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド準備銀行は2025-26年度のGDP成長率予測を上方修正しましたが、インフレ動向には引き続き慎重な姿勢を示しています。",
-          "affected_sectors": [
-            "Indian Equities",
-            "Banking",
-            "Infrastructure",
-            "Rate-sensitive sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦合意で原油急落、市場はリスクオン。中銀は地政学リスクを注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 20:00",
     "data": {
       "breaking_news": [
@@ -12419,6 +12364,88 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国のホルムズ海峡封鎖で地政学リスク急上昇、市場警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ氏、和平交渉決裂後にイランへの海上封鎖を発表",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領は和平交渉決裂後、イランとホルムズ海峡への海上封鎖を発表し、地域緊張が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "海上封鎖と交渉決裂を受け原油価格が急騰",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン和平交渉の決裂と海上封鎖発表により原油価格が急騰、インフレ懸念が強まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費者向け商品"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国財務大臣、イラン戦争による英経済へのコストを警告",
+          "country": "英国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "英国財務大臣は、イラン戦争が英国家計と企業に「コストをもたらす」と警告した。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "消費裁量品",
+            "工業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン停戦にもかかわらずホルムズ海峡の船舶輸送が停止",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦後もホルムズ海峡での船舶輸送が停止し、貿易とエネルギー供給に影響。",
+          "affected_sectors": [
+            "海運",
+            "エネルギー",
+            "製造業",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、EUとの関係再構築の一環として単一市場規則を議会投票なしで採用か",
+          "country": "英国",
+          "category": "政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国がEU単一市場規則を議会投票なしで採用する可能性があり、英EU関係再構築の一環となる。",
+          "affected_sectors": [
+            "英国企業",
+            "EU企業",
+            "貿易関連産業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争激化、海上封鎖と原油急騰で世界市場に警戒感。"
     }
   }
 ]
