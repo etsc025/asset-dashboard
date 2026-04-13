@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の停戦に合意、原油価格急落で世界市場が急騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランがパキスタン仲介で2週間の停戦に合意。これにより原油価格が急落し、ホルムズ海峡再開への期待から世界各国の株式市場が急騰、ビットコインや金も上昇した。",
-          "affected_sectors": [
-            "Energy",
-            "Financial Services",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の住宅価格が3月に下落、中東紛争の不確実性が影響",
-          "country": "UK",
-          "category": "Real Estate",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の英国住宅価格は、中東紛争の不確実な影響を受けて下落傾向を示した。これは市場の冷え込みを示唆している。",
-          "affected_sectors": [
-            "Real Estate",
-            "Construction",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米伊停戦合意で原油価格が大幅下落、世界株式市場が急騰し投資家のリスクオン心理が加速。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 21:30",
     "data": {
       "breaking_news": [
@@ -12410,6 +12373,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖脅威で原油高と世界株安。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平交渉決裂、原油価格急騰で世界市場に衝撃",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン和平交渉決裂、米によるイラン港湾封鎖で原油急騰。世界的なエネルギー危機とインフレ懸念再燃。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、イラン紛争による経済的影響を警告",
+          "country": "United Kingdom",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国財務大臣、イラン紛争が家計と企業にコストをもたらすと警告。首相は平和的解決を呼びかけ。",
+          "affected_sectors": [
+            "All Sectors (UK)",
+            "Energy",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン協議決裂で豪州株下落、金株は大幅安",
+          "country": "Australia",
+          "category": "Equity Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米イラン和平協議決裂と港湾封鎖で豪州株下落。金関連株が特に打撃を受け、市場はリスクオフ。",
+          "affected_sectors": [
+            "Mining (Gold)",
+            "Financials",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AnthropicのAI新モデル「Mythos」、インドIT株に新たな脅威",
+          "country": "India",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "AnthropicのAI新モデル「Mythos」がインドITサービス企業に競争圧力を与え、株価に影響。",
+          "affected_sectors": [
+            "Technology (IT Services)",
+            "Software Development"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "デリーのEV政策、電動二輪車登録を促進し関連株が急騰",
+          "country": "India",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "デリーのEV政策が電動二輪車登録を促進し、EV株が上昇。伝統的メーカーは下落。",
+          "affected_sectors": [
+            "Automotive (EV)",
+            "Automotive (Traditional)"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン和平交渉決裂、原油高騰で市場はリスクオフ。"
     }
   }
 ]
