@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意で世界株式市場急騰、原油価格急落",
-          "country": "Global",
-          "category": "Geopolitics, Market Movement",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、世界中の株式市場が大幅に上昇。原油価格は急落した。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Technology",
-            "Aviation",
-            "Travel",
-            "Industrials",
-            "Cyclical Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド市場は強い回復を予想、FII売りが上値を抑制か",
-          "country": "India",
-          "category": "Market Outlook, Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "強い国内要因とグローバルな追い風により市場は強い開場が予想されるが、FIIの継続的な売りが上値を制限する可能性。",
-          "affected_sectors": [
-            "Banking",
-            "Cyclical Stocks",
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "TCS、ルーピー安で9四半期ぶりの最高収益成長見込み",
-          "country": "India",
-          "category": "Corporate Earnings, Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "タタ・コンサルタンシー・サービシズがルーピー安に牽引され、3月期四半期で9四半期ぶりの最高収益成長を達成する見込み。",
-          "affected_sectors": [
-            "IT Sector"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦で世界株急騰、原油急落、市場はリスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 10:30",
     "data": {
       "breaking_news": [
@@ -12958,6 +12905,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国-イラン交渉決裂、ホルムズ海峡封鎖脅威で原油高・株安。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、ホルムズ海峡封鎖を計画、イランとの協議決裂で原油価格高騰",
+          "country": "GLOBAL",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランとの協議決裂を受けホルムズ海峡の封鎖を計画。これにより原油価格が急騰し、世界市場に混乱をもたらしている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ゴールドマン・サックス、Q1決算で取引収入が予想下回り株価下落",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ゴールドマン・サックスの第1四半期決算で、トレーディング部門の収益が予想を下回り、株価が4%下落した。",
+          "affected_sectors": [
+            "Financials",
+            "Investment Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、イラン情勢への期待と懸念で方向感定まらず",
+          "country": "USA",
+          "category": "Market Movement",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株はイランとの協議再開への期待と、ホルムズ海峡封鎖への懸念が交錯し、方向感に乏しい展開。",
+          "affected_sectors": [
+            "Technology",
+            "Energy",
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドのインフレ率、2026年3月に1年ぶりの高水準に上昇",
+          "country": "India",
+          "category": "Economic Data",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インドの2026年3月の年間インフレ率が3.4%に上昇し、1年ぶりの高水準となったが、市場予想は下回った。",
+          "affected_sectors": [
+            "Consumer Goods",
+            "Retail",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン情勢緊迫化、ホルムズ海峡封鎖で原油急騰。市場に警戒感。"
     }
   }
 ]
