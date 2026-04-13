@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン一時停戦合意で株価急騰、原油急落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、ホルムズ海峡再開期待から原油価格が急落。世界各地の株式市場が大幅に上昇した。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イランの停戦違反主張で米国株上げ幅縮小",
-          "country": "US",
-          "category": "Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イランが米国による停戦合意違反を主張。米国株式市場は初期の急騰から上げ幅を縮小し、市場に警戒感が広がる。",
-          "affected_sectors": [
-            "Global Equities",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツ2月製造業新規受注、予想を下回る伸び",
-          "country": "Germany",
-          "category": "Economic Data",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ドイツの2月製造業新規受注は前月比0.9%増に留まり、市場予想を下回った。製造業部門の回復鈍化を示唆。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Automotive"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦合意後の市場は警戒継続。合意の脆弱性に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 07:00",
     "data": {
       "breaking_news": [
@@ -12760,6 +12710,58 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "直近1時間で市場に大きな影響を与える金融ニュースはなし"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ大統領、ホルムズ海峡の海上封鎖を発効。米イラン協議は不調。",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領が13日10時（米国東部時間）にホルムズ海峡の封鎖を発効。米イラン和平交渉は不調に終わり、中東情勢の緊迫が深刻化。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖懸念で原油価格急騰、一時105ドル台に",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国のホルムズ海峡封鎖発効宣言を受け、中東産原油の供給不安が高まり、ニューヨーク原油先物相場が一時105ドル台に急伸。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化で日本株がトリプル安、日経平均は反落",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国のホルムズ海峡封鎖宣言と米イラン協議の不調を受け、13日の日本市場では株・債券・為替のトリプル安が発生し日経平均が反落。",
+          "affected_sectors": [
+            "株式市場全般",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン緊張激化、ホルムズ海峡封鎖で原油急騰。株式売られる。"
     }
   }
 ]
