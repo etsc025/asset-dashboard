@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦合意、市場に安心感広がる",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが暫定的な停戦に合意。原油価格は下落し、世界の株式市場で買いが優勢となり、リスクオンムードが広がっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落、世界株価は上昇",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦合意を受け、原油価格が急落。これを受けて世界の株式市場では買いが優勢となり、主要指数が上昇している。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドVIX指数が21%低下、イラン停戦で市場ボラティリティ緩和",
-          "country": "India",
-          "category": "Financial Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦合意を受け、インドのVIX指数が21%低下した。中東情勢の緊張緩和により市場のボラティリティが和らいだ。",
-          "affected_sectors": [
-            "インド株式市場",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド準備銀行、成長に楽観もインフレと為替変動に警戒",
-          "country": "India",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド準備銀行は経済成長に楽観的な見方を示す一方、インフレと為替変動リスクに対しては引き続き警戒姿勢を維持している。",
-          "affected_sectors": [
-            "インド経済",
-            "銀行",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IntelがMuskのTerafab AIチッププロジェクトに参加",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "IntelはElon Musk主導のTerafab AIチップ複合プロジェクトにSpaceX、Teslaと共同で参加。AI分野の協力が加速する見込み。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "AI"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米・イラン停戦合意で原油急落、世界株高。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 19:30",
     "data": {
       "breaking_news": [
@@ -12400,6 +12322,103 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン情勢緊迫化、ホルムズ海峡封鎖で原油高騰、株価下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランとの交渉決裂後にホルムズ海峡の封鎖を発表",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランとの和平交渉決裂後、ホルムズ海峡封鎖を発表し、原油価格が急騰、株価下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "航空",
+            "製造",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領のホルムズ海峡封鎖発表を受けダウ先物500ポイント下落",
+          "country": "米国",
+          "category": "金融市場, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ大統領のホルムズ海峡封鎖発表を受け、ダウ先物が500ポイント下落。",
+          "affected_sectors": [
+            "グローバル株式",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国のホルムズ海峡封鎖を控え原油価格が8%上昇し100ドル突破",
+          "country": "グローバル",
+          "category": "エネルギー, コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国のホルムズ海峡封鎖を控え、原油価格が8%上昇し100ドルを突破。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造",
+            "化学"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン戦争によるエネルギーコスト上昇で3月のインフレが急騰",
+          "country": "米国",
+          "category": "マクロ経済, インフレ, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争によるエネルギーコスト上昇で3月のインフレが急騰。",
+          "affected_sectors": [
+            "小売",
+            "生活必需品",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ハンガリー総選挙でオルバン首相が敗北、EU政治情勢に影響の可能性",
+          "country": "ハンガリー, EU",
+          "category": "地政学, 政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ハンガリー総選挙でオルバン首相が敗北、EUの政治情勢に影響を与える可能性。",
+          "affected_sectors": [
+            "欧州株式",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米軍がイラン港封鎖を発表、ホルムズ海峡の船舶交通停止示唆",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー, 輸送",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米軍がイラン港封鎖を発表、ホルムズ海峡の船舶交通停止示唆。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "国際貿易",
+            "製造"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国のホルムズ海峡封鎖で地政学リスク急上昇、市場警戒。"
     }
   }
 ]
