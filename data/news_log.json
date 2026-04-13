@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意でアジア株式市場が急伸",
-          "country": "インド, 台湾, 中国, 香港",
-          "category": "地政学, 市場変動",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の停戦合意を受け、インド、台湾、中国、香港などのアジア株式市場が軒並み続伸・急伸。地政学リスク後退で投資家心理が改善した。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコイン、2週間停戦で7.2万ドル反発",
-          "country": "グローバル",
-          "category": "暗号資産, 市場変動",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東情勢の一時緩和（2週間停戦）を受け、ビットコインが7.2万ドルに反発。6万ドルが短期的な底値となる可能性が示唆された。",
-          "affected_sectors": [
-            "暗号資産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米2月個人消費0.5%増加速、コアPCEは0.4%上昇予測",
-          "country": "米国",
-          "category": "経済指標, インフレ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "2月の米個人消費は0.5%増に加速し、コアPCEは0.4%上昇と予測された。FRBの金融政策決定に影響を与える可能性。",
-          "affected_sectors": [
-            "金利敏感セクター",
-            "債券市場",
-            "株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦合意でアジア市場急伸、ビットコイン反発"
-    }
-  },
-  {
     "timestamp": "2026-04-08 17:00",
     "data": {
       "breaking_news": [
@@ -12346,6 +12298,46 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン協議決裂で原油価格急騰、世界経済に懸念。日銀は政策据え置き。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの和平交渉決裂、ホルムズ海峡封鎖で原油価格急騰",
+          "country": "米国, イラン, 世界",
+          "category": "地政学, コモディティ, 金融",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平交渉が決裂、ホルムズ海峡の封鎖が発表され、世界的に原油価格が急騰。株式市場は下落し、リスクオフの動きが加速中。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "株式市場",
+            "為替"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国のインフレ率、エネルギー価格高騰で2026年3月に3.3%へ上昇",
+          "country": "米国",
+          "category": "経済指標, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "2026年3月の米国のインフレ率はエネルギー価格の高騰により3.3%へ上昇。市場は金融引き締め懸念を強めており、今後のFRBの動向に注目。",
+          "affected_sectors": [
+            "全セクター",
+            "消費者裁量品",
+            "エネルギー",
+            "債券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米・イラン交渉決裂、ホルムズ海峡封鎖で原油急騰、市場はリスクオフ。"
     }
   }
 ]
