@@ -1,30 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦合意で原油価格が急落、世界的に株価が大幅上昇",
-          "country": "Global",
-          "category": "Geopolitical, Commodities, Market Movement",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米とイランの停戦合意により、原油価格が急落し、世界的に株式市場が大幅に上昇。インフレ懸念が緩和され、金利引き下げ期待が高まっている。",
-          "affected_sectors": [
-            "Energy",
-            "Stock Market",
-            "Airlines",
-            "Technology",
-            "Shipping"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米・イラン停戦合意、原油急落・株価上昇、市場はリスクオン"
-    }
-  },
-  {
     "timestamp": "2026-04-09 10:00",
     "data": {
       "breaking_news": [
@@ -12945,6 +12920,44 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国によるホルムズ海峡封鎖宣言を受け、中東情勢と原油市場の動向に最大限の注意が必要。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの交渉決裂、ホルムズ海峡封鎖の脅威で原油価格が急騰",
+          "country": "米国、イラン（国際）",
+          "category": "地政学、エネルギー、マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平交渉が決裂し、米国がホルムズ海峡の封鎖を検討。原油価格は急騰し、世界市場は下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運・物流",
+            "航空",
+            "製造業",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖懸念で米欧株下落、市場は不確実性に反応",
+          "country": "グローバル（米国、欧州）",
+          "category": "市場反応、マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡封鎖の脅威により、米国および欧州の株式市場が下落。投資家は中東情勢の悪化を懸念している。",
+          "affected_sectors": [
+            "全株式市場",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国-イラン交渉決裂、ホルムズ海峡封鎖脅威で原油高・株安。"
     }
   }
 ]
