@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦の脆弱性で原油価格が再上昇、アジア市場に警戒感広がる",
-          "country": "Global",
-          "category": "Geopolitics, Commodities, Stock Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦合意の持続性に対する疑念が強まり、原油価格が再び上昇。これを受け、アジアの株式市場ではリスク回避の動きが拡大し、投資家は慎重な姿勢を示している。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Automotive",
-            "Global Equities",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン停戦報道で世界市場が一時活況、しかしその後の見通しに不確実性",
-          "country": "Global",
-          "category": "Geopolitics, Stock Market, Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン間の2週間の暫定停戦合意が報じられ、世界の株式市場は急騰し原油価格は大幅に下落した。しかし、合意の履行と中東情勢の安定性には不確実性が残る。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Transportation",
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦の不確実性で原油価格が再上昇、市場はリスクオフへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 12:00",
     "data": {
       "breaking_news": [
@@ -12995,6 +12953,58 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "ホルムズ海峡封鎖開始、米株乱高下、中東情勢緊迫化。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、ホルムズ海峡封鎖警告。原油価格急騰で世界市場に緊張",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がホルムズ海峡封鎖を示唆。原油価格が急騰し、供給不安から世界経済への悪影響が懸念され市場は緊張。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "製造業",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン和平交渉決裂。地政学的リスクの高まりで市場が動揺",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの交渉が決裂し、中東情勢の緊張が激化。世界の株式市場は下落、地政学的リスクが市場センチメントを悪化させている。",
+          "affected_sectors": [
+            "株式市場",
+            "金融",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均、中東情勢緊迫化と原油高で大幅下落",
+          "country": "Japan",
+          "category": "Equity Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢緊迫化と原油価格急騰を受け、日経平均株価が大幅下落。国内経済へのインフレ圧力も高まり、警戒感広がる。",
+          "affected_sectors": [
+            "株式市場",
+            "自動車",
+            "輸出関連"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化、ホルムズ封鎖警告で原油急騰、世界市場はリスク回避へ"
     }
   }
 ]
