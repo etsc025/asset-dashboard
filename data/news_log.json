@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "停戦後の静けさ、インド株市場で割安株物色広がる",
-          "country": "インド",
-          "category": "市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米・イラン停戦後、インド市場では地政学的リスクで売られた航空、旅行、石油関連などの割安株に買いが入っている。",
-          "affected_sectors": [
-            "航空",
-            "旅行",
-            "エネルギー",
-            "金融",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "市場はホルムズ海峡通過にまだ慎重、不確実性残る",
-          "country": "グローバル",
-          "category": "市場分析",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米・イラン停戦で市場は慎重な楽観ムードだが、ホルムズ海峡の長期的影響や国内経済の懸念が残る。",
-          "affected_sectors": [
-            "全般",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "TCS、ルピー安を追い風に9四半期ぶりの高収益を予測",
-          "country": "インド",
-          "category": "企業決算",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "タタ・コンサルタンシー・サービスは、ルピー安を背景に3月期の四半期収益が過去9四半期で最高成長を見込む。",
-          "affected_sectors": [
-            "IT",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米・イラン停戦後の市場は割安株に注目、一方で不確実性も残る"
-    }
-  },
-  {
     "timestamp": "2026-04-09 11:00",
     "data": {
       "breaking_news": [
@@ -12970,6 +12919,82 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化、ホルムズ海峡封鎖で原油急騰。市場に警戒感。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国がホルムズ海峡封鎖を開始、地政学リスク高まる",
+          "country": "米国",
+          "category": "地政学、エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がホルムズ海峡の封鎖を開始し、原油価格は高値から反落。中東情勢の緊迫化が続く。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月中古住宅販売、予想を下回りドル買い後退",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の3月中古住宅販売件数が予想を下回る-3.6%を記録。住宅市場の軟化が示され、ドルは売られた。",
+          "affected_sectors": [
+            "不動産",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均、中東情勢警戒で421円安で引け",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日経平均株価は、中東情勢の緊迫化への警戒感から前週末比421円安で取引を終了した。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "暗号資産取引所クラーケン、顧客データ漏洩脅迫に直面",
+          "country": "米国",
+          "category": "サイバーセキュリティ、暗号資産",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "暗号資産取引所クラーケンが犯罪者から顧客情報漏洩を脅迫されているとの報道。",
+          "affected_sectors": [
+            "暗号資産",
+            "テクノロジー",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株、イラン情勢解決期待で上昇、原油は100ドル割れ",
+          "country": "米国",
+          "category": "株式市場、地政学",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米S&P・ナスダックはイラン情勢解決への期待から上昇。一方で原油は100ドルを下回った。",
+          "affected_sectors": [
+            "株式市場全般",
+            "エネルギー",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "ホルムズ海峡封鎖開始、米株乱高下、中東情勢緊迫化。"
     }
   }
 ]
