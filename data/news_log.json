@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦の不安定性で原油価格が再び上昇、市場は警戒",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦の脆弱性が露呈し、中東情勢の不確実性から原油価格が再び上昇。アジア市場は警戒感を強め、地政学リスクが再燃している。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の2月貿易赤字が拡大、輸出よりも輸入が増加",
-          "country": "USA",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米商務省発表によると、2月の米国の貿易赤字は前月の547億ドルから573億ドルに拡大した。これは輸出よりも輸入の増加が原因である。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail",
-            "Export-oriented industries"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "1月米個人所得が0.4%増、個人消費も0.4%増で堅調",
-          "country": "USA",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米商務省の推計によると、1月の個人所得は0.4%増加し、可処分所得は0.9%増加。個人消費支出も0.4%増となり、堅調な消費者活動を示している。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦の不安定性で市場は警戒、原油価格が再上昇"
-    }
-  },
-  {
     "timestamp": "2026-04-09 13:00",
     "data": {
       "breaking_news": [
@@ -13038,6 +12986,93 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン協議決裂、原油高騰で世界市場に警戒感。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イラン港湾封鎖開始、イランも対抗措置示唆し地政学リスク増大",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイラン港湾を封鎖、イランも湾岸諸国港湾封鎖で対抗を示唆。世界の石油供給と貿易に深刻な影響懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "物流",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、地政学リスク下でも堅調に推移、テクノロジー株が主導",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン紛争の懸念にも関わらず米国株は上昇し、特にテクノロジー株が市場を牽引。一部で紛争前の水準に回復。",
+          "affected_sectors": [
+            "株式市場全般",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ゴールドマン・サックス、好決算もFICC部門不振で株価に売り圧力",
+          "country": "米国",
+          "category": "企業決算, 金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ゴールドマン・サックスは四半期利益が予想を上回るも、債券・通貨・商品取引部門の収益減で株価下落。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EKF Diagnostics、スウェーデンのBeep Insights技術を買収し事業強化",
+          "country": "英国, スウェーデン",
+          "category": "企業買収, ヘルスケア",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "EKF DiagnosticsがスウェーデンBeep Insightsの技術資産を取得。スポーツパフォーマンス製品を拡充し競争力強化。",
+          "affected_sectors": [
+            "ヘルスケア",
+            "バイオテクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Calnex Solutions、2026年通期で増収増益達成、市場予想上回る",
+          "country": "英国",
+          "category": "企業決算, テクノロジー",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Calnex Solutionsが2026年会計年度の二桁増収と収益性改善を発表。業績は市場予想をわずかに上回る。",
+          "affected_sectors": [
+            "テクノロジー",
+            "通信機器"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "シェブロン、ベネズエラPDVSAとの資産交換でオリノコベルト事業拡大へ",
+          "country": "米国, ベネズエラ",
+          "category": "エネルギー, 企業戦略",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "シェブロンがベネズエラ国営PDVSAと資産交換合意。オリノコベルトでの油田事業拡大で生産増強目指す。",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン衝突激化、米の港湾封鎖とイラン対抗措置示唆。"
     }
   }
 ]
