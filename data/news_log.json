@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の停戦で合意、世界の株式市場が急騰し原油価格が急落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、原油価格が急落。世界の株式市場は大幅上昇し、リスクオンムードが拡大。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Financials",
-            "Technology",
-            "Semiconductors",
-            "Non-ferrous metals"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン停戦合意を受け、12月の米FRB利下げ確率が上昇",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米イラン停戦による原油安でインフレ圧力緩和。12月の米FRB利下げ確率が55%に上昇し、ドルに下落圧力がかかる。",
-          "affected_sectors": [
-            "Financials",
-            "Bond Markets",
-            "Currency Markets"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ベトナム株式市場、2026年9月にFTSEラッセルにより二次新興市場に格上げへ",
-          "country": "Vietnam",
-          "category": "Emerging Markets",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "FTSEラッセルは2026年9月にベトナム株式市場を二次新興市場に格上げ。国際投資の流れを誘致すると期待。",
-          "affected_sectors": [
-            "Emerging Market Equities",
-            "Capital Markets"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "スイスの主要金融機関、スイスフラン建てステーブルコインのサンドボックスを開始",
-          "country": "Switzerland",
-          "category": "Cryptocurrency",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "UBSなどスイスの主要金融機関7社がスイスフラン建てステーブルコインのサンドボックスを開始。デジタル通貨基盤構築へ。",
-          "affected_sectors": [
-            "Fintech",
-            "Banking",
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン2週間停戦合意、株式市場急騰、原油急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 01:00",
     "data": {
       "breaking_news": [
@@ -12576,6 +12509,127 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争激化、原油急騰と世界市場下落を引き起こす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦協議決裂、米国がホルムズ海峡封鎖を検討",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦協議が決裂。米国がホルムズ海峡封鎖を検討しており、中東情勢の緊迫化が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格1バレル100ドル超え、ホルムズ海峡封鎖懸念で急騰",
+          "country": "グローバル",
+          "category": "商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン情勢の緊迫化とホルムズ海峡封鎖の可能性により、原油価格が大幅に上昇し1バレル100ドルを突破。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア株下落、日経平均は大幅安 - 米イラン情勢が重し",
+          "country": "日本, アジア",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン情勢の悪化と原油高への警戒感から、アジアの株式市場は軒並み下落。日経平均株価も大きく値を下げた。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "東京為替市場で円安進行、一時1ドル160円台",
+          "country": "日本",
+          "category": "外国為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン情勢の悪化を受け、東京市場で円安が進行。一時1ドル160円台を記録後、財務省の牽制でやや戻す。",
+          "affected_sectors": [
+            "輸出産業",
+            "輸入産業",
+            "観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド小売インフレ率3.40%に加速、イラン戦争で貿易混乱",
+          "country": "インド",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン戦争による貿易ルートの混乱が原因で、インドの3月小売インフレ率が3.40%に上昇。経済に圧力。",
+          "affected_sectors": [
+            "小売",
+            "消費財",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米財務省がステーブルコイン新規制案発表、仮想通貨市場に影響",
+          "country": "米国",
+          "category": "仮想通貨",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米財務省がステーブルコインに関する新たな規制案を発表。仮想通貨市場の透明性と安定性向上が期待される。",
+          "affected_sectors": [
+            "金融サービス",
+            "フィンテック",
+            "仮想通貨"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IDEAYA Biosciences株27%急騰、良好な治験結果を好感",
+          "country": "米国",
+          "category": "株式市場, バイオテクノロジー",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "IDEAYA Biosciencesが第2/3相試験で良好なトップライン結果を発表し、株価が27%急騰。",
+          "affected_sectors": [
+            "バイオテクノロジー",
+            "医薬品"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ベトナムVN指数が80ポイント急上昇、市場心理緩和",
+          "country": "ベトナム",
+          "category": "株式市場",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "市場心理の緩和を受けて、ベトナムのVN指数が80ポイント近く急上昇し、1カ月ぶりの高値をつけた。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "証券"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン情勢の緊迫化で原油急騰、世界市場は警戒感から下落。"
     }
   }
 ]
