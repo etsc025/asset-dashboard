@@ -1,60 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イランが2週間の停戦に合意、地政学的緊張緩和",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意し、中東の地政学的緊張が緩和。市場の不確実性が減少した。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Global Equities",
-            "Forex"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格急落、ブレント原油が95ドル割れ",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランのホルムズ海峡再開合意で原油価格が急落。ブレント原油は95ドルを割り込み供給懸念が後退。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場が急騰、SensexとNifty大幅高",
-          "country": "India",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦と原油安を受け、インド株式市場が大幅高。Sensexは2600P超、Niftyは750P高を記録。",
-          "affected_sectors": [
-            "Financials",
-            "IT",
-            "Aviation",
-            "Energy (Consumption)"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦で世界市場にリスクオン、原油価格急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-08 14:30",
     "data": {
       "breaking_news": [
@@ -12263,6 +12208,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "US-イラン紛争激化、ホルムズ海峡封鎖発表で原油価格急騰。"
+    }
+  },
+  {
+    "timestamp": "2026-04-13 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランとの和平交渉決裂後、ホルムズ海峡の海上封鎖を発表",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー, 貿易",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの和平交渉が決裂し、トランプ大統領がホルムズ海峡の海上封鎖を発表。地政学的緊張が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運・物流",
+            "製造業",
+            "消費財",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が急騰し、米国でインフレが加速",
+          "country": "米国, グローバル",
+          "category": "エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡封鎖発表と米イラン交渉決裂を受け、原油価格が急騰。米国でインフレが進行し、消費者心理が悪化。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFがイラン紛争による世界経済成長の減速を警告",
+          "country": "グローバル",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF専務理事が、イランを巡る紛争が世界経済の成長を鈍化させると警告。金融市場はリスクオフの動き。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖で原油急騰とインフレ懸念。"
     }
   }
 ]
