@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン停戦で株高・原油安、市場に楽観広がる",
-          "country": "Global",
-          "category": "Geopolitics, Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが2週間の停戦に合意。世界主要株価指数が上昇し、原油価格は急落した。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国・イラン停戦の脆弱性が露呈、原油価格が再び上昇",
-          "country": "Global",
-          "category": "Geopolitics, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の持続性に疑問が生じ、ホルムズ海峡閉鎖状態が続き、原油価格が再度上昇。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドイツ2月輸出が予想上回る3.6%増、経済回復の兆し",
-          "country": "Germany",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ドイツの2月輸出は前月比3.6%増と好調で、製造業セクターにポジティブな影響を与える。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Export"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "スペイン2月工業生産が3ヶ月連続減少、経済懸念が浮上",
-          "country": "Spain",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "スペインの2月工業生産は前年比1.1%減、3ヶ月連続の落ち込みで製造業に逆風。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Industrials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Virgin Media O2が英モバイル網強化へEricssonらと契約",
-          "country": "UK",
-          "category": "Corporate, Technology",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Virgin Media O2は英国のモバイルネットワーク改善のため、EricssonとNokiaと複数年契約を締結した。",
-          "affected_sectors": [
-            "Telecommunications",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン停戦発表でビットコインが急騰、リスク資産に資金",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦合意を受け、ビットコインが3週間ぶりの高値を記録し、暗号資産市場が活況。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦は脆弱、原油・株価変動に警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-09 17:30",
     "data": {
       "breaking_news": [
@@ -12996,6 +12907,74 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "日経平均株価が大幅高、世界市場に回復期待広がる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "金融安定理事会（FSB）、資金調達環境の引き締まりで金融安定への「三重の打撃」を警告",
+          "country": "Global",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "金融安定理事会(FSB)は、資金調達コスト上昇とイラン戦争による経済的ショックが世界金融システムに「三重の打撃」をもたらす恐れがあるとG20に警告。",
+          "affected_sectors": [
+            "金融システム",
+            "銀行",
+            "投資",
+            "ノンバンク金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢の緊張緩和期待で世界市場が上昇、NYダウ続伸・東京株式急伸",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの交渉継続期待から中東情勢の緊張緩和が進み、NYダウが続伸、東京株式市場も急伸。ビットコインも反発。",
+          "affected_sectors": [
+            "株式市場",
+            "暗号資産",
+            "原油市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "OPECの3月原油生産量が27%減、イランによるホルムズ封鎖と石油施設攻撃が影響",
+          "country": "Global",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "3月のOPEC原油生産量が前月比27%減。イランによるホルムズ封鎖や石油施設攻撃が生産量に大きな影響を与え、供給懸念が浮上。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "世界経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、AIが金融システムにもたらすリスクに警告、サイバーセキュリティ懸念強調",
+          "country": "Global",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFは、AIが金融システムに与えるサイバーセキュリティリスクを警告し、国際社会に金融安定確保のための協力を強く求めた。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー",
+            "サイバーセキュリティ",
+            "規制当局"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "FSBが世界金融システムへの三重の打撃を警告。"
     }
   }
 ]
