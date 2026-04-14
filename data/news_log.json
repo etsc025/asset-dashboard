@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦の脆弱性とホルムズ海峡通行料を巡るトランプ米大統領の声明が原油価格を押し上げ",
-          "country": "GLOBAL",
-          "category": "Geopolitical, Commodity",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東での停戦が不安定な中、トランプ大統領のホルムズ海峡通行料に関する発言が原油価格を約1%押し上げた。アジア株は小幅高で慎重な動き。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "CoreWeaveとMetaの210億ドルAI契約、アジア株とテクノロジー株を押し上げ",
-          "country": "GLOBAL",
-          "category": "Technology, Corporate",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "CoreWeaveがMetaにコンピューティング能力を供給する210億ドルの大規模AI契約を締結し、アジア株およびテクノロジー株が上昇した。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductor",
-            "Cloud Computing",
-            "Artificial Intelligence"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国2月PCEインフレは予想通りも個人所得・Q4 GDPが下振れ、国債利回りは上昇",
-          "country": "USA",
-          "category": "Economic Data, Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国2月のPCEインフレは予想と一致したが、個人所得は減少し、第4四半期のGDPは下方修正された。国債利回りが上昇。",
-          "affected_sectors": [
-            "Financial",
-            "Consumer Discretionary",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Glencore、世界的なエネルギー市場の逼迫を受け燃料購入量を50%増加",
-          "country": "GLOBAL",
-          "category": "Commodity, Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Glencoreが年間300万トンの燃料を購入する計画を発表、初期契約から50%増で世界的なエネルギー需要増加を示唆。",
-          "affected_sectors": [
-            "Energy",
-            "Mining",
-            "Utilities"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢の緊迫化とAI関連大型契約が市場を二分、米国経済指標は軟調。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 11:30",
     "data": {
       "breaking_news": [
@@ -13295,6 +13228,103 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン交渉継続と原油安が市場を押し上げ、株式は上昇基調。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン和平交渉期待で株価上昇、原油価格安定",
+          "country": "米国/イラン",
+          "category": "地政学, 市場動向",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉への期待から米国株式は史上最高値に迫り、原油価格は安定化傾向。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争の影響で2026年世界経済成長予測を下方修正",
+          "country": "グローバル",
+          "category": "マクロ経済, 地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFはイラン戦争が世界経済成長を著しく損ない、インフレを加速させると警告し、2026年の予測を下方修正した。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "製造業",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "保険会社が2008年危機前より高いリスクを取っていると報告",
+          "country": "グローバル",
+          "category": "金融安定性",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "報告書によると、保険会社はプライベートクレジット投資において2008年の金融危機前よりも大きなリスクを負っている。",
+          "affected_sectors": [
+            "金融",
+            "保険",
+            "プライベートクレジット"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国のイラン海上封鎖継続、原油価格の変動要因に",
+          "country": "米国/イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国によるイラン港湾封鎖が継続され、和平交渉中にも関わらず原油価格高騰と市場混乱を招いている。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ、燃料物品税を約5か月間停止",
+          "country": "カナダ",
+          "category": "政府政策, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "カナダ政府は、高騰するエネルギー価格の中で消費者の負担を軽減するため、燃料物品税を約5か月間停止する。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "小売",
+            "消費者"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ユーロ圏3月インフレ率が加速、エネルギー価格が主因",
+          "country": "ユーロ圏",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の消費者物価インフレ率は3月に急上昇し、主にエネルギー価格の急激な上昇が原因である。",
+          "affected_sectors": [
+            "エネルギー",
+            "小売",
+            "消費財",
+            "中央銀行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "IMFはイラン戦争が世界経済成長とインフレに高リスクと警告"
     }
   }
 ]
