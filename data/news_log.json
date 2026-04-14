@@ -1,92 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡閉鎖の兆候で原油価格が急騰、中東停戦の不確実性が市場を圧迫",
-          "country": "Global",
-          "category": "Geopolitical, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡閉鎖の動きを見せ、米・イラン停戦の不確実性から原油価格が急騰し、世界市場でリスクオフムードが広がる。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Economy",
-            "Aviation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場、イラン停戦の不確実性で先物下落",
-          "country": "USA",
-          "category": "Market Data, Geopolitical",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦を巡る不確実性が高まり、米国株先物が下落。市場の警戒感が強まっている。",
-          "affected_sectors": [
-            "Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド国債市場、中東情勢の動揺と原油高で下落",
-          "country": "India",
-          "category": "Fixed Income, Geopolitical, Commodities",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "不安定な中東情勢と原油価格の高騰を受け、インド国債が下落。インド準備銀行は金利を据え置き。",
-          "affected_sectors": [
-            "Fixed Income",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、スリランカに7億ドル融資で合意、経済回復を支援",
-          "country": "Sri Lanka",
-          "category": "International Relations, Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "IMFがスリランカ経済の回復を支援するため、7億ドルの融資でスタッフレベル合意に達した。",
-          "affected_sectors": [
-            "Financial Services",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "野村證券、インドのPSU銀行から民間銀行へのシフトを推奨",
-          "country": "India",
-          "category": "Financial Analysis, Banking",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "野村證券はインドの公営銀行から民間銀行への投資シフトを推奨、リスクリワードの改善を理由に挙げる。",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Close Brothers株が急騰、自動車金融補償費用を吸収可能と発表",
-          "country": "UK",
-          "category": "Corporate News, Financial Services",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英金融機関Close Brothersが自動車金融補償の費用を吸収可能と発表し、株価が急騰した。",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イランによるホルムズ海峡閉鎖の兆候、原油急騰と市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-09 16:30",
     "data": {
       "breaking_news": [
@@ -13045,6 +12958,44 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン緊張緩和期待で株価上昇、原油下落。世界経済に楽観。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東地政学的緊張の再燃：ホルムズ海峡封鎖で原油急騰",
+          "country": "GLOBAL",
+          "category": "地政学,エネルギー,マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国によるホルムズ海峡封鎖発表とイラン和平交渉決裂を受け、原油価格が急騰。市場はリスクオフに転換。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "製造業",
+            "世界株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場、アンベードカル生誕記念日で休場",
+          "country": "India",
+          "category": "市場運営",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "インドの主要株式市場（NSE・BSE）は、アンベードカル生誕記念日のため本日（4月14日）休場となる。",
+          "affected_sectors": [
+            "インド株式",
+            "金融サービス"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化で原油価格高騰、世界市場はリスクオフ。"
     }
   }
 ]
