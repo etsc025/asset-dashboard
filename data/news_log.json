@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、イラン戦争が世界経済に永続的な傷跡を残すと警告",
-          "country": "Global",
-          "category": "Geopolitics, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFトップは、たとえ和平が達成されてもイラン戦争が世界経済に回復不能な打撃を与えると警告した。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融安定理事会議長、市場の「二重苦」とプライベートクレジット危機を警告",
-          "country": "Global",
-          "category": "Financial Stability, Regulatory",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金融安定理事会議長は、市場のボラティリティがプライベートクレジット危機を悪化させる「二重苦」を警告。",
-          "affected_sectors": [
-            "金融",
-            "プライベートエクイティ",
-            "不動産",
-            "ヘッジファンド"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI、英国への310億ポンド投資パッケージから撤退",
-          "country": "UK",
-          "category": "Technology, Investment",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "OpenAIが英国への巨額投資計画から撤退。英国のテクノロジーセクターへの信頼感と投資環境に打撃。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソフトウェア",
-            "ベンチャーキャピタル",
-            "英国経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン外務次官、ホルムズ海峡「開放」も機雷で船舶は調整必要と発言",
-          "country": "Iran",
-          "category": "Geopolitics, Energy, Shipping",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン外務次官はホルムズ海峡は開放されているが、機雷により船舶は調整が必要と発言。データは交通停止を示唆。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "世界経済の先行き不透明感が高まり、金融市場に下押し圧力。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 01:00",
     "data": {
       "breaking_news": [
@@ -13096,6 +13029,96 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉期待で原油安、世界市場は上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "HSBC、イラン紛争がビジネス信頼感に打撃と警告",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "HSBCはイラン紛争が世界的なビジネス信頼感を損ない経済的リスクを高めると警告。",
+          "affected_sectors": [
+            "Banking",
+            "Global Economy",
+            "Various Industries"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国Evergrande創設者が詐欺罪を認める",
+          "country": "China",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国Evergrande創設者が詐欺罪を認め、同国の不動産市場に影響。",
+          "affected_sectors": [
+            "Real Estate",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BNPパリバ、原油ショックでインドNifty目標引き下げ",
+          "country": "India",
+          "category": "Market Analysis",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "BNPパリバは原油高騰を受けインドNifty株価目標を引き下げ、財政・収益圧力増大を警告。",
+          "affected_sectors": [
+            "Indian Equities",
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IEA、原油需要がCOVID以来最大の四半期減少を予測",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IEAは原油需要がCOVID以来最大の四半期減少と予測、ロシア輸出急増も影響。",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン和平交渉への期待で銅価格が1ヶ月ぶり高値",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米イラン和平交渉再開への期待感から銅価格が1ヶ月ぶり高値を記録。",
+          "affected_sectors": [
+            "Mining",
+            "Manufacturing",
+            "Construction"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド国営燃料企業、価格据え置きで損失計上",
+          "country": "India",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドの国営燃料企業は、ガソリンとディーゼルの価格据え置きにより、多大な損失を計上。",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Indian Government Finances"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン和平交渉への期待が高まる一方、HSBCは紛争による経済リスクを警告。"
     }
   }
 ]
