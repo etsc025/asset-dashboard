@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "東京株式市場、イラン情勢不透明感で反落",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦合意後のホルムズ海峡再封鎖報道やイスラエル攻撃継続で反落。投資家は情勢見極め中。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が大幅反発、中東停戦交渉の不透明感で",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン停戦合意の不確実性とホルムズ海峡懸念で原油価格は急反発。市場は和平交渉の行方に注目。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル円、158円台後半へ上昇 「有事のドル買い」再燃",
-          "country": "日本",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "東京外国為替市場でドル円は158円台後半へ上昇。イラン情勢の不透明感から「有事のドル買い」優勢。",
-          "affected_sectors": [
-            "輸出関連",
-            "輸入関連",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の不確実性が市場を支配。原油・株価変動に警戒が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 07:30",
     "data": {
       "breaking_news": [
@@ -12983,6 +12932,69 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦協議期待で市場楽観、株高。IMFは紛争長期化の経済リスクを警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン協議再開期待で世界株高・原油安",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の協議再開への期待が高まり、世界的に株価が上昇し原油価格が緩和傾向にある。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Industrials",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Amazon、Globalstarを115億ドルで買収へ",
+          "country": "US",
+          "category": "M&A, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Amazonが衛星サービス事業者Globalstarを115億ドルで買収する合意を発表、宇宙通信分野への進出を強化。",
+          "affected_sectors": [
+            "Technology",
+            "Telecommunications",
+            "Space Industry"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BlackRockが予想上回るQ1決算、株価上昇",
+          "country": "US",
+          "category": "Corporate Earnings, Financials",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "BlackRockが堅調なETF流入と高い運用手数料に支えられ、予想を上回る第1四半期利益を報告した。",
+          "affected_sectors": [
+            "Financials",
+            "Asset Management"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争で世界経済成長予測を下方修正",
+          "country": "Global",
+          "category": "Economic Outlook, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは中東紛争が世界経済の勢いを止めたとし、2026年の世界経済成長予測を3.3%から3.1%に下方修正しインフレ加速を警告。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン協議期待で株高・原油安もIMFは世界成長下方修正、警戒必要。"
     }
   }
 ]
