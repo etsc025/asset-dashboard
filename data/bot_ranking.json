@@ -1,10 +1,10 @@
 {
   "date": "2026-04-14",
-  "timestamp": "2026-04-14T16:15:49.328094",
-  "usdjpy": 159.03,
-  "regime": "NEUTRAL",
-  "regime_desc": "中立相場: 通常運用",
-  "vix": 0,
+  "timestamp": "2026-04-14T16:20:53.435671",
+  "usdjpy": 159.07,
+  "regime": "VOLATILE",
+  "regime_desc": "高ボラ相場: ポジション12〜15%・損切り-2.0%・方向一致のみ",
+  "vix": 19.1200008392334,
   "market_status": "none",
   "ranking": [
     {
@@ -141,25 +141,25 @@
     },
     {
       "bot": "Bot1_ML_AbsChange",
-      "total_return": -0.0052,
+      "total_return": -0.005,
       "mdd": -0.0088,
       "win_rate": 0.4861,
       "sharpe": -1.39,
       "n_trades": 39,
-      "latest_equity": 994838.0,
+      "latest_equity": 994964.0,
       "days": 72,
       "cost_commission": 10802.0,
       "cost_slippage": 1988.0,
       "cost_tax": 972.0,
       "cost_fx_loss": 0,
       "cost_total": 13762.0,
-      "net_profit_jpy": -5162.0,
-      "net_return": -0.0052,
+      "net_profit_jpy": -5036.0,
+      "net_return": -0.005,
       "tune_actions": [],
       "rank": 7,
-      "score": 0.6758,
-      "profit_jpy": -5162.0,
-      "daily_target": 9948.0
+      "score": 0.6803,
+      "profit_jpy": -5036.0,
+      "daily_target": 9950.0
     },
     {
       "bot": "Bot8_NewsTech",
