@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦協議進展、米国株式市場は上昇も原油価格は変動",
-          "country": "グローバル",
-          "category": "地政学, エネルギー市場, 株式市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦合意への期待が市場センチメントを押し上げ、米国株は上昇。しかし、停戦の脆弱性やホルムズ海峡の通行問題への懸念から、ブレント原油価格は上昇分を一部打ち消す変動を見せている。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "金融",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド石油相、ガス供給問題でカタール訪問へ",
-          "country": "インド, カタール",
-          "category": "エネルギー政策, 外交",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの石油相がガス供給の逼迫に対応するため、カタールを訪問する予定。これにより、アジア地域のエネルギー安全保障に関する動向が注目される。",
-          "affected_sectors": [
-            "エネルギー",
-            "産業"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東停戦期待で株式市場は好感、原油価格は変動要因に注意。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 08:30",
     "data": {
       "breaking_news": [
@@ -13035,6 +12998,122 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イランが第2回協議を検討、ホルムズ海峡封鎖継続でエネルギー市場注視"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの協議再開期待で株価上昇、原油価格は下落",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の協議再開への期待が高まり、株式市場は上昇し、世界的な原油価格は緩和している。",
+          "affected_sectors": [
+            "Energy",
+            "Stock Markets",
+            "Aviation",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争の影響で2026年の世界経済成長予測を下方修正",
+          "country": "Global",
+          "category": "Economic Outlook",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは中東紛争の経済的影響を鑑み、2026年の世界経済成長率予測を3.3%から3.1%に下方修正した。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月生産者物価指数、前月比0.5%上昇も予想下回る",
+          "country": "USA",
+          "category": "Economic Data, Inflation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米生産者物価指数は前月比0.5%上昇し予想を下回ったが、エネルギー価格高騰で前年比は4%上昇。",
+          "affected_sectors": [
+            "All sectors",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Amazon、衛星企業Globalstarを115.7億ドルで買収合意",
+          "country": "USA",
+          "category": "Corporate Acquisition, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Amazonが衛星通信サービスを手掛けるGlobalstarを115.7億ドルで買収すると発表、宇宙産業の競争激化。",
+          "affected_sectors": [
+            "Technology",
+            "Satellite Communications",
+            "Telecommunications"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米金融大手決算、BlackRockとCitigroupは好調、Wells Fargoは不調",
+          "country": "USA",
+          "category": "Corporate Earnings, Financial",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BlackRockとCitigroupが予想を上回る決算を発表した一方、Wells Fargoは売上が予想を下回った。",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米中小企業景況感指数、3月に低下し平均を下回る",
+          "country": "USA",
+          "category": "Economic Data, Small Business",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "NFIB米中小企業景況感指数が3月に低下し、52年平均を下回った。不確実性が高まっている。",
+          "affected_sectors": [
+            "Small Business",
+            "Retail",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "カナダ政府、連邦ガソリン税を一時的に停止へ",
+          "country": "Canada",
+          "category": "Government Policy, Energy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "カナダのカーニー政権が連邦ガソリン税の一時停止を発表し、消費者の負担軽減とインフレ抑制を目指す。",
+          "affected_sectors": [
+            "Energy (retail)",
+            "Consumers"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Chemtradeのユニットが下落、北バンクーバーの再ゾーニング申請が却下",
+          "country": "Canada",
+          "category": "Corporate News, Industrials",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Chemtrade Logistics Income Fundのユニットが急落、北バンクーバー工場再ゾーニング申請却下で生産に懸念。",
+          "affected_sectors": [
+            "Chemicals",
+            "Industrials",
+            "Utilities (water treatment)"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン協議期待で株高・原油安、IMFは成長予測下方修正"
     }
   }
 ]
