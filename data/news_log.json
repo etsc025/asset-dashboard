@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格$100超え、米イラン停戦の不確実性で市場警戒",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の脆弱な停戦合意に疑念が生じ、原油価格が1バレル100ドルを突破。供給懸念が高まり、市場はリスクオフに傾斜中。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines",
-            "Global Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "パラマウント、ワーナー・ブラザース買収の融資確約",
-          "country": "US",
-          "category": "M&A, Media",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "パラマウントはワーナー・ブラザース・ディスカバリー買収に向けた資金調達を確保。年内完了を目指す。",
-          "affected_sectors": [
-            "Media",
-            "Entertainment",
-            "Banking",
-            "Telecommunications"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Amazon、AI事業が年間150億ドル超収益を達成",
-          "country": "US",
-          "category": "Technology, Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Amazonのクラウド部門AI事業が年間150億ドル以上の収益を達成し、自社チップ事業も好調。",
-          "affected_sectors": [
-            "Technology",
-            "Cloud Computing",
-            "E-commerce"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アメリカン航空、ベネズエラ便運航再開へ",
-          "country": "US, Venezuela",
-          "category": "Aviation, International Relations",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "アメリカン航空が米運輸省の承認を得て4月30日からマイアミ・カラカス便の運航を再開予定。",
-          "affected_sectors": [
-            "Airlines",
-            "Tourism",
-            "Logistics"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦懸念で原油価格高騰、世界市場はリスクオフに。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 05:00",
     "data": {
       "breaking_news": [
@@ -13048,6 +12980,98 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢緊迫化とIMFの世界経済悪化警告で市場リスクオフ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US・イラン協議への期待が世界株式市場を押し上げ、原油価格は下落",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの紛争緩和への期待感から、世界の株式市場が上昇し、原油価格が下落した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争の余波で2026年の世界経済成長予測を下方修正",
+          "country": "Global",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは中東紛争の影響で2026年の世界成長率予測を3.1%に下方修正し、景気後退の可能性を警告。",
+          "affected_sectors": [
+            "全セクター",
+            "景気敏感セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要米国銀行の四半期決算はまちまち、トレーディング収益が一部を牽引",
+          "country": "United States",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ブラックロックとシティが好調な決算を発表、トレーディング収益が貢献。ウェルズ・ファーゴは金利収入が予想を下回る。",
+          "affected_sectors": [
+            "金融",
+            "投資サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国生産者物価指数、3月は予想を下回る0.5%上昇も、エネルギーが主因",
+          "country": "United States",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米PPIは0.5%上昇と予想を下回ったが、中東情勢によるエネルギーコスト高が財価格を押し上げた。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "消費財",
+            "小売"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国のEVメーカー、BYDがテスラを抜いて世界販売台数トップに",
+          "country": "China",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国のBYDがテスラを抜き世界最大のEV販売企業となり、市場力学の変化を示唆。",
+          "affected_sectors": [
+            "自動車",
+            "テクノロジー",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユナイテッド航空とアメリカン航空の合併観測が浮上",
+          "country": "United States",
+          "category": "企業M&A",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ユナイテッド航空とアメリカン航空の合併憶測が浮上し、反トラスト問題や運賃上昇の懸念を引き起こす。",
+          "affected_sectors": [
+            "航空",
+            "運輸"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン協議の期待が世界市場を押し上げ、原油価格は下落。"
     }
   }
 ]
