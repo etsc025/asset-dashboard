@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦の脆弱性が高まり、新たな敵対行為と紛争が続く",
-          "country": "中東（イスラエル、イラン、レバノン）、グローバル",
-          "category": "地政学、エネルギー、外交",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦合意は不安定化。イスラエルによるレバノン攻撃継続、トランプ氏のイラン批判、ホルムズ海峡封鎖示唆で緊張が高まっている。",
-          "affected_sectors": [
-            "エネルギー（石油・ガス）",
-            "防衛",
-            "海運・物流",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "停戦にもかかわらずホルムズ海峡の通行量が限定的、イランが通行料徴収の疑い",
-          "country": "中東、グローバル",
-          "category": "エネルギー、国際貿易、地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "停戦後もホルムズ海峡の船舶交通は依然限定的。イランが通行料を徴収しているとの報道があり、原油供給不安が継続している。",
-          "affected_sectors": [
-            "エネルギー（石油・ガス）",
-            "海運・物流",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米天然ガス先物、供給過剰で17ヶ月ぶりの安値",
-          "country": "米国",
-          "category": "コモディティ、エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の天然ガス先物価格は、供給過剰と暖冬の影響で17ヶ月ぶりの安値を更新。エネルギー市場に影響を与えている。",
-          "affected_sectors": [
-            "エネルギー（天然ガス）",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AIによる破壊的影響への懸念が続き、ソフトウェアセクターが急落",
-          "country": "グローバル（米国市場中心）",
-          "category": "テクノロジー、市場センチメント",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "AIによる市場破壊への懸念が根強く、ソフトウェアセクターの株価が急落。サイバーセキュリティ関連企業も大きな打撃を受けている。",
-          "affected_sectors": [
-            "ソフトウェア",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東停戦の脆弱性が高まり、ホルムズ海峡の緊張と原油価格変動に警戒が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 10:30",
     "data": {
       "breaking_news": [
@@ -13282,6 +13217,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "IMFが中東紛争による世界的な金融不安定化と景気後退リスクを警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米株市場、中東情勢緩和期待と好調な決算で上昇",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緩和期待と予想を下回るPPI、一部企業の好決算を受け、S&P 500とナスダックは1%超上昇。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "全般株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争による世界金融不安定化のリスクを警告",
+          "country": "グローバル",
+          "category": "経済報告",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは最新報告で、中東紛争が債券市場の変動性、新興市場の資本流出、金融引き締めを招くと警鐘を鳴らした。",
+          "affected_sectors": [
+            "金融",
+            "新興市場",
+            "AI関連投資"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン協議再開期待で原油価格下落、ホルムズ海峡封鎖にも関わらず",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米イラン協議再開への期待感から原油価格が下落。しかし米国のホルムズ海峡封鎖は供給引き締めの動き。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米生産者物価指数（PPI）、予想下回る伸びでインフレ懸念緩和",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の米生産者物価指数は前月比0.5%上昇と予想を下回り、インフレ圧力の緩和を示唆。エネルギー価格は高止まり。",
+          "affected_sectors": [
+            "全般株式市場",
+            "債券市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、中東紛争を理由に2026年世界経済成長予測を下方修正",
+          "country": "グローバル",
+          "category": "経済報告",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFが中東紛争による経済的影響を考慮し、2026年の世界経済成長率予測を3.1%に下方修正し、スタグフレーション懸念も提示。",
+          "affected_sectors": [
+            "全般経済",
+            "投資"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢緩和への期待とIMFの金融安定性警告が交錯。"
     }
   }
 ]
