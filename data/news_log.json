@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦の脆さが市場に現実感を、原油高と株価下落でリスクオフ強まる",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦合意への初期の楽観論が後退し、原油価格が上昇。欧州、米国、アジアの株式市場が下落し、リスクオフムードが強まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "旅行",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米PCE価格指数が予想を上回り、インフレ懸念が再燃",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "2月の米PCE価格指数がヘッドライン・コアともに0.4%上昇し、予想を上回った。これによりインフレ懸念が高まり、FRBのタカ派的な姿勢が続く可能性が示唆された。",
-          "affected_sectors": [
-            "金利敏感セクター",
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株式市場が停戦の脆さと原油価格上昇で後退",
-          "country": "欧州",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の脆さと原油価格の上昇によりインフレ懸念が高まり、ストックス600指数が下落するなど欧州株式市場が後退している。",
-          "affected_sectors": [
-            "広範な欧州市場",
-            "工業",
-            "高級品",
-            "旅行",
-            "銀行",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均株価が50日移動平均線を下回り弱気シグナル点灯",
-          "country": "日本",
-          "category": "市場テクニカル",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本の日経平均株価が50日移動平均線を下回り、弱気なブレイクダウン状態を示している。さらなる下落の可能性を示唆。",
-          "affected_sectors": [
-            "日本株式市場",
-            "グローバルテクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦が脆弱化し、原油高と世界株安が進行中。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 02:30",
     "data": {
       "breaking_news": [
@@ -13116,6 +13048,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン交渉進展期待で原油価格下落、S&P 500先物上昇。主要銀行決算に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国ホルムズ海峡封鎖開始、原油高騰と市場動揺続く",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国によるホルムズ海峡封鎖開始で地政学的緊張が高まり、原油価格は乱高下。米イラン間の和平交渉再開への期待も市場を動かす。経済リスク高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Banking",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英James Cropper、通期利益予測を市場予想より上方修正",
+          "country": "UK",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "材料科学・包装グループのJames Cropperが好調な決算を受けて、通期利益予測を市場予想より10%上方修正したと発表。",
+          "affected_sectors": [
+            "Materials",
+            "Packaging"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Gulf Marine Services、中東紛争で業績見通しを再評価",
+          "country": "UAE",
+          "category": "Corporate Update",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東紛争の影響により、Gulf Marine Servicesは2025年売上高は増加したものの、今後の業績見通しを再評価すると発表した。",
+          "affected_sectors": [
+            "Shipping",
+            "Oil & Gas Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "LVMH株価下落、イラン紛争が売上高に影響と発表",
+          "country": "France",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "高級ブランドグループLVMHの株価が下落。イラン紛争がグループの売上高に少なくとも1%の影響を与えたと発表。",
+          "affected_sectors": [
+            "Luxury Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国NFIB中小企業楽観度指数、3月に大幅下落",
+          "country": "US",
+          "category": "Economic Indicator",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "2026年3月の米NFIB中小企業楽観度指数が95.8に低下し、2025年4月以来の低水準。原油価格高騰が主な要因。",
+          "affected_sectors": [
+            "Small Business",
+            "Retail",
+            "Broader Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争激化、ホルムズ海峡封鎖開始で原油価格高騰と市場の動揺が続く。"
     }
   }
 ]
