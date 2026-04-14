@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Oil price surges back above $100 mark as supply concerns outweigh Iran ceasefire",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の不安定さとホルムズ海峡の安全保障への懸念から、原油価格が100ドルを突破した。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "'Mythos' Disruption: Cloudflare, Palantir Lead Up To 12% Software Rout As Anthropic Shifts AI Stakes",
-          "country": "Global",
-          "category": "Technology, Corporate",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "AnthropicのAIモデル「Mythos」が原因で、CloudflareとPalantirの株価が最大12%下落した。",
-          "affected_sectors": [
-            "Software",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "TCS Q4 net profit rises 12% to ₹13,718 crore, board okays final dividend of ₹31/share",
-          "country": "India",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "タタコンサルタンシーサービスが第4四半期の純利益12%増を報告、1株あたり31ルピーの最終配当を承認した。",
-          "affected_sectors": [
-            "IT Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Reining in medicine prices despite war impact on pharma inputs: Official",
-          "country": "India",
-          "category": "Economic, Healthcare, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドは戦争による医薬品原料への影響で、医薬品価格抑制に課題を抱えている。",
-          "affected_sectors": [
-            "Pharmaceuticals",
-            "Chemicals"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IT industry, Govt. examine cybersecurity implications of Anthropic's Mythos model",
-          "country": "India",
-          "category": "Technology, Cybersecurity",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "インドのIT業界と政府が、AnthropicのMythos AIモデルのサイバーセキュリティへの影響を調査している。",
-          "affected_sectors": [
-            "IT",
-            "Cybersecurity"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦の不安定さが原油価格を押し上げ、市場心理を悪化。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 03:30",
     "data": {
       "breaking_news": [
@@ -13114,6 +13039,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉への期待と主要銀行決算に注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン和平交渉への期待が市場を押し上げ",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の和平交渉進展への期待感から、世界の株式市場で上昇が見られる。原油価格は下落傾向。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Aviation",
+            "Shipping",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡封鎖継続で市場に不確実性",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国によるホルムズ海峡封鎖が継続。市場は和平交渉への期待と地政学リスクの間で揺れている。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Avanos Medicalが買収発表で株価急騰",
+          "country": "US",
+          "category": "Corporate M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Avanos MedicalがAmerican Industrial Partnersによる12.7億ドルの買収発表を受け、株価が67%急騰。",
+          "affected_sectors": [
+            "Healthcare",
+            "Medical Devices"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EntainがBetMGM収益見通しを下方修正",
+          "country": "UK",
+          "category": "Corporate Earnings/Guidance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Entainは子会社BetMGMの売上高見通しを下方修正し、通期の調整後利益も予想を下回る見込み。",
+          "affected_sectors": [
+            "Gaming",
+            "Entertainment"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF、イラン紛争エスカレートで世界経済リセッション警告",
+          "country": "Global",
+          "category": "Economic Outlook",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、イラン紛争のエスカレートが世界経済を40年ぶりのリセッションに陥れる可能性を警告した。",
+          "affected_sectors": [
+            "All Sectors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン紛争の動向と市場への影響を注視。"
     }
   }
 ]
