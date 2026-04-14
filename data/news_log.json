@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦崩壊の懸念、原油高騰で世界株安",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランが停戦違反を主張し、イスラエルとヒズボラの衝突継続。ホルムズ海峡閉鎖懸念で原油価格が上昇し、世界の株式市場は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Airlines",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場、停戦楽観後退で大幅下落",
-          "country": "India",
-          "category": "Financial Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦への楽観が後退し、インドのNifty50とSensexが急落。原油価格の上昇も投資家心理を悪化させた。",
-          "affected_sectors": [
-            "Financials",
-            "IT Services",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界銀行、インドの27年度成長率を6.6%と予測",
-          "country": "India",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "世界銀行は、中東紛争によるエネルギー価格上昇で減速するものの、インドの2027年度成長率を6.6%と予測。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Infrastructure",
-            "Agribusiness"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "レバノン、地域紛争で深刻な経済的打撃",
-          "country": "Lebanon",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月2日からの戦争と地域情勢の不安定化により、レバノンは企業閉鎖や観光業低迷など深刻な経済的打撃を受けている。",
-          "affected_sectors": [
-            "Tourism",
-            "Retail",
-            "Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国住宅ローン金利、3月初旬以来初の同時低下",
-          "country": "UK",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国の2年および5年固定住宅ローン金利が小幅に下落し、3月初旬以来初めて同時に低下。",
-          "affected_sectors": [
-            "Real Estate",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東停戦の不安定化で原油価格高騰、世界の株式市場は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 21:30",
     "data": {
       "breaking_news": [
@@ -13173,6 +13094,79 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢が市場に影響。原油安も経済リスクは継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イランへの海上封鎖を開始し核プログラム終結を要求",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国はイランへの海上封鎖を開始し、核プログラムの終結を要求。地政学的な緊張が大幅に高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "国際貿易",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン海上封鎖で原油価格が高騰、供給懸念増大",
+          "country": "グローバル",
+          "category": "エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン海上封鎖の発表を受け、原油価格は高騰し、世界的なエネルギー供給への懸念が増大している。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国財務大臣、不安定性が家計・企業の負担と発言",
+          "country": "英国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国のレイチェル・リーブス財務大臣は、家計と企業が「自らの責任ではない」不安定性のコストを負担していると発言。",
+          "affected_sectors": [
+            "英国経済全般"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ゴールドマン・サックスQ1決算は期待を下回る",
+          "country": "米国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ゴールドマン・サックスは第1四半期決算で、低い取引収益により市場予想を下回った。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ハンガリーのオルバン首相、選挙での敗北を認める",
+          "country": "ハンガリー",
+          "category": "政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ハンガリーのヴィクトル・オルバン首相が選挙での敗北を認め、国内政治に変化が生じる可能性。",
+          "affected_sectors": [
+            "ヨーロッパ政治"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "US-Iran海上封鎖で地政学的緊張と原油高が深刻化。"
     }
   }
 ]
