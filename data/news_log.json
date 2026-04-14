@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦の不確実性が原油価格を押し上げ、アジア市場に影響",
-          "country": "中東, インド",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東停戦の不確実性により原油価格が上昇し、インド市場の債券とルピーが下落。グローバル市場に不安。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "金融",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI、英国での大規模投資計画を撤回か",
-          "country": "英国",
-          "category": "テクノロジー, 企業, 投資",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "OpenAIが英国での310億ポンド規模の投資計画を撤回したと報じられ、英国のテクノロジー分野に影響を与える見通し。",
-          "affected_sectors": [
-            "テクノロジー",
-            "投資",
-            "英国経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Lidl、英国で大規模な店舗拡張計画を発表",
-          "country": "英国",
-          "category": "企業, 小売",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Lidlが英国で年間50店舗の新規オープンと6億ポンドの拡張計画を発表。英国小売市場に強気。",
-          "affected_sectors": [
-            "小売",
-            "建設"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ケニア中央銀行が金融政策委員会後の記者会見を開催",
-          "country": "ケニア",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ケニア中央銀行が本日、金融政策委員会後の記者会見を開催。政策金利は8.75%で維持された。",
-          "affected_sectors": [
-            "金融",
-            "ケニア経済"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、原油価格高騰と市場不安に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-09 22:30",
     "data": {
       "breaking_news": [
@@ -13158,6 +13094,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン情勢の変動が世界経済に多大な影響。注意。"
+    }
+  },
+  {
+    "timestamp": "2026-04-14 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国がイランに海上封鎖を課す、原油価格高騰",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランへの海上封鎖を開始し、核プログラム中止を要求。これを受け原油価格が急騰している。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "防衛",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイラン、脆弱な停戦期限前に新たな協議を模索",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中東情勢緊迫化の中、米国とイランが脆弱な停戦の期限切れを前に新たな協議の可能性を探っている。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "政治"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU、凍結ロシア資産収益14億ユーロをウクライナ支援へ",
+          "country": "欧州連合",
+          "category": "国際関係",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EUは、凍結されたロシア中央銀行資産の収益から14億ユーロをウクライナ支援に供与することを決定した。",
+          "affected_sectors": [
+            "財政サービス",
+            "政府",
+            "防衛"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英Marks Electrical、業績予想を上回る好調な結果",
+          "country": "英国",
+          "category": "企業業績",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英国のMarks Electrical Group PLCが予想を上回る好業績を発表し、利益と純現金が予測を上回る見込み。",
+          "affected_sectors": [
+            "小売 (家電)"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "OpenAI、Amazonと提携強化、Microsoftとの関係に変化",
+          "country": "米国",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "OpenAIがAmazonとの連携を強化し、初期投資家であるMicrosoftとの関係から距離を置く動きが見られる。",
+          "affected_sectors": [
+            "テクノロジー",
+            "クラウドサービス",
+            "ソフトウェア"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国がイランに海上封鎖を課し中東情勢が緊迫。原油価格高騰、市場はリスクオフへ。"
     }
   }
 ]
