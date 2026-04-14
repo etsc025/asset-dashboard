@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF chief warns Iran war will slow global economic growth",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事は、イラン紛争が世界経済の成長見通しを悪化させ、成長予測を下方修正すると警告しました。",
-          "affected_sectors": [
-            "Global Economy",
-            "Finance",
-            "Energy",
-            "Agriculture"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US-Iran ceasefire fragile, leading to stock falls and renewed oil price concerns",
-          "country": "US, Iran (Global Impact)",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の不安定化により株価が下落し、イランがホルムズ海峡の管理強化を示唆し原油価格が上昇。",
-          "affected_sectors": [
-            "Financial Markets",
-            "Energy",
-            "Shipping",
-            "Geopolitics"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices rebound as US-Iran ceasefire uncertainty sparks supply fears",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の不確実性により供給懸念が再燃し、原油価格が3%上昇しました。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "World Bank Cuts Philippines Growth Forecast; S&P Lowers Outlook",
-          "country": "Philippines",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "世界銀行がフィリピンの成長予測を下方修正し、S&Pも同国の見通しを引き下げました。",
-          "affected_sectors": [
-            "Philippine Economy",
-            "Banking",
-            "Infrastructure"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "US natural gas futures hit 17-month low due to oversupply and mild weather",
-          "country": "United States",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の天然ガス先物価格は、供給過剰と温暖な気候により17カ月ぶりの安値となりました。",
-          "affected_sectors": [
-            "Energy",
-            "Utilities",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "IMFはイラン紛争が世界経済成長を減速させると警告。米イラン停戦に亀裂。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 06:00",
     "data": {
       "breaking_news": [
@@ -13072,6 +12990,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン協議の期待が世界市場を押し上げ、原油価格は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF、イラン戦争による前例のないエネルギー危機と世界経済不況リスクを警告",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、米イスラエルとイランの戦争が前例のないエネルギー危機と世界的な景気後退のリスクを高め、世界経済成長予測を下方修正しインフレを助長すると警告した。",
+          "affected_sectors": [
+            "エネルギー",
+            "マクロ経済",
+            "金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢の緩和期待と企業決算を受け、米国株が上昇",
+          "country": "アメリカ",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東情勢の緩和に向けた協議への期待感と好調な企業決算を受け、S&P 500、ダウ、ナスダックを含む米国株が上昇した。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米主要銀行の第1四半期決算は明暗、BlackRockとCitiは好調、Wells Fargoは予想を下回る",
+          "country": "アメリカ",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BlackRockはETFへの資金流入で利益が増加し、Citiは市場のボラティリティにより利益が42%増加したが、Wells Fargoの金利収入は予想を下回った。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMFが英国の成長予測を下方修正、HSBCはイラン戦争が企業信頼感を損なうと警告",
+          "country": "イギリス",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは英国の成長予測を下方修正し、HSBCはイラン戦争が企業信頼感を損ない、経済的リスクをもたらしていると警告した。",
+          "affected_sectors": [
+            "銀行",
+            "小売",
+            "英国経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米生産者物価指数（PPI）、3月に0.5%上昇し予想を下回るも、エネルギーコストは急騰",
+          "country": "アメリカ",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "2026年3月の米生産者物価指数は0.5%上昇し、予想の1.1%を下回った。しかし、イラン紛争の影響で財価格、特にエネルギーコストが急騰した。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "消費者財"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "IMFがイラン戦争による前例のないエネルギー危機と世界経済不況リスクを警告。"
     }
   }
 ]
