@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、中東停戦期待で続伸 S&P500が最長連騰",
-          "country": "US",
-          "category": "Geopolitical, Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東和平交渉進展への期待が高まり、米国株式市場は続伸。S&P500は昨年10月以来の最長連騰を記録した。",
-          "affected_sectors": [
-            "Equities",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格は変動、週末の米・イラン協議とホルムズ海峡問題に焦点",
-          "country": "Global",
-          "category": "Geopolitical, Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東停戦の脆弱性と週末の米・イラン協議を控え、原油価格は変動。ホルムズ海峡の安全保障が懸念される。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "本日発表の米3月CPIに市場が注目、FRBの金融政策に影響か",
-          "country": "US",
-          "category": "Economic Data, Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国では本日3月消費者物価指数が発表され、高インフレが継続すればFRBの利上げ判断に影響を与えるとの見方が強い。",
-          "affected_sectors": [
-            "All sectors",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東和平交渉の進展が市場センチメントを押し上げ、株式市場が上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 11:00",
     "data": {
       "breaking_news": [
@@ -13295,6 +13246,55 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢緩和への期待とIMFの金融安定性警告が交錯。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "湾岸戦争が英国防衛費の「手抜き」を露呈",
+          "country": "UK",
+          "category": "Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "湾岸での戦争が英国防衛体制の予算削減問題を浮き彫りにし、政府への圧力を増す可能性。",
+          "affected_sectors": [
+            "Defense",
+            "Public Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米イラン交渉継続期待で株式市場上昇、原油価格は下落",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦交渉継続への期待が市場の楽観を促し、株式市場は上昇。原油価格は5%程度下落。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ナイキ株、役員による自社株買いで上昇",
+          "country": "US",
+          "category": "Corporate",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "ナイキのティム・クック取締役らによる自社株買いが発表され、株価が時間外取引で1.5%上昇。",
+          "affected_sectors": [
+            "Apparel",
+            "Consumer Discretionary"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン交渉継続と原油安が市場を押し上げ、株式は上昇基調。"
     }
   }
 ]
