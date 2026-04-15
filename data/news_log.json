@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが2週間の停戦に合意し、世界市場が上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の2週間の停戦合意を受け、原油価格は急落し、世界の株式市場は広範な上昇を見せている。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF専務理事、イラン紛争が世界経済に長期的な悪影響を残すと警告",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事は、たとえ和平が達成されても、イラン紛争が世界経済に永続的な傷跡を残す可能性があると警告した。",
-          "affected_sectors": [
-            "全セクター",
-            "グローバルサプライチェーン"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦合意で世界株価上昇、原油急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 19:30",
     "data": {
       "breaking_news": [
@@ -13271,6 +13234,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "IMFは中東紛争による世界的な金融伝染とリセッションリスクを警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ウォール街急騰、S&P 500が最高値に接近",
+          "country": "USA",
+          "category": "市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米・イラン和平交渉再開への期待と原油価格下落を受け、ウォール街が急騰。S&P 500は史上最高値に迫る。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "半導体"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米・イラン和平交渉再開への期待、原油価格下落で市場はリスクオン",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉再開への期待が高まり、原油価格が下落。インフレ懸念が緩和され、市場のリスク選好度が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "自動車",
+            "市場全体"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが世界成長率予測を下方修正、中東紛争によるインフレリスクを警告",
+          "country": "Global",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFは世界経済成長率予測を下方修正し、中東紛争が長期化した場合の世界的な景気後退とインフレ加速を警告した。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Amazonが衛星企業Globalstarを115.7億ドルで買収",
+          "country": "USA",
+          "category": "企業",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Amazonは衛星通信企業Globalstarを115.7億ドルで買収する意向。イーロン・マスクのStarlinkに対抗する動きと見られる。",
+          "affected_sectors": [
+            "テクノロジー",
+            "宇宙産業",
+            "通信"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本のロイター短観指数が3ヶ月ぶりの低水準に悪化",
+          "country": "Japan",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "4月の日本の製造業ロイター短観指数は原油価格高騰とサプライチェーン混乱により3ヶ月ぶりの低水準に落ち込み、景況感は悪化。",
+          "affected_sectors": [
+            "製造業",
+            "輸出関連"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米株はイラン和平期待と原油安で急騰、S&P 500は最高値に迫る。"
     }
   }
 ]
