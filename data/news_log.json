@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月消費者物価指数、エネルギーコスト高騰で急上昇",
-          "country": "US",
-          "category": "経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者物価指数は、イラン関連のエネルギーコスト高騰により急上昇。FRBは今後の金融政策で現在のインフレ加速の要因を詳細に説明する必要があるだろう。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化、米イラン停戦交渉不透明で原油価格変動",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦交渉は依然不透明で、イスラエルによるレバノン攻撃が懸念を増大させている。地政学的な緊張が原油価格を乱高下させ、市場は不確実性に直面。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "物流",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株式市場、米イラン停戦への懐疑論にもかかわらず上昇",
-          "country": "欧州",
-          "category": "市場パフォーマンス",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧州株式市場は、米イラン停戦の持続性に対する投資家の懐疑論が根強いにもかかわらず、本日の取引開始直後から堅調な上昇を記録した。",
-          "affected_sectors": [
-            "広範な株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ブルカー社、エグゼクティブオフィサー兼Bruker BioSpin社長が辞任",
-          "country": "US",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ブルカー社（BRKR）は、エグゼクティブオフィサー兼Bruker BioSpin社長のFalko Busse氏が辞任すると発表した。これは経営陣の重要な変更である。",
-          "affected_sectors": [
-            "バイオテクノロジー",
-            "医療機器"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米国の高インフレと中東情勢の緊迫化が市場に影響を与え、エネルギー価格の動向に警戒が必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 06:30",
     "data": {
       "breaking_news": [
@@ -13678,6 +13613,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "IMF、世界債務の戦後最高水準接近を警告。インド経済指標注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bank of America Beats Profit Estimates, Driving Financial Sector Gains",
+          "country": "US",
+          "category": "Company Earnings",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bank of Americaが好調な取引と投資銀行部門によりQ1利益予想を上回り、金融セクターを牽引。",
+          "affected_sectors": [
+            "Financials",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Gold Eases as Investors Monitor US-Iran Tensions and Rate Outlook",
+          "country": "Global",
+          "category": "Commodities, Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "金価格は、米イラン情勢と金利見通しを警戒する投資家心理により、1カ月ぶりの高値から下落。",
+          "affected_sectors": [
+            "Precious Metals",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Stocks Rise as Corporate Earnings Impress and US-Iran Talks Hopes Emerge",
+          "country": "US",
+          "category": "Stock Market, Macroeconomics, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国株式市場は、好決算と米イラン交渉進展への期待から上昇。S&P 500とナスダックが牽引。",
+          "affected_sectors": [
+            "All Sectors",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Elevated Oil Prices from Middle East Tensions Could Delay Rate Cuts",
+          "country": "Global",
+          "category": "Commodities, Geopolitics, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢による原油価格高騰が、利下げ時期の遅延につながる可能性があり、市場に影響。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Global Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Broadcom Shares Surge on Extended Custom Chip Agreement with Meta",
+          "country": "US",
+          "category": "Company News, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "メタとのカスタムチップ契約延長により、Broadcomの株価が上昇。AI分野での協力強化を示す。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors",
+            "AI"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国株上昇、銀行好決算と米イラン交渉期待。地政学・金利に注目。"
     }
   }
 ]
