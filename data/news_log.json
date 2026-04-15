@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US CPI Surges 0.9% in March, Driven by Gas Prices Amid Geopolitical Tensions",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "March US CPI rose 0.9%, the largest monthly jump since 2022, primarily due to surging gas prices linked to Iran tensions.",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Energy",
-            "Retail",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global Stock Markets Rally on Hopes for US-Iran Ceasefire Agreement",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Worldwide stock markets, including Dow and S&P 500, surged following a tentative US-Iran ceasefire agreement.",
-          "affected_sectors": [
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Plunge Below $95 Amid US-Iran Ceasefire Hopes, Hormuz Concerns Persist",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Oil prices plunged following tentative US-Iran ceasefire news, though Strait of Hormuz disruption concerns remain.",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "High-Stakes US-Iran Peace Talks Begin in Pakistan to Solidify Ceasefire",
-          "country": "Pakistan",
-          "category": "Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US-Iran peace talks commenced in Pakistan to address nuclear curbs and Hormuz access, aiming to solidify the ceasefire.",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Global Trade"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US-Iran ceasefire drives global stock rally, oil plunge, and US inflation surge."
-    }
-  },
-  {
     "timestamp": "2026-04-11 01:00",
     "data": {
       "breaking_news": [
@@ -13551,6 +13486,70 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン停戦協議進展期待で株価急伸、原油急落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平協議進展期待で世界株上昇、原油下落",
+          "country": "Global",
+          "category": "Geopolitics, Macroeconomics, Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン停戦協議進展への期待が高まり、世界株式市場は上昇。原油価格は約5%下落しリスクオンの市場心理を促進。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy",
+            "Transportation",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Kering、Gucci低迷と中東情勢で第1四半期業績が予想下回る",
+          "country": "France",
+          "category": "Corporate Earnings, Luxury Goods",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "グッチの売上低迷と中東地域の混乱が影響し、高級ブランドグループKeringの第1四半期業績は予想を下回った。",
+          "affected_sectors": [
+            "Luxury Goods",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Aegon、英国事業をStandard Lifeに20億ポンドで売却合意",
+          "country": "UK",
+          "category": "Corporate M&A, Financial Services",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "金融サービス大手のAegonが英国事業をStandard Lifeに20億ポンドで売却することで合意したと発表。",
+          "affected_sectors": [
+            "Financial Services",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドバイ政府、紛争影響下のホスピタリティ・中小企業向け支援策を発表",
+          "country": "UAE",
+          "category": "Fiscal Policy, Regional Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ドバイ政府は、紛争による影響緩和のため、ホスピタリティ産業と中小企業に対する家賃・手数料免除措置を導入。",
+          "affected_sectors": [
+            "Hospitality",
+            "SMEs",
+            "Tourism"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉の進展期待で原油価格下落、株価上昇。"
     }
   }
 ]
