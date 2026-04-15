@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの停戦交渉、不確実性の中で進行し原油と株式に影響",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦交渉が進行中だが、安定性やホルムズ海峡の状況に不確実性があり、原油価格と株式市場に変動をもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の3月インフレ率が年率3.3%に上昇、エネルギーコストが主因",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の3月消費者物価指数は前年比3.3%上昇し、特にエネルギーコスト高が主要因。月次では0.9%上昇し、FRBの利下げ期待を弱めている。",
-          "affected_sectors": [
-            "一般消費財",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡の不確実性継続で原油価格が変動",
-          "country": "グローバル",
-          "category": "エネルギー",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "ホルムズ海峡の閉鎖状態と停戦の不確実性により、原油価格は当初急落後にボラティリティが増加。WTIは98ドル付近で推移。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株は中東情勢とインフレデータの中、テクノロジー株主導で上昇",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東情勢とインフレデータの中、米国株式市場はテクノロジー株主導でわずかに上昇。S&P 500とナスダックは週次で上昇基調。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "CoreWeaveがAnthropicとAIクラウド契約締結; Sodexo株価は業績見通し下方修正で急落",
-          "country": "グローバル",
-          "category": "企業",
-          "impact": "MEDIUM",
-          "direction": "MIXED",
-          "summary": "CoreWeaveがAnthropicとのAIクラウド契約で株価急騰。一方、Sodexoは業績見通し下方修正で株価急落。",
-          "affected_sectors": [
-            "テクノロジー (AI, クラウド)",
-            "ケータリング/サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦の不確実性が原油価格とインフレを動かす。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 01:30",
     "data": {
       "breaking_news": [
@@ -13550,6 +13472,88 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉の進展期待で原油価格下落、株価上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン紛争再燃、原油価格急騰で世界市場に緊張",
+          "country": "Global",
+          "category": "Geopolitics, Energy, Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦交渉決裂と米国の港湾封鎖により、原油価格が急騰。市場に緊張が走り、世界経済への悪影響が懸念されている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines",
+            "Global Stock Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン紛争長期化で世界経済のリセッションを警告",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは米イラン紛争の長期化が世界経済に深刻な影響を与え、リセッションを引き起こす可能性を警告。インフレ予測も上方修正された。",
+          "affected_sectors": [
+            "All sectors",
+            "Cyclical Industries",
+            "Emerging Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "オラクル株、新AIツール発表で13%急騰",
+          "country": "US",
+          "category": "Corporate Earnings/Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "オラクルが新AIツールを発表し、株価が13%急騰した。これはS&P 500の好調銘柄の一つとなっている。",
+          "affected_sectors": [
+            "Technology",
+            "Software",
+            "AI"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Amazon、衛星企業Globalstarを115.7億ドルで買収、Starlinkに対抗",
+          "country": "US",
+          "category": "Mergers & Acquisitions, Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Amazonが衛星通信大手Globalstarを115.7億ドルで買収合意。Elon MuskのStarlinkとの競争激化が予想される。",
+          "affected_sectors": [
+            "Telecommunications",
+            "Space Technology",
+            "E-commerce"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インドの3月卸売物価指数、38ヶ月ぶりの高水準に上昇",
+          "country": "India",
+          "category": "Economic Data, Inflation",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドの3月卸売物価指数が前年同月比3.88%上昇し、38ヶ月ぶりの高水準に。金融政策に影響の可能性。",
+          "affected_sectors": [
+            "Consumer Goods",
+            "Manufacturing",
+            "Central Banking",
+            "Bond Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン紛争再燃とIMFの世界経済リセッション警告。原油価格高騰で市場は警戒。"
     }
   }
 ]
