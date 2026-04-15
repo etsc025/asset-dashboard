@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦協議への期待と混乱で市場は神経質",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン停戦協議の動向を巡り市場は混乱しており、ロンドン市場は横ばい、欧州は微増。原油価格は不安定な推移。",
-          "affected_sectors": [
-            "金融サービス",
-            "エネルギー",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド市場金融株主導で反発、ルピーは対ドルで記録的安値",
-          "country": "India",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド株式市場は金融株買いで1%反発しSensexは900ポイント上昇。ルピーは中央銀行指令を前に記録的な安値に下落。",
-          "affected_sectors": [
-            "金融サービス",
-            "IT",
-            "為替",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国政府、サマセットのタタ製バッテリー工場に3.8億ポンド助成金",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国政府がサマセットに建設されるタタ製バッテリー工場に3億8000万ポンドの助成金を提供することを決定。",
-          "affected_sectors": [
-            "自動車",
-            "製造業",
-            "グリーンエネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米大手テクノロジー企業、EU児童性虐待防止法の不備を批判",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Google、Meta、Snap、MicrosoftがEUの児童性虐待防止法案の不作為を強く非難。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソーシャルメディア"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦の不確実性と市場の混乱が続く。インド市場は反発。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 22:30",
     "data": {
       "breaking_news": [
@@ -13374,6 +13309,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン交渉進展で世界株高、原油安。リスクオン。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平交渉期待で世界株高・原油安進行。",
+          "country": "Global",
+          "category": "Geopolitics, Market Performance, Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の和平交渉再開への期待が市場を押し上げ、原油価格は続落、S&P500指数は高値に迫る。",
+          "affected_sectors": [
+            "Energy",
+            "Technology",
+            "Financials",
+            "Industrials",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏、イラン停戦延長を否定し「取引」要求。ホルムズ海峡封鎖続く。",
+          "country": "USA, Iran",
+          "category": "Geopolitics, Energy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ大統領はイランとの停戦延長を否定し、新たな「取引」を要求。ホルムズ海峡の米国海軍による封鎖は継続中。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月生産者物価指数が予想下回る、インフレ懸念後退で市場好感。",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の3月生産者物価指数が予想を下回り、インフレ懸念が後退。FRBの利上げペース緩和期待が市場を支援。",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Goldman Sachs Q1利益54億ドルに急増、ディールメイキングと株式取引好調。",
+          "country": "USA",
+          "category": "Corporate Earnings, Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ゴールドマン・サックスの第1四半期利益が54億ドルに急増。ディールメイキングと株式取引部門が大幅な成長を牽引。",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド・ルピー対ドルで上昇、金・銀価格も高騰。",
+          "country": "India",
+          "category": "Currency, Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド・ルピーは米ドルに対し20パイサ上昇。米イラン和平交渉期待と原油価格下落で金・銀価格も急騰。",
+          "affected_sectors": [
+            "Currencies",
+            "Precious Metals",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉期待で原油安、株高に。PPIも好調で市場はRISK_ON。"
     }
   }
 ]
