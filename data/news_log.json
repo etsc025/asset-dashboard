@@ -1,108 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Oil prices up, China PPI positive amidst Iran ceasefire doubts",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices rise due to US-Iran ceasefire doubts; China's factory gate costs up first time in four years.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Norway's March inflation rises to 3.6% on surging energy costs",
-          "country": "Norway",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Norway's inflation hit 3.6% in March, fueled by surging electricity and fuel prices due to Middle East tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Utilities",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks rise, oil gains ahead of US-Iran peace talks",
-          "country": "Asia",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Asian stocks are mostly higher and oil prices are gaining as markets anticipate upcoming US-Iran peace talks.",
-          "affected_sectors": [
-            "Global Equities",
-            "Energy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US March CPI data release expected today",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Highly anticipated US March CPI data release today, impacting Fed policy and interest rate expectations.",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's March CPI up, PPI turns positive",
-          "country": "China",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China's CPI increased, and PPI ended over three years of deflation in March, driven by rising commodity prices.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Commodities",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Indian equity mutual fund inflows surge 56% in March",
-          "country": "India",
-          "category": "Financial Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "India's equity mutual fund inflows surged 56% month-on-month in March, indicating strong investor confidence.",
-          "affected_sectors": [
-            "Financials",
-            "Investment Management"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Venezuela opens mining to private investors",
-          "country": "Venezuela",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Venezuela opens its mining sector to private investors, aiming to boost the economy and attract foreign capital.",
-          "affected_sectors": [
-            "Mining",
-            "Emerging Markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "US CPIデータと米イラン和平交渉に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 17:30",
     "data": {
       "breaking_news": [
@@ -13369,6 +13266,69 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平期待で世界市場が上昇、ビットコインも高値更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン和平協議期待で世界株式市場が続伸、原油価格は大幅反落",
+          "country": "GLOBAL",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米・イラン間の和平協議継続への期待から、NYダウ、ナスダックが続伸、S&P500が最高値に接近。原油価格は大幅反落。",
+          "affected_sectors": [
+            "Energy",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコインが4週間ぶり高値に上昇、取引高も増加",
+          "country": "GLOBAL",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ビットコイン（BTC）が一時7万5000ドル台を回復し、過去4週間で最高値に。24時間の取引高も53.90%増と大幅に上昇。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Fintech"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド準備銀行、銀行からの四半期評価損繰り延べ要請を却下",
+          "country": "India",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インド準備銀行が、銀行からの3月期債券評価損の引当金繰り延べ要請を拒否。銀行の財務に影響。",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢緊迫化による原油価格高騰で日本国内の資材供給に影響",
+          "country": "Japan",
+          "category": "Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中東情勢の不透明感増大による原油高と国際物流への影響で、日本国内で石油由来資材の供給制限や価格高騰が発生。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Construction",
+            "Logistics"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン和平期待で株式市場が上昇、原油は下落。"
     }
   }
 ]
