@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国消費者物価指数3月に3.3%上昇、2年ぶり高水準",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者物価指数は年率3.3%上昇し、過去2年で最高水準に達した。エネルギー価格の高騰が主な要因。コアCPIは2.6%で比較的抑制されている。",
-          "affected_sectors": [
-            "エネルギー",
-            "小売",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化、ホルムズ海峡閉鎖と原油価格高止まり",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランと米国の脆弱な停戦合意とホルムズ海峡の閉鎖が続き、原油価格は高止まり。中東の地政学的緊張が市場に影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行、公営企業を上位層ノンバンク金融会社に含めることを提案",
-          "country": "インド",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド準備銀行が一部の公営企業を上位層ノンバンク金融会社(NBFC)に含める提案を行い、金融セクターにおける規制強化の動きが見られる。",
-          "affected_sectors": [
-            "金融",
-            "公営企業"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米インフレ高騰と中東情勢が市場の不確実性を高める"
-    }
-  },
-  {
     "timestamp": "2026-04-11 06:00",
     "data": {
       "breaking_news": [
@@ -13636,6 +13584,100 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally, oil falls on US-Iran talk hopes despite IMF economic warnings."
+    }
+  },
+  {
+    "timestamp": "2026-04-16 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "インドの3月失業率が5.1%に微増",
+          "country": "インド",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドの3月の失業率が5.1%に微増し、消費者支出と経済成長に潜在的な影響を与える可能性がある。",
+          "affected_sectors": [
+            "小売",
+            "消費財",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Adani Power含むインド大手8社が52週高値を更新",
+          "country": "インド",
+          "category": "企業業績 / 市場ニュース",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Adani Powerを含むインドの大手8社が52週高値を更新。市場の強気トレンドと投資家心理の改善を示す。",
+          "affected_sectors": [
+            "電力",
+            "金属",
+            "産業",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド準備銀行とSPグループがTata Sonsの上場を推進",
+          "country": "インド",
+          "category": "企業統治 / IPO",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インド準備銀行とSPグループがタタ・サンズの上場を推進。透明性への懸念からタタ・トラストは抵抗。",
+          "affected_sectors": [
+            "コングロマリット",
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "モルガン・スタンレー第1四半期利益が30%急増",
+          "country": "米国",
+          "category": "金融決算",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーの第1四半期利益が30%急増。市場の変動性が取引活動を押し上げ貢献。",
+          "affected_sectors": [
+            "金融サービス",
+            "投資銀行",
+            "資産運用"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Snap Inc.が1,000人の人員削減を発表",
+          "country": "米国",
+          "category": "企業再編 / テック",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Snap Inc.が1,000人の人員削減を発表。株価は反応し、コスト削減による効率化への期待が高まる。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソーシャルメディア",
+            "広告"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが世界債務の戦後最高水準への接近を警告、英国財政を評価",
+          "country": "グローバル / 英国",
+          "category": "マクロ経済 / 財政政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "IMFが世界債務の戦後最高水準への接近を警告する一方、英国の財政赤字改善を評価した。",
+          "affected_sectors": [
+            "ソブリン債",
+            "金融サービス",
+            "グローバル貿易"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "IMF、世界債務の戦後最高水準接近を警告。インド経済指標注視。"
     }
   }
 ]
