@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意後の市場動向：株価上昇、原油下落後に不透明感",
-          "country": "グローバル",
-          "category": "地政学, 市場, エネルギー",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン間の停戦合意期待で株価は世界的に上昇し原油は下落。しかし協議の不透明感から市場は不安定に推移。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国インフレ圧力が再燃、CPIはエネルギー価格高騰で4年ぶり高水準",
-          "country": "米国",
-          "category": "マクロ経済, 金融政策, インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "地政学的緊張によるエネルギー価格上昇を受け、米国のCPIが約4年ぶりの高水準に達しインフレ圧力が再燃。",
-          "affected_sectors": [
-            "全セクター",
-            "消費者裁量",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ロッキード・マーチン、47億ドルのパトリオットミサイル生産契約を獲得",
-          "country": "米国",
-          "category": "防衛, 企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ロッキード・マーチンが米国政府から47億ドルのパトリオットミサイル生産契約を受注し、防衛産業が好調。",
-          "affected_sectors": [
-            "防衛",
-            "航空宇宙"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "カナダ経済、3月に1.4万人の雇用増加も失業率は横ばい",
-          "country": "カナダ",
-          "category": "マクロ経済, 労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月のカナダの雇用は1.4万人増加したが、失業率は変わらず、経済の安定した成長を示唆している。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国のインフレ圧力が再燃、FRBの政策スタンスに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 05:30",
     "data": {
       "breaking_news": [
@@ -13574,6 +13512,130 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦延長拒否とトランプ氏の警告で市場警戒、リスクオフに。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF and IEA Warn of Dire Global Economic Impacts from Iran War",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMF and IEA warn of bleak global economic future due to Iran war, higher oil prices, and rising global debt levels.",
+          "affected_sectors": [
+            "Global Economy",
+            "Energy",
+            "Financials",
+            "Government (debt)"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Plunge as US-Iran Talk Hopes Emerge; US Stocks Rally",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Oil prices fall significantly and global stock markets rally on hopes for US-Iran peace talks resuming.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Global Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Stock Markets Rally, S&P 500 Approaches Record High on Talk Hopes",
+          "country": "US",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500 nears record high, Nasdaq gains for 10th day, driven by US-Iran talk hopes and strong earnings.",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "General Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Major US Banks Report Strong Q1 Profits",
+          "country": "US",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of America and Morgan Stanley beat profit estimates with strong trading and investment banking revenue.",
+          "affected_sectors": [
+            "Financials",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global Inflation Rises, Wholesale Prices Surge Driven by Energy Costs",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "CPI and WPI surge due to elevated energy prices from the Iran war, increasing inflation concerns globally.",
+          "affected_sectors": [
+            "Consumer Goods",
+            "Manufacturing",
+            "Energy",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BBC to Cut Up to 2,000 Jobs in Major Downsize",
+          "country": "UK",
+          "category": "Media",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BBC announces plans to cut up to 2,000 jobs, marking its biggest downsizing in 15 years.",
+          "affected_sectors": [
+            "Media",
+            "Entertainment"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Markets Surge on Hopes for Resumed US-Iran Talks",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Asian stocks mostly rise, with Japan's Nikkei and S.Korean shares hitting highs, on US-Iran talk optimism.",
+          "affected_sectors": [
+            "Equity Markets",
+            "Technology",
+            "Export-oriented sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "India's Sensex Closes 1200 Points Higher on US-Iran Talk Hopes",
+          "country": "India",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Indian equity benchmarks Sensex and Nifty rebound sharply amid optimism over US-Iran peace talks.",
+          "affected_sectors": [
+            "Equity Markets",
+            "Financials",
+            "PSU",
+            "Metals",
+            "IT"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally, oil falls on US-Iran talk hopes despite IMF economic warnings."
     }
   }
 ]
