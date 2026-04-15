@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Markets Close Mixed on Friday, Weekly Gains Cautious Amid Geopolitical Tensions",
-          "country": "Global",
-          "category": "Equity Markets",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "全球株式市場は金曜日にまちまちで引けたが、地政学的緊張への警戒感から週間では上昇した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Fluctuated Friday on US-Iran Ceasefire Talks and Strait of Hormuz Disruptions",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン停戦交渉の不確実性とホルムズ海峡の混乱により、金曜日の原油価格は変動した。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Inflation Pressures Continue to Rise, Driven by Geopolitical Energy Shocks",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国のインフレ圧力は、中東の地政学的エネルギーショックにより金曜日に上昇傾向が続いた。",
-          "affected_sectors": [
-            "消費者裁量",
-            "不動産",
-            "公益事業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢と米インフレが市場の主要な牽引役。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 08:30",
     "data": {
       "breaking_news": [
@@ -13687,6 +13636,87 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US-Iran ceasefire hopes boost global stocks; IMF warns on debt."
+    }
+  },
+  {
+    "timestamp": "2026-04-16 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "S&P 500が7000を超え史上最高値に接近、米イラン和平交渉進展期待で",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉進展期待により、S&P 500が7000を超え過去最高値に接近。原油価格は下落。",
+          "affected_sectors": [
+            "グローバル株式市場",
+            "石油・ガス",
+            "航空",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "モルガン・スタンレーとバンク・オブ・アメリカが第1四半期決算で市場予想を上回る",
+          "country": "米国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーとバンク・オブ・アメリカが第1四半期決算で市場予想を上回り、銀行セクターに好影響。",
+          "affected_sectors": [
+            "金融",
+            "投資銀行",
+            "ウェルスマネジメント"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ASMLが2026年第1四半期好決算を発表、AI需要により通期売上高見通しを上方修正",
+          "country": "オランダ",
+          "category": "企業決算",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ASMLがQ1好決算を発表し、AI需要に牽引され2026年通期売上高見通しを上方修正。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "AI"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFがアルゼンチンとのスタッフレベル合意に達し、10億ドルを解放",
+          "country": "アルゼンチン",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "IMFがアルゼンチンと合意に達し、約10億ドルの融資が可能に。アルゼンチンの安定と成長を支援。",
+          "affected_sectors": [
+            "新興市場",
+            "政府債",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国住宅市場信頼感は低下、製造業は改善。ブラジル企業信頼感は2020年以来の低水準",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の住宅市場信頼感は低下、製造業は改善。ブラジルの企業信頼感は2020年以来の低水準。",
+          "affected_sectors": [
+            "住宅",
+            "製造業",
+            "金融",
+            "ブラジル経済"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉進展期待でS&P 500が史上最高値に迫る。"
     }
   }
 ]
