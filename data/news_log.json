@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株は中東停戦協議とインフレ懸念で軟調、原油価格は下落",
-          "country": "Global",
-          "category": "Geopolitics, Market Performance, Energy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の不確実性と米国のインフレ懸念が市場に影響を与え、米国株は軟調に推移し原油価格は下落している。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Technology",
-            "Industrials",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF専務理事がAnthropic AIのサイバーセキュリティリスクに警鐘",
-          "country": "Global",
-          "category": "Technology, Cybersecurity, Regulation",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFのトップがAnthropic AIの潜在的なサイバーセキュリティリスクに懸念を表明し、迅速な対応を求めた。",
-          "affected_sectors": [
-            "Technology",
-            "Cybersecurity",
-            "Financial Services",
-            "AI industry"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢と米インフレが市場に重し、AIサイバーリスクも浮上、警戒を。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 11:30",
     "data": {
       "breaking_news": [
@@ -13819,6 +13779,162 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US stocks rally to record highs; crypto adoption grows globally."
+    }
+  },
+  {
+    "timestamp": "2026-04-16 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国PPIが予想を下回り、EURUSDが上昇",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国の生産者物価指数が予想を大きく下回り、インフレ圧力の緩和を示唆。市場はFRBの金融政策への期待を修正し、EURUSDは上昇。",
+          "affected_sectors": [
+            "債券市場",
+            "外為市場",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "S&P 500が米イラン戦争以来の史上最高値を更新",
+          "country": "米国",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500指数が米イラン戦争開戦以来、初めて日中取引で史上最高値を記録し、市場の楽観的な見方を反映した。",
+          "affected_sectors": [
+            "株式市場",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン停戦期待で原油価格下落、世界的に株価上昇",
+          "country": "グローバル",
+          "category": "地政学, 商品市場, 株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の停戦期待が高まり、原油価格が下落。これにより世界中の株式市場で幅広い上昇が見られた。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AllbirdsがAI事業へ転換を発表、株価が400%急騰",
+          "country": "米国",
+          "category": "企業ニュース, テクノロジー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "スニーカーブランドのAllbirdsがAIコンピューティング事業への転換を発表し、そのニュースを受け株価が400%急騰。",
+          "affected_sectors": [
+            "テクノロジー",
+            "小売",
+            "人工知能"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "モルガン・スタンレーの第1四半期利益が急増",
+          "country": "米国",
+          "category": "企業業績, 金融",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーは、市場の変動が激しい環境下で第1四半期に大幅な増益を達成。金融セクターに明るい兆し。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UBS会長、スイス資本規制の避けられない悪影響を示唆",
+          "country": "スイス",
+          "category": "銀行規制, 金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UBS会長は、スイスの新たな資本規制が同行に避けられない悪影響を与える可能性に言及、銀行セクターに懸念。",
+          "affected_sectors": [
+            "銀行",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BBCが最大2,000人の人員削減を発表",
+          "country": "英国",
+          "category": "企業ニュース, メディア",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "BBCがコスト削減のため最大2,000人の人員削減を発表。厳しい経済環境への適応と効率化の動きを示唆。",
+          "affected_sectors": [
+            "メディア",
+            "エンターテイメント"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インドRBIがNBFCの支店開設規制を緩和",
+          "country": "インド",
+          "category": "銀行規制, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド準備銀行（RBI）は、ノンバンク金融会社（NBFC）が事前承認なしに支店を開設できる規制緩和を発表。",
+          "affected_sectors": [
+            "金融",
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Tether、準備金に7000万ドルのビットコインを追加",
+          "country": "グローバル",
+          "category": "暗号通貨",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ステーブルコイン発行元のTetherが準備金に7000万ドル相当のビットコインを追加。ビットコイン価格にポジティブ。",
+          "affected_sectors": [
+            "暗号通貨",
+            "フィンテック"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パキスタン、銀行による暗号通貨サービス提供の7年間の禁止を解除",
+          "country": "パキスタン",
+          "category": "金融政策, 暗号通貨",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "パキスタンが銀行による暗号通貨プロバイダーへのサービス提供の7年間の禁止を解除。暗号通貨市場に新たな動き。",
+          "affected_sectors": [
+            "金融",
+            "暗号通貨",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "片山財務大臣、日銀の利上げに関する経産大臣の発言に苦言",
+          "country": "日本",
+          "category": "金融政策, 政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "片山財務大臣は、赤沢経産大臣が日本銀行の利上げに言及したことに対し、金融政策は日銀に委ねるべきと苦言。",
+          "affected_sectors": [
+            "金融",
+            "銀行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "S&P 500が史上最高値を更新、米イラン停戦期待で市場はリスクオン。"
     }
   }
 ]
