@@ -1,110 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "保険会社が2008年危機前より大きなリスクを抱える、報告書が警告",
-          "country": "グローバル",
-          "category": "金融規制・リスク",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "報告書は、保険会社がプライベートクレジットに過剰投資し、2008年以前より高いリスクを抱えていると警告。",
-          "affected_sectors": [
-            "保険",
-            "金融サービス",
-            "プライベートクレジット"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Raiffeisenの買収対象AddikoにスロベニアのNLBから高値の買収提案",
-          "country": "スロベニア",
-          "category": "M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "スロベニアのNLBがRaiffeisenの買収対象Addikoに対し、以前の入札を上回る高値の買収提案を実施。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ウォール街、プライベートクレジットに賭ける新たなツールを構築",
-          "country": "米国",
-          "category": "金融市場・リスク管理",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "銀行がプライベートクレジットへのエクスポージャーを減らし、ヘッジファンドが混乱から利益を得る新ツール構築。",
-          "affected_sectors": [
-            "金融サービス",
-            "ヘッジファンド",
-            "プライベートクレジット"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "マダガスカル、エネルギー供給問題で非常事態を宣言",
-          "country": "マダガスカル",
-          "category": "エネルギー・経済危機",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "マダガスカルが深刻なエネルギー供給問題により非常事態を宣言、経済危機が深まる可能性を示唆。",
-          "affected_sectors": [
-            "エネルギー",
-            "公益事業",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプショックを受け、世界の金利パスが上昇方向に転換",
-          "country": "グローバル",
-          "category": "金融政策・地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "地政学的な「トランプショック」を受け、世界の金利パスが上昇方向にシフトしており、引き締めを示唆。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "停戦にもかかわらずホルムズ海峡の船舶輸送が停止",
-          "country": "中東",
-          "category": "地政学・エネルギー・サプライチェーン",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦にもかかわらずホルムズ海峡の船舶輸送が停止、世界の石油供給と貿易への懸念高まる。",
-          "affected_sectors": [
-            "石油・ガス",
-            "海運",
-            "物流",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "OpenAI CEOサム・アルトマン宅に火炎瓶が投げ込まれ男逮捕",
-          "country": "米国",
-          "category": "企業・セキュリティ",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "OpenAI CEOサム・アルトマンの自宅に火炎瓶を投げ込んだ男が逮捕され、セキュリティへの懸念が高まった。",
-          "affected_sectors": [
-            "テクノロジー（AI）"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡輸送停止、原油供給危機とインフレ懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 07:00",
     "data": {
       "breaking_news": [
@@ -13691,6 +13586,84 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国株上昇、銀行好決算と米イラン交渉期待。地政学・金利に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイラン、和平協議再開で原則合意",
+          "country": "米国/イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランが新たな和平協議を進めることで原則合意。中東情勢の緊張緩和への期待が高まる。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場全般",
+            "航空",
+            "保険"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米主要銀行、好調な四半期決算発表",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の主要銀行が堅調な顧客活動と安定した資産状況を背景に好調な第1四半期決算を計上。",
+          "affected_sectors": [
+            "金融",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン協議期待で原油価格が下落",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平協議再開への期待から原油価格が急落。地政学リスクプレミアムが後退。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン和平期待でアジア・欧州株上昇",
+          "country": "グローバル",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米イラン和平協議再開の報を受け、アジアと欧州の株式市場が上昇。投資家心理が改善。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドの失業率、3月に微増し5.1%に",
+          "country": "インド",
+          "category": "経済指標",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "インドの3月失業率が5.1%に上昇し、過去5ヶ月で最高水準に。雇用市場の軟化を示す。",
+          "affected_sectors": [
+            "労働市場",
+            "消費財",
+            "小売"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平協議再開の原則合意で地政学リスク後退。"
     }
   }
 ]
