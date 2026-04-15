@@ -1,174 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "FTSE 100 '建設的だが脆弱な取引'で上昇",
-          "country": "イギリス",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ロンドンFTSE 100は木曜日の下落を取り戻し上昇、欧州市場は追随せず。",
-          "affected_sectors": [
-            "全体市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Unite Group、通期ガイダンスを据え置き、自社株買い拡大検討",
-          "country": "イギリス",
-          "category": "企業業績",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Unite Group PLCは通期ガイダンスを据え置き、資産売却加速で自社株買いを検討。",
-          "affected_sectors": [
-            "不動産",
-            "学生向け宿泊施設"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AO World、コスト増にも関わらず年間利益がガイダンス上限に達する見込み",
-          "country": "イギリス",
-          "category": "企業業績",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "AO World PLCは、経済戦略と会員モデルが引き続き成果を出していると発表。",
-          "affected_sectors": [
-            "小売",
-            "eコマース"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "3月英国小売店客足、イースター効果にもかかわらず期待に届かず",
-          "country": "イギリス",
-          "category": "消費者動向",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の3月の買い物客の来店数は、イースターと学校の休暇が早まったにもかかわらず、期待を下回った。",
-          "affected_sectors": [
-            "小売",
-            "消費財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF、米国とイランの戦争を受けインフレ危機を警告",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、米国とイランの紛争が継続すれば、世界経済に恒久的な傷を残し、インフレ危機が迫ると警告。",
-          "affected_sectors": [
-            "全体市場",
-            "エネルギー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本、5月から追加の20日分の石油備蓄放出を計画",
-          "country": "日本",
-          "category": "エネルギー政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "エネルギー危機への懸念が高まる中、日本政府は5月から追加の20日分の石油備蓄放出を決定。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国とイラン間の停戦合意、Strait of Hormuzを巡る不確実性で再び緊張",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦合意が脆い兆候を見せ、原油価格は再び上昇し、欧州株は下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "全体市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の消費者物価上昇、工場出荷価格も3年ぶりにプラスに転換",
-          "country": "中国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の3月の消費者物価指数は上昇し、工場出荷価格も3年ぶりにプラス領域へ。",
-          "affected_sectors": [
-            "製造業",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "TCS第4四半期決算発表後、IT株が最大3%下落",
-          "country": "インド",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "TCSの第4四半期決算が市場の期待を裏切り、需要見通しの低迷からインドのIT株が下落。",
-          "affected_sectors": [
-            "ITサービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコイン、マクロリスクとETF流出で7.1万ドルまで後退",
-          "country": "グローバル",
-          "category": "暗号通貨",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ビットコインはマクロ経済の不確実性と2.5億ドルのETF流出により7万1千ドル近辺まで下落。",
-          "affected_sectors": [
-            "暗号通貨",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "国連、地政学的緊張とコスト増により世界の貿易が不確実性に直面と警告",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "国連報告書は、地政学的緊張とコスト上昇が世界の貿易成長を鈍化させ、発展途上国にとってリスクを高めていると指摘。",
-          "affected_sectors": [
-            "全体市場",
-            "貿易",
-            "製造業",
-            "物流"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "南アフリカ・ハウテン州、2060億ランドの投資公約を確保",
-          "country": "南アフリカ",
-          "category": "地域経済",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "南アフリカのハウテン州は、2060億ランド相当の投資公約を確保し、地域経済の活性化に貢献。",
-          "affected_sectors": [
-            "インフラ",
-            "建設",
-            "地域経済"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国とイランの停戦の脆さと中東情勢の市場への影響"
-    }
-  },
-  {
     "timestamp": "2026-04-10 18:30",
     "data": {
       "breaking_news": [
@@ -13353,6 +13184,101 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国・イラン和平交渉期待が市場を押し上げ、株価は上昇、原油価格は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "GIFT Niftyが300ポイント急騰、原油価格は6%下落",
+          "country": "インド",
+          "category": "Equity Markets, Commodity",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "インドのGIFT Niftyが300ポイント急騰、原油価格は6%下落。市場は和平期待でリスクオンへ。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏、米国とイラン間の和平交渉が2日以内に再開する可能性を示唆",
+          "country": "米国, イラン",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ氏が米イラン和平交渉の2日以内の再開を示唆。地政学的緊張緩和への期待が高まる。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Trade",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国-イラン合意への期待からアジア市場が全面高",
+          "country": "アジア",
+          "category": "Equity Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン和平合意への期待から、アジア株式市場が全面高。世界的な株高トレンドを牽引。",
+          "affected_sectors": [
+            "Equity Markets",
+            "Technology",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコインが74,945ドルで4週間ぶりの高値を記録",
+          "country": "グローバル",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ビットコインが74,945ドルと4週間ぶり高値。投資家のリスク選好度改善と連動した動き。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Technology",
+            "Fintech"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、7月までに再び関税を引き上げる可能性",
+          "country": "米国",
+          "category": "Trade Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国が7月までに再び関税を引き上げる可能性。国際貿易における新たな障壁となり得る。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology",
+            "Retail",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド準備銀行が銀行のQ4国債損失繰り延べ申請を却下",
+          "country": "インド",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インド準備銀行が国内銀行のQ4国債損失繰り延べを却下。銀行収益への圧力が懸念される。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国-イラン和平交渉への期待が市場を押し上げ、原油下落。"
     }
   }
 ]
