@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米3月CPI、ガソリン高で総合指数上昇もコア指数は予想下回る",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米3月CPIは総合で前月比0.9%増、前年比3.3%増。ガソリン高が主因だが、コア指数は予想を下回った。",
-          "affected_sectors": [
-            "Energy",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米・イラン停戦交渉への期待で市場は上昇、原油価格は変動",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米・イラン間の停戦交渉への期待から株式市場は上昇。原油価格は地政学リスクで変動。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株式市場が上昇、停戦期待とコアCPIの安心感が寄与",
-          "country": "Global",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米S&P 500は0.6%上昇。アジア株も好調。地政学的安定とコアCPIの下振れが市場を牽引。",
-          "affected_sectors": [
-            "Broad Market",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド・ルピーが対米ドルで下落、地政学的緊張が背景",
-          "country": "India",
-          "category": "Currency",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インド・ルピーは対米ドルで92.68まで下落し、17パイサ安。世界的な緊張が影響と見られる。",
-          "affected_sectors": [
-            "Indian Economy",
-            "Imports",
-            "Exports"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Anthropic Mythosモデルへの懸念がソフトウェア株を圧迫",
-          "country": "USA",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "新しいAnthropic Mythos AIモデルへの懸念から、ソフトウェアセクターの株価が約5%下落。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "AI"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米CPIと中東停戦期待で株式市場は上昇、原油は変動。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 05:00",
     "data": {
       "breaking_news": [
@@ -13613,6 +13535,45 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "US-Iran停戦延長交渉とIMFの世界経済悪化警告で市場は神経質"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国、イラン停戦延長を拒否しトランプ大統領がインフラ攻撃を警告",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がイランとの停戦延長を拒否し、トランプ大統領がイランへのインフラ攻撃の可能性を示唆。中東情勢の緊張が再燃し市場に不確実性をもたらしている。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Airlines",
+            "Shipping",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争による世界経済と債務増加リスクを警告",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFと世界銀行の春季会合で、中東紛争が世界の成長見通しを悪化させ、債務水準を押し上げる可能性について繰り返し警告がなされた。",
+          "affected_sectors": [
+            "Government Bonds",
+            "Emerging Markets",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン停戦延長拒否とトランプ氏の警告で市場警戒、リスクオフに。"
     }
   }
 ]
