@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦の脆弱性と原油価格の反発",
-          "country": "中東地域",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米・イラン間の停戦合意に疑念が生じ、レバノンでのイスラエル攻撃継続により原油価格が反発。週末に協議を予定。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月CPI発表、インフレ高進の予測",
-          "country": "米国",
-          "category": "マクロ経済, インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "本日米国時間午前8時30分に3月消費者物価指数（CPI）が発表。高騰する原油価格がインフレを押し上げると予想され、FRBの政策に影響。",
-          "affected_sectors": [
-            "全セクター",
-            "不動産",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "WTOがデジタル貿易関税モラトリアムで合意に至らず",
-          "country": "グローバル",
-          "category": "貿易政策, テクノロジー規制",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "世界貿易機関（WTO）がeコマースへの関税モラトリアム延長で合意できず、各国がデジタルサービス課税を導入する可能性。",
-          "affected_sectors": [
-            "テクノロジー",
-            "Eコマース",
-            "ソフトウェアサービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ノルウェー3月インフレ率3.6%に上昇、エネルギー価格が主因",
-          "country": "ノルウェー",
-          "category": "マクロ経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ノルウェーの年間インフレ率が3月に3.6%に上昇。中東情勢によるエネルギー価格の変動が主要因。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費者物価連動型セクター"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド市場は上昇、TCS株は下落、ルピーは不安定",
-          "country": "インド",
-          "category": "株式市場, 企業決算, 為替",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "インド主要株価指数は上昇したが、TCSの収益減少で株価は下落。ルピーは対ドルで上昇も、国際情勢で不安定。",
-          "affected_sectors": [
-            "ITサービス",
-            "銀行",
-            "輸出入"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、原油高騰でインフレ懸念増大。本日発表の米CPIに注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 17:00",
     "data": {
       "breaking_news": [
@@ -13375,6 +13296,79 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米株はイラン協議期待で上昇、S&P500が戦前の水準回復。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin climbs to 4-week high of $74,945",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bitcoinが4週間ぶりの高値$74,945に上昇。以前の暴落から力強い回復を示す。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "RBI rejects banks' request to spread out Q4 treasury losses",
+          "country": "India",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インド準備銀行が国内銀行のQ4国債損失繰り延べ要請を却下、銀行の収益に圧力をかける。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Wall Street Highlights: S&P 500 Closes Near Record on Iran Peace Push",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン和平交渉への楽観論が広がり、S&P 500が史上最高値に迫る勢いで上昇した。",
+          "affected_sectors": [
+            "Global Equities",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Kospi Leads Asia Market Rally On Iran-US Deal Hopes, Nikkei Up 1%",
+          "country": "South Korea",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン和平交渉への期待から、Kospiと日経平均株価がアジア市場を牽引し上昇。",
+          "affected_sectors": [
+            "Asian Equities",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "GIFT Nifty jumps over 300 pts, signals positive start",
+          "country": "India",
+          "category": "Market Sentiment",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "GIFT Niftyが300ポイント以上急騰し、インド市場の好調な始まりを示唆。",
+          "affected_sectors": [
+            "Indian Equities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平期待で世界市場が上昇、ビットコインも高値更新。"
     }
   }
 ]
