@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン停戦合意もホルムズ海峡封鎖継続、平和交渉に注目",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦合意後もホルムズ海峡が閉鎖され、石油供給懸念が続く。週末に平和交渉を控え、市場は動向を注視。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Trade",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月CPI、エネルギー高騰で急上昇。中東紛争がインフレ加速",
-          "country": "US",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国3月のCPIは月間0.9%、年間3.3%上昇し、中東紛争によるエネルギー価格高騰が主因。消費者心理も急落し、景気後退懸念が高まる。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Goods",
-            "Automotive",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行、NBFC規制枠組み見直し開始。金融セクターに影響",
-          "country": "India",
-          "category": "Financial Regulation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド準備銀行がノンバンク金融会社（NBFC）の規制枠組み見直しに着手。タタ・サンズ上場議論を背景に、金融セクターの動向に注目。",
-          "affected_sectors": [
-            "Financial Services",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界銀行、インドの成長予測下方修正。西アジア紛争が経済に影",
-          "country": "India",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "世界銀行は西アジア紛争の影響を受け、インドの2026-27年度経済成長予測を6.6%に下方修正。地域情勢が経済に与える影響を警戒。",
-          "affected_sectors": [
-            "All sectors in India",
-            "Global Trade",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖継続と米国インフレ高騰、中東紛争の経済的影響に厳重警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 13:00",
     "data": {
       "breaking_news": [
@@ -13979,6 +13913,69 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イラン情勢の進展と原油価格の急騰が市場の主要な焦点。米国株は最高値更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ECB、4月利上げに慎重姿勢 インフレ定着の証拠なし",
+          "country": "ユーロ圏",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "欧州中央銀行(ECB)関係筋によると、インフレが定着している証拠がないため4月の利上げに慎重な姿勢を示している。",
+          "affected_sectors": [
+            "金融",
+            "為替",
+            "債券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米金融大手、全社が増益 株式取引収入が過去最高",
+          "country": "米国",
+          "category": "企業決算",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国の大手金融6社の2026年1-3月期決算が発表され、全社が前年同期比で増益を達成。市場変動と株式取引収益が大きく寄与した。",
+          "affected_sectors": [
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "【ベージュブック】ほとんどの地区が緩慢から緩やかな成長を報告",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米地区連銀経済報告（ベージュブック）によると、大半の地区で経済成長が緩慢から緩やかであったと報告。消費は若干拡大している。",
+          "affected_sectors": [
+            "広範な経済",
+            "小売",
+            "製造"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "NY金反落、ロンドン金続伸",
+          "country": "グローバル",
+          "category": "商品市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "15日のNY金は反落したが、ロンドン金は続伸。市場のリスク警戒感やドル動向が影響している。",
+          "affected_sectors": [
+            "商品",
+            "貴金属"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米金融大手増益とECB利上げ慎重姿勢、米景況感に注目"
     }
   }
 ]
