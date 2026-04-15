@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国のインフレ率が3月に3.3%に急上昇、エネルギー価格が主要因",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の消費者物価指数（CPI）は3月に前年同月比3.3%上昇し、2年ぶりの高水準となった。エネルギー価格の急騰が主因だが、コアCPIは予想を下回る2.6%。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米・イラン停戦交渉への期待でS&P 500とナスダックが上昇",
-          "country": "グローバル",
-          "category": "地政学リスク",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦交渉への期待感から、市場は楽観的ムードとなり、S&P 500とナスダックは小幅に上昇。原油価格は高値から下落したものの、依然高水準。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "新興市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "新興国市場株がイラン交渉を前に2020年以来の週間最高益を記録",
-          "country": "グローバル",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東での紛争停戦の期待から、新興国市場の株価が上昇し、2020年以来の最高の週間上昇となる見込み。原油価格の100ドル割れも後押し。",
-          "affected_sectors": [
-            "新興市場",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米CPI高騰もコアは抑制、中東停戦期待で市場は一時安堵。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 02:00",
     "data": {
       "breaking_news": [
@@ -13554,6 +13503,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン紛争再燃とIMFの世界経済リセッション警告。原油価格高騰で市場は警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "アジア株が上昇、原油価格下落と米イラン和平交渉への期待が市場を押し上げ",
+          "country": "グローバル",
+          "category": "地政学, 市場センチメント, コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の和平交渉への期待から原油価格が下落し、アジア市場が上昇。リスクオンセンチメントが高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ASML、2026年第1四半期決算を発表し、通期売上高見通しを上方修正",
+          "country": "オランダ",
+          "category": "企業決算, テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ASMLは好調なQ1決算を発表し、堅調な半導体需要とAI関連投資に牽引され、通期売上高見通しを上方修正した。",
+          "affected_sectors": [
+            "テクノロジー（半導体）",
+            "産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "バンク・オブ・アメリカ、2026年第1四半期決算を発表",
+          "country": "米国",
+          "category": "企業決算, 金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "バンク・オブ・アメリカが2026年第1四半期の決算を発表。詳細は投資家向け広報ウェブサイトで公開されている。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争のエスカレートによる世界経済後退リスクを警告",
+          "country": "グローバル",
+          "category": "地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、米イラン和平交渉への期待があるものの、イラン戦争のエスカレートが世界経済後退を引き起こす可能性を警告した。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドの3月卸売物価指数（WPI）が上昇、金価格高騰、Niftyは回復",
+          "country": "インド",
+          "category": "経済指標, コモディティ, 株式市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インドの3月WPIは上昇し、金価格は昨年から60%急騰。Niftyは回復したが、戦前の水準には達していない。",
+          "affected_sectors": [
+            "コモディティ",
+            "インド株式市場",
+            "生活必需品"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉期待で世界市場がリスクオンに"
     }
   }
 ]
