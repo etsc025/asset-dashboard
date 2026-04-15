@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "NY市場、ダウ平均は261ドル安、ナスダックはプラス圏を維持",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ニューヨーク市場ではダウ平均が下落したが、ナスダックは上昇を維持し、ハイテク株が市場を支えている。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "資本財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン議会議長、レバノン停戦と凍結資産解除を協議開始の条件に言及",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン議会議長がレバノンでの停戦と凍結資産解除を和平協議の前提条件とし、中東情勢の緊張緩和に課題。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ミシガン大学消費者態度指数速報値が予想を下回る",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "4月の米ミシガン大学消費者態度指数速報値が予想を下回り、消費者心理の悪化が示唆され、景気減速懸念。",
-          "affected_sectors": [
-            "小売",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ユーロドル、ウクライナ情勢報道を受け買い加速し底堅い推移",
-          "country": "欧州",
-          "category": "為替市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ウクライナ情勢に関する報道がユーロ買いを誘発し、ユーロドルは底堅く推移。和平への期待感が影響。",
-          "affected_sectors": [
-            "金融",
-            "欧州輸出企業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "NEC委員長、ホルムズ海峡開通でエネルギー価格の急速な低下を予想",
-          "country": "グローバル",
-          "category": "エネルギー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "NEC委員長がホルムズ海峡開通後のエネルギー価格急落を予想、地政学的リスク緩和への期待が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "航空",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン情勢不透明感継続、ホルムズ海峡開通でエネ価格変動か。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 03:00",
     "data": {
       "breaking_news": [
@@ -13572,6 +13491,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉再開観測で原油急落、世界株高が継続。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "モルガン・スタンレー、Q1決算で市場予想を上回る好業績",
+          "country": "米国",
+          "category": "企業決算",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーが2026年第1四半期決算を発表、売上高205.8億ドル、EPS3.43ドルで市場予想を大幅に上回った。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン和平交渉への期待感から原油価格が下落",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の和平交渉進展への期待が高まり、原油価格が95ドルを下回って推移している。地政学的リスク緩和の兆しが見える。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "サントリーHD、第一三共ヘルスケアを2465億円で買収",
+          "country": "日本",
+          "category": "M&A",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "サントリーホールディングスが第一三共ヘルスケアを2465億円で買収すると発表。医薬品・コンシューマー市場に影響を与える見込み。",
+          "affected_sectors": [
+            "製薬",
+            "コンシューマーヘルスケア"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "大手銀行好決算と米イラン緊張緩和期待で市場はリスクオンの様相"
     }
   }
 ]
