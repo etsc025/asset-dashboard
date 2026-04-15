@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "RBIがNBFC規制刷新に着手",
-          "country": "インド",
-          "category": "規制, 金融",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "インド準備銀行がノンバンク金融会社（NBFC）の規制見直しに着手。金融セクターに大きな影響を与える可能性。",
-          "affected_sectors": [
-            "金融サービス",
-            "ノンバンク金融会社"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英航空、夏季のインド路線を増便",
-          "country": "英国, インド",
-          "category": "航空, 観光",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国航空が夏季にインドへのサービスを拡大し、ベンガルールとロンドン間のフライトを週14便に増やす。観光と経済交流を促進。",
-          "affected_sectors": [
-            "航空",
-            "観光",
-            "ホスピタリティ"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド、重要鉱物バリューチェーン構築が最終段階に",
-          "country": "インド",
-          "category": "産業政策, 鉱業",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "インドが重要鉱物の加工バリューチェーンを構築する最終段階にあり、国内産業の強化と自給自足を目指す戦略的動き。",
-          "affected_sectors": [
-            "鉱業",
-            "製造業",
-            "EV",
-            "エレクトロニクス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "市場のボラティリティとプライベートクレジット問題",
-          "country": "グローバル",
-          "category": "金融市場, 信用",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "市場の不安定さとプライベートクレジット部門の問題が指摘されており、投資家はリスク管理の見直しが必要な状況。",
-          "affected_sectors": [
-            "金融サービス",
-            "投資ファンド",
-            "プライベートエクイティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化によるエネルギー価格高騰が米国の3月インフレを急上昇させた。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 12:00",
     "data": {
       "breaking_news": [
@@ -13935,6 +13870,119 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "S&P 500が史上最高値を更新、米イラン停戦期待で市場はリスクオン。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、企業決算と米イラン関係緩和への期待で過去最高値を更新",
+          "country": "米国",
+          "category": "市場パフォーマンス",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500とナスダックが企業決算好調と米イラン間の緊張緩和期待を受け、過去最高値を記録。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "一般市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン間の緊張緩和期待で原油価格が安定、世界経済成長へのIMF警告も",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の停戦延長と協議再開の報道で原油価格が安定。一方、IMFは紛争が世界経済成長を減速させると警告。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "マクロ経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米銀大手モルガン・スタンレーとバンク・オブ・アメリカ、予想を上回る決算",
+          "country": "米国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーとバンク・オブ・アメリカがアナリスト予想を上回る四半期決算を発表。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Metaが2026年末までにAlphabetを抜きデジタル広告収入で首位に",
+          "country": "グローバル",
+          "category": "テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Meta PlatformsがAI駆動型ツールとReelsの収益化により、2026年末までにデジタル広告収入でAlphabetを抜くと予測。",
+          "affected_sectors": [
+            "テクノロジー",
+            "広告"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "AllbirdsがAIコンピューティングへ事業転換、株価が急騰",
+          "country": "米国",
+          "category": "企業戦略",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "スニーカーブランドのAllbirdsがAIコンピューティングへの事業転換を発表し、株価が大きく上昇。",
+          "affected_sectors": [
+            "テクノロジー",
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Snapchat運営のSnap、AI効率化を理由に世界従業員の16%を削減へ",
+          "country": "グローバル",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "SnapがAIによる効率化を理由に、世界従業員の最大16%を削減する計画を発表。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソーシャルメディア"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "パキスタン、暗号資産サービス提供を銀行に許可する7年間の禁止措置を解除",
+          "country": "パキスタン",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "パキスタンが暗号資産プロバイダーへの銀行サービス提供に関する7年間の禁止措置を解除。",
+          "affected_sectors": [
+            "暗号資産",
+            "金融テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "British American Tobacco、中東紛争の影響で2026年収益に打撃を予測",
+          "country": "英国",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "British American Tobaccoが中東紛争の影響により、2026年の収益に悪影響が出ると警告。",
+          "affected_sectors": [
+            "タバコ"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国株は企業決算と米イラン協議期待で過去最高値。"
     }
   }
 ]
