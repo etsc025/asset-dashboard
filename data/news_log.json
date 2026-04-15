@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意、市場は当初上昇も不確実性で乱高下",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦合意が発表され、原油価格は急落したが、停戦の不確実性により変動。世界の株式市場は当初上昇したが、その後乱高下している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "グローバル株式市場",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の工場出荷価格、3年ぶりにプラスに転じる",
-          "country": "中国",
-          "category": "経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の工場出荷価格が3年ぶりに上昇し、デフレからの脱却を示す。地政学的緊張による商品価格上昇が要因。",
-          "affected_sectors": [
-            "製造業",
-            "コモディティ",
-            "グローバル貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本の生産者物価、4ヶ月ぶりの大幅上昇",
-          "country": "日本",
-          "category": "経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本の生産者物価が4ヶ月ぶりの高水準で上昇。原油価格やコモディティ価格上昇によるコスト圧力が背景。",
-          "affected_sectors": [
-            "製造業",
-            "エネルギー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF専務理事、イラン戦争が世界経済に永続的な傷跡を残すと警告",
-          "country": "グローバル",
-          "category": "地政学, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事が、イラン戦争が終結しても世界経済に永続的な傷跡を残すと警告。地政学的リスクの高さを強調。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "金融",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国FRB議長人事に法的不確実性、注目集まる",
-          "country": "米国",
-          "category": "金融政策, 政治",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国連邦準備制度理事会（FRB）の次期議長選任が、法的な不確実性により注目されている。",
-          "affected_sectors": [
-            "金融",
-            "銀行",
-            "金利敏感セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦の不安定さと原油価格の変動が市場を翻弄"
-    }
-  },
-  {
     "timestamp": "2026-04-10 15:30",
     "data": {
       "breaking_news": [
@@ -13375,6 +13294,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉期待で市場リスクオン、ドル安・株高進行中"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン情勢緊迫化、世界経済と原油価格に不確実性",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の「戦争」が続き、米国のイラン港湾封鎖が原油価格に影響を与え、IMF・IEAが世界経済への深刻な影響を警告している。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "JPモルガン、好決算も通期純金利収入見通しを下方修正",
+          "country": "米国",
+          "category": "企業業績, 金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "JPモルガンは第1四半期決算で収益・EPSが予想を上回ったが、2026年通期の純金利収入見通しを下方修正し、市場に懸念を与えた。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月生産者物価指数、市場予想を下回りインフレ懸念後退",
+          "country": "米国",
+          "category": "経済指標, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の米生産者物価指数は前月比0.5%増と予想を下回り、インフレ圧力の緩和を示唆し、市場の楽観を誘った。",
+          "affected_sectors": [
+            "全般",
+            "テクノロジー",
+            "成長株",
+            "債券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン情勢と金融機関の業績見通しが市場の方向性を左右。"
     }
   }
 ]
