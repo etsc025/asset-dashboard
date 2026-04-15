@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株はまちまち、原油は中東停戦協議への期待で緩和",
-          "country": "グローバル",
-          "category": "地政学,商品,市場変動",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国市場はイラン停戦協議への期待でまちまち、原油価格は緩和。中東情勢は引き続き市場の焦点。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国のインフレ率、イラン紛争で2年ぶりの高水準に上昇",
-          "country": "米国",
-          "category": "経済指標,インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国のインフレ率がイラン紛争の影響で2年ぶりの高水準に上昇。CPIは予想通り3.3%に到達。",
-          "affected_sectors": [
-            "小売",
-            "生活必需品",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "コール・インディア、爆薬価格を26%引き上げ",
-          "country": "インド",
-          "category": "企業,商品",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "コール・インディア、2月から3月末にかけて爆薬価格を26%引き上げ。採掘コスト上昇へ。",
-          "affected_sectors": [
-            "鉱業",
-            "インフラ",
-            "工業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢と米インフレ高止まりが市場の主要懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 11:00",
     "data": {
       "breaking_news": [
@@ -13757,6 +13705,120 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢は緊迫と緩和の交錯、IMFが成長率下方修正も米PPIは市場に安堵感。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "BBC to cut up to 2,000 jobs in biggest downsize in 15 years",
+          "country": "UK",
+          "category": "Corporate Restructuring",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "BBC announces plans to cut up to 2,000 jobs, marking its largest downsizing in 15 years due to economic pressures.",
+          "affected_sectors": [
+            "Media",
+            "Broadcasting"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Disney to cut 1,000 jobs as CEO announces layoffs across company",
+          "country": "US",
+          "category": "Corporate Restructuring",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Disney plans to cut 1,000 jobs across the company as its CEO announces layoffs, signaling cost-cutting measures.",
+          "affected_sectors": [
+            "Media",
+            "Entertainment"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's largest housebuilder to buy less land in blow to Labour's homes target",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK's largest housebuilder will reduce land purchases, impacting government housing targets and signaling a sector slowdown.",
+          "affected_sectors": [
+            "Construction",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Wall Street flirts with a record after adding to its weekslong rally",
+          "country": "US",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US stock market, led by the S&P 500, nears a new record high, continuing a rally over the past two weeks.",
+          "affected_sectors": [
+            "All sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK asset manager puts $68 billion of funds on-chain via Calastone token network",
+          "country": "UK",
+          "category": "Fintech",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "A UK asset manager tokenized $68 billion in funds on Calastone, boosting blockchain adoption in traditional finance.",
+          "affected_sectors": [
+            "Financial Services",
+            "Fintech",
+            "Asset Management"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Crypto's new $11 million PAC booked millions in ads with firm started by Tether US CEO",
+          "country": "US",
+          "category": "Cryptocurrency",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "New crypto PAC spent millions on ads with firm tied to Tether US CEO, signaling increased political lobbying by crypto.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Financial Regulation"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Pakistan lifts seven-year ban, allowing banks to service crypto providers",
+          "country": "Pakistan",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Pakistan ended its seven-year ban, enabling banks to service crypto providers, boosting local crypto adoption.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "The Protocol: Bitcoin proposal that could freeze quantum-related coins",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Bitcoin proposal seeks to address quantum computing threats by potentially freezing quantum-vulnerable cryptocurrencies.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Blockchain Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US stocks rally to record highs; crypto adoption grows globally."
     }
   }
 ]
