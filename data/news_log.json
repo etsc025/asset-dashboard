@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "3月の米インフレ率、ガソリン価格高騰で4年ぶりの大幅上昇",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者物価指数（CPI）は、中東情勢を受けたガソリン価格の急騰により、過去4年で最大の月間上昇を記録した。FRBの利下げ開始がさらに遅れるとの観測が強まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化続く中、米国とイランの高官協議が開始",
-          "country": "中東, 米国, イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "不安定な停戦合意とイスラエル・ヒズボラの衝突激化が続く中、米国とイランの交渉団がパキスタンで高官協議を開始。地域情勢の安定化が焦点となる。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "世界株式"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊迫化と米インフレ高止まりで市場はリスク回避ムード。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 13:30",
     "data": {
       "breaking_news": [
@@ -13976,6 +13939,85 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米金融大手増益とECB利上げ慎重姿勢、米景況感に注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Beige Book: Iran Conflict Drives Uncertainty, Inflation Pressures",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Fed Beige Book indicates steady economy, but Iran conflict causes rising energy prices, inflation, and business investment delays.",
+          "affected_sectors": [
+            "Energy",
+            "Industrials",
+            "Consumer Discretionary",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Will Not Renew Sanctions Waivers on Iranian, Russian Oil",
+          "country": "USA",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US announces non-renewal of sanctions waivers on Iranian and Russian oil, escalating energy market concerns amid conflict.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Mixed as Oil Remains Below $100 Amid Middle East Tensions",
+          "country": "Europe",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European markets closed mixed, with oil prices below $100, as investors monitor escalating Middle East geopolitical developments.",
+          "affected_sectors": [
+            "All",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Snap Stock Jumps 6% After Announcing 16% Global Workforce Cut Due to AI",
+          "country": "USA",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Snap shares rose 6% after revealing plans to cut 16% of its workforce, attributing the move to AI-driven efficiencies.",
+          "affected_sectors": [
+            "Technology",
+            "Social Media",
+            "Labor"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "RBI Allows NBFCs to Open Branches Without Prior Approval in Most Cases",
+          "country": "India",
+          "category": "Regulatory",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "India's RBI has eased regulations, allowing non-banking financial companies to open branches without prior approval.",
+          "affected_sectors": [
+            "Financials",
+            "Non-Banking Financial Companies (NBFCs)"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "US-Iran tensions escalate, impacting oil and economy; Fed Beige Book flags inflation risks."
     }
   }
 ]
