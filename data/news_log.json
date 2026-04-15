@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国の3月CPIが3.3%に急騰、イラン紛争がエネルギー価格と消費者信頼感に打撃",
-          "country": "USA",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国3月CPIはイラン紛争によるエネルギー価格高騰で3.3%に急騰。消費者信頼感は過去最低を記録。",
-          "affected_sectors": [
-            "Energy",
-            "Consumer Staples",
-            "Retail",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イランの脆弱な停戦合意により市場は不安定、原油価格も変動",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イランの脆弱な停戦で市場は不安定、原油価格も変動。ホルムズ海峡の閉鎖は供給懸念を維持。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "連邦準備制度理事会、地政学的ショックとインフレ急騰の中で政策説明の必要性に直面",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FRBは地政学的ショックと高インフレの中、金利据え置き予想も、状況説明の必要性に直面。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Interest-rate sensitive sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カナダの3月失業率は6.7%で安定、GDP成長は緩やか",
-          "country": "Canada",
-          "category": "Economic Data",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "カナダ3月失業率は6.7%で横ばい。1月GDPは小幅な成長に留まり、経済は安定を維持している。",
-          "affected_sectors": [
-            "Employment",
-            "Retail",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争がインフレと不確実性を助長、原油市場に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 07:30",
     "data": {
       "breaking_news": [
@@ -13664,6 +13597,93 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平協議再開の原則合意で地政学リスク後退。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米主要銀行、イラン紛争下で約500億ドルの利益計上",
+          "country": "US",
+          "category": "Banking",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン紛争が国際市場に不確実性をもたらす中、米国の主要銀行は第1四半期に合計約500億ドルの巨額な利益を計上し、金融セクターの堅調な収益性と回復力を示した。",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Snap、AIによる効率化で1000人解雇後、株価が急騰",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ソーシャルメディア企業Snapは、AIによる業務効率化を理由に約1000人の従業員を削減すると発表。このリストラ計画が市場で好感され、同社株は一時6%の急騰を見せた。",
+          "affected_sectors": [
+            "Technology",
+            "Social Media"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン紛争が世界的な債務水準押し上げのリスク警告",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "国際通貨基金（IMF）は、継続するイラン紛争が世界経済に深刻な衝撃を与え、結果として世界各国の債務水準を大幅に上昇させる潜在的リスクがあると警鐘を鳴らした。",
+          "affected_sectors": [
+            "All sectors",
+            "Government Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UBS会長、スイスの厳格な自己資本規制が金融競争力を阻害と警告",
+          "country": "Switzerland",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UBS会長は、スイス政府が導入を検討している銀行に対する新たな厳格な自己資本規制が、スイスの国際的な金融競争力を著しく阻害する可能性があると警告を発した。",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Allbirds、AIインフラ企業へ事業転換を発表し株価急騰",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "環境配慮型スニーカーで知られるAllbirds社は、従来の事業からAIインフラ関連への大幅な事業転換を発表。この戦略的シフトが投資家に評価され、同社株価は大きく上昇した。",
+          "affected_sectors": [
+            "Technology",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国Franco Manca、16店舗閉鎖で225人の雇用が危機",
+          "country": "UK",
+          "category": "Retail",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "英国で人気のピザチェーンFranco Mancaは、経営不振とコスト上昇を理由に国内16店舗の閉鎖を決定。これにより約225人の従業員が職を失う可能性があり、小売業の厳しい状況を浮き彫りにした。",
+          "affected_sectors": [
+            "Retail",
+            "Hospitality"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米銀行の好決算とAI関連の企業動向が注目される一方、イラン紛争が世界経済のリスク要因。"
     }
   }
 ]
