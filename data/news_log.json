@@ -1,99 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国インフレ加速、中東情勢緊迫化と原油価格高騰が主要因",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米CPIはガソリン価格高騰で加速し、年率3.3%に上昇。中東情勢の不確実性が原油高を招く。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Consumer Discretionary",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米消費者信頼感指数が過去最低水準に下落、インフレと中東紛争が重荷",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ミシガン大学消費者信頼感指数が47.6に急落し、記録的低水準。インフレと中東紛争への懸念が背景。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東和平交渉への期待と不確実性が原油価格の変動要因に",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米・イラン和平交渉への期待は一部市場を支えるが、中東情勢の不安定が続き原油価格に影響。",
-          "affected_sectors": [
-            "Energy",
-            "Global Markets",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カーライル、プライベートクレジットファンドの償還を制限",
-          "country": "US",
-          "category": "Financial Services",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Carlyle Groupがプライベートクレジットファンドの償還を制限し、プライベート市場の流動性懸念を示唆。",
-          "affected_sectors": [
-            "Financials",
-            "Asset Management",
-            "Private Equity"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Coreweave株急騰、Metaとの大型契約とNvidia関連需要が牽引",
-          "country": "US",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "CoreweaveがMetaとの契約締結とNvidia関連のAIサービス需要増加で株価が急騰。",
-          "affected_sectors": [
-            "Technology",
-            "AI",
-            "Data Centers"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "パロアルトネットワークス主導でソフトウェア株が売り優勢",
-          "country": "US",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "次期AIモデルの登場が企業ソフトウェア市場の再編懸念を呼び、パロアルトネットワークスが下落。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "Cybersecurity"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢とインフレ懸念が市場を圧迫、消費者信頼感は過去最低を記録。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 09:00",
     "data": {
       "breaking_news": [
@@ -13717,6 +13623,94 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平交渉進展期待でS&P 500が史上最高値に迫る。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "S&P 500が7000突破、史上最高値に迫る",
+          "country": "USA",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500が7000ポイントを突破し、史上最高値に迫る。銀行決算好調とイラン和平協議への期待が後押し。",
+          "affected_sectors": [
+            "Broader Market",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米主要銀行（MS, BofA）Q1決算、予想上回る好調",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレー、バンク・オブ・アメリカが決算予想を上回り、米経済の回復力と消費者の堅調な支出を示唆。",
+          "affected_sectors": [
+            "Financials",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン和平協議への期待高まる、トランプ大統領が紛争終結を示唆",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイラン紛争終結の可能性を示唆、市場の楽観を後押しし、世界のエネルギー価格を安定化。",
+          "affected_sectors": [
+            "Energy",
+            "Global Markets",
+            "Geopolitical Risk"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争影響で世界経済成長予測を下方修正",
+          "country": "Global",
+          "category": "Economic Outlook",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFはイラン戦争が世界経済の勢いを止めたとし、2026年の世界成長率予測を3.1%に下方修正し、インフレ見通しも上方修正。",
+          "affected_sectors": [
+            "Global Economy",
+            "All Sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国銀行システム、税金支払いで5000億ドル超の流動性枯渇に直面",
+          "country": "USA",
+          "category": "Market Liquidity",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国納税に伴う5000億ドル超の流動性流出が銀行システムに影響を及ぼす可能性があり、ストラテジストが警告。",
+          "affected_sectors": [
+            "Financials",
+            "Broader Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ASML株下落、売上高予測がアナリスト予想を下回る",
+          "country": "Netherlands",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ASMLの株価が5.4%下落。AI関連需要は堅調なものの、今後の売上高予測がアナリストの期待に届かず。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "S&P 500が7000突破。銀行決算好調とイラン和平協議期待で市場楽観。"
     }
   }
 ]
