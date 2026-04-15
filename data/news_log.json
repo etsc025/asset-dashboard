@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦合意で世界市場が急騰、原油価格は急落",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の停戦合意のニュースを受け、ダウ平均株価、S&P500、アジア市場を含む世界市場が急騰し、原油価格は1バレル95ドルを下回った。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争の世界的経済への恒久的影響を警告",
-          "country": "グローバル",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFのトップは、イラン戦争がたとえ平和が訪れても、世界経済に恒久的な傷跡を残す可能性があると警告した。",
-          "affected_sectors": [
-            "世界経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国、タタ電池工場に3億8000万ポンドの助成金を支給",
-          "country": "英国",
-          "category": "産業政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国政府は、タタグループのバッテリー工場建設に対し、3億8000万ポンドの助成金を供与すると発表した。",
-          "affected_sectors": [
-            "自動車",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "RBCがカナダ成長基金に最大10億ドル投資計画",
-          "country": "カナダ",
-          "category": "金融",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "RBCが新たなカナダ成長基金を通じて最大10億ドルを投資する計画を発表。",
-          "affected_sectors": [
-            "金融",
-            "投資"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "リドルが英国で50店舗を新規オープン予定",
-          "country": "英国",
-          "category": "小売業",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "スーパーマーケットチェーンのリドルは、今後1年間で英国に50店舗を新規オープンする計画を発表した。",
-          "affected_sectors": [
-            "小売業",
-            "建設業"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東停戦で市場はリスクオン、原油安と株高に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 14:00",
     "data": {
       "breaking_news": [
@@ -13412,6 +13337,70 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "地政学リスクと物価動向が市場を複雑に動かす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、中東情勢緩和期待で高騰し史上最高値に迫る",
+          "country": "米国",
+          "category": "金融市場, 地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国株式市場は、米国とイランの和平交渉再開への期待が高まり、原油価格が下落したことを受け、S&P 500が史上最高値まで上昇した。",
+          "affected_sectors": [
+            "株式市場",
+            "石油・ガス",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争を背景に2026年世界経済成長予測を下方修正",
+          "country": "グローバル",
+          "category": "経済, 地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFは、中東紛争の影響で2026年の世界経済成長率予測を3.1%に下方修正し、敵対行為が長期化すればさらなる経済悪化を警告した。",
+          "affected_sectors": [
+            "世界経済",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月の米生産者物価指数、予想を下回る上昇",
+          "country": "米国",
+          "category": "経済, インフレ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米生産者物価指数は0.5%上昇と、予想の1.1%を下回った。しかし、エネルギーコストの上昇により財価格は1.6%急騰した。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Amazon、衛星企業Globalstarを115.7億ドルで買収合意",
+          "country": "米国",
+          "category": "テクノロジー, M&A",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Amazonが衛星サービス事業者のGlobalstarを115.7億ドルで買収することに合意。これにより、Starlinkのような競合他社に対抗する。",
+          "affected_sectors": [
+            "テクノロジー",
+            "衛星通信",
+            "電気通信"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国株は中東情勢緩和期待で高騰; IMFは世界成長予測を下方修正。"
     }
   }
 ]
