@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "世界市場、米イラン停戦協議への期待で上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦協議進展への期待感から、世界の主要株式市場は概ね上昇。原油価格も連動して上昇した。",
-          "affected_sectors": [
-            "全体市場",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場、自動車・銀行株主導で大幅上昇",
-          "country": "India",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドのNiftyとSensexが1%超上昇。自動車と銀行セクターが牽引したが、IT株は下落した。",
-          "affected_sectors": [
-            "自動車",
-            "銀行",
-            "IT"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月インフレ率、エネルギー高騰で3.3%に急上昇",
-          "country": "US",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者物価指数はイラン紛争に起因するエネルギー価格高騰を受け3.3%に上昇した。",
-          "affected_sectors": [
-            "全体経済",
-            "エネルギー",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦協議進展で世界株上昇。原油動向に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 23:30",
     "data": {
       "breaking_news": [
@@ -13459,6 +13409,60 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イラン戦争の地政学リスクと和平交渉の進展に市場は注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "英国の鉄鋼輸出、EUの関税引き上げと割当量半減で危機に瀕",
+          "country": "英国",
+          "category": "貿易政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EUが英国の鉄鋼輸出に対する関税を倍増させ、割当量を半減させたため、英国の鉄鋼産業が重大なリスクに直面しています。",
+          "affected_sectors": [
+            "鉄鋼",
+            "製造業",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、グローバル金融市場は中東紛争と増幅リスクに直面（2026年4月報告書）",
+          "country": "グローバル",
+          "category": "地政学,マクロ経済,金融安定性",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFの2026年4月報告書は、グローバル金融市場が中東での進行中の紛争、インフレ圧力、金融引き締めのリスクに直面していると警告しています。",
+          "affected_sectors": [
+            "全セクター",
+            "エネルギー",
+            "防衛",
+            "金融",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン紛争激化で世界経済がリセッション、ホルムズ海峡封鎖で深刻なエネルギー危機のリスクと警告",
+          "country": "グローバル",
+          "category": "地政学,エネルギー,マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、イラン紛争の激化が世界的な景気後退を引き起こし、ホルムズ海峡の閉鎖が主要なエネルギー危機をもたらす可能性があると警告しています。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル貿易",
+            "全セクター"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "IMF、中東紛争とエネルギー危機による世界的リセッションを警告"
     }
   }
 ]
