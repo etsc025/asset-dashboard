@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US-Iran Ceasefire Doubts Fuel Oil Price Rebound, Global Stocks Fall",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Market Volatility",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦の不安定性により原油価格が上昇し、欧州およびロンドン株式市場が下落。ホルムズ海峡の混乱が懸念される。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争が世界経済に恒久的な傷跡を残すと警告",
-          "country": "Global",
-          "category": "Economics, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事は、イラン戦争が世界経済の見通しを暗くし、停戦が続いても恒久的な傷跡を残す可能性があると警告。",
-          "affected_sectors": [
-            "All sectors",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Citiが米国の住宅手頃感を高めるため600億ドルをコミット",
-          "country": "USA",
-          "category": "Banking, Real Estate, Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Citiは、米国の住宅手頃感を高め、25万戸の住宅ユニットを創出・維持するために600億ドルを投入すると発表した。",
-          "affected_sectors": [
-            "Real Estate",
-            "Banking",
-            "Construction"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インドIT株、TCSのQ4決算とAI懸念で下落",
-          "country": "India",
-          "category": "Earnings, Technology, Market Volatility",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "TCSのQ4決算が市場の期待を下回り、AIモデルの進展による収益浸食懸念からインドIT株が最大3%下落。",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦の不安定性、原油高騰と世界経済への影響に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-10 18:00",
     "data": {
       "breaking_news": [
@@ -13329,6 +13267,92 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米・イラン和平期待で株式市場が上昇、原油は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、イラン和平交渉期待で急騰、原油価格下落",
+          "country": "米国",
+          "category": "市場動向、地政学、商品",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国株はイラン和平交渉への期待から急騰し、S&P500は史上最高値に迫る勢い。原油価格も下落。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の株式市場（欧州、アジア）が大幅上昇",
+          "country": "欧州、アジア",
+          "category": "市場動向、地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧州・アジア市場も米国株に追随し大幅上昇。イラン和平交渉期待が投資家心理を改善。",
+          "affected_sectors": [
+            "広範な市場指数"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が大幅下落、インフレ懸念後退",
+          "country": "グローバル",
+          "category": "商品、地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン和平交渉期待で原油価格が大幅下落。インフレ懸念後退、中央銀行の金融政策に影響か。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが世界経済成長率予測を下方修正",
+          "country": "グローバル",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "IMFは2026年の世界経済成長率予測を下方修正、3.1%に。地政学リスクが影響。",
+          "affected_sectors": [
+            "広範な経済"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国3月卸売物価指数が加速",
+          "country": "米国",
+          "category": "経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の3月卸売物価指数は4%に加速。予想を下回ったものの、インフレ圧力は継続。",
+          "affected_sectors": [
+            "広範な経済"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "AmazonがGlobalstarを115.7億ドルで買収へ",
+          "country": "米国",
+          "category": "テクノロジー、M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Amazonが衛星通信企業Globalstarを115.7億ドルで買収合意。MuskのStarlinkに対抗。",
+          "affected_sectors": [
+            "衛星通信",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国・イラン和平交渉期待が市場を押し上げ、株価は上昇、原油価格は下落。"
     }
   }
 ]
