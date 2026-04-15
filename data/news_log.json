@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦の不安定化、原油価格を押し上げ",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイラン間の停戦が崩壊の兆しを見せ、中東での紛争継続。原油価格が上昇し、世界市場に不確実性をもたらす。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の生産者物価、3年ぶりにプラスに転換",
-          "country": "China",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の生産者物価指数が2026年3月に3年ぶりにプラスに転じ、商品価格高騰と国内需要回復が背景。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Commodities",
-            "Industrial goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "韓国中銀、中東情勢とインフレで金利を据え置き",
-          "country": "South Korea",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "韓国中央銀行は、中東情勢の不確実性と3月のインフレ率2.2%上昇を受け、政策金利を据え置いたと発表。",
-          "affected_sectors": [
-            "Financials",
-            "Export-oriented industries"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本、国内民間信用リスクは低いが世界動向を監視",
-          "country": "Japan",
-          "category": "Financial Stability",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "日本の財務大臣は国内民間信用リスクは低いとしながらも、世界市場と邦銀の海外エクスポージャーを監視している。",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦の不確実性が高まり、原油価格と世界市場に影響"
-    }
-  },
-  {
     "timestamp": "2026-04-10 16:00",
     "data": {
       "breaking_news": [
@@ -13345,6 +13282,99 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン情勢と金融機関の業績見通しが市場の方向性を左右。"
+    }
+  },
+  {
+    "timestamp": "2026-04-15 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、イラン協議再開期待と予想下回るPPIで上昇、S&P500は紛争前の水準回復",
+          "country": "USA",
+          "category": "Market Trends",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国株はイラン協議再開期待と予想を下回る生産者物価指数を受け上昇。S&P500は紛争前の水準を回復し、リスクオンムードが広がる。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ウェルズ・ファーゴの第1四半期決算が予想を下回り、株価が5%下落",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ウェルズ・ファーゴが第1四半期決算で主要指標を軒並み下回り、市場予想に届かず株価が5%下落。金融セクターに影響。",
+          "affected_sectors": [
+            "Financials",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oracle、Bloom Energyと1.2GWの電力供給契約を締結、データセンター需要に対応",
+          "country": "USA",
+          "category": "Corporate News",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OracleはBloom Energyと1.2GWの電力供給契約を締結。データセンター電力需要増大に対応し、代替エネルギー分野に注目が集まる。",
+          "affected_sectors": [
+            "Technology",
+            "Renewable Energy",
+            "Utilities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "CHF/JPYが急騰、日本銀行の4月利上げ確率が変動し市場は動向注視",
+          "country": "Global",
+          "category": "Forex",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "CHF/JPYが年初来高値に迫る上昇。日本銀行の4月利上げ確率が約42%で推移し、市場はBOJの金融政策決定に注目。",
+          "affected_sectors": [
+            "Forex",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFとIEA、イラン戦争長期化による世界経済への深刻な悪影響を警告",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFとIEAはイラン戦争の長期化が世界経済に深刻な悪影響を及ぼすと警告。成長見通しを下方修正し、エネルギー市場への懸念が強まる。",
+          "affected_sectors": [
+            "Global Economy",
+            "Energy",
+            "Trade",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SpaceXのIPO評価額、史上最大の2兆ドルに達する可能性",
+          "country": "Global",
+          "category": "Corporate Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イーロン・マスク氏率いるSpaceXのIPOが史上最大となる2兆ドル規模の評価額に達する可能性が報じられ、市場の注目を集める。",
+          "affected_sectors": [
+            "Technology",
+            "Aerospace",
+            "Venture Capital",
+            "Global Equities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米株はイラン協議期待で上昇、S&P500が戦前の水準回復。"
     }
   }
 ]
