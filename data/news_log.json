@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの停戦交渉が市場を動かす：株価は上昇、原油は下落",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦交渉が継続し、原油価格は下落、株式市場は週次で上昇するも不安定。",
-          "affected_sectors": [
-            "Energy",
-            "Financial",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF報告：為替レートの不確実性が米国銀行の貸出金利とバランスシートに影響",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMF報告は、米ドルの変動が米国銀行の貸出金利を押し上げ、バランスシートを縮小させると指摘。",
-          "affected_sectors": [
-            "Financial"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Kearney 2026 FDI信頼度指数でアジア太平洋地域が上位を占める",
-          "country": "Global",
-          "category": "Investment",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Kearneyの2026年FDI信頼度指数でアジア太平洋が上位を独占。地政学的な緊張下でも投資魅力度が高い。",
-          "affected_sectors": [
-            "Technology",
-            "Manufacturing",
-            "Infrastructure",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本のJP225指数、強い週間および年間上昇で取引を終える",
-          "country": "Japan",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "日本のJP225指数は4月10日に1.84%上昇し、週間および年間で堅調な推移を示す。",
-          "affected_sectors": [
-            "All sectors in Japan"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド・ルピー、世界的な緊張と原油高で対米ドルで下落",
-          "country": "India",
-          "category": "Currency",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "インド・ルピーは、世界的な緊張と原油高を受け、対米ドルで92.68に下落し、脆弱性を示す。",
-          "affected_sectors": [
-            "Import/Export",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東停戦交渉が市場を動かす。原油安、株価は堅調も警戒感。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 14:30",
     "data": {
       "breaking_news": [
@@ -13999,6 +13924,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢緩和の期待が市場を支える一方、IMFは世界債務増加を警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "S&P 500がイラン戦争懸念を払拭し史上最高値を更新",
+          "country": "US",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国市場S&P500がイラン戦争懸念を払拭し過去最高値を更新。投資家は和解交渉に期待を示している。",
+          "affected_sectors": [
+            "Technology",
+            "Finance",
+            "Broader Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米連邦準備制度理事会ベージュブック、イラン戦争で米企業が様子見姿勢",
+          "country": "US",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米連邦準備制度理事会のベージュブックによると、イラン戦争の影響で米企業は投資・雇用に慎重姿勢。エネルギー価格上昇も懸念。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy",
+            "Corporate Investment"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、ロシア・イラン産原油の制裁免除を更新せず",
+          "country": "US, Global",
+          "category": "Geopolitics, Energy Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国がロシア・イラン産原油の制裁免除措置の更新を拒否。世界の原油供給と価格に大きな影響を与える可能性。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド準備銀行、ノンバンク金融会社への支店開設規制を緩和",
+          "country": "India",
+          "category": "Financial Regulation",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド中央銀行がノンバンク金融機関に対し、大半の支店開設について事前承認不要とする方針を発表。",
+          "affected_sectors": [
+            "Financial Services",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米市場は地政学リスクを克服しS&P500が最高値を更新。イラン戦争の行方と原油価格が焦点。"
     }
   }
 ]
