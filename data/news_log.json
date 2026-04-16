@@ -1,66 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉進展でドル指数下落、市場は地政学リスクを注視",
-          "country": "USA",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン間の和平交渉進展期待でドル指数が99を下回る。中東情勢の動向が引き続き焦点に。",
-          "affected_sectors": [
-            "Forex",
-            "Energy",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月CPIが0.9%上昇、年間3.3%に加速。FRBの利下げ期待後退",
-          "country": "USA",
-          "category": "Inflation, Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の3月CPIがエネルギー価格主導で大幅上昇し、年率3.3%。FRBの利下げ観測を後退させる。",
-          "affected_sectors": [
-            "All Sectors",
-            "Financials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米株式市場は終日混迷、S&P500は下落。中東情勢とCPIを消化",
-          "country": "USA",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米株式市場は金曜日に混迷し、S&P500は0.1%下落。中東情勢とCPIデータが影響。",
-          "affected_sectors": [
-            "Equities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米連邦準備制度理事会、バーク＆ハーバート金融サービス社による申請を承認",
-          "country": "USA",
-          "category": "Banking Regulation",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "米連邦準備制度理事会がバーク＆ハーバート金融サービス社の申請を承認。",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン和平交渉と米CPI高騰が焦点。市場は原油・金融政策に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-12 06:30",
     "data": {
       "breaking_news": [
@@ -14562,6 +14501,69 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東紛争の進展と企業決算が市場を動かす中、地政学リスクとインフレ懸念が続く"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東停戦期待で世界株が上昇",
+          "country": "Global",
+          "category": "Geopolitics, Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の停戦延長期待により、世界中の株式市場が上昇し、早期の損失から回復した。",
+          "affected_sectors": [
+            "Stock Markets",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン停戦期待で原油価格が急落",
+          "country": "Global",
+          "category": "Commodities, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦への期待が高まり、原油価格が急落し、市場の供給懸念が後退した。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米FRB高官、中東戦争がインフレ圧力高めると指摘",
+          "country": "United States",
+          "category": "Central Bank, Economics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米ニューヨーク連銀総裁が、中東での紛争が既にインフレ圧力を高めていると発言。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "クウェート中央銀行、金融安定化策を発表",
+          "country": "Kuwait",
+          "category": "Central Bank, Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "クウェート中央銀行が、地域紛争による市場混乱から国内銀行を保護するための措置を導入。",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢の沈静化期待が世界市場を押し上げ、原油急落。"
     }
   }
 ]
