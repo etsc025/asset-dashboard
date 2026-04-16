@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意巡り市場混乱、原油価格下落も不確実性残る",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦合意を巡り市場は混乱。原油価格は下落したが、中東情勢の不確実性が残り、株価は一進一退の展開。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東地政学リスク高まる、イスラエル・レバノン緊張とホルムズ海峡懸念",
-          "country": "中東諸国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦が不安定な中、イスラエルとレバノンの緊張高まり、ホルムズ海峡封鎖懸念で欧州ジェット燃料不足も。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦の動向と中東情勢緊迫化が来週の市場を左右"
-    }
-  },
-  {
     "timestamp": "2026-04-12 03:30",
     "data": {
       "breaking_news": [
@@ -14304,6 +14267,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米・イラン停戦延長協議進展中、市場は地政学リスクを注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Citizens Financial Group、Q1好決算を発表",
+          "country": "USA",
+          "category": "Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Citizens Financial GroupがQ1純利益5.17億ドルを報告、前年比39%増、EPSは1.13ドルで47%増。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ユーロ圏最終インフレ率、予想上回る上昇",
+          "country": "Eurozone",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ユーロ圏の最終インフレ率がエネルギー価格高騰により予想を上回り、年率2.3%に上昇。",
+          "affected_sectors": [
+            "All sectors",
+            "Consumer Staples",
+            "Interest Rate Sensitive"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "TSMC、AIチップ需要で収益見通しを上方修正",
+          "country": "Taiwan",
+          "category": "Earnings",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "TSMCが好調な決算を発表し、AI駆動のチップ需要継続により収益見通しを上方修正した。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors",
+            "Global Supply Chain"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国市場、中東情勢の緊張緩和期待と企業決算で最高値更新",
+          "country": "USA",
+          "category": "Market Movement",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500とナスダックが中東情勢の緊張緩和期待と堅調な企業決算を受け過去最高値を更新。",
+          "affected_sectors": [
+            "All sectors",
+            "Technology",
+            "Growth Stocks"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド市場、銀行株安と原油価格上昇で下落",
+          "country": "India",
+          "category": "Market Movement",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Nifty50とSensexが銀行株と原油価格上昇により下落、最近の上昇からの利益確定売りも。",
+          "affected_sectors": [
+            "Banking",
+            "Energy",
+            "General Equities"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東緊張緩和期待とAI関連好決算が市場を牽引。"
     }
   }
 ]
