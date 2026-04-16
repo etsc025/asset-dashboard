@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "欧州株は中東停戦の不確実性の中、レバノン攻撃でイスラエルが非難され上昇幅縮小",
-          "country": "欧州",
-          "category": "地政学, 株式",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの脆弱な停戦合意の中、イスラエルによるレバノン攻撃で地政学的緊張が再燃。欧州株は上昇したものの、投資家の不確実性は依然高く、市場の慎重姿勢が続く。",
-          "affected_sectors": [
-            "防衛",
-            "エネルギー",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株はCPI発表と不安定な停戦懸念の中でまちまちの取引",
-          "country": "米国",
-          "category": "マクロ経済, 株式, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "金曜日の米国株は、発表された最新のCPIデータを消化し、中東における不安定な停戦合意を巡る地政学的緊張が市場を圧迫する中、まちまちの動きを見せた。",
-          "affected_sectors": [
-            "消費財",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢の不安定化で原油価格は高止まり、停戦交渉は依然不確実",
-          "country": "グローバル",
-          "category": "エネルギー, 地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦交渉は依然不確実で、中東情勢の不安定化により世界の原油価格は高止まり。エネルギー市場とインフレへの懸念が強まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "消費者向けサービス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東停戦の不確実性が市場センチメントを左右、原油高止まりに警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-12 08:00",
     "data": {
       "breaking_news": [
@@ -14736,6 +14684,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢の緊張緩和期待と米国の経済指標改善が世界株式市場を押し上げている。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国がイスラエル・レバノン停戦を発表、世界株が上昇し原油が急落",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国がイスラエルとレバノンの10日間の停戦合意を発表。このニュースを受け、世界株は急騰し、原油価格は大幅に下落した。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "航空",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国経済が第1四半期に5%成長、米国の失業保険申請件数も減少",
+          "country": "中国, 米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国経済は第1四半期に5%の堅調な成長を遂げ、米国の失業保険申請件数も引き続き減少した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "製造",
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "トランプ氏、パウエルFRB議長の解任を示唆",
+          "country": "米国",
+          "category": "金融政策, 政治",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ前大統領がジェローム・パウエルFRB議長を解任する可能性を示唆し、金融市場に不確実性をもたらしている。",
+          "affected_sectors": [
+            "金融",
+            "全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国の停戦発表で世界株高、原油急落。政治的・経済的不確実性は残る。"
     }
   }
 ]
