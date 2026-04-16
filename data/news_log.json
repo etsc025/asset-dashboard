@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化を受け、米国の3月インフレ率が上昇",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランとの紛争を背景としたエネルギーコストの高騰により、米国の3月インフレ率が上昇。経済の不確実性が増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "小売",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドSEBI、株式操作で39事業体を禁止",
-          "country": "インド",
-          "category": "規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド証券取引委員会(SEBI)が、RRP Semiconductor株の不正操作に関与したとして39の個人および事業体を一時的に禁止。",
-          "affected_sectors": [
-            "金融",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、銀行幹部を召喚しAIモデルのサイバーリスクを議論",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国の規制当局が、Anthropicの最新AIモデルに関連するサイバーリスクについて銀行幹部を招集し、懸念を表明。",
-          "affected_sectors": [
-            "銀行",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化と米インフレ率上昇が市場に重圧。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 19:00",
     "data": {
       "breaking_news": [
@@ -14077,6 +14027,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US-Iran peace hopes drive global stock rally, oil down."
+    }
+  },
+  {
+    "timestamp": "2026-04-16 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株市場、イラン和平期待で過去最高値更新",
+          "country": "USA",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国株はイランとの和平交渉再開期待でS&P 500とNasdaqが過去最高値を更新。地政学的緊張緩和が市場を押し上げ、リスクオン継続中。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、イラン和平期待で急落・安定",
+          "country": "Global",
+          "category": "Commodity",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン和平交渉再開の兆しを受け、原油価格は急落後に安定。地政学的リスク緩和でエネルギー供給懸念が後退。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Snap Inc.、AI効率化のため1000人規模の人員削減",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Snapchat親会社のSnap Inc.、AI活用による効率化を理由に約1000人の従業員を削減。コスト削減への動き。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソーシャルメディア",
+            "雇用"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Allbirds、AIコンピューティングへ事業転換で株価急騰",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "環境配慮型シューズのAllbirdsがAIコンピューティング分野への事業転換を発表。市場の期待を受け株価が400%超急騰。",
+          "affected_sectors": [
+            "テクノロジー",
+            "小売",
+            "AI"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン和平期待で世界市場リスクオン、米国株が過去最高値。"
     }
   }
 ]
