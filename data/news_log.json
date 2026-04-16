@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖を指示、イランとの交渉決裂",
-          "country": "USA",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランとの和平交渉決裂後、ホルムズ海峡の即時封鎖を指示。原油供給に重大な影響の恐れが市場に波及中。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Trade",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖指示で原油価格が急騰",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国によるホルムズ海峡封鎖命令を受け、世界の原油価格が急騰。インフレ圧力増大の懸念が強まる。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国インフレ、エネルギー高で上昇し消費者信頼感は急落",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ封鎖によるエネルギー価格高騰を受け、米国の3月インフレが上昇。消費者信頼感が大幅に低下した。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Financials",
-            "Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ハンガリー総選挙、本日実施 – EUに影響の可能性",
-          "country": "Hungary",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ハンガリーで本日、重要な総選挙が実施されている。結果次第でEU内の政治経済に影響が及ぶ可能性。",
-          "affected_sectors": [
-            "European Equities",
-            "Government Bonds",
-            "EU Politics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン交渉決裂、ホルムズ封鎖指示で原油急騰・市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-13 04:00",
     "data": {
       "breaking_news": [
@@ -15052,6 +14983,86 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米中東和平期待で市場はRISK_ON、米国株は史上最高値更新。Netflix決算は軟調。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株がイラン停戦期待で最高値を更新",
+          "country": "米国",
+          "category": "市場、地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国の株式市場（S&P 500、Nasdaq）は、米国とイランの停戦交渉延長への楽観論と好調な企業収益により、新たな最高値を記録しました。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "広範な市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争により欧州がジェット燃料不足に直面",
+          "country": "欧州",
+          "category": "地政学、エネルギー、サプライチェーン",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IEAのトップは、イラン紛争により欧州のジェット燃料供給が約6週間分しか残っておらず、近いうちにフライト欠航のリスクがあると警告しました。",
+          "affected_sectors": [
+            "航空",
+            "物流",
+            "エネルギー",
+            "旅行・観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国の第1四半期GDPが予想を上回るも小売売上高は低迷",
+          "country": "中国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国の第1四半期GDPは前年比5.0%増で予想を上回りましたが、3月の小売売上高は予想を下回り、回復の不均一性を示唆しています。",
+          "affected_sectors": [
+            "製造業",
+            "小売",
+            "消費財",
+            "国際貿易"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "AccelがAIおよび後期段階のスタートアップ向けに50億ドルのファンドを調達",
+          "country": "グローバル",
+          "category": "ベンチャーキャピタル、テクノロジー、AI",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ベンチャーキャピタル企業Accelは、人工知能および後期段階のスタートアップに世界的に投資するため、50億ドルのファンドを確保しました。",
+          "affected_sectors": [
+            "テクノロジー",
+            "人工知能",
+            "ベンチャーキャピタル"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU、凍結されたロシア資産から14億ユーロをウクライナ支援に活用",
+          "country": "欧州連合",
+          "category": "地政学、金融制裁",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧州連合は、凍結されたロシア中央銀行資産から得られた14億ユーロの予想外の利益をウクライナ支援のために割り当てました。",
+          "affected_sectors": [
+            "公共財政",
+            "防衛"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "グローバル市場はイラン停戦期待で上昇、欧州はジェット燃料危機に直面。"
     }
   }
 ]
