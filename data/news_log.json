@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、中東情勢とインフレ動向注視でまちまちも週足は上昇",
-          "country": "米国",
-          "category": "市場動向, 地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国株は中東情勢とインフレ動向を注視し、終値はまちまちも週足では上昇。テクノロジー株が堅調。",
-          "affected_sectors": [
-            "テクノロジー",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争が経済に波及、米CPIが2年ぶりの高水準に急騰",
-          "country": "米国",
-          "category": "マクロ経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン戦争が経済に波及し、米国の消費者物価指数はガソリン価格高騰で2年ぶりの高水準に急騰。",
-          "affected_sectors": [
-            "エネルギー",
-            "一般消費財",
-            "小売",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化、石油・ガス供給に損害、中国サプライチェーンにも影響",
-          "country": "中東, 中国",
-          "category": "地政学, サプライチェーン, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化で石油・ガス供給に損害。イラン戦争がサプライチェーンを圧迫し、中国経済にも影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "物流",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドル為替レートの不確実性が米国銀行セクターの融資に影響",
-          "country": "米国",
-          "category": "金融政策, 銀行",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドル為替レートの変動増大が米国銀行セクターに影響、外国銀行の融資市場からの撤退で信用基準が厳格化。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "JPモルガンCEOダイモン氏、金利と資産評価に関するバフェット氏の警告を繰り返す",
-          "country": "グローバル",
-          "category": "マクロ経済, 市場見通し",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "JPモルガンCEOダイモン氏が金利の資産価格への影響を警告。バフェット氏の過去の懸念と同様に市場下落を示唆。",
-          "affected_sectors": [
-            "金融サービス",
-            "全資産クラス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化によるインフレ加速とサプライチェーン混乱"
-    }
-  },
-  {
     "timestamp": "2026-04-11 17:30",
     "data": {
       "breaking_news": [
@@ -14038,6 +13960,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東停戦期待で市場はリスクオン、IMFは世界経済の債務とインフレリスクを警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "片山財務相、日米財務相会談で金融政策は議論せず",
+          "country": "Japan, United States",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "片山財務相は、日米財務相会談で金融政策について議論しなかったと発表し、市場の憶測を鎮静化させた。",
+          "affected_sectors": [
+            "銀行",
+            "証券",
+            "外為市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ECBセントーノ理事、ユーロ圏経済にさらなる刺激策が必要と発言",
+          "country": "Eurozone",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECBのセントーノ理事が、ユーロ圏経済には欧州中央銀行による追加の刺激策が必要であるとの見解を示した。",
+          "affected_sectors": [
+            "銀行",
+            "欧州株式",
+            "債券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン革命防衛隊、対イスラエル攻撃で40発のミサイル使用を公表",
+          "country": "Iran, Israel",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン革命防衛隊が、イスラエルへの攻撃で40発のミサイル（新型を含む）を使用したと発表、軍の主力は未展開とも言及。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イスラエル、空域を日曜午後2時に再開予定と報道",
+          "country": "Israel",
+          "category": "Geopolitics, Aviation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イスラエルメディアの報道によると、イスラエルは空域を日曜日の午後2時（現地時間）に再開する予定である。",
+          "affected_sectors": [
+            "航空",
+            "観光",
+            "エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、ミサイル使用報道で市場に警戒感。"
     }
   }
 ]
