@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "インド市場規制当局、RRP Semicon株価操作で39社を排除",
-          "country": "インド",
-          "category": "規制",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "SEBIは、RRP Semiconの株価を不当に吊り上げたとして、39の事業体を市場から排除する措置を取った。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのマイクロファイナンス機関向けに「セーフガード」の継続を勧告",
-          "country": "インド",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの主要なマイクロファイナンス団体であるSa-Dhanは、財政的に脆弱な層への融資基準の維持を強調。",
-          "affected_sectors": [
-            "金融",
-            "マイクロファイナンス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "SEBI、代替投資ファンド（AIF）への幅広い規制を明確化",
-          "country": "インド",
-          "category": "規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの市場規制当局SEBIは、AIFの各スキームが最低20の投資家を含み、単一投資家が25%を超えないよう指示。",
-          "affected_sectors": [
-            "金融",
-            "資産運用"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "JPMorgan、テスラ株60%急落の可能性を警告 - 在庫急増で",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "JPMorganは、テスラの未販売車両在庫が記録的な水準に達しており、株価が年末までに60%下落する可能性があると指摘。",
-          "affected_sectors": [
-            "自動車",
-            "テクノロジー",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3月CPIレポート詳細分析: インフレは見た目よりも悪い",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月のCPIレポートが発表され、インフレ状況が懸念よりも悪化している可能性が分析で示唆された。",
-          "affected_sectors": [
-            "全セクター",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "インド規制当局が株価操作で39社排除。テスラ株急落の警告、米3月CPIのインフレ懸念増大。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 15:30",
     "data": {
       "breaking_news": [
@@ -13991,6 +13915,57 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米住宅景況感悪化、トランプ氏のFRB議長解雇脅迫が市場の不確実性を高める。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢の不安定化と米イラン交渉が世界の原油・株式市場に影響",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の緊迫化と米イラン停戦交渉の行方が原油価格と株式市場に大きな影響を与え、リスク回避と期待が交錯。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Global Trade",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金融AI市場、2035年までに4.38兆ドル規模への急成長を予測",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "金融分野のAI市場が2035年までに4.38兆ドルに達する見込みで、リスク管理や自動化を加速。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology",
+            "Fintech"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "主要米銀が堅調な第1四半期決算を発表、株式トレーディング収入が好調",
+          "country": "United States",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "大手米銀が好調な第1四半期決算を発表し、株式トレーディング収入や資産流入が堅調。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢の不安定化と米イラン交渉が市場の主要な焦点。"
     }
   }
 ]
