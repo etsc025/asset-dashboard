@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ADB、インドの成長予測を上方修正",
-          "country": "インド",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "アジア開発銀行はインドの今年度成長予測を6.5%から6.9%に引き上げ。国内需要の強さが背景にあると報告。",
-          "affected_sectors": [
-            "金融",
-            "株式市場",
-            "インフラ"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン紛争が世界経済危機を引き起こす可能性",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランでの紛争が世界経済に深刻な影響を与え、ガソリン価格高騰やサプライチェーン混乱など広範囲に及ぶ懸念が浮上。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "農業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイラン、14日間の停戦に合意",
-          "country": "グローバル (中東)",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "4月7日、パキスタン仲介で米国とイラン間の14日間停戦が発効。中東情勢の戦略的課題は依然残る。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Ally Financial、信用動向と企業文化で高評価",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Ally Financialがウォール街のアナリストから堅実な信用動向で評価され、企業文化でも賞を受賞した。",
-          "affected_sectors": [
-            "金融",
-            "消費者金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争が世界経済危機を招く懸念。エネルギー価格高騰とサプライチェーン混乱に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 19:30",
     "data": {
       "breaking_news": [
@@ -14093,6 +14028,99 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン和平期待で世界市場リスクオン、米国株が過去最高値。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国の第1四半期GDPが予想を上回る5%成長を達成",
+          "country": "中国",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国の2026年第1四半期GDPが5%成長、堅調な輸出と支出が牽引し市場予想を上回った。",
+          "affected_sectors": [
+            "世界市場",
+            "製造業",
+            "輸出関連産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AllbirdsがAIコンピューティングへ事業転換、株価が急騰",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Allbirdsがスニーカー事業からAIコンピューティングへ転換計画を発表、株価が500%超急騰した。",
+          "affected_sectors": [
+            "小売業",
+            "テクノロジー",
+            "AI"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン和平交渉への期待で世界株式市場が上昇",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉への期待から世界の株式市場が上昇、アジア市場は記録的な高値。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドの個人取引活動が減速、証券会社の顧客数が減少",
+          "country": "インド",
+          "category": "金融市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "市場変動によりインドの主要証券会社の顧客数が減少し、個人取引活動の減速を示唆。",
+          "affected_sectors": [
+            "金融サービス",
+            "証券業",
+            "個人投資"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SEBI、IPO発行規模の最大50%調整を承認し資金調達を促進",
+          "country": "インド",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SEBIはIPO新規発行規模を最大50%まで再調整可能とし、資金調達を容易に。",
+          "affected_sectors": [
+            "金融サービス",
+            "資本市場",
+            "投資銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏が中国の習主席にイランへの武器供与停止を要請",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ氏が中国の習主席にイランへの武器供与を行わないよう要請、緊張緩和への動きか。",
+          "affected_sectors": [
+            "防衛",
+            "エネルギー",
+            "国際貿易"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平期待と中国GDP好調で市場リスクオン、地政学リスク注視。"
     }
   }
 ]
