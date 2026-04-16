@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン協議決裂、原油価格高騰と市場の緊張再燃",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン協議決裂、原油価格高騰と地政学リスク再燃で市場に緊張。インフレ懸念も増加。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月CPIが急上昇、インフレ懸念が再燃",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米3月CPIが0.9%上昇、ガソリン価格高騰が主因で過去4年で最大。インフレ懸念が再燃し消費に影響。",
-          "affected_sectors": [
-            "一般消費財",
-            "小売",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢の緊張再燃でグローバル市場にボラティリティ",
-          "country": "グローバル",
-          "category": "市場センチメント",
-          "impact": "HIGH",
-          "direction": "RISK_OFF",
-          "summary": "中東情勢の緊張再燃。米イラン関係悪化で市場はボラティリティ警戒、安全資産へ資金移動。",
-          "affected_sectors": [
-            "全般",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン協議決裂、原油高騰とインフレ加速の懸念"
-    }
-  },
-  {
     "timestamp": "2026-04-13 02:30",
     "data": {
       "breaking_news": [
@@ -15017,6 +14965,68 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global stocks rally on Iran peace hopes, S&P 500 hits new high."
+    }
+  },
+  {
+    "timestamp": "2026-04-17 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Stocks Rally on Hopes for Middle East Peace Talks",
+          "country": "Global",
+          "category": "Geopolitics, Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランとイスラエル間の和平交渉再開への期待と一時的な停戦が、世界の株式市場を押し上げ、S&P 500とナスダックは史上最高値を更新しました。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BNY MellonとPepsiCoが好調な第1四半期決算を発表",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バンク・オブ・ニューヨーク・メロンは第1四半期に過去最高の収益と利益を記録し、ペプシコも値引きが販売量増加に寄与し、予想を上回る決算を発表しました。",
+          "affected_sectors": [
+            "Financial Services",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EUがGoogleにデジタル市場法に基づく検索データ共有を要求",
+          "country": "European Union",
+          "category": "Regulation, Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧州委員会は、Googleに対し、デジタル市場法遵守のため、サードパーティ検索エンジンへの検索データアクセス許可を義務付けました。",
+          "affected_sectors": [
+            "Technology",
+            "Internet Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の経済指標はまちまち：鉱工業生産が低下、失業保険申請は減少",
+          "country": "USA",
+          "category": "Economic Indicator",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "3月の米国の鉱工業生産は予想外に低下しましたが、失業保険申請は減少し、製造業の一部の弱さにもかかわらず、労働市場の回復力を示しました。",
+          "affected_sectors": [
+            "Manufacturing",
+            "Labor Market"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東和平への期待が世界市場を過去最高値へ押し上げる。"
     }
   }
 ]
