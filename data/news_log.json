@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月CPI、エネルギー価格高騰で年率3.3%に上昇、2024年5月以来の高水準",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国3月CPIはエネルギー価格高騰により年率3.3%に上昇、2024年5月以来の高水準を記録。インフレ加速が市場に警戒感を広げている。",
-          "affected_sectors": [
-            "Energy",
-            "Consumer Discretionary",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米財務長官とFRB議長、Anthropic AIモデルに関連するサイバーリスクについて銀行に警告",
-          "country": "USA",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米財務長官とFRB議長は、Anthropic AIモデルが金融システムにもたらす潜在的サイバーリスクに対し、主要銀行に注意喚起を行った。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Cybersecurity"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ADBがASEANの金融セクター支援に300億ドルのファシリティを提案",
-          "country": "ASEAN",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ADBは第13回ASEAN財務相・中央銀行総裁会議で、2026-2030年の金融セクター計画支援のため300億ドルの施設を提案。",
-          "affected_sectors": [
-            "Financials",
-            "Infrastructure",
-            "Green Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア開発銀行、インドの成長予測を6.5%から6.9%に上方修正",
-          "country": "India",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "アジア開発銀行はインドの今年度経済成長予測を6.5%から6.9%に上方修正。堅調な国内需要と金融状況緩和が背景。",
-          "affected_sectors": [
-            "Indian Equities",
-            "Emerging Markets"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米副大統領がイラン和平協議のためパキスタンへ、中東情勢は緊迫",
-          "country": "Middle East",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米副大統領がイラン和平協議のためパキスタンへ訪問。中東情勢は緊迫し、原油価格と世界経済への影響が懸念される。",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Global Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米インフレ加速と中東情勢緊迫化で市場に警戒感。AI金融リスクも浮上。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 16:30",
     "data": {
       "breaking_news": [
@@ -13994,6 +13916,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "地政学的緊張と石油制裁が経済不確実性を高める"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東混乱でIMFに金融支援要請、アフリカなど12カ国が対象。",
+          "country": "複数国（アフリカ、中東）",
+          "category": "国際金融, 地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢悪化を受け、アフリカなど12カ国がIMFに200億～500億ドルの金融支援を要請。世界経済の不安定化を示唆。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "コモディティ",
+            "新興国経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "シカゴ連銀総裁、FRBはイラン紛争と関税の「二重の危険」に直面と警告。",
+          "country": "米国",
+          "category": "金融政策, 地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "シカゴ連銀総裁が、FRBがイラン紛争と関税による経済的リスクに直面と警告。金融政策に影響の可能性。",
+          "affected_sectors": [
+            "全セクター",
+            "貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイランが停戦2週間延長を検討、ホルムズ海峡封鎖継続でエネルギー市場は不安定。",
+          "country": "米国, イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン、停戦延長検討もホルムズ海峡封鎖が継続。エネルギー価格と世界貿易に影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "パキスタンが暗号資産規制を7年ぶりに解除、銀行のサービス提供を許可。",
+          "country": "パキスタン",
+          "category": "暗号通貨規制, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "パキスタン中央銀行が7年間の暗号資産禁止を撤廃。銀行が認可業者にサービス提供可となり市場活性化期待。",
+          "affected_sectors": [
+            "暗号通貨",
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金価格が上昇レンジをブレイクする可能性、中東情勢とドル安が背景。",
+          "country": "グローバル",
+          "category": "コモディティ, 市場分析",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "金価格は米イラン和平協議進展への期待によるドル安を受け上昇、レンジブレイクの可能性があり注目。",
+          "affected_sectors": [
+            "貴金属",
+            "コモディティ"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の緊迫化とFRBのリスク警告が市場を動揺。地政学リスクに注視。"
     }
   }
 ]
