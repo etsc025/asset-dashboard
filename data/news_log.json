@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉決裂、S&P500先物とビットコイン下落、原油高騰",
-          "country": "グローバル",
-          "category": "地政学 / 市場変動",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの和平交渉が合意に至らず決裂。S&P 500先物とビットコインが下落し、原油価格は上昇した。中東情勢の緊迫化が市場に重圧。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "暗号通貨",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF・世銀春季会合、中東紛争の影響で世界経済予測を下方修正へ",
-          "country": "グローバル",
-          "category": "マクロ経済 / 政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFと世界銀行は春季会合で、中東紛争の経済的影響を鑑み、世界経済の成長予測を下方修正し、インフレ予測を上方修正する見込み。",
-          "affected_sectors": [
-            "全般",
-            "政府債務",
-            "新興市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "モルガン・スタンレーが最安値のビットコインETFをローンチ",
-          "country": "米国",
-          "category": "暗号通貨 / 金融商品",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "モルガン・スタンレーが市場で最も手数料の低いビットコインETF (MSBT) を立ち上げ、初日に多額の資金流入を記録し、ビットコイン市場に追い風。",
-          "affected_sectors": [
-            "金融サービス",
-            "暗号通貨",
-            "投資ファンド"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン和平交渉決裂、中東情勢緊迫化で世界経済に重圧。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 00:30",
     "data": {
       "breaking_news": [
@@ -14911,6 +14859,110 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢によるインフレ懸念と独経済成長下方修正が市場圧迫"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株式市場、S&P500とナスダックが史上最高値を更新後、小幅反落",
+          "country": "USA",
+          "category": "Market Performance / Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P500が7000、ナスダックが24000を突破し史上最高値を更新。中東和平への期待が背景だが、その後利益確定売りも。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "グローバル経済"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、イランへの経済的圧力を強化する方針、和平交渉続く中",
+          "country": "USA / Iran",
+          "category": "Geopolitics / Sanctions / Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国財務省はイランに対する二次制裁を警告。一方、中東の緊張緩和に向けた外交努力が進行中。",
+          "affected_sectors": [
+            "エネルギー",
+            "国際貿易",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "チャールズ・シュワブ、Q1決算で収益が予想を下回り株価10%下落",
+          "country": "USA",
+          "category": "Corporate Earnings / Financials",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "シュワブの第1四半期決算は収益予想に届かず、純受取利息が低下。株価は10%下落した。",
+          "affected_sectors": [
+            "金融",
+            "証券仲介"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ペプシコ、Q1決算が予想を上回るも世界経済の変動性に警鐘",
+          "country": "USA",
+          "category": "Corporate Earnings / Consumer Staples",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ペプシコはQ1決算で予想を上回る好業績を発表したが、地政学的紛争による世界経済の変動性に注意喚起。",
+          "affected_sectors": [
+            "生活必需品",
+            "食品・飲料"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "原油価格が中東情勢の緊張を受けて続伸",
+          "country": "Global",
+          "category": "Commodities / Energy / Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢の継続的な不確実性を反映し、ブレント原油価格が1%上昇するなど原油価格が上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、中小企業向け20%控除を恒久化し、メインストリートを支援",
+          "country": "USA",
+          "category": "Economic Policy / Taxation",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国で中小企業向け20%控除が恒久化され、数百万の中小企業に税制上の確実性と救済をもたらす。",
+          "affected_sectors": [
+            "中小企業",
+            "様々な国内産業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド株式市場、銀行株と利益確定売りで下落",
+          "country": "India",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドの主要株価指数は、銀行株の重荷と最近の株価上昇後の利益確定売りで下落。原油価格も懸念材料。",
+          "affected_sectors": [
+            "金融",
+            "市場全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国市場は中東和平期待で記録更新も、イラン情勢と原油高で反落。"
     }
   }
 ]
