@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦合意、原油安・NY株急反発",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの2週間の停戦合意で原油価格が下落、NYダウは大幅反発し、市場に安心感が広がった。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡の通航困難継続、燃料供給に懸念",
-          "country": "Global",
-          "category": "Supply Chain",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米イラン停戦後もホルムズ海峡の通航は円滑でなく、EU空港はジェット燃料危機を警告、サプライチェーンの不確実性が続く。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月CPI予想上回る0.9%上昇、FRB利下げ観測後退",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米消費者物価指数が予想を上回る0.9%上昇。高インフレでFRBの4月利下げ期待が後退し、金利据え置き確率が上昇。",
-          "affected_sectors": [
-            "All Sectors",
-            "Technology",
-            "Interest-rate Sensitive"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコイン7.3万ドル突破、中東緊張緩和とETF流入が押し上げ",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東地政学的緊張の緩和と大規模なビットコインETFへの資金流入が続き、ビットコイン価格は7.3万ドルに到達した。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Fintech"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦で株高も、ホルムズ海峡と米CPIに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 21:30",
     "data": {
       "breaking_news": [
@@ -14204,6 +14139,93 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン緊張緩和で世界株高、原油安。S&P500が史上最高値更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US-Iran Peace Talks Drive Global Market Rally, Oil Prices Ease",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の和平交渉期待が高まり、原油価格は95ドルを下回り、ウォール街やアジア市場は上昇。インド市場も好調。",
+          "affected_sectors": [
+            "Energy",
+            "Equities",
+            "Precious Metals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争による世界的な債務水準上昇のリスクを警告",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFは、イラン戦争が世界的な債務水準を押し上げるリスクがあると指摘し、成長予測を下方修正した。",
+          "affected_sectors": [
+            "Government Bonds",
+            "Global Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Snap Inc.、AIを理由に1,000人規模の人員削減",
+          "country": "United States",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Snapchatの親会社であるSnap Inc.は、AIの影響を理由に1,000人の従業員を解雇し、300の未充填職を閉鎖した。",
+          "affected_sectors": [
+            "Technology",
+            "Social Media"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "トランプ氏、パウエルFRB議長を解雇すると脅迫",
+          "country": "United States",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "トランプ前大統領が、利下げへの圧力キャンペーンの中で、パウエルFRB議長を5月15日までに辞任させなければ解雇すると脅した。",
+          "affected_sectors": [
+            "Financial Services",
+            "Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イギリスの民間賃料、2017年以来初めて上昇停止",
+          "country": "United Kingdom",
+          "category": "Real Estate",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "グレートブリテン島の民間賃料が2017年以来初めて上昇を停止し、不動産市場に変化の兆しが見られる。",
+          "affected_sectors": [
+            "Real Estate",
+            "Consumer Spending"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド市場、米イラン間の緊張緩和と原油価格軟化で上昇",
+          "country": "India",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド市場は、米イラン間の緊張緩和と原油価格の軟化への楽観論から、木曜日に上昇を続けた。",
+          "affected_sectors": [
+            "Equities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平交渉期待で世界市場が上昇、原油価格は軟化"
     }
   }
 ]
