@@ -542,25 +542,39 @@ async function fetchAll(){
     const msColor = ms==='none' ? '#6b7280' : '#22c55e';
     const msEl = document.getElementById('marketStatus');
     if(msEl){ msEl.textContent = msLabel; msEl.style.color = msColor; }
-    const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪'];
-    // 損益率（total_return）の高い順にソート
-    const sorted = [...data.ranking].sort((a, b) => b.total_return - a.total_return);
+    const medals = ['🥇','🥈','🥉','④','⑤','⑥','⑦','⑧','⑨','⑩'];
+    // 損益(profit_jpy)の高い順でソートし上位10件のみ表示
+    const totalBots = data.total_bots || data.ranking.length;
+    const sorted = [...data.ranking]
+      .sort((a, b) => (b.profit_jpy || (b.total_return * 1000000)) - (a.profit_jpy || (a.total_return * 1000000)))
+      .slice(0, 10);
     // バー幅: 最大損益率を100%として相対表示（マイナスは赤バー）
     const maxRet = Math.max(...sorted.map(b => Math.abs(b.total_return)), 0.001);
-    // Bot名 → 市場ラベルマッピング
-    const MARKET_LABEL = {
-      'Bot1_ML_AbsChange':    { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
-      'Bot2_DL_Transformer':  { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
-      'Bot3_FactorAI':        { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
-      'Bot8_NewsTech':        { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
-      'Bot5_TrendMomentum':   { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
-      'Bot6_RL_MA':           { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
-      'Bot7_AdaptiveMarket':  { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
-      'Bot9_VolAsymmetry':    { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
-      'Bot11_SubspacePCA':    { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
-      'Bot4_Momentum_Intl':   { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
-      'Bot10_CorrGraph':      { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
-    };
+    // Bot名 → 市場ラベルマッピング（拡張Bot対応: 番号・名前末尾で判定）
+    function getMarketLabel(botName) {
+      const fixed = {
+        'Bot1_ML_AbsChange':   { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+        'Bot2_DL_Transformer': { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+        'Bot3_FactorAI':       { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+        'Bot8_NewsTech':       { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' },
+        'Bot5_TrendMomentum':  { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+        'Bot6_RL_MA':          { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+        'Bot7_AdaptiveMarket': { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+        'Bot9_VolAsymmetry':   { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' },
+        'Bot4_Momentum_Intl':  { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
+        'Bot10_CorrGraph':     { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
+        'Bot11_SubspacePCA':   { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' },
+      };
+      if (fixed[botName]) return fixed[botName];
+      const nl = botName.toLowerCase();
+      if (nl.endsWith('_jp') || nl.includes('_jp_')) return { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' };
+      if (nl.endsWith('_us') || nl.includes('_us_')) return { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' };
+      const num = parseInt((botName.match(/^Bot(\d+)/)||[])[1]||0);
+      if (num >= 12  && num <= 85)  return { label:'🇯🇵 日本', color:'#dc2626', bg:'#3f1515' };
+      if (num >= 86  && num <= 149) return { label:'🇺🇸 米国', color:'#1d4ed8', bg:'#1e3a5f' };
+      if (num >= 150 && num <= 211) return { label:'🌏 日米',  color:'#d97706', bg:'#3b2a0a' };
+      return { label:'―', color:'#8b949e', bg:'#21262d' };
+    }
     const rows = sorted.map((b, i) => {
       // 純利益（コスト差引済み）
       const netProfit  = b.net_profit_jpy || (b.latest_equity - 1000000);
@@ -584,7 +598,7 @@ async function fetchAll(){
                      : i === 2 ? '#b45309'
                      : netRet > 0 ? '#22c55e' : '#ef4444';
       const retSign = netRet > 0 ? '+' : '';
-      const mkt = MARKET_LABEL[b.bot] || { label:'―', color:'#8b949e', bg:'#21262d' };
+      const mkt = getMarketLabel(b.bot);
       const mktTag = `<span style="font-size:9px;padding:1px 5px;border-radius:3px;background:${mkt.bg};color:${mkt.color};margin-left:5px;white-space:nowrap;">${mkt.label}</span>`;
       // コスト内訳
       const costDetail = costTotal > 0
@@ -632,7 +646,8 @@ async function fetchAll(){
           <div class="rank-bar"><div class="rank-bar-fill" style="width:${barPct}%;background:${barColor};"></div></div>
         </div>`;
     }).join('');
-    document.getElementById('botRankingTable').innerHTML = rows || '<div style="color:#8b949e;font-size:12px;">データなし</div>';
+    const footer = `<div style="margin-top:8px;text-align:right;font-size:10px;color:#6b7280;">損益上位10 / 全${totalBots}Bot</div>`;
+    document.getElementById('botRankingTable').innerHTML = (rows || '<div style="color:#8b949e;font-size:12px;">データなし</div>') + footer;
   }).catch(e => {
     console.log('bot_ranking fetch error:', e);
     document.getElementById('botRankingTable').innerHTML = '<div style="color:#8b949e;font-size:12px;">ランキングデータ未取得（再読込してください）</div>';
