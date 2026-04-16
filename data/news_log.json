@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "欧州のガス・電力市場、来週に抜本的構造改革へ",
-          "country": "EU",
-          "category": "エネルギー・規制",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "欧州のガス・電力市場が来週、抜本的な構造改革へ。トレーディング時間変更、価格メカニズムに影響見込み。",
-          "affected_sectors": [
-            "エネルギー",
-            "公益事業",
-            "産業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢とインフレ懸念が市場を圧迫、エネルギー市場の動向に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 20:00",
     "data": {
       "breaking_news": [
@@ -14121,6 +14098,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平期待と中国GDP好調で市場リスクオン、地政学リスク注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン停戦交渉進展期待、原油・金価格に変動",
+          "country": "GLOBAL",
+          "category": "Geopolitics, Commodities",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦交渉進展期待が高まり、原油価格の高騰が緩和傾向。金価格は変動。市場には不確実性が残る。",
+          "affected_sectors": [
+            "Energy",
+            "Precious Metals",
+            "Global Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米主要銀行、予想を上回る好決算を報告し金融セクターを牽引",
+          "country": "US",
+          "category": "Corporate Earnings, Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "バンク・オブ・アメリカやモルガン・スタンレーなど米主要銀行が予想を上回る四半期決算を発表。金融株を押し上げている。",
+          "affected_sectors": [
+            "Financials",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "テック企業のAI関連動向で株価に明暗、AllbirdsがAI転換で急騰",
+          "country": "US",
+          "category": "Corporate News, Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "AllbirdsがAIへの事業転換を発表し株価が急騰。一方でSnapはAI関連で人員削減を実施。半導体株も変動。",
+          "affected_sectors": [
+            "Technology",
+            "Retail",
+            "Semiconductor"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米・イラン停戦期待で市場はリスクオン、原油・金は変動。"
     }
   }
 ]
