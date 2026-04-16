@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦合意で米国株が急騰、原油価格は急落",
-          "country": "米国",
-          "category": "地政学、株式市場、コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランとの停戦合意への期待から、米国株式市場は大幅に上昇し、S&P 500は週で3.6%高を記録。一方、原油価格は1バレル100ドルを下回って急落しました。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米消費者景況感、物価高と中東紛争懸念で急落",
-          "country": "米国",
-          "category": "経済指標、消費者心理",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "4月の米消費者景況感指数は、物価高とイラン紛争への懸念を背景に11%急落し、個人消費の減速が懸念されています。",
-          "affected_sectors": [
-            "小売",
-            "消費財",
-            "住宅"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3月の米消費者物価指数3.3%上昇、ガソリン価格が大幅寄与",
-          "country": "米国",
-          "category": "経済指標、インフレ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米CPIは3.3%上昇し、特にガソリン価格が21.2%急騰したことが全体のインフレを押し上げました。FRBの金融政策に影響を与える可能性があります。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀、中東情勢を受けたインフレ圧力に警戒",
-          "country": "日本",
-          "category": "金融政策、地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の緊迫化に伴うインフレ圧力に対し、日本銀行が警戒姿勢を示しており、今後の金融政策に影響を及ぼす可能性があります。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英中銀、AIモデルによる金融システムのリスクを警告",
-          "country": "英国",
-          "category": "金融安定、テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イングランド銀行は、公開には危険すぎるAIモデルが金融システムに与える脅威について、シティの幹部に警告しました。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東停戦合意で米国株急騰、原油急落。インフレ懸念は残る。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 23:01",
     "data": {
       "breaking_news": [
@@ -14226,6 +14148,71 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "地政学的緊張と金融政策の不確実性が世界の市場に影響を与え、投資家は慎重な対応を求められる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州株と金価格が上昇、米イラン停戦延長への期待高まる",
+          "country": "欧州, グローバル",
+          "category": "地政学, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の停戦延長への期待から、木曜日に欧州株式市場と金価格が上昇。ブレント原油は95ドル台で安定。",
+          "affected_sectors": [
+            "グローバル株式",
+            "エネルギー",
+            "貴金属",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国GDPが2024年1月以来の力強い成長を記録",
+          "country": "英国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "2026年2月の英国GDPは前月比0.5%成長し、市場予想を上回り2年以上で最も力強い拡大を示した。",
+          "affected_sectors": [
+            "英国経済全般",
+            "一般消費財",
+            "工業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ペルノ・リカール、中東紛争による売上高減少を警告",
+          "country": "フランス, グローバル",
+          "category": "企業ニュース, 地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ペルノ・リカール株は中東紛争の混乱が原因で年間売上高が最大4%減少すると警告し、下落した。",
+          "affected_sectors": [
+            "生活必需品",
+            "飲料",
+            "グローバルサプライチェーン"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコインの勢い失速、75,000ドル付近で抵抗に直面",
+          "country": "グローバル",
+          "category": "仮想通貨",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ビットコインの最近の上昇トレンドは一服し、価格は75,000ドル付近の主要な抵抗水準で固まっている。",
+          "affected_sectors": [
+            "仮想通貨市場",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東停戦期待で欧州市場と金が上昇、英国GDP好調。"
     }
   }
 ]
