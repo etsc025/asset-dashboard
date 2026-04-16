@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの停戦合意、原油価格に変動をもたらし市場は動揺",
-          "country": "世界",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの2週間の停戦合意により原油価格は下落するも、ホルムズ海峡の情勢不安が残り市場は警戒感維持。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国の3月消費者物価指数、エネルギー高騰で急上昇しインフレ懸念増大",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国の3月CPIはエネルギー価格高騰が主因で大幅上昇。年間インフレ率は3.3%に達し、FRBの金利政策に影響か。",
-          "affected_sectors": [
-            "全セクター",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学リスクとインフレデータを受け、世界の株式市場はまちまちの展開",
-          "country": "世界",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国、欧州、アジア市場はイラン情勢と米CPIデータを受け、終始まちまちの動き。投資家は慎重な姿勢を維持。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米国-イラン停戦の不安定さと米国の高インフレ率が市場の主要な懸念材料。"
-    }
-  },
-  {
     "timestamp": "2026-04-11 18:30",
     "data": {
       "breaking_news": [
@@ -14049,6 +14000,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "世界株価が上昇、S&P 500が初の7,000台突破。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US-Iran Peace Hopes Ignite Global Market Rally",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Hopes for US-Iran peace talks led to a global stock rally, record highs for US indices, and a sharp fall in oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Q1 Economic Growth Beats Expectations",
+          "country": "China",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China's first-quarter economic growth accelerated to 5%, surpassing expectations, driven by strong exports.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Trade",
+            "Emerging Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Indian Brokerages See Decline in Retail Client Base",
+          "country": "India",
+          "category": "Financial Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Active client numbers at India's top brokerages fell in FY26, signaling a slowdown in retail trading activity.",
+          "affected_sectors": [
+            "Financial Services",
+            "Brokerage Firms"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Indian Regulator Eases IPO Resizing Rules",
+          "country": "India",
+          "category": "Regulatory",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "SEBI relaxed rules, allowing companies to resize IPO fresh issue sizes by up to 50% without new filings.",
+          "affected_sectors": [
+            "Investment Banking",
+            "Capital Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Allbirds Pivots to AI Computing, Shares Soar 400%",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Allbirds announced a strategic pivot from sneakers to AI computing, leading to a massive 400% surge in its shares.",
+          "affected_sectors": [
+            "Technology",
+            "Retail",
+            "AI Development"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US-Iran peace hopes drive global stock rally, oil down."
     }
   }
 ]
