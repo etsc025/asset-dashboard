@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Trump、米イラン協議中にホルムズ海峡が間もなく再開すると表明",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ大統領は、米国とイランが和平協議を進める中、ホルムズ海峡が間もなく再開すると表明した。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル貿易",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米市場、金曜日のCPIデータと停戦進展を受けまちまちの動き",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月のCPIが予想以上に高かったことと、米イラン停戦協議が続く中、米国株式市場は本日（4月11日）まちまちのパフォーマンスを示した。",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン協議とホルムズ海峡再開が引き続き市場の主要な推進要因。"
-    }
-  },
-  {
     "timestamp": "2026-04-12 04:30",
     "data": {
       "breaking_news": [
@@ -14417,6 +14378,107 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東和平への期待が世界市場を押し上げる一方、ユーロ圏のインフレリスクが依然として懸念される。"
+    }
+  },
+  {
+    "timestamp": "2026-04-16 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Oil prices surge past $100 after US-Iran talks collapse, Hormuz blockade ordered",
+          "country": "Global",
+          "category": "Geopolitical/Commodity",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US-Iran talks collapse; Hormuz blockade ordered. Oil prices surge past $100, raising global economic concerns.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EasyJet warns of impact on profits as Iran war hits bookings and fuel prices",
+          "country": "UK",
+          "category": "Company News/Geopolitical",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "EasyJet expects profits to drop as Iran war causes fuel price hikes and reduced travel bookings.",
+          "affected_sectors": [
+            "Airlines",
+            "Travel",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Tesco warns profits could fall amid Iran war uncertainty",
+          "country": "UK",
+          "category": "Company News/Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK retailer Tesco anticipates profit decline due to uncertainties stemming from the ongoing Iran war.",
+          "affected_sectors": [
+            "Retail",
+            "Food & Beverage"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Big oil reaping huge war windfall from consumers, analysis finds",
+          "country": "Global",
+          "category": "Energy/Market Analysis",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major oil firms are earning $30M/hour in windfall profits, benefiting from the ongoing war and consumer costs.",
+          "affected_sectors": [
+            "Energy",
+            "Consumer Goods",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Stocks Rally Amid Peace Hopes and Strong Bank Earnings",
+          "country": "US",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500, Dow, and Nasdaq closed significantly higher, fueled by Middle East peace hopes and solid bank earnings.",
+          "affected_sectors": [
+            "All sectors",
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Japan's Nikkei hits record high on Middle East peace hopes, Daikin surges",
+          "country": "Japan",
+          "category": "Market Performance/Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Japan's Nikkei stock index reached an all-time high, driven by optimism regarding Middle East peace prospects.",
+          "affected_sectors": [
+            "Japanese Equity Market"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European shares gain on Middle East peace prospects",
+          "country": "Europe",
+          "category": "Market Performance/Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European stock markets show slight gains, buoyed by improving prospects for peace in the Middle East region.",
+          "affected_sectors": [
+            "European Equity Market"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "Middle East tensions escalate with Hormuz blockade, driving oil prices above $100 and clouding global economic outlook."
     }
   }
 ]
