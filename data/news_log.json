@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月CPI、エネルギー高騰で2年ぶり高水準3.3%に上昇",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国3月の年間インフレ率がエネルギー価格高騰により3.3%に達し、2年ぶりの高水準を記録。FRBは複雑な状況に直面しており、市場への影響が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国・イラン停戦協議決裂の懸念が浮上、市場のボラティリティが増加",
-          "country": "米国, イラン",
-          "category": "地政学, 市場センチメント",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦協議が決裂の危機に瀕し、ホルムズ海峡の緊張が再燃。これにより原油価格高騰と世界市場の混乱が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "金融",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "コロンビア、エクアドル関税引き上げに対抗し100%輸入税を導入",
-          "country": "コロンビア, エクアドル",
-          "category": "貿易, 外交",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "コロンビアはエクアドルの関税引き上げに対抗し、100%の輸入税を導入。麻薬密売対策を巡る両国間の緊張激化が貿易に影響を与える。",
-          "affected_sectors": [
-            "貿易",
-            "製造業",
-            "農業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国のインフレ高騰と中東地政学リスクにより、世界市場はリスクオフムードで警戒感が高まっている。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 00:00",
     "data": {
       "breaking_news": [
@@ -14859,6 +14806,111 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US markets optimistic on peace, earnings; India strong."
+    }
+  },
+  {
+    "timestamp": "2026-04-17 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "NY連銀総裁、中東戦争でインフレ圧力上昇、金利政策見通し困難に",
+          "country": "US",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "NY連銀総裁は、中東紛争がインフレ圧力を高め、FRBの金利政策見通しを複雑化させると発言。",
+          "affected_sectors": [
+            "All sectors",
+            "Financials",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "独、2026年成長見通しを0.5％に半減、インフレ加速予想",
+          "country": "Germany",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ドイツ政府は2026年の経済成長見通しを0.5%に半減し、インフレが加速すると予想を示した。",
+          "affected_sectors": [
+            "European markets",
+            "Industrial",
+            "Consumer Staples"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ米大統領、イスラエルとレバノンが10日間の停戦開始へ",
+          "country": "US",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領が、イスラエルとレバノンが本日午後5時に10日間の停戦を開始すると発表。",
+          "affected_sectors": [
+            "Energy",
+            "Defense",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NY外為：ドル反発、米イラン和平合意難航の見方で原油高に連れる",
+          "country": "US",
+          "category": "FX/Commodities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の和平合意が難航するとの見方から原油価格が上昇し、ドルが反発した。",
+          "affected_sectors": [
+            "Forex",
+            "Energy",
+            "Import/Export"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月鉱工業生産は予想外にマイナス、ドル下落は限定的",
+          "country": "US",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の3月鉱工業生産が予想外にマイナスを記録したが、ドルの下落は限定的だった。",
+          "affected_sectors": [
+            "Industrial",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "独ルフトハンザ、燃料高騰で地域航空子会社を閉鎖",
+          "country": "Germany",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ルフトハンザ航空が燃料費高騰を理由に地域航空子会社を閉鎖すると発表。",
+          "affected_sectors": [
+            "Airlines",
+            "Tourism"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日本政府、アジアのエネルギー調達に金融支援（JBIC6000億円、NEXI5000億円）",
+          "country": "Japan",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "日本政府がアジアのエネルギー調達安定化のため、JBICとNEXIを通じて計1.1兆円の金融支援を実施。",
+          "affected_sectors": [
+            "Energy",
+            "Finance",
+            "Infrastructure"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢によるインフレ懸念と独経済成長下方修正が市場圧迫"
     }
   }
 ]
