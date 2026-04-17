@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉決裂、原油価格急騰で世界市場に衝撃",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン和平交渉決裂、米によるイラン港湾封鎖で原油急騰。世界的なエネルギー危機とインフレ懸念再燃。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国、イラン紛争による経済的影響を警告",
-          "country": "United Kingdom",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国財務大臣、イラン紛争が家計と企業にコストをもたらすと警告。首相は平和的解決を呼びかけ。",
-          "affected_sectors": [
-            "All Sectors (UK)",
-            "Energy",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン協議決裂で豪州株下落、金株は大幅安",
-          "country": "Australia",
-          "category": "Equity Markets",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米イラン和平協議決裂と港湾封鎖で豪州株下落。金関連株が特に打撃を受け、市場はリスクオフ。",
-          "affected_sectors": [
-            "Mining (Gold)",
-            "Financials",
-            "Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AnthropicのAI新モデル「Mythos」、インドIT株に新たな脅威",
-          "country": "India",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "AnthropicのAI新モデル「Mythos」がインドITサービス企業に競争圧力を与え、株価に影響。",
-          "affected_sectors": [
-            "Technology (IT Services)",
-            "Software Development"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "デリーのEV政策、電動二輪車登録を促進し関連株が急騰",
-          "country": "India",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "デリーのEV政策が電動二輪車登録を促進し、EV株が上昇。伝統的メーカーは下落。",
-          "affected_sectors": [
-            "Automotive (EV)",
-            "Automotive (Traditional)"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン和平交渉決裂、原油高騰で市場はリスクオフ。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 17:30",
     "data": {
       "breaking_news": [
@@ -15483,6 +15405,85 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東紛争がジェット燃料供給を逼迫、IMFは世界経済成長の減速を警告。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国・イラン和平交渉への期待が市場を押し上げ、原油価格は下落",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉、およびイスラエルとレバノンの停戦への期待が、世界の株式市場を押し上げ、原油価格を下落させている。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Netflix、見通しと会長退任のニュースで株価急落",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Netflixの株価は、期待外れの見通しとリード・ヘイスティングス会長の退任報道を受け急落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ストリーミング",
+            "メディア"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米経済指標：非農業部門雇用者数は好調、鉱工業生産は減少",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の非農業部門雇用者数は予想を上回る増加。一方、鉱工業生産は減少し、新規失業保険申請は減少。",
+          "affected_sectors": [
+            "全セクター",
+            "製造業",
+            "労働市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏GDP成長、英国インフレ率が予想上回る",
+          "country": "ユーロ圏, 英国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ユーロ圏のGDPは予想外に上昇しユーロを押し上げた。英国のインフレは予想より高く、利上げ観測を強める。",
+          "affected_sectors": [
+            "欧州株式",
+            "外国為替",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "CDSの復活が世界的な流動性危機への懸念を引き起こす",
+          "country": "グローバル",
+          "category": "金融安定性",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "銀行によるクレジット・デフォルト・スワップ（CDS）の復活は、差し迫った債務償還期限に関連する流動性危機の懸念を高めている。",
+          "affected_sectors": [
+            "金融",
+            "銀行",
+            "不動産"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "世界市場は和平期待で上昇もCDSリスクが迫る。"
     }
   }
 ]
