@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖を命令、原油価格急騰",
-          "country": "米国, イラン",
-          "category": "地政学, エネルギー, 金融市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がホルムズ海峡の封鎖を命令し、イランとの緊張が激化。原油価格は7%以上急騰し、世界市場は下落基調に。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ハンガリー総選挙で親EU派勝利、通貨と株価が急騰",
-          "country": "ハンガリー",
-          "category": "政治, 経済, 金融市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ハンガリー総選挙で親EU派が勝利し、ハンガリーフォリントは4年ぶり高値、ブダペスト株価指数も過去最高を更新。EU資金流入への期待高まる。",
-          "affected_sectors": [
-            "金融",
-            "投資",
-            "EU関連産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス株が下落、地政学的緊張が重し",
-          "country": "米国",
-          "category": "企業決算, 金融市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ゴールドマン・サックスの株価が好決算にもかかわらず約5%下落。地政学的緊張と市場の不確実性が投資家心理に影響。",
-          "affected_sectors": [
-            "金融",
-            "証券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国のホルムズ海峡封鎖命令で原油急騰、市場はリスク回避。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 01:30",
     "data": {
       "breaking_news": [
@@ -15405,6 +15353,77 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン和平進展で市場はリスクオン、原油安・株高に転じる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開で原油急落、世界株式市場が高騰",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランによるホルムズ海峡再開で原油価格が10%超下落、米欧加の主要株価指数は大幅高に。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "海運",
+            "輸送",
+            "一般消費財",
+            "住宅",
+            "自動車",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金融システムへのAIリスクについて各国中央銀行が警告",
+          "country": "グローバル",
+          "category": "テクノロジー, 金融安定性, 規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中央銀行がAIモデルの金融システムリスクに懸念表明。AnthropicのMythosが脆弱性特定能力で注目。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー",
+            "サイバーセキュリティ"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国生産者物価指数、2026年3月までの1年間で4.0%上昇",
+          "country": "米国",
+          "category": "経済指標, インフレ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "2026年3月までの1年間で米生産者物価指数は4.0%上昇。エネルギーと貿易サービスが牽引し、インフレ圧力継続。",
+          "affected_sectors": [
+            "製造業",
+            "エネルギー",
+            "輸送・倉庫",
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国企業の好調な決算シーズンが株式市場を牽引",
+          "country": "米国",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米主要金融企業の第1四半期決算が予想を上回り、好調なスタート。株式市場の追い風となる。",
+          "affected_sectors": [
+            "金融サービス",
+            "株式市場全般"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡再開、世界株を押し上げ原油価格が急落。"
     }
   }
 ]
