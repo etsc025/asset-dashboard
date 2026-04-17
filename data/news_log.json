@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランとの和平交渉決裂後、ホルムズ海峡の海軍封鎖を発表",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, 貿易",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの和平交渉が決裂し、トランプ大統領がホルムズ海峡の海軍封鎖を発表。原油供給と国際貿易に重大な影響の可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイランの緊張激化で原油価格が急騰",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの交渉決裂および封鎖発表を受け、原油価格が急騰。世界のエネルギー市場に広範な影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "消費者製品"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争によりインフレが再加速、経済問題が深刻化",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インフレが再び加速しており、特に米国・イスラエルのイラン攻撃が世界のエネルギー供給を混乱させ、問題が深刻化している。",
-          "affected_sectors": [
-            "金融",
-            "消費財",
-            "製造業",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油ショックがインド株式市場とルピーに脅威を与える",
-          "country": "インド",
-          "category": "株式, コモディティ, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "原油価格の動向がインド株式市場とルピーに潜在的な下落リスクをもたらす。地政学的懸念が上昇を制限する可能性。",
-          "affected_sectors": [
-            "インド株式",
-            "エネルギー",
-            "通貨 (ルピー)"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国とイランの交渉決裂、ホルムズ海峡封鎖で原油市場と地政学的リスクが急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 11:30",
     "data": {
       "breaking_news": [
@@ -15320,6 +15252,84 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "トランプ氏イラン和平言及で市場に楽観、アジア株は反応待ち。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日経平均は反落、直近の上昇に対する利食い売り優勢",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "直近の急騰に対する利益確定売りが優勢となり、日経平均は一時500円以上下落。中東情勢の不透明感も重荷となった。",
+          "affected_sectors": [
+            "全体市場",
+            "テクノロジー",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "東京為替：ドル・円は小高く推移、原油相場の下げ渋りで",
+          "country": "日本",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ドル円は東京市場で小高く推移し159円台前半。原油価格の下げ渋りが背景にあり、円安基調が続いている。",
+          "affected_sectors": [
+            "輸出産業",
+            "輸入産業",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "G20で中東情勢の経済影響議論、日銀総裁は不透明感を指摘",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "G20財務相・中央銀行総裁会議で中東情勢の経済への影響を議論。植田日銀総裁は状況の「かなりの不透明感」を指摘した。",
+          "affected_sectors": [
+            "全体市場",
+            "エネルギー",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SBIインベストメント、クールジャパン機構と共同でエンタメ・コンテンツVCファンド設立",
+          "country": "日本",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "SBIインベストメントとクールジャパン機構が総額125億円のファンドを共同設立し、日本のエンタメ・コンテンツ産業の海外展開を促進する。",
+          "affected_sectors": [
+            "エンターテイメント",
+            "コンテンツ",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "トランプ米大統領、イスラエルとレバノンの10日間停戦合意を発表",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "トランプ米大統領は、イスラエルとレバノンが米東部時間17時から10日間の停戦で合意したと発表した。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の不透明感と地政学的リスクが市場の重荷に。"
     }
   }
 ]
