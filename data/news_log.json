@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日銀、追加利上げ見送り政策金利を0.75%に据え置き",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "日本銀行は金融政策決定会合で追加利上げを見送り、政策金利を0.75%に据え置くことを決定した。",
-          "affected_sectors": [
-            "銀行",
-            "株式市場",
-            "債券",
-            "不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン協議決裂、ホルムズ海峡封鎖発表で原油高騰",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の週末交渉が決裂し、米国がホルムズ海峡の封鎖を発表。原油価格が高騰し、米国株先物が下落。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "グローバル株式",
-            "自動車"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油高騰を受け日本株が下落、日銀利上げ期待も浮上",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米イラン情勢の緊迫化と原油価格の高騰を受け、日経平均株価が下落。日本の10年物国債利回りは上昇。",
-          "affected_sectors": [
-            "製造業",
-            "海運",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡封鎖懸念で金価格が下落、エネルギー危機へ警戒",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国のホルムズ海峡封鎖計画による世界エネルギー危機への懸念から、金価格が約2%下落し、前週の上げ幅を消した。",
-          "affected_sectors": [
-            "貴金属",
-            "コモディティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン協議決裂、ホルムズ海峡封鎖で市場はリスクオフ。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 13:30",
     "data": {
       "breaking_news": [
@@ -15434,6 +15367,29 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢で世界市場混乱、原油高・欧州減速、金融AIリスク浮上。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "東京市場で円安進行、株価大幅下落",
+          "country": "日本",
+          "category": "株式, 外国為替, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "東京市場で円安が進行し、日経平均株価は4営業日ぶりに1000円超の大幅下落。日銀総裁発言が早期利上げ観測を後退させたことも影響した。",
+          "affected_sectors": [
+            "金融",
+            "株式市場",
+            "輸出関連"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "日本市場で株価が大幅下落、円安進行。日銀発言が影響。"
     }
   }
 ]
