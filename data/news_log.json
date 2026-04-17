@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イラン和平交渉決裂後ホルムズ海峡封鎖を宣言",
-          "country": "米国, イラン, グローバル",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの和平交渉が決裂し、米国がホルムズ海峡封鎖を計画。緊張高まり世界エネルギー市場に影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業",
-            "金融サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン情勢悪化で世界株式下落、原油価格高騰",
-          "country": "グローバル",
-          "category": "金融市場, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉決裂と海峡封鎖脅威を受け、アジア、米国、欧州の株式市場が下落し原油価格が急騰。",
-          "affected_sectors": [
-            "金融サービス",
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、西アジア紛争を理由に世界経済成長予測を下方修正へ",
-          "country": "グローバル",
-          "category": "経済見通し, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは西アジア紛争が続くため世界経済成長予測を下方修正する方針。今後の景気減速を示唆。",
-          "affected_sectors": [
-            "全セクター",
-            "金融サービス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン情勢緊迫化、ホルムズ海峡封鎖で原油高騰、株価下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 15:00",
     "data": {
       "breaking_news": [
@@ -15439,6 +15386,95 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢の緩和期待で米国株が史上最高値更新、原油価格に注目。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株、S&P 500とナスダックが史上最高値を更新",
+          "country": "US",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500とナスダックが引き続き史上最高値を記録し、テクノロジー株が上昇を牽引。中東情勢の不透明感にも関わらず市場は堅調に推移した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国GDP、予想を上回りFTSE指数が上昇",
+          "country": "UK",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国のGDPデータが予想を上回り、ロンドン株式市場のFTSE指数が上昇した。これは経済回復への期待を高める。",
+          "affected_sectors": [
+            "全般",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ITM PowerがRheinmetallとのNATO関連契約で株価急騰",
+          "country": "UK",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ITM PowerがRheinmetallとの戦略的提携を発表し、NATO関連業務への関与により株価が急騰した。防衛産業への注目が高まっている。",
+          "affected_sectors": [
+            "防衛",
+            "産業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Workspace Group、利益の大幅な落ち込みを警告",
+          "country": "UK",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Workspace Groupは、事業再編への投資に伴い取引利益の「大幅な落ち込み」を警告した。不動産セクターに影響の可能性。",
+          "affected_sectors": [
+            "不動産",
+            "商業用不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均株価、テクノロジー株主導で過去最高値から下落",
+          "country": "Japan",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本の日経平均株価が過去最高値から下落。米国市場高騰後の利益確定売りがテクノロジー株を押し下げ、市場に警戒感。",
+          "affected_sectors": [
+            "テクノロジー",
+            "日本株式全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ氏、米国とイランの和平合意が「非常に近い」と発言",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ドナルド・トランプ氏が米国とイランの和平合意が「非常に近い」と発言し、地政学的緊張緩和への期待が世界市場で高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "防衛",
+            "航空",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平合意への期待が高まり、米国株は史上最高値を更新。"
     }
   }
 ]
