@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの和平交渉決裂、ホルムズ海峡封鎖の脅威で原油高騰、世界株下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの和平交渉決裂により、米国がホルムズ海峡封鎖を示唆。原油価格は急騰し、世界株式市場は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Airlines",
-            "Industrials",
-            "Global Financial Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックスQ1利益増も地政学懸念で株価下落",
-          "country": "US",
-          "category": "Earnings",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ゴールドマン・サックスが第一四半期決算で利益増加を報告したが、広範な地政学的懸念により株価は下落。",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OPEC、第2四半期の世界原油需要予測を下方修正",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "OPECは中東情勢を鑑み、第2四半期の世界原油需要予測を日量50万バレル下方修正した。",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国とイラン交渉決裂、ホルムズ海峡封鎖示唆で市場に緊張高まる"
-    }
-  },
-  {
     "timestamp": "2026-04-14 00:30",
     "data": {
       "breaking_news": [
@@ -15386,6 +15337,58 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡開通で原油急落、世界株価ラリーの様相。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Strait of Hormuz Reopens, Oil Prices Plummet 10%",
+          "country": "Global",
+          "category": "Geopolitics/Commodities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランによるホルムズ海峡の全面開放宣言を受け、原油価格が10%以上急落。供給懸念が後退しました。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Stock Markets Rally on Easing Mideast Tensions",
+          "country": "Global",
+          "category": "Market Sentiment/Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡開放と中東停戦期待で、米国、欧州、英国の株式市場が大幅上昇し、S&P500は過去最高値を更新しました。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "Consumer Discretionary",
+            "All Sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Fed Rate Cut Bets Increase as Oil Drop Eases Inflation Fears",
+          "country": "Global",
+          "category": "Monetary Policy/Inflation",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "原油価格の急落がインフレ懸念を和らげ、連邦準備制度理事会（FRB）の年内利下げ期待が高まっています。",
+          "affected_sectors": [
+            "Financials",
+            "Real Estate",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡開放による原油急落と世界株高"
     }
   }
 ]
