@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖を警告。イランとの交渉決裂後、原油価格急騰",
-          "country": "米国, イラン (グローバル)",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランとの和平交渉決裂後、ホルムズ海峡封鎖の可能性を示唆。原油価格は急騰し、世界市場に緊張が走っている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、ホルムズ海峡封鎖の脅威で1バレル100ドル超に急騰",
-          "country": "グローバル",
-          "category": "コモディティ, エネルギー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国のホルムズ海峡封鎖の可能性を受け、供給途絶への懸念からブレント原油価格が1バレル100ドル、一部では102ドルを超えて上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "工業",
-            "消費者向け一般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン間の緊張と原油価格高騰を受け、アジア・欧州株式市場が下落",
-          "country": "アジア, 欧州",
-          "category": "株式市場, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の地政学的緊張と原油価格の急騰が投資家心理を冷やし、アジアと欧州の主要株式市場は下落して取引されている。",
-          "affected_sectors": [
-            "全株式市場",
-            "エネルギー集約型産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Palo Alto Networks創業者、AI刷新のためカリフォルニア銀行を買収へ",
-          "country": "米国",
-          "category": "M&A, テクノロジー, 銀行",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Palo Alto Networksの創業者Nir Zuk氏がLiberty Bank買収で最大の株式を取得し、AIを活用した刷新を計画している。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー (AI)",
-            "地方銀行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン間の緊張激化、ホルムズ海峡封鎖の脅威で原油急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 22:30",
     "data": {
       "breaking_news": [
@@ -15410,6 +15343,58 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争の激化が世界経済に不確実性をもたらし、市場にリスクオフムードが広がる。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ドル円、NY市場で157円台まで下落",
+          "country": "日本, 米国",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ドル円がNY市場で157.86円までドル安進行。クロス円も軟調。原油安と中東情勢緩和が背景となりドル売り優勢。",
+          "affected_sectors": [
+            "為替",
+            "金融サービス",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "NYダウ、中東情勢好転と製造業指標で小幅続伸",
+          "country": "米国",
+          "category": "株式市場, 地政学, 経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "レバノン停戦合意と好調な製造業指標を受け、NYダウは小幅続伸。中東情勢改善が市場を押し上げた。",
+          "affected_sectors": [
+            "米国株式",
+            "製造業",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国AI企業Manycore、香港IPOで株価100%超上昇",
+          "country": "中国 (香港)",
+          "category": "企業, テクノロジー, IPO",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国のAI企業Manycore Tech Incが香港IPOで公募価格から100%超上昇。AIセクターへの強い投資家関心を示す。",
+          "affected_sectors": [
+            "テクノロジー",
+            "人工知能",
+            "ベンチャーキャピタル",
+            "香港証券取引所"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東緩和、米株続伸、ドル円下落。市場はリスクオンに転換。"
     }
   }
 ]
