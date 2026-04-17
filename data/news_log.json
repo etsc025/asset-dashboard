@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン交渉決裂、ホルムズ海峡封鎖脅威で原油価格急騰",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの交渉決裂とホルムズ海峡封鎖の脅威により原油価格が急騰、世界的な供給ショックとインフレ懸念が高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン情勢悪化で世界中の株式市場が下落",
-          "country": "Global",
-          "category": "Equity Markets, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張激化で、米株先物、アジア、インド市場が急落。投資家はリスク回避に動き、世界的に弱気相場に。",
-          "affected_sectors": [
-            "All Sectors",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学的緊張の高まりで金とインド・ルピーが下落",
-          "country": "Global",
-          "category": "Currencies, Commodities, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "地政学的緊張の高まりを受け、金価格が下落し、インド・ルピーも対ドルで急落。債券利回りも上昇傾向。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Forex",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖脅威で原油高と世界株安。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 17:00",
     "data": {
       "breaking_news": [
@@ -15475,6 +15423,66 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ME ceasefire boosts markets; Europe faces jet fuel crisis."
+    }
+  },
+  {
+    "timestamp": "2026-04-17 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州のジェット燃料供給、イラン戦争により6週間分に減少",
+          "country": "Europe",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン戦争の継続により、欧州のジェット燃料供給がわずか6週間分にまで減少しているとの報告があり、航空・運輸セクターに懸念。",
+          "affected_sectors": [
+            "Aviation",
+            "Transportation",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EasyJet、中東紛争の影響で利益警告を発表",
+          "country": "UK",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の航空会社EasyJetは、イラン戦争による予約減少と燃料価格高騰を理由に利益予測の下方修正を発表。",
+          "affected_sectors": [
+            "Aviation",
+            "Tourism"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが西半球および欧州の地域経済見通しを公表",
+          "country": "Global",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "国際通貨基金（IMF）は、本日付けで西半球と欧州に関する地域経済見通しレポートを公表し、各国経済の現状と展望を分析。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "IMF世界経済見通し、紛争が影を落とす中での成長減速を指摘",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは2026年の世界経済成長率予測を3.1%に下方修正し、中東紛争の長期化や地政学的断片化が下方リスクを強調。",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東紛争がジェット燃料供給を逼迫、IMFは世界経済成長の減速を警告。"
     }
   }
 ]
