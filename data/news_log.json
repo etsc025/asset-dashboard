@@ -1,27 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Meta、社内向けにZuckerbergのAI版を開発",
-          "country": "米国",
-          "category": "テクノロジー、企業ニュース",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Metaが従業員向けにMark Zuckerberg氏のAI版を開発中。社内コミュニケーションの変化を示唆。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソーシャルメディア"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "直近1時間で市場に大きな影響を与える金融ニュースはなし"
-    }
-  },
-  {
     "timestamp": "2026-04-14 02:30",
     "data": {
       "breaking_news": [
@@ -15416,6 +15394,58 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東緊張緩和、ホルムズ海峡開通。原油急落、世界株高。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イランがホルムズ海峡の完全開放と停戦合意を示唆、原油価格急落で世界市場が急騰",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランがホルムズ海峡の商業船航行の完全開放と停戦合意の進展を示唆。これにより原油価格が急落し、世界各地の株式市場が大幅に上昇している。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "運輸",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Netflix、第2四半期ガイダンスが市場予想を下回り株価下落",
+          "country": "US",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Netflixの株価は、同社が発表した第2四半期の売上高と利益のガイダンスが市場の期待を下回ったため、大幅に下落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "メディア",
+            "ストリーミング"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "KaileraとAEVEXがナスダック、NYSEで好調なデビューを飾る",
+          "country": "US",
+          "category": "IPO",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "肥満治療薬に特化したKailera Therapeuticsはナスダックで60%以上急騰し、ドローンメーカーAEVEXもNYSEで15%上昇してデビューした。",
+          "affected_sectors": [
+            "医薬品",
+            "防衛",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イランのホルムズ海峡開放と停戦示唆で市場はリスクオン、原油急落。"
     }
   }
 ]
