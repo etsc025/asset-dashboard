@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの交渉決裂、原油価格100ドル超え、世界株式市場下落",
-          "country": "Global",
-          "category": "Geopolitics, Commodities, Stock Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイラン間の停戦交渉が決裂し、地政学的緊張が高まった。原油価格は1バレル100ドルを突破し、インド、欧州、日本の株式市場は大幅に下落した。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場が大幅下落、Sensexは500ポイント超、Niftyは23,900を下回る",
-          "country": "India",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイラン間の交渉決裂懸念がインド市場に波及し、Sensexは500ポイント以上下落、Niftyは23,900ポイントを下回り、全セクターが赤字となった。",
-          "affected_sectors": [
-            "All Sectors",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのVIX指数が10%超急騰、市場の不確実性増大",
-          "country": "India",
-          "category": "Stock Market, Volatility",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "地政学的緊張の高まりを受け、インドのボラティリティ指数VIXが10%以上急騰し、市場の不確実性と投資家の不安が増大している。",
-          "affected_sectors": [
-            "All Sectors",
-            "Derivatives Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイランの停戦期待後退で金が1%、銀が5,300ルピー下落",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦交渉決裂により、安全資産としての金価格が1%下落、銀価格も下落した。市場は長期的な紛争の可能性を織り込み始めた可能性がある。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Financials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Acme Solar Holdingsの株価がHSBCの買い推奨で4%上昇",
-          "country": "India",
-          "category": "Corporate, Stock Market",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "HSBCがAcme Solar Holdingsの買い推奨を開始したことで、同社の株価は4%上昇。再生可能エネルギーセクターにおける特定の企業動向を示す。",
-          "affected_sectors": [
-            "Renewable Energy",
-            "Solar"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国とイランの交渉決裂で原油高・株安、市場はリスク回避へ。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 19:00",
     "data": {
       "breaking_news": [
@@ -15526,6 +15450,60 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "AnthropicのAIモデル「Mythos」が金融システムに脅威を与える可能性あり。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン停戦期待で世界株が記録的な高値、原油価格は下落",
+          "country": "Global",
+          "category": "Geopolitics, Market Trends",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランとの停戦交渉進展への期待から、世界の株式市場は最高値を更新し、原油価格は下落。リスク選好ムードが市場全体に広がり、投資家のポジティブな反応を誘発している。",
+          "affected_sectors": [
+            "Energy",
+            "Technology",
+            "Financials",
+            "General Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ、トロントでの世界サミットで1兆ドル投資誘致を目指す",
+          "country": "Canada",
+          "category": "Fiscal Policy, Economic Development",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "カナダはトロントで開催される世界サミットを通じて、今後5年間で1兆ドルもの投資誘致を目指している。これは国内経済の成長を促進し、主要セクターへの資金流入を期待させる動きだ。",
+          "affected_sectors": [
+            "Infrastructure",
+            "Technology",
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "オーストラリア、消費者信頼感急落とRBA追加利上げ観測",
+          "country": "Australia",
+          "category": "Economic Data, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "オーストラリアでは、消費者と企業の信頼感が大幅に悪化。高まるインフレ懸念を背景に、中央銀行（RBA）による追加利上げの可能性が高まっており、経済の先行きに不透明感が増している。",
+          "affected_sectors": [
+            "Retail",
+            "Banking",
+            "Real Estate",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン停戦期待で世界株が史上最高値、S&P500も更新。"
     }
   }
 ]
