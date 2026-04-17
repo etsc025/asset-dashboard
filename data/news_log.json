@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランとホルムズ海峡封鎖を発表、交渉決裂",
-          "country": "米国, イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランとの交渉決裂後、ホルムズ海峡の海上封鎖を発表。地政学的緊張が高まり、原油供給に影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格高騰、ブレント原油104ドルに迫る",
-          "country": "グローバル",
-          "category": "エネルギー, コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの紛争激化とホルムズ海峡封鎖により、ブレント原油が1バレル104ドル近くまで高騰。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界的なインフレ懸念増大、IMFが危機警告",
-          "country": "グローバル",
-          "category": "マクロ経済, 金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争によるエネルギーコスト上昇を受け、世界的にインフレ懸念が拡大。IMFは危機を警告。",
-          "affected_sectors": [
-            "全セクター",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株安、米国・インド市場で大幅下落",
-          "country": "グローバル, 米国, インド",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "地政学的緊張とインフレ懸念から、米国先物市場やインドのNifty、Sensexなど主要市場が大幅下落。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争激化、ホルムズ封鎖で原油高・世界株安。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 14:00",
     "data": {
       "breaking_news": [
@@ -15390,6 +15328,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "日本市場で株価が大幅下落、円安進行。日銀発言が影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "欧州、イラン紛争でジェット燃料供給が逼迫、イージージェットは利益に警告",
+          "country": "欧州",
+          "category": "エネルギー, 地政学, 航空",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の影響で欧州のジェット燃料供給が6週間分に減少。イージージェットは利益減益を警告。",
+          "affected_sectors": [
+            "航空",
+            "エネルギー",
+            "物流"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド：外資系機関投資家がFX規制と収益リスクで警戒感を強める",
+          "country": "インド",
+          "category": "外国投資, 金融政策, 株式",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "インドのFX規制と企業収益への懸念から、外資系機関投資家はインド債券・株式市場への投資に慎重に。",
+          "affected_sectors": [
+            "金融市場",
+            "インド株式全般",
+            "外国為替"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ビットコインとイーサリアム、ボラティリティの中で安定推移、テクニカルは強気を示唆",
+          "country": "グローバル",
+          "category": "仮想通貨",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ボラティリティがある中、ビットコインは74,600ドル付近、イーサリアムは2,300ドル以上を維持。",
+          "affected_sectors": [
+            "仮想通貨",
+            "ブロックチェーン",
+            "フィンテック"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIブームで台湾市場の時価総額が4兆ドル超え、英国を追い抜く",
+          "country": "台湾",
+          "category": "テクノロジー, 市場パフォーマンス",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "AI需要を背景に台湾株式市場の時価総額が4兆ドルを超え、英国を上回った。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン和平期待で米国株高、欧州ジェット燃料供給は逼迫。"
     }
   }
 ]
