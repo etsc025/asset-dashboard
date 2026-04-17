@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン交渉決裂とホルムズ海峡封鎖の脅威、原油価格急騰を招く",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉の決裂を受け、トランプ大統領がホルムズ海峡封鎖を宣言。原油価格は100ドルを突破し、150ドルへの上昇懸念も浮上。地政学的緊張が大幅に高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造",
-            "グローバル株式",
-            "通貨",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン紛争激化で世界株式市場が急落",
-          "country": "グローバル",
-          "category": "市場動向",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張激化と原油価格高騰を受け、米国株先物、アジア株式、インド株式が軒並み下落。世界的にリスクオフの動きが加速している。",
-          "affected_sectors": [
-            "グローバル株式",
-            "債券",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド市場が大幅下落、米イラン紛争と原油高が重し",
-          "country": "インド",
-          "category": "市場動向",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉決裂と原油価格急騰により、インド株式市場はSensexとNiftyが2%近く下落。インド債券も売られ、ルピーは対ドルで下落した。",
-          "affected_sectors": [
-            "株式市場",
-            "債券市場",
-            "通貨"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "GSK、卵巣がん・子宮がん治療薬で初期の有望な結果を報告",
-          "country": "英国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "GSKが卵巣がんと子宮がんの治療薬候補について、初期段階で有望な結果を発表。医薬品セクターにポジティブな影響を与える可能性。",
-          "affected_sectors": [
-            "製薬",
-            "ヘルスケア"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ドバイモールの高級ブランド、イラン紛争で売上30-50%減",
-          "country": "アラブ首長国連邦",
-          "category": "経済",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の影響で、ドバイのモール・オブ・ジ・エミレーツ内の高級ブランドの3月売上が30-50%減少したと報告された。",
-          "affected_sectors": [
-            "小売",
-            "観光"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争激化、世界市場は全面安、原油は急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 16:30",
     "data": {
       "breaking_news": [
@@ -15459,6 +15379,102 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東停戦期待と米イラン和平交渉進展で市場は慎重ながらも楽観。AIサイバー脅威に警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Middle East Ceasefire Boosts Market Optimism, Oil Prices Fall",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Israel-Lebanon ceasefire and US-Iran peace talks boost global market optimism, lowering oil prices significantly.",
+          "affected_sectors": [
+            "Global Equities",
+            "Oil & Gas",
+            "Airlines",
+            "Travel"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Europe Faces Critical Jet Fuel Shortage Due to Iran War",
+          "country": "Europe",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Energy chief warns Europe has only six weeks of jet fuel left due to the ongoing Iran conflict.",
+          "affected_sectors": [
+            "Airlines",
+            "Logistics",
+            "Travel",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Wall Street S&P 500, Nasdaq Hit New Record Highs",
+          "country": "USA",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "S&P 500 and Nasdaq continue their rally, reaching new record highs amidst Middle East ceasefire hopes.",
+          "affected_sectors": [
+            "US Equities",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Natural Gas Futures Drop on Peace Deal Hopes",
+          "country": "Europe",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European natural gas futures decrease significantly due to expectations of a Middle East peace deal.",
+          "affected_sectors": [
+            "Energy",
+            "Utilities",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "India Faces Second-Order Inflation Risk from West Asia Crisis",
+          "country": "India",
+          "category": "Economics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "India resilient now, but warned of looming inflation from energy and fertilizer costs due to West Asia crisis.",
+          "affected_sectors": [
+            "Indian Economy",
+            "Agriculture",
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Allbirds Shares Surge on Pivot to AI Infrastructure",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Footwear brand Allbirds sees stock surge after announcing a strategic shift towards AI infrastructure.",
+          "affected_sectors": [
+            "Footwear",
+            "Artificial Intelligence",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ME ceasefire boosts markets; Europe faces jet fuel crisis."
     }
   }
 ]
