@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランとの和平交渉決裂後、ホルムズ海峡の海上封鎖を発表",
-          "country": "米国, イラン",
-          "category": "地政学, エネルギー, 貿易",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの和平交渉が決裂し、トランプ大統領がホルムズ海峡の海上封鎖を発表。地政学的緊張が高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運・物流",
-            "製造業",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が急騰し、米国でインフレが加速",
-          "country": "米国, グローバル",
-          "category": "エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡封鎖発表と米イラン交渉決裂を受け、原油価格が急騰。米国でインフレが進行し、消費者心理が悪化。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMFがイラン紛争による世界経済成長の減速を警告",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事が、イランを巡る紛争が世界経済の成長を鈍化させると警告。金融市場はリスクオフの動き。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン交渉決裂、ホルムズ海峡封鎖で原油急騰とインフレ懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 10:30",
     "data": {
       "breaking_news": [
@@ -15258,6 +15206,110 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢、エネルギー価格、主要中銀のインフレ対応が市場を左右。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ウォール街、イラン紛争終結期待で史上最高値を更新",
+          "country": "Global",
+          "category": "Geopolitics, Market Sentiment",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "投資家がイラン紛争の終結を期待し、ウォール街とS&P 500が史上最高値を記録した。",
+          "affected_sectors": [
+            "Equities",
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IEA、イラン紛争による欧州のジェット燃料供給不足を警告",
+          "country": "Europe",
+          "category": "Energy, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IEAトップが、イラン紛争の影響で欧州のジェット燃料供給が6週間分しかないと警告した。",
+          "affected_sectors": [
+            "Airlines",
+            "Logistics",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン紛争によるエネルギー価格高騰と世界債務増加リスクを警告",
+          "country": "Global",
+          "category": "Global Economy, Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、イラン紛争がエネルギー価格を押し上げ、世界的な債務水準を増加させるリスクを警告した。",
+          "affected_sectors": [
+            "All sectors",
+            "Government Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米陪審、チケットマスターとライブ・ネイションの反競争的独占を認定",
+          "country": "US",
+          "category": "Legal, Corporate Regulation",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国の陪審が、チケットマスターとライブ・ネイションが反競争的独占を行っていたと認定した。",
+          "affected_sectors": [
+            "Entertainment",
+            "Technology",
+            "Legal"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Netflix共同創業者ヘイスティングス氏退任で株価8%下落",
+          "country": "US",
+          "category": "Corporate, Leadership Change",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Netflixの共同創業者ヘイスティングス氏の退任報道を受け、同社株価が約8%下落した。",
+          "affected_sectors": [
+            "Media",
+            "Streaming",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米上院民主党、トランプ氏のFRB議長候補指名阻止に動く",
+          "country": "US",
+          "category": "Politics, Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米上院民主党が、トランプ氏によるFRB新議長の指名を阻止するための動きを開始した。",
+          "affected_sectors": [
+            "Financial Services",
+            "US Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoinが米国とイランの和平交渉期待で$125,000を目標に",
+          "country": "Global",
+          "category": "Cryptocurrency, Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉への期待が高まる中、Bitcoin価格が125,000ドルを目標としている。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Blockchain"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "イラン紛争終結期待で世界株式市場は上昇も、エネルギー供給不安は継続。"
     }
   }
 ]
