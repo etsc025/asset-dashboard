@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米軍、イラン港湾の海上交通封鎖を開始",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米大統領令により米軍がイラン港湾の海上交通を封鎖開始。中東情勢の緊迫化と供給懸念が増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "海運",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン停戦違反で原油価格再上昇",
-          "country": "世界",
-          "category": "エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の停戦合意が違反され、原油価格が再び上昇。中東情勢の不安定化が市場に影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争の不確実性の中、ビットコインが上昇",
-          "country": "世界",
-          "category": "暗号資産",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン紛争の不確実性を背景にビットコインが3%上昇し7万ドルに迫る。リスクオフ資産としての需要か。",
-          "affected_sectors": [
-            "暗号資産",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米軍のイラン港湾封鎖と停戦違反で中東情勢緊迫化、原油価格急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 09:30",
     "data": {
       "breaking_news": [
@@ -15157,6 +15105,85 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東和平交渉進展で原油価格が下落、世界経済に影響。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "IMF、中東紛争による世界経済のリセッションリスクを警告",
+          "country": "Global",
+          "category": "Macroeconomics, Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは、中東紛争が原油価格高騰とサプライチェーン混乱を引き起こし、世界経済をリセッションに追い込む可能性を警告している。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、S&P500とナスダックが史上最高値を更新",
+          "country": "US",
+          "category": "Stock Market, Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東和平への期待とテクノロジー株の好調を背景に、米国S&P500とナスダックは史上最高値を更新した。",
+          "affected_sectors": [
+            "Technology",
+            "Financials",
+            "General Equity Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IEA、欧州のジェット燃料供給危機を警告",
+          "country": "Europe",
+          "category": "Energy, Geopolitics, Transportation",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IEAは、中東紛争の影響で欧州のジェット燃料供給が残り6週間分しかなく、フライト欠航の可能性が高まっていると発表。",
+          "affected_sectors": [
+            "Airlines",
+            "Logistics",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Netflix共同創業者Hastings氏の辞任で株価が8%急落",
+          "country": "US",
+          "category": "Corporate News, Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Netflixの共同創業者リード・ヘイスティングス氏の辞任が発表され、同社株価は8%下落した。",
+          "affected_sectors": [
+            "Media & Entertainment",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドでCitius Transnet InvITのIPO開始、インフラ投資に注目",
+          "country": "India",
+          "category": "IPO, Infrastructure, Finance",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "インドでCitius Transnet InvITのIPOが開始され、1,105クローレルピーを調達目標にインフラ資産への投資家からの関心を集めている。",
+          "affected_sectors": [
+            "Infrastructure",
+            "Finance",
+            "India Equity Market"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争が世界経済のリセッションリスクを高め、エネルギー供給を圧迫。"
     }
   }
 ]
