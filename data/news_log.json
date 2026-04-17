@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢悪化で欧州株が下落、米イラン協議決裂と海上封鎖の可能性",
-          "country": "欧州",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉の決裂を受け、ホルムズ海峡周辺での海上封鎖決定により欧州株式市場が下落しました。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン停戦協議決裂、パキスタン株式市場が暴落",
-          "country": "パキスタン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の停戦協議が決裂し、パキスタンのKSE 100指数が約6,000ポイント急落しました。",
-          "affected_sectors": [
-            "金融",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン協議決裂と封鎖命令で原油価格が1バレル100ドル超に高騰",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン協議の決裂と海上封鎖の命令を受け、原油価格が1バレル100ドルを突破しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン交渉決裂と海上封鎖の可能性で日本株が下落",
-          "country": "日本",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米イラン間の交渉決裂と海上封鎖の兆候を受け、日本株が安値で取引を終えました。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "7年ぶりにイラン産原油がインドに到着、タンカーが主要港に接岸",
-          "country": "インド",
-          "category": "エネルギー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "1か月の免除措置により、イラン産原油が7年ぶりにインドの主要港に到着しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "貿易"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン協議決裂、市場暴落、原油価格100ドル超。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 19:30",
     "data": {
       "breaking_news": [
@@ -15504,6 +15427,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン停戦期待で世界株が史上最高値、S&P500も更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日本国債長期金利が再上昇、日銀の早期利上げ慎重姿勢で売圧力鈍化",
+          "country": "日本",
+          "category": "債券",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "17日の国内債券市場で長期金利が2.420%に再上昇。米長期金利上昇が影響も、日銀の早期利上げ慎重姿勢が売りの勢いを鈍化させている。",
+          "affected_sectors": [
+            "金融",
+            "不動産"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均が4営業日ぶり反落、利益確定売りと半導体株下落が主因",
+          "country": "日本",
+          "category": "株式",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "17日の東京株式市場で日経平均株価が1.75%安と4営業日ぶりに反落。最高値更新後の利益確定売りや半導体関連株の下落が相場を押し下げた。",
+          "affected_sectors": [
+            "半導体",
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国・イラン停戦協議進展期待で原油価格下落、NY株式市場は連日最高値更新",
+          "country": "米国",
+          "category": "商品, 株式, 地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦協議進展への期待から原油価格が下落。インフレ懸念が和らぎ、NYダウやS&P500は連日で最高値を更新した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル円が159円台で推移、日銀の利上げ慎重姿勢で円安基調続く",
+          "country": "日本/グローバル",
+          "category": "為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日銀が早期利上げに慎重な姿勢を示したことで、円売り圧力が継続し、ドル円は159円台で底堅く推移。160円への動きも警戒される。",
+          "affected_sectors": [
+            "輸出企業",
+            "輸入企業",
+            "観光"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "G20財務相会議で米国がイランへの金融制裁協力呼びかけ",
+          "country": "グローバル",
+          "category": "地政学, 金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "G20財務相・中央銀行総裁会議で、米国のイエレン財務長官がイランへの金融制裁強化への協力を各国に呼びかけ、事態の早期収束を目指す。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国・イラン停戦協議進展期待、原油安・米株高の動きに注目"
     }
   }
 ]
