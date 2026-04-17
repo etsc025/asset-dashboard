@@ -1,12 +1,12 @@
 {
   "date": "2026-04-17",
-  "timestamp": "2026-04-17T16:15:27.800463",
+  "timestamp": "2026-04-17T16:20:32.299422",
   "usdjpy": 159.33,
   "regime": "BULL",
   "regime_desc": "強気相場: BUY積極化・ポジション増量",
   "vix": 17.940000534057617,
   "market_status": "none",
-  "total_bots": 211,
+  "total_bots": 212,
   "top10_pnl": [
     {
       "pnl_rank": 1,
@@ -2287,7 +2287,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot4_Momentum_Intl",
+      "bot": "Bot212_US_IPO_Hunter",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2309,7 +2309,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot10_CorrGraph",
+      "bot": "Bot4_Momentum_Intl",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2331,7 +2331,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot132_DualMomentum",
+      "bot": "Bot10_CorrGraph",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2353,7 +2353,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot133_YenWeak_Beneficiary",
+      "bot": "Bot132_DualMomentum",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2375,7 +2375,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot134_YenStrong_Beneficiary",
+      "bot": "Bot133_YenWeak_Beneficiary",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2397,7 +2397,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot135_Global_Semi_Cycle",
+      "bot": "Bot134_YenStrong_Beneficiary",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2419,7 +2419,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot136_RiskOnOff",
+      "bot": "Bot135_Global_Semi_Cycle",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2441,7 +2441,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot137_Global_SectorRotation",
+      "bot": "Bot136_RiskOnOff",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2463,7 +2463,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot138_JP_US_RSI_Div",
+      "bot": "Bot137_Global_SectorRotation",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2485,7 +2485,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot139_JP_US_Mom_Div",
+      "bot": "Bot138_JP_US_RSI_Div",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2507,7 +2507,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot140_CrossVol_Surge",
+      "bot": "Bot139_JP_US_Mom_Div",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2529,7 +2529,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot141_Global_LowVol",
+      "bot": "Bot140_CrossVol_Surge",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2551,7 +2551,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot142_LeadingIndicator",
+      "bot": "Bot141_Global_LowVol",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2573,7 +2573,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot143_Currency_Adj_Mom",
+      "bot": "Bot142_LeadingIndicator",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2595,7 +2595,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot144_Correlation_Breakdown",
+      "bot": "Bot143_Currency_Adj_Mom",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2617,7 +2617,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot145_Global_Momentum",
+      "bot": "Bot144_Correlation_Breakdown",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2639,7 +2639,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot146_JP_US_EMA_Conv",
+      "bot": "Bot145_Global_Momentum",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2661,7 +2661,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot147_Inflation_Sensitivity",
+      "bot": "Bot146_JP_US_EMA_Conv",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2683,7 +2683,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot148_Cyclical_Def_Rotation",
+      "bot": "Bot147_Inflation_Sensitivity",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2705,7 +2705,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot149_Global_52W_High",
+      "bot": "Bot148_Cyclical_Def_Rotation",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2727,7 +2727,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot150_Global_Vol_Cross",
+      "bot": "Bot149_Global_52W_High",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2749,7 +2749,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot151_ADR_Arbitrage",
+      "bot": "Bot150_Global_Vol_Cross",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2771,7 +2771,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot152_JP_US_OBV_Div",
+      "bot": "Bot151_ADR_Arbitrage",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2793,7 +2793,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot153_Global_VWAP_Dev",
+      "bot": "Bot152_JP_US_OBV_Div",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2815,7 +2815,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot154_Global_MFI",
+      "bot": "Bot153_Global_VWAP_Dev",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2837,7 +2837,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot155_Global_Stoch",
+      "bot": "Bot154_Global_MFI",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2859,7 +2859,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot156_Global_FCF",
+      "bot": "Bot155_Global_Stoch",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2881,7 +2881,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot157_Global_ROE",
+      "bot": "Bot156_Global_FCF",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2903,7 +2903,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot158_Global_EPS_Growth",
+      "bot": "Bot157_Global_ROE",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2925,7 +2925,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot159_Global_Breakout",
+      "bot": "Bot158_Global_EPS_Growth",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2947,7 +2947,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot160_Global_Quality_Mom",
+      "bot": "Bot159_Global_Breakout",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2969,7 +2969,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot161_Global_Dividend",
+      "bot": "Bot160_Global_Quality_Mom",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -2991,7 +2991,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot162_Global_TEMA_Align",
+      "bot": "Bot161_Global_Dividend",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3013,7 +3013,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot163_Global_PB_Value",
+      "bot": "Bot162_Global_TEMA_Align",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3035,7 +3035,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot164_Price_Discovery",
+      "bot": "Bot163_Global_PB_Value",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3057,7 +3057,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot165_Global_CCI",
+      "bot": "Bot164_Price_Discovery",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3079,7 +3079,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot166_Global_ADX",
+      "bot": "Bot165_Global_CCI",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3101,7 +3101,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot167_Global_Reversal",
+      "bot": "Bot166_Global_ADX",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3123,7 +3123,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot168_Global_PEG",
+      "bot": "Bot167_Global_Reversal",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3145,7 +3145,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot169_Global_Seasonality",
+      "bot": "Bot168_Global_PEG",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3167,7 +3167,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot170_Global_Composite",
+      "bot": "Bot169_Global_Seasonality",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3189,7 +3189,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot171_Global_FI",
+      "bot": "Bot170_Global_Composite",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3211,7 +3211,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot172_Global_CMF",
+      "bot": "Bot171_Global_FI",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3233,7 +3233,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot173_Global_Pivot",
+      "bot": "Bot172_Global_CMF",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3255,7 +3255,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot174_Global_WilliamsR",
+      "bot": "Bot173_Global_Pivot",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3277,7 +3277,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot175_Global_MACD_Hist",
+      "bot": "Bot174_Global_WilliamsR",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3299,7 +3299,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot176_VolAdj_Global_Mom",
+      "bot": "Bot175_Global_MACD_Hist",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3321,7 +3321,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot177_Global_MonthEnd",
+      "bot": "Bot176_VolAdj_Global_Mom",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3343,7 +3343,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot178_Global_Ichimoku",
+      "bot": "Bot177_Global_MonthEnd",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3365,7 +3365,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot179_Global_Donchian",
+      "bot": "Bot178_Global_Ichimoku",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3387,7 +3387,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot180_Global_EMA_Ribbon",
+      "bot": "Bot179_Global_Donchian",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3409,7 +3409,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot181_BB_Squeeze",
+      "bot": "Bot180_Global_EMA_Ribbon",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3431,7 +3431,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot182_Moderate_Beta",
+      "bot": "Bot181_BB_Squeeze",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3453,7 +3453,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot183_Global_EarningsMom",
+      "bot": "Bot182_Moderate_Beta",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3475,7 +3475,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot184_Global_52W_Near",
+      "bot": "Bot183_Global_EarningsMom",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3497,7 +3497,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot185_Tech_Global_Cycle",
+      "bot": "Bot184_Global_52W_Near",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3519,7 +3519,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot186_Global_Financial_Cycle",
+      "bot": "Bot185_Tech_Global_Cycle",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3541,7 +3541,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot187_Global_Healthcare",
+      "bot": "Bot186_Global_Financial_Cycle",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3563,7 +3563,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot188_Global_Consumer",
+      "bot": "Bot187_Global_Healthcare",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3585,7 +3585,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot189_Global_Energy",
+      "bot": "Bot188_Global_Consumer",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3607,7 +3607,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot190_Nasdaq_Correlation",
+      "bot": "Bot189_Global_Energy",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3629,7 +3629,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot191_Global_Industrial",
+      "bot": "Bot190_Nasdaq_Correlation",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3651,7 +3651,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot192_Global_Telecom",
+      "bot": "Bot191_Global_Industrial",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3673,7 +3673,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot193_Global_RealEstate",
+      "bot": "Bot192_Global_Telecom",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3695,7 +3695,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot194_Global_Materials",
+      "bot": "Bot193_Global_RealEstate",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3717,7 +3717,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot195_Global_Utilities",
+      "bot": "Bot194_Global_Materials",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3739,7 +3739,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot196_Global_IPO_Secondary",
+      "bot": "Bot195_Global_Utilities",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3761,7 +3761,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot197_Global_NetCash",
+      "bot": "Bot196_Global_IPO_Secondary",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3783,7 +3783,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot198_Global_LiquidityP",
+      "bot": "Bot197_Global_NetCash",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3805,7 +3805,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot199_TVQ_Composite",
+      "bot": "Bot198_Global_LiquidityP",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3827,7 +3827,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot200_Super_Composite",
+      "bot": "Bot199_TVQ_Composite",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3849,7 +3849,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot207_HighPE_Growth",
+      "bot": "Bot200_Super_Composite",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3871,7 +3871,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot208_MeanRev_Extreme",
+      "bot": "Bot207_HighPE_Growth",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3893,7 +3893,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot209_Earnings_Surprise",
+      "bot": "Bot208_MeanRev_Extreme",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3915,7 +3915,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot210_RSI_Mid_Trend",
+      "bot": "Bot209_Earnings_Surprise",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3937,7 +3937,7 @@
       "daily_target": 10000.0
     },
     {
-      "bot": "Bot211_Final_MomQuality",
+      "bot": "Bot210_RSI_Mid_Trend",
       "total_return": 0.0,
       "mdd": 0.0,
       "win_rate": 0.0,
@@ -3959,6 +3959,28 @@
       "daily_target": 10000.0
     },
     {
+      "bot": "Bot211_Final_MomQuality",
+      "total_return": 0.0,
+      "mdd": 0.0,
+      "win_rate": 0.0,
+      "sharpe": 0.0,
+      "n_trades": 0,
+      "latest_equity": 1000000,
+      "days": 0,
+      "cost_commission": 0,
+      "cost_slippage": 0,
+      "cost_tax": 0,
+      "cost_fx_loss": 0,
+      "cost_total": 0,
+      "net_profit_jpy": 0,
+      "net_return": 0.0,
+      "tune_actions": [],
+      "rank": 175,
+      "score": 0.4884,
+      "profit_jpy": 0,
+      "daily_target": 10000.0
+    },
+    {
       "bot": "Bot59_USDJPY_Sensitivity_JP",
       "total_return": -0.0,
       "mdd": -0.0017,
@@ -3975,7 +3997,7 @@
       "net_profit_jpy": -32.0,
       "net_return": -0.0,
       "tune_actions": [],
-      "rank": 175,
+      "rank": 176,
       "score": 0.6645,
       "profit_jpy": -32.0,
       "daily_target": 10000.0
@@ -3997,7 +4019,7 @@
       "net_profit_jpy": -62.0,
       "net_return": -0.0001,
       "tune_actions": [],
-      "rank": 176,
+      "rank": 177,
       "score": 0.6326,
       "profit_jpy": -62.0,
       "daily_target": 9999.0
@@ -4019,7 +4041,7 @@
       "net_profit_jpy": -63.0,
       "net_return": -0.0001,
       "tune_actions": [],
-      "rank": 177,
+      "rank": 178,
       "score": 0.5742,
       "profit_jpy": -63.0,
       "daily_target": 9999.0
@@ -4041,7 +4063,7 @@
       "net_profit_jpy": -104.0,
       "net_return": -0.0001,
       "tune_actions": [],
-      "rank": 178,
+      "rank": 179,
       "score": 0.596,
       "profit_jpy": -104.0,
       "daily_target": 9999.0
@@ -4063,7 +4085,7 @@
       "net_profit_jpy": -161.0,
       "net_return": -0.0002,
       "tune_actions": [],
-      "rank": 179,
+      "rank": 180,
       "score": 0.5108,
       "profit_jpy": -161.0,
       "daily_target": 9998.0
@@ -4085,7 +4107,7 @@
       "net_profit_jpy": -185.0,
       "net_return": -0.0002,
       "tune_actions": [],
-      "rank": 180,
+      "rank": 181,
       "score": 0.5653,
       "profit_jpy": -185.0,
       "daily_target": 9998.0
@@ -4107,7 +4129,7 @@
       "net_profit_jpy": -272.0,
       "net_return": -0.0003,
       "tune_actions": [],
-      "rank": 181,
+      "rank": 182,
       "score": 0.6217,
       "profit_jpy": -272.0,
       "daily_target": 9997.0
@@ -4129,7 +4151,7 @@
       "net_profit_jpy": -439.0,
       "net_return": -0.0004,
       "tune_actions": [],
-      "rank": 182,
+      "rank": 183,
       "score": 0.5725,
       "profit_jpy": -439.0,
       "daily_target": 9996.0
@@ -4151,7 +4173,7 @@
       "net_profit_jpy": -539.0,
       "net_return": -0.0005,
       "tune_actions": [],
-      "rank": 183,
+      "rank": 184,
       "score": 0.5442,
       "profit_jpy": -539.0,
       "daily_target": 9995.0
@@ -4173,7 +4195,7 @@
       "net_profit_jpy": -692.0,
       "net_return": -0.0007,
       "tune_actions": [],
-      "rank": 184,
+      "rank": 185,
       "score": 0.555,
       "profit_jpy": -692.0,
       "daily_target": 9993.0
@@ -4195,7 +4217,7 @@
       "net_profit_jpy": -745.0,
       "net_return": -0.0007,
       "tune_actions": [],
-      "rank": 185,
+      "rank": 186,
       "score": 0.6688,
       "profit_jpy": -745.0,
       "daily_target": 9993.0
@@ -4217,7 +4239,7 @@
       "net_profit_jpy": -1196.0,
       "net_return": -0.0012,
       "tune_actions": [],
-      "rank": 186,
+      "rank": 187,
       "score": 0.4884,
       "profit_jpy": -1196.0,
       "daily_target": 9988.0
@@ -4239,7 +4261,7 @@
       "net_profit_jpy": -1364.0,
       "net_return": -0.0014,
       "tune_actions": [],
-      "rank": 187,
+      "rank": 188,
       "score": 0.5777,
       "profit_jpy": -1364.0,
       "daily_target": 9986.0
@@ -4261,7 +4283,7 @@
       "net_profit_jpy": -1410.0,
       "net_return": -0.0014,
       "tune_actions": [],
-      "rank": 188,
+      "rank": 189,
       "score": 0.5933,
       "profit_jpy": -1410.0,
       "daily_target": 9986.0
@@ -4283,7 +4305,7 @@
       "net_profit_jpy": -1465.0,
       "net_return": -0.0015,
       "tune_actions": [],
-      "rank": 189,
+      "rank": 190,
       "score": 0.4307,
       "profit_jpy": -1465.0,
       "daily_target": 9985.0
@@ -4305,7 +4327,7 @@
       "net_profit_jpy": -1772.0,
       "net_return": -0.0018,
       "tune_actions": [],
-      "rank": 190,
+      "rank": 191,
       "score": 0.5635,
       "profit_jpy": -1772.0,
       "daily_target": 9982.0
@@ -4327,7 +4349,7 @@
       "net_profit_jpy": -1867.0,
       "net_return": -0.0019,
       "tune_actions": [],
-      "rank": 191,
+      "rank": 192,
       "score": 0.5202,
       "profit_jpy": -1867.0,
       "daily_target": 9981.0
@@ -4349,7 +4371,7 @@
       "net_profit_jpy": -2017.0,
       "net_return": -0.002,
       "tune_actions": [],
-      "rank": 192,
+      "rank": 193,
       "score": 0.5462,
       "profit_jpy": -2017.0,
       "daily_target": 9980.0
@@ -4371,7 +4393,7 @@
       "net_profit_jpy": -2036.0,
       "net_return": -0.002,
       "tune_actions": [],
-      "rank": 193,
+      "rank": 194,
       "score": 0.5175,
       "profit_jpy": -2036.0,
       "daily_target": 9980.0
@@ -4393,7 +4415,7 @@
       "net_profit_jpy": -2236.0,
       "net_return": -0.0022,
       "tune_actions": [],
-      "rank": 194,
+      "rank": 195,
       "score": 0.6076,
       "profit_jpy": -2236.0,
       "daily_target": 9978.0
@@ -4415,7 +4437,7 @@
       "net_profit_jpy": -2288.0,
       "net_return": -0.0023,
       "tune_actions": [],
-      "rank": 195,
+      "rank": 196,
       "score": 0.335,
       "profit_jpy": -2288.0,
       "daily_target": 9977.0
@@ -4437,7 +4459,7 @@
       "net_profit_jpy": -2458.0,
       "net_return": -0.0025,
       "tune_actions": [],
-      "rank": 196,
+      "rank": 197,
       "score": 0.4294,
       "profit_jpy": -2458.0,
       "daily_target": 9975.0
@@ -4459,7 +4481,7 @@
       "net_profit_jpy": -2628.0,
       "net_return": -0.0026,
       "tune_actions": [],
-      "rank": 197,
+      "rank": 198,
       "score": 0.448,
       "profit_jpy": -2628.0,
       "daily_target": 9974.0
@@ -4481,7 +4503,7 @@
       "net_profit_jpy": -3411.0,
       "net_return": -0.0034,
       "tune_actions": [],
-      "rank": 198,
+      "rank": 199,
       "score": 0.6234,
       "profit_jpy": -3411.0,
       "daily_target": 9966.0
@@ -4503,7 +4525,7 @@
       "net_profit_jpy": -3600.0,
       "net_return": -0.0036,
       "tune_actions": [],
-      "rank": 199,
+      "rank": 200,
       "score": 0.5117,
       "profit_jpy": -3600.0,
       "daily_target": 9964.0
@@ -4525,7 +4547,7 @@
       "net_profit_jpy": -3636.0,
       "net_return": -0.0036,
       "tune_actions": [],
-      "rank": 200,
+      "rank": 201,
       "score": 0.5568,
       "profit_jpy": -3636.0,
       "daily_target": 9964.0
@@ -4547,7 +4569,7 @@
       "net_profit_jpy": -3791.0,
       "net_return": -0.0038,
       "tune_actions": [],
-      "rank": 201,
+      "rank": 202,
       "score": 0.3929,
       "profit_jpy": -3791.0,
       "daily_target": 9962.0
@@ -4569,7 +4591,7 @@
       "net_profit_jpy": -3862.0,
       "net_return": -0.0039,
       "tune_actions": [],
-      "rank": 202,
+      "rank": 203,
       "score": 0.5294,
       "profit_jpy": -3862.0,
       "daily_target": 9961.0
@@ -4591,7 +4613,7 @@
       "net_profit_jpy": -4668.0,
       "net_return": -0.0047,
       "tune_actions": [],
-      "rank": 203,
+      "rank": 204,
       "score": 0.3305,
       "profit_jpy": -4668.0,
       "daily_target": 9953.0
@@ -4613,7 +4635,7 @@
       "net_profit_jpy": -4770.0,
       "net_return": -0.0048,
       "tune_actions": [],
-      "rank": 204,
+      "rank": 205,
       "score": 0.505,
       "profit_jpy": -4770.0,
       "daily_target": 9952.0
@@ -4635,7 +4657,7 @@
       "net_profit_jpy": -4906.0,
       "net_return": -0.0049,
       "tune_actions": [],
-      "rank": 205,
+      "rank": 206,
       "score": 0.5319,
       "profit_jpy": -4906.0,
       "daily_target": 9951.0
@@ -4657,7 +4679,7 @@
       "net_profit_jpy": -4908.0,
       "net_return": -0.0049,
       "tune_actions": [],
-      "rank": 206,
+      "rank": 207,
       "score": 0.3373,
       "profit_jpy": -4908.0,
       "daily_target": 9951.0
@@ -4679,7 +4701,7 @@
       "net_profit_jpy": -5680.0,
       "net_return": -0.0057,
       "tune_actions": [],
-      "rank": 207,
+      "rank": 208,
       "score": 0.3908,
       "profit_jpy": -5680.0,
       "daily_target": 9943.0
@@ -4701,7 +4723,7 @@
       "net_profit_jpy": -5874.0,
       "net_return": -0.0059,
       "tune_actions": [],
-      "rank": 208,
+      "rank": 209,
       "score": 0.447,
       "profit_jpy": -5874.0,
       "daily_target": 9941.0
@@ -4723,7 +4745,7 @@
       "net_profit_jpy": -6425.0,
       "net_return": -0.0064,
       "tune_actions": [],
-      "rank": 209,
+      "rank": 210,
       "score": 0.2998,
       "profit_jpy": -6425.0,
       "daily_target": 9936.0
@@ -4745,7 +4767,7 @@
       "net_profit_jpy": -7750.0,
       "net_return": -0.0077,
       "tune_actions": [],
-      "rank": 210,
+      "rank": 211,
       "score": 0.4224,
       "profit_jpy": -7750.0,
       "daily_target": 9922.0
@@ -4767,7 +4789,7 @@
       "net_profit_jpy": -15239.0,
       "net_return": -0.0152,
       "tune_actions": [],
-      "rank": 211,
+      "rank": 212,
       "score": 0.2205,
       "profit_jpy": -15239.0,
       "daily_target": 9848.0
