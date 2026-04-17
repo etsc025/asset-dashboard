@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米海軍、ホルムズ海峡封鎖へ。米イラン交渉決裂後",
-          "country": "GLOBAL",
-          "category": "Geopolitics, Energy, Trade",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン平和交渉決裂を受け、米海軍がホルムズ海峡を封鎖する見込み。タンカーがUターンしており、原油供給に深刻な影響を与える可能性がある。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Trade",
-            "Financial Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争で世界経済成長予測を下方修正",
-          "country": "Global",
-          "category": "Economy, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMF専務理事は、イラン戦争の影響で世界成長予測を下方修正すると発表。エネルギー価格高騰とインフレが懸念される。",
-          "affected_sectors": [
-            "All sectors",
-            "Energy",
-            "Consumer Goods",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン交渉決裂、週明けのリスク資産に重し",
-          "country": "Global",
-          "category": "Financial Markets, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン平和交渉の決裂を受け、週明けには世界の金融市場でリスク資産が下落する可能性が高いと報じられた。",
-          "affected_sectors": [
-            "Equities",
-            "Commodities",
-            "Forex"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英財務大臣、イラン戦争による経済的影響を警告",
-          "country": "United Kingdom",
-          "category": "Economy, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英財務大臣が、イランでの戦争が英国の家計と企業にコストをもたらすと警告。エネルギー価格やサプライチェーンへの懸念。",
-          "affected_sectors": [
-            "All sectors",
-            "Energy",
-            "Consumer",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米海軍がホルムズ海峡封鎖へ。原油価格高騰、市場警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-13 08:30",
     "data": {
       "breaking_news": [
@@ -15150,6 +15082,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東停戦期待で原油安、金高。インド企業決算発表。"
+    }
+  },
+  {
+    "timestamp": "2026-04-17 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "アジア株、停戦ニュース待ちで下落",
+          "country": "アジア",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イランと米国間の停戦延長の進展を投資家が待つ中、アジア株は下落した。",
+          "affected_sectors": [
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格、停戦と和平交渉の期待で下落",
+          "country": "グローバル",
+          "category": "商品市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イスラエルとレバノンの停戦およびイラン戦争の和平交渉への期待から、原油価格は下落した。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Citius Transnet InvIT IPOがインドで本日開始",
+          "country": "インド",
+          "category": "IPO",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Citius Transnet InvITのIPOがインドで本日開始され、インフラ資産への投資家の関心を集めている。",
+          "affected_sectors": [
+            "インフラ",
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "イラン戦争和平交渉の進展が市場と原油価格に影響を与えている"
     }
   }
 ]
