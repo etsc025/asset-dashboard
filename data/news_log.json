@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖を計画、イランとの協議決裂で原油価格高騰",
-          "country": "GLOBAL",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランとの協議決裂を受けホルムズ海峡の封鎖を計画。これにより原油価格が急騰し、世界市場に混乱をもたらしている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、Q1決算で取引収入が予想下回り株価下落",
-          "country": "USA",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ゴールドマン・サックスの第1四半期決算で、トレーディング部門の収益が予想を下回り、株価が4%下落した。",
-          "affected_sectors": [
-            "Financials",
-            "Investment Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場、イラン情勢への期待と懸念で方向感定まらず",
-          "country": "USA",
-          "category": "Market Movement",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国株はイランとの協議再開への期待と、ホルムズ海峡封鎖への懸念が交錯し、方向感に乏しい展開。",
-          "affected_sectors": [
-            "Technology",
-            "Energy",
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのインフレ率、2026年3月に1年ぶりの高水準に上昇",
-          "country": "India",
-          "category": "Economic Data",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "インドの2026年3月の年間インフレ率が3.4%に上昇し、1年ぶりの高水準となったが、市場予想は下回った。",
-          "affected_sectors": [
-            "Consumer Goods",
-            "Retail",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢緊迫化、ホルムズ海峡封鎖で原油急騰。市場に警戒感。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 06:30",
     "data": {
       "breaking_news": [
@@ -15543,6 +15478,71 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開で原油急落、世界株高。米株市場は史上最高値更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開、原油価格急落で世界市場上昇",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランとの紛争緩和とホルムズ海峡の再開により原油価格が急落し、世界市場全体で株価が上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "運輸",
+            "製造業",
+            "グローバル株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国銀行、Q1決算はまちまち、FRBは自己資本規制で断固たる姿勢",
+          "country": "米国",
+          "category": "銀行",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国銀行が第1四半期決算でまちまちの結果を報告し、連邦準備制度理事会は銀行の自己資本規制に関して強固な姿勢を示した。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国・EU・英国の金融当局が越境銀行破綻処理計画で連携",
+          "country": "米国、欧州連合、英国",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国、欧州銀行連合、英国の金融当局が、グローバルなシステム上重要な銀行の越境破綻処理計画について調整会議を実施。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "バークレイズCEO、AIが世界の銀行業界に脅威と警告",
+          "country": "グローバル",
+          "category": "テクノロジー",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "バークレイズのCEOが、AIが世界の銀行業界にもたらす脅威について警鐘を鳴らした。",
+          "affected_sectors": [
+            "銀行",
+            "テクノロジー",
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡再開で原油急落、世界株価上昇。"
     }
   }
 ]
