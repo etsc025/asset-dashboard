@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化による原油価格の変動と市場への影響",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢の緊張緩和期待で原油価格が一時100ドルを下回るも、交渉決裂や封鎖示唆で再上昇の懸念高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン協議進展期待で日経平均株価が大幅反発",
-          "country": "Japan",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン和平協議進展への期待から、東京株式市場で日経平均株価が大幅反発、一時1400円超上昇。",
-          "affected_sectors": [
-            "Technology",
-            "Export-oriented industries",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド生命保険公社(LIC)が初の1:1ボーナス発行を発表",
-          "country": "India",
-          "category": "Corporate Finance, Insurance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドのLICが初の1:1ボーナス発行を発表。財務健全性を示し、株主還元と流動性向上に寄与すると見られる。",
-          "affected_sectors": [
-            "Financial Services",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界経済、油価高騰への耐性向上とシティが分析",
-          "country": "Global",
-          "category": "Economic Analysis, Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "シティ分析によると、世界経済は油価高騰への耐性を向上。100ドル程度なら成長維持、110ドル超で景気後退リスク。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉の動向と原油価格の変動に注視せよ。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 13:30",
     "data": {
       "breaking_news": [
@@ -15491,6 +15428,83 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "イランがホルムズ海峡の開通を宣言; 原油急落、世界株上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Nvidiaが新たなオープンソース量子AIモデルを発表",
+          "country": "United States",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Nvidiaがオープンソースの量子AIモデルを発表し、AI分野での技術革新と競争を加速させると予想される。",
+          "affected_sectors": [
+            "Technology",
+            "Semiconductors",
+            "Artificial Intelligence"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRBウォラー理事、中東戦争がインフレ押し上げ、利下げ複雑化を指摘",
+          "country": "United States",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "FRBのウォラー理事が、中東の紛争がインフレを押し上げ、米国の利下げ経路を複雑にする可能性を示唆。",
+          "affected_sectors": [
+            "All Sectors",
+            "Financials",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ドル、NY外為市場で反発：米イラン和平合意への楽観論後退",
+          "country": "Global",
+          "category": "Currency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米イラン間の和平合意への過度な楽観論が後退し、NY外為市場でドルが安値から反発を見せた。",
+          "affected_sectors": [
+            "Forex",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争発生で個人投資家が市場から撤退",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の発生により、個人投資家が市場から大幅に撤退し、金価格も下落した。",
+          "affected_sectors": [
+            "Financials",
+            "Precious Metals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、低炭素電力発電事業者への超過利潤税引き上げを提案",
+          "country": "United Kingdom",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国のレイチェル・リーブス氏が、低炭素電力発電事業者に対する超過利潤税の引き上げを提案。",
+          "affected_sectors": [
+            "Energy",
+            "Utilities",
+            "Renewable Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "FRBウォラー理事、中東紛争によるインフレと利下げ複雑化を警告。"
     }
   }
 ]
