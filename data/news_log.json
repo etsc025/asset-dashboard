@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "原油価格が1バレル100ドルを割り込み急落",
-          "country": "Global",
-          "category": "Commodity",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "世界の原油価格は、昨日の急騰後、今朝反転しWTIは96.27ドル、ブレントは96.77ドルで100ドルを下回った。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコイン7.5万ドルに迫る、仮想通貨市場が11億ドル流入で反発",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "仮想通貨市場は11億ドルの資金流入で力強く反発。ビットコインは75,000ドルに迫り、イーサリアムも2,300ドル超を維持。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ソフトウェア株が本日堅調に反発",
-          "country": "Global",
-          "category": "Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ソフトウェア株が本日大きく反発。これが持続的な回復の始まりか、一時的な「デッドキャットバウンス」か市場は注視している。",
-          "affected_sectors": [
-            "Technology",
-            "Software"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FSBが資金調達コスト上昇による金融安定への「三重の打撃」をG20に警告",
-          "country": "Global",
-          "category": "Economic",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金融安定理事会（FSB）はG20に対し、資金調達コスト上昇が世界金融システムに「三重の打撃」をもたらす恐れがあると警告した。",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株、イラン合意期待で上昇",
-          "country": "United States",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランとの長期合意への楽観論が米国市場を活気づけ、ダウ、S&P500、ナスダックが力強く上昇した。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の3月貿易収支が急減",
-          "country": "China",
-          "category": "Economic",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国の3月貿易収支が予想を大幅に下回り急減。輸出鈍化と人工知能チップなどの輸入急増が原因とされている。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Global Trade",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京為替：ドル円、下値堅くドル売りは限定的",
-          "country": "Japan",
-          "category": "Forex",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "東京市場でドル円は下げ渋り、159円台で推移。ドル売りは限定的で、当面はレンジ相場が継続する可能性。",
-          "affected_sectors": [
-            "Forex",
-            "Export/Import businesses"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦期待で株式市場反発、原油急落。資金調達コスト上昇リスクに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 15:30",
     "data": {
       "breaking_news": [
@@ -15459,6 +15357,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡開通と地政学リスク後退で市場楽観、S&P500史上最高値更新。"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開、原油価格急落で世界株価が上昇",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランがホルムズ海峡の再開を発表。原油価格は9%急落し、ウォール街を含む世界市場で株価が史上最高値を更新しました。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米FRBウォーラー理事がホルムズ海峡再開とインフレ・金利への影響に言及",
+          "country": "US",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米FRBのウォーラー理事がホルムズ海峡の状況が長期的なインフレ見通しと金融政策に影響を与えると発言。",
+          "affected_sectors": [
+            "Financials",
+            "Interest-Rate Sensitive Sectors"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド主要銀行が好調な第4四半期決算を発表",
+          "country": "India",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "HDFC銀行、Yes銀行、ICICI銀行などインドの主要銀行が、第4四半期で利益増を報告しました。",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡再開で原油急落・株価上昇。インフレ懸念後退で利下げ期待高まる。"
     }
   }
 ]
