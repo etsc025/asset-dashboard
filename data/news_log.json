@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン戦争交渉への期待で上昇",
-          "country": "United States",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ウォール街の主要指数は、イラン戦争交渉への期待から月曜日に大幅に上昇して取引を終えた。",
-          "affected_sectors": [
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン停戦の不確実性の中、金価格は下落",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン停戦の不確実性の中、投資家がリスク資産に移行したため、金価格は月曜日に下落した。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Mining"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国によるホルムズ海峡封鎖脅威にもかかわらず、TSXは小幅上昇",
-          "country": "Canada",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国のホルムズ海峡封鎖脅威にもかかわらず、カナダの主要株価指数は月曜日に小幅上昇した。",
-          "affected_sectors": [
-            "All Sectors",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックス、2026年のインドのインフレ予測を下方修正",
-          "country": "India",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ゴールドマン・サックスは、2026年のインドのヘッドラインインフレ予測を4.5%に10ベーシスポイント下方修正した。",
-          "affected_sectors": [
-            "All Sectors",
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国のイラン交渉への期待で株価上昇、金は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 10:00",
     "data": {
       "breaking_news": [
@@ -15511,6 +15449,30 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中東情勢緩和で原油急落、世界株高。金融安定化に注視。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中央銀行、リーマン級破綻の脅威評価でウォーゲーム実施",
+          "country": "Global",
+          "category": "金融安定性",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "世界の中央銀行幹部がリーマン・ショックのような金融危機の可能性を評価するためウォーゲームに参加。金融システムの潜在的脆弱性への懸念が高まる。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス",
+            "世界経済",
+            "国債"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中央銀行が金融危機ウォーゲーム実施、リーマン級破綻の脅威を評価"
     }
   }
 ]
