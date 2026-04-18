@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランが交渉再開に意欲、原油価格は下落しリスク資産上昇",
-          "country": "グローバル",
-          "category": "地政学・エネルギー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランが停戦後の交渉再開に意欲を示し、原油価格は下落。市場の安堵感から株式は上昇傾向。Hormuz海峡の封鎖懸念は後退。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の小売売上高が3月に11ヶ月ぶりの高成長を記録",
-          "country": "英国",
-          "category": "経済・小売",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国の小売売上高は3月に前年比3.1%増と、予想を大幅に上回る伸び。過去11ヶ月で最高を記録し、経済回復への期待が高まる。",
-          "affected_sectors": [
-            "小売",
-            "一般消費財"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "オーストラリア消費者信頼感が2年半ぶりの低水準に急落",
-          "country": "オーストラリア",
-          "category": "経済・消費者心理",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "オーストラリアの消費者信頼感指数が4月に急落し、2年半ぶりの低水準に。燃料価格高騰と利上げが家計を圧迫。",
-          "affected_sectors": [
-            "小売",
-            "銀行",
-            "不動産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ゴールドマン・サックス、第1四半期決算は予想上回るも株価は下落",
-          "country": "米国",
-          "category": "企業業績・金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ゴールドマン・サックスが第1四半期の業績予想を上回るも、株価は下落。バンキングと市場部門は記録的な結果。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン交渉進展の兆しで市場に安堵感、原油安とリスク資産買いが優勢。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 14:30",
     "data": {
       "breaking_news": [
@@ -15507,6 +15444,58 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡開放で原油価格急落、株式市場上昇"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡を再び閉鎖、米国を非難",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡を再び閉鎖し、米国の封鎖措置を非難。世界的な原油供給と地政学的緊張に懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル市場",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、イラン戦争で世界経済成長予測を下方修正",
+          "country": "世界",
+          "category": "マクロ経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争が原油・ガス価格に影響し、IMFは2026年の世界経済成長予測を下方修正したと発表。",
+          "affected_sectors": [
+            "全産業",
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド主要銀行、好調なQ4決算を発表",
+          "country": "インド",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "HDFC銀行、Yes銀行、ICICI銀行などインド主要銀行が、純利益と純金利収入の増加を伴う好調なQ4決算を報告。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス",
+            "インド株式市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン、ホルムズ海峡を再閉鎖。地政学リスク高まる。"
     }
   }
 ]
