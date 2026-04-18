@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "フィリピン、燃料価格の大幅引き下げを発表",
-          "country": "Philippines",
-          "category": "Energy/Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "フィリピンが4月14日よりディーゼル、ガソリン、灯油の大幅な燃料価格引き下げを発表。消費者に恩恵。",
-          "affected_sectors": [
-            "Transportation",
-            "Retail",
-            "Consumers"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン戦争と生活費高騰で英国の休暇旅行が打撃",
-          "country": "UK",
-          "category": "Economy/Consumer Spending/Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "英国の消費者がイラン戦争と生活費高騰を懸念し、旅行支出を削減。裁量的支出が減少。",
-          "affected_sectors": [
-            "Travel",
-            "Tourism",
-            "Airlines",
-            "Hospitality"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ムーディーズ、中東紛争によるフィリピン経済のリスク増大を指摘",
-          "country": "Philippines",
-          "category": "Geopolitics/Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ムーディーズは、中東紛争がフィリピン経済のリスクを高め、インフレ予測を引き上げ成長見通しを下方修正。",
-          "affected_sectors": [
-            "General Economy",
-            "Energy",
-            "Import-dependent industries"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン和平交渉への期待から原油価格が100ドル以下に下落",
-          "country": "Global",
-          "category": "Energy/Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン和平交渉再開への期待から原油価格が100ドルを下回った。供給途絶懸念が和らぐ。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines",
-            "Consumers"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国経済、第1四半期にペース加速の可能性",
-          "country": "China",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "AFP調査によると、中国経済は輸出主導で2026年第1四半期に加速した可能性が高いが、内需は低迷。",
-          "affected_sectors": [
-            "Global Trade",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢が市場に影響。原油安も経済リスクは継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 16:30",
     "data": {
       "breaking_news": [
@@ -15327,6 +15246,83 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡の再制限示唆で原油市場に懸念再燃。"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開、世界市場が大幅反発し原油価格急落",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランによるホルムズ海峡の商船航行再開を受け、原油価格が9%急落し、ウォール街をはじめとする世界株式市場が大幅に反発しています。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "S&Pグローバル、エネルギー価格上昇を受け世界インフレ予測を上方修正",
+          "country": "グローバル",
+          "category": "経済データ",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "S&Pグローバルは、高止まりするエネルギー価格を背景に、消費者物価指数（CPI）のインフレ予測を上方修正しました。",
+          "affected_sectors": [
+            "全セクター",
+            "中央銀行",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "HDFC銀行、第4四半期純利益9%増、配当を発表",
+          "country": "インド",
+          "category": "企業決算",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "HDFC銀行が第4四半期純利益192.21億ルピー（9%増）を報告し、2026会計年度の1株当たり13ルピーの配当を発表しました。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ大手銀行が排出目標撤回、未公開債務へのリスクも浮上",
+          "country": "カナダ",
+          "category": "銀行",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "カナダの金融機関規制庁(OSFI)は、カナダの銀行が未公開債務に過度にエクスポージャーを抱えていることを警告しました。一方、RBCとスコシアバンクは、地政学的要因により石油・ガス融資の排出目標を撤回しました。",
+          "affected_sectors": [
+            "銀行",
+            "エネルギー",
+            "金融サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日本円の投機的変動、当局は介入の用意を示す",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "日本の財務大臣は、最近の円の動きはホルムズ海峡再開のニュースを受けた投機的なものと指摘し、急激な円安には介入も辞さない構えを示しました。",
+          "affected_sectors": [
+            "為替",
+            "日本の輸出入企業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和で市場反発、原油価格急落。"
     }
   }
 ]
