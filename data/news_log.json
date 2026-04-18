@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン紛争激化、原油価格に極端な変動、世界市場に波及",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン交渉決裂後、ホルムズ海峡封鎖の脅威により原油価格が乱高下し、世界株価に影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "海運/ロジスティクス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢と原油価格変動により、世界の株式市場が不安定化",
-          "country": "グローバル",
-          "category": "株式, 地政学, マクロ経済",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢と原油価格の変動が世界の株式市場に大きな動揺をもたらし、不安定化している。",
-          "affected_sectors": [
-            "全株式市場",
-            "特にエネルギー関連株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックスQ1決算、予想上回るもトレーディング収入未達で株価下落",
-          "country": "米国",
-          "category": "決算, 金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ゴールドマン・サックスQ1決算は予想超も、債券・通貨・コモディティ取引収入未達で株価は下落。",
-          "affected_sectors": [
-            "金融",
-            "投資銀行"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中国Q1 GDP加速、経済再活性化に向けた財政計画を発表",
-          "country": "中国",
-          "category": "マクロ経済, 政府政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国Q1 GDPは4.8%成長と加速、新規財政計画と不良不動産救済策で経済再活性化を目指す。",
-          "affected_sectors": [
-            "中国株式",
-            "不動産(中国)",
-            "グローバル貿易"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン紛争激化、原油・株価変動、世界市場に警戒広がる。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 11:00",
     "data": {
       "breaking_news": [
@@ -15479,6 +15416,59 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Hormuz Strait open, oil prices drop, stocks rally on Mideast de-escalation."
+    }
+  },
+  {
+    "timestamp": "2026-04-18 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡を再び閉鎖 米国との緊張高まり原油供給懸念",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランが米国の港湾封鎖解除要求に対しホルムズ海峡を再閉鎖。新たな危機が勃発し、世界の原油供給と市場の不安定化が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "貿易",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ウクライナ長距離攻撃、ロシアが欧州への新たな脅威を示唆",
+          "country": "ウクライナ",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ウクライナの長距離攻撃に対しロシアが欧州への新たな脅威を示唆。これにより地政学的緊張が一段と高まり、欧州市場全体に警戒感が広がる。",
+          "affected_sectors": [
+            "防衛",
+            "エネルギー",
+            "欧州株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIが労働市場に与える影響について議論が活発化",
+          "country": "グローバル",
+          "category": "テクノロジー",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "AI技術の進化が長期的に労働市場と産業構造に与える影響について、世界的に議論が加速。雇用創出と喪失の両面を注視。",
+          "affected_sectors": [
+            "テクノロジー",
+            "サービス業",
+            "製造業",
+            "教育"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡再閉鎖とウクライナ情勢悪化、市場はリスクオフへ。"
     }
   }
 ]
