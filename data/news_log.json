@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "日経平均、1400円超の大幅高を記録",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "東京株式市場で日経平均株価が1400円を超える大幅な上昇を記録し、市場全体に買いが広がった。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "輸出関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国株安は長期投資家にとって買い場、企業収益堅調",
-          "country": "米国",
-          "category": "投資戦略",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "投資銀行が、堅調な企業収益を背景に米国株の調整局面が長期投資家に買い機会を提供すると分析。",
-          "affected_sectors": [
-            "株式市場全般",
-            "投資銀行"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "東京為替市場：原油先物弱含みで円売り圧力縮小",
-          "country": "日本",
-          "category": "為替市場、コモディティ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "原油先物価格の軟調推移を受け、東京為替市場では円を売る動きが縮小傾向にある。",
-          "affected_sectors": [
-            "FX市場",
-            "エネルギー関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "韓国AI金融教育プラットフォーム企業、グローバル展開加速",
-          "country": "韓国",
-          "category": "フィンテック、テクノロジー",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "韓国のAI金融教育プラットフォーム企業Treasurerが「SW高成長クラブ」に選定され、ベトナム進出を計画。",
-          "affected_sectors": [
-            "フィンテック",
-            "教育テクノロジー",
-            "AI"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "韓国デジタル金融の未来に不確実性、仮想資産規制議論停滞",
-          "country": "韓国",
-          "category": "デジタル金融、仮想資産、規制",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "韓国のデジタル資産市場は規制議論の停滞により不確実性が高まり、今後の発展に懸念。",
-          "affected_sectors": [
-            "仮想通貨",
-            "フィンテック",
-            "ブロックチェーン"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "日経平均株価が大幅高、世界市場に回復期待広がる。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 12:30",
     "data": {
       "breaking_news": [
@@ -15482,6 +15405,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡の再閉鎖とリーマン型破綻への懸念が市場に影を落とす。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争が金融市場に影を落とし、原油価格上昇",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東での紛争激化がグローバル金融市場に不確実性をもたらし、原油価格が上昇傾向にあります。一部市場ではリテールトレーダーの撤退が見られます。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "金融",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中央銀行、リーマン・ブラザーズ型破綻の脅威を評価するウォーゲームを実施",
+          "country": "グローバル",
+          "category": "金融安定性",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "世界の中央銀行関係者が金融安定性を巡るウォーゲームに参加。リーマン・ブラザーズ型破綻のリスクを評価し、対応策を議論しています。",
+          "affected_sectors": [
+            "金融",
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、低炭素発電事業者への課税強化を検討",
+          "country": "英国",
+          "category": "財政政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国のレイチェル・リーブス氏が、低炭素発電事業者への追加課税とガス価格と電力価格の連動解消を検討しており、エネルギー市場に影響を与える可能性があります。",
+          "affected_sectors": [
+            "エネルギー",
+            "公益事業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国最高裁、シェブロン社など石油会社に有利な判決",
+          "country": "米国",
+          "category": "法務",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国最高裁判所が、環境に関する係争でシェブロン社を含む石油会社側に有利な判決を下しました。これはエネルギーセクターにとって追い風となる可能性があります。",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東紛争激化と原油高騰が市場の主要懸念。中央銀行は金融安定性で警戒。"
     }
   }
 ]
