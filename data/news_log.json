@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国がイランに海上封鎖を課す、原油価格高騰",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランへの海上封鎖を開始し、核プログラム中止を要求。これを受け原油価格が急騰している。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "防衛",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイラン、脆弱な停戦期限前に新たな協議を模索",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東情勢緊迫化の中、米国とイランが脆弱な停戦の期限切れを前に新たな協議の可能性を探っている。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "政治"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU、凍結ロシア資産収益14億ユーロをウクライナ支援へ",
-          "country": "欧州連合",
-          "category": "国際関係",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "EUは、凍結されたロシア中央銀行資産の収益から14億ユーロをウクライナ支援に供与することを決定した。",
-          "affected_sectors": [
-            "財政サービス",
-            "政府",
-            "防衛"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英Marks Electrical、業績予想を上回る好調な結果",
-          "country": "英国",
-          "category": "企業業績",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国のMarks Electrical Group PLCが予想を上回る好業績を発表し、利益と純現金が予測を上回る見込み。",
-          "affected_sectors": [
-            "小売 (家電)"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAI、Amazonと提携強化、Microsoftとの関係に変化",
-          "country": "米国",
-          "category": "テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "OpenAIがAmazonとの連携を強化し、初期投資家であるMicrosoftとの関係から距離を置く動きが見られる。",
-          "affected_sectors": [
-            "テクノロジー",
-            "クラウドサービス",
-            "ソフトウェア"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国がイランに海上封鎖を課し中東情勢が緊迫。原油価格高騰、市場はリスクオフへ。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 18:00",
     "data": {
       "breaking_news": [
@@ -15243,6 +15165,72 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡の地政学的緊張と船舶航行リスクに引き続き注意"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡の制限再開を発表し市場に不確実性",
+          "country": "イラン",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡の開通報道で市場は一時楽観視したが、イランが制限再開を発表し、原油価格と貿易への影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル株式",
+            "製造業",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン、ホルムズ海峡通行料の仮想通貨払いを要求",
+          "country": "イラン",
+          "category": "地政学, 暗号通貨, 制裁",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡の通行料を仮想通貨で要求。米国の制裁強化とイラン港封鎖が続く中、地政学リスクが増大。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "暗号通貨",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AI株の評価懸念と経済不確実性で投資家が配当株へシフト",
+          "country": "グローバル",
+          "category": "投資トレンド, 市場センチメント",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "AI株の過大評価懸念やインフレ、景気後退リスクから、投資家はより安定した配当株へと資金を移動させている。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "グローバル株式"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "マスカット証券取引所が金融セクター主導で上昇",
+          "country": "オマーン",
+          "category": "地域市場, 決算",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "マスカット証券取引所の主要指数が週次で上昇し、金融セクターが銀行決算に支えられ牽引、市場の時価総額も増加した。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡の地政学リスク再燃、イランの制限再開発表に要警戒。"
     }
   }
 ]
