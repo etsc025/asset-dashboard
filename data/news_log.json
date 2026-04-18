@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖を指示、イランとの協議決裂で原油価格急騰",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "トランプ米大統領がイランとの協議決裂後、ホルムズ海峡封鎖を命令。原油価格が急騰し、世界市場に広範な影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "製造業",
-            "運輸",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ゴールドマン・サックスが予想を上回る第1四半期決算を発表",
-          "country": "米国",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ゴールドマン・サックスが堅調な第1四半期決算を発表したが、一部収益が予想を下回り、株価は変動した。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の3月新規人民元融資と社会融資総量が予想を下回る",
-          "country": "中国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国の新規人民元融資と社会融資総量が3月に予想を下回り、信用成長の減速と経済活動への懸念を示唆。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "工業",
-            "グローバル貿易"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インドの3月消費者物価指数、1年ぶりの高水準に上昇",
-          "country": "インド",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドの年次インフレ率が3月に3.4%に上昇し、1年ぶりの高水準を記録。インフレ圧力が高まっている。",
-          "affected_sectors": [
-            "消費財",
-            "小売",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国の3月中古住宅販売件数、9ヶ月ぶりの低水準に下落",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の既存住宅販売が3月に3.6%減少し、9カ月ぶりの低水準。住宅市場の冷え込みを示唆している。",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡封鎖命令で原油急騰、市場は地政学的リスクを警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-14 05:00",
     "data": {
       "breaking_news": [
@@ -15493,6 +15413,74 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開で原油急落、世界株価が急騰中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡開放、原油急落で世界株式市場が上昇",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランがホルムズ海峡の全面開放を宣言。イスラエル・レバノン停戦後、原油価格が急落し、S&P500などが過去最高値を更新。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Cruise",
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "企業決算に明暗：Netflix下落、IPO銘柄は高騰",
+          "country": "US",
+          "category": "Earnings",
+          "impact": "MEDIUM",
+          "direction": "MIXED",
+          "summary": "Netflixはガイダンス低調で下落も、PepsiCoは上昇。KaileraやAEVEXはIPOで急騰。米印で企業決算が混在.",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Staples",
+            "Healthcare",
+            "Financials",
+            "Pharmaceuticals",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "金融セクター、サイバーセキュリティ強化のためAI活用を推奨",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "金融監視機関がAnthropicのAI「Mythos」活用を金融機関に促す。サイバーセキュリティ強化が目的.",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Cybersecurity"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学リスク緩和で市場楽観視、ただしバリュエーションに懸念",
+          "country": "US",
+          "category": "Market Sentiment",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "地政学リスク緩和で米国株は楽観ムード。しかし高評価と投機過熱に警戒感あり、1929年市場との類似性も指摘.",
+          "affected_sectors": [
+            "All"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡開放で原油急落、世界株高。市場はリスクオン"
     }
   }
 ]
