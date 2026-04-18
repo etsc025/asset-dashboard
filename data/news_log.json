@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、ホルムズ海峡封鎖警告。原油価格急騰で世界市場に緊張",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がホルムズ海峡封鎖を示唆。原油価格が急騰し、供給不安から世界経済への悪影響が懸念され市場は緊張。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "製造業",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン和平交渉決裂。地政学的リスクの高まりで市場が動揺",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの交渉が決裂し、中東情勢の緊張が激化。世界の株式市場は下落、地政学的リスクが市場センチメントを悪化させている。",
-          "affected_sectors": [
-            "株式市場",
-            "金融",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均、中東情勢緊迫化と原油高で大幅下落",
-          "country": "Japan",
-          "category": "Equity Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢緊迫化と原油価格急騰を受け、日経平均株価が大幅下落。国内経済へのインフレ圧力も高まり、警戒感広がる。",
-          "affected_sectors": [
-            "株式市場",
-            "自動車",
-            "輸出関連"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化、ホルムズ封鎖警告で原油急騰、世界市場はリスク回避へ"
-    }
-  },
-  {
     "timestamp": "2026-04-14 07:30",
     "data": {
       "breaking_news": [
@@ -15546,6 +15494,79 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開で世界市場が上昇、原油価格急落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 13:37",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開、原油価格急落で世界株価上昇",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡の全面再開により原油価格が10%以上急落し、世界の株式市場が大幅に上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "運輸",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国銀行、Q1業績はまちまち、連邦準備制度理事会が資本規制に強硬姿勢",
+          "country": "米国",
+          "category": "銀行",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国大手銀行の第1四半期業績はまちまちで、トレーディングは好調も民間信用への懸念が残る。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米・EU・英金融当局、グローバル重要銀行のクロスボーダー破綻処理計画を協議",
+          "country": "グローバル",
+          "category": "規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米・EU・英の金融当局が、グローバルにシステム上重要な銀行の破綻処理計画について協議を開始。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド・オーストリアビジネスフォーラム、経済関係強化を確認",
+          "country": "インド",
+          "category": "貿易",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "インド・オーストリアビジネスフォーラムが開催され、二国間貿易と投資の深化を強調し、協力関係を強化。",
+          "affected_sectors": [
+            "製造",
+            "貿易",
+            "投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ICEが21時間ガス取引を開始も流動性はまだ低調",
+          "country": "英国",
+          "category": "商品",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ICE取引所が英国とEUのガス先物取引時間を21時間に延長したが、現時点では流動性は上がっていない。",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ホルムズ海峡再開、原油急落、世界株価が上昇中"
     }
   }
 ]
