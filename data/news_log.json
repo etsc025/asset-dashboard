@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "アジア株式市場が上昇、原油価格は下落 - 米イラン和平交渉への期待から",
-          "country": "アジア各国",
-          "category": "地政学, 市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の和平交渉進展への期待が高まり、アジア株式市場が広範に上昇、原油価格は下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、イランにウラン濃縮20年間停止を要求との報道",
-          "country": "米国, イラン",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国がイランに対し、ウラン濃縮活動を20年間停止するよう要求していると報じられた。中東情勢の動向に注目。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "シンガポール金融管理局が金融引き締め、2026年インフレ予測を引き上げ",
-          "country": "シンガポール",
-          "category": "金融政策, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "シンガポール金融管理局は金融政策を引き締め、2026年のインフレ予測を上方修正。油価高騰が背景。",
-          "affected_sectors": [
-            "金融",
-            "消費財",
-            "製造業",
-            "運輸"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉期待で市場はリスクオン、原油下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 18:30",
     "data": {
       "breaking_news": [
@@ -15231,6 +15181,81 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡の地政学リスク再燃、イランの制限再開発表に要警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緩和で欧州株上昇、原油価格は急落",
+          "country": "EU",
+          "category": "市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イスラエルとレバノンの停戦合意、イランによるホルムズ海峡の「完全開放」宣言を受け、欧州株が上昇し、原油価格が急落しました。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "航空",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、イランの核放棄と引き換えに200億ドルの凍結資金解放を検討",
+          "country": "US",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "報道によると、米国はイランが濃縮ウラン備蓄を放棄すれば、凍結された200億ドルの資金を解放することを検討しています。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "国際関係"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "レイ・ダリオ氏、米イラン紛争を「世界大戦の初期段階」と警告",
+          "country": "Global",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "著名投資家のレイ・ダリオ氏は、現在の米イラン紛争が世界大戦の初期段階に似ていると警告し、市場に懸念を与えています。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場Nifty上昇、主要銀行Q4決算好調",
+          "country": "India",
+          "category": "市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インドのNifty指数が続伸し、HDFC、ICICI、Yes Bankの第4四半期決算が市場予想を上回りました。",
+          "affected_sectors": [
+            "金融",
+            "株式市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "CAB Payments株価下落、HeliosがStoneX買収案を支持せず",
+          "country": "UK",
+          "category": "企業",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "CAB Paymentsの株価は、主要株主HeliosがStoneXからの買収提案を支持しないと発表したことで下落しました。",
+          "affected_sectors": [
+            "金融サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和で欧州株上昇、原油急落。リスクオンムード。"
     }
   }
 ]
