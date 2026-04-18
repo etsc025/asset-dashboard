@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株上昇、原油下落、イラン情勢緩和への期待が市場を押し上げる",
-          "country": "グローバル/米国",
-          "category": "地政学、市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株はイラン情勢の緊張緩和期待で上昇、原油価格は下落。世界経済回復への楽観が広がる。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのインフレ率が2026年3月に1年ぶりの高水準に上昇",
-          "country": "インド",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドの年次インフレ率が2026年3月に3.4%に上昇し、1年ぶりの高水準を記録。",
-          "affected_sectors": [
-            "生活必需品",
-            "金利敏感セクター",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国既存住宅販売が2026年3月に9ヶ月ぶりの低水準に落ち込む",
-          "country": "米国",
-          "category": "マクロ経済、不動産",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の既存住宅販売が2026年3月に3.6%減少し、過去9ヶ月で最低水準を記録。",
-          "affected_sectors": [
-            "不動産",
-            "建設",
-            "銀行（住宅ローン）",
-            "住宅改善"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン緊張緩和期待で株価上昇、原油下落。世界経済に楽観。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 11:30",
     "data": {
       "breaking_news": [
@@ -15469,6 +15416,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡再閉鎖とウクライナ情勢悪化、市場はリスクオフへ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、米国の港湾封鎖を「海賊行為」と非難しホルムズ海峡を再閉鎖",
+          "country": "イラン, 米国",
+          "category": "地政学, エネルギー, 貿易",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランは米国の港湾封鎖を「海賊行為」と非難し、ホルムズ海峡を再閉鎖。国際原油価格と海運に重大な影響。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "物流",
+            "グローバル貿易",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ウクライナの長距離攻撃がロシアの新たな対欧州脅威を誘発",
+          "country": "ウクライナ, ロシア, 欧州",
+          "category": "地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ウクライナの長距離攻撃に対しロシアが欧州への新たな脅威を示唆。欧州の地政学リスクが高まり市場に警戒感。",
+          "affected_sectors": [
+            "防衛",
+            "欧州市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中央銀行総裁らがリーマン級破綻の脅威を想定したウォーゲーム実施",
+          "country": "グローバル, イギリス",
+          "category": "銀行, 金融安定性, 規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中央銀行総裁らがリーマン級金融危機を想定したウォーゲームを実施。金融システムの潜在的リスク管理を強化。",
+          "affected_sectors": [
+            "銀行",
+            "金融サービス",
+            "保険"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国の銀行、AnthropicのAIツール導入準備中に金融リーダーが警告",
+          "country": "イギリス",
+          "category": "テクノロジー, 銀行, 規制, サイバーセキュリティ",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "英国の銀行がAnthropicのAIツール導入を準備。金融リーダーは新技術の潜在的リスクと規制対応を警告。",
+          "affected_sectors": [
+            "銀行",
+            "テクノロジー",
+            "サイバーセキュリティ"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランがホルムズ海峡を再閉鎖し、油価高騰と世界経済の不確実性が急増。"
     }
   }
 ]
