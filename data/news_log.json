@@ -1,29 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国市場、米イラン情勢の緊張下で株価上昇、原油価格は軟化",
-          "country": "米国",
-          "category": "地政学, 株式市場, エネルギー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の緊張継続も、一時的な停戦期待と原油価格下落で株式市場が反発、リスクオンムードに。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "エネルギー",
-            "輸送"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン情勢、米国株に一時的な上昇圧力、原油は軟化。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 09:30",
     "data": {
       "breaking_news": [
@@ -15482,6 +15458,59 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開により原油価格が急落、リスク回避ムード後退で主要市場が大幅上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-18 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡開通宣言、原油価格急落で世界株高",
+          "country": "Global",
+          "category": "Geopolitics, Commodities, Market Sentiment",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イランによるホルムズ海峡の開通宣言と中東情勢の緊張緩和を受け、原油価格が急落し、世界の株式市場が上昇。",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Shipping",
+            "Global Equities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中央銀行総裁らがリーマン級危機に備え「ウォーゲーム」実施",
+          "country": "Global",
+          "category": "Monetary Policy, Financial Stability",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "世界の中央銀行総裁らが、リーマン級の金融危機に備えたウォーゲームを実施。金融安定性への懸念が浮上。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services",
+            "Global Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東戦争による世界金融市場への増幅リスクを強調",
+          "country": "Global",
+          "category": "Geopolitics, Economic Outlook",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMFが中東戦争が世界金融市場にもたらす増幅リスクについて言及し、経済見通しに不確実性を追加。",
+          "affected_sectors": [
+            "Global Economy",
+            "Emerging Markets",
+            "Energy",
+            "Financial Sector"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢緩和で原油急落、世界株高。金融安定化に注視。"
     }
   }
 ]
