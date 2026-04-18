@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン対話期待で世界株高・原油安",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の協議進展期待から欧州株は上昇、原油価格は1バレル100ドルを下回り、市場の楽観ムードが広がった。",
-          "affected_sectors": [
-            "Financials",
-            "Energy",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均株価が大幅反発、1300円超高で引け",
-          "country": "Japan",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "日本の日経平均株価は世界的な好感触に牽引され、1300円以上の大幅高で取引を終えた。",
-          "affected_sectors": [
-            "All sectors listed on Nikkei",
-            "Export-oriented companies"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京為替市場、ドル円は原油動向注視で小動き",
-          "country": "Japan",
-          "category": "Currency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "東京外国為替市場では、ドル円は158.96円付近で落ち着き、市場参加者は原油価格の動向を注視している。",
-          "affected_sectors": [
-            "Forex",
-            "Import/export businesses"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金価格は堅調もレンジ内、イラン封鎖と米インフレ指標に注目",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "金価格は堅調に推移しているが、米国のイラン海上封鎖や米インフレ指標を巡る市場の動きは限定的。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Mining",
-            "Inflation-sensitive sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Intel株が4月に1000億ドル急騰、市場の注目株に",
-          "country": "US",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Intelの株価は4月に1000億ドル以上の市場価値を急騰させ、好材料と信頼回復で市場で最も注目される銘柄に。",
-          "affected_sectors": [
-            "Semiconductor",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "世界株上昇、原油安。米イラン対話期待が市場を押し上げ。"
-    }
-  },
-  {
     "timestamp": "2026-04-14 19:30",
     "data": {
       "breaking_news": [
@@ -15218,6 +15141,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン情勢緩和で米国株が大幅高。日本市場は利益確定売りとAI株物色が交錯中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡への制限を再課し、船舶への発砲も報道",
+          "country": "イラン",
+          "category": "地政学・エネルギー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡への制限を再課し、船舶への発砲も報じられたため、世界的な原油供給と市場に不確実性が高まっている。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル貿易",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ムスカット証券取引所の時価総額が386.25億OMRを突破",
+          "country": "オマーン",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ムスカット証券取引所の主要指数は週次で上昇し、特に金融セクターが好調で、市場の時価総額が386.25億OMRを超えた。",
+          "affected_sectors": [
+            "金融",
+            "投資"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "スイス経済大臣、米国との関税協定について協議",
+          "country": "スイス",
+          "category": "国際経済",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "スイスのガイ・パルムラン経済大臣が、ワシントンD.C.で米国との関税協定について議論した。",
+          "affected_sectors": [
+            "貿易",
+            "政府"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランがホルムズ海峡への制限を再課し、原油供給と市場に不確実性が高まっている。"
     }
   }
 ]
