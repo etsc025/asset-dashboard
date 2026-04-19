@@ -1,77 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉への期待が市場を押し上げ、原油価格は下落",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, 株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの和平交渉への期待からS&P 500先物とFTSE 100が上昇、原油価格は下落。Strait of Hormuzの情勢は引き続き焦点。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要米銀の決算発表が相次ぐ、BlackRockは好調な利益を報告",
-          "country": "米国",
-          "category": "企業業績, 銀行",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "JPMorgan Chase, Wells Fargo, Citigroup, BlackRockなどの主要米銀が決算を発表。BlackRockは投資手数料で大幅増益を達成。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国生産者物価指数(PPI)発表、インフレ動向に市場の注目",
-          "country": "米国",
-          "category": "経済指標, インフレ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国で生産者物価指数(PPI)が発表予定。インフレ圧力に関する新たな信号として市場が注目している。",
-          "affected_sectors": [
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドネシア財務大臣、米国で投資家向けロードショーを実施",
-          "country": "インドネシア",
-          "category": "マクロ経済, 投資, 新興市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドネシア財務大臣が米国でグローバル投資家と会談。マクロ経済の健全性を説明し、投資家の信頼を醸成した。",
-          "affected_sectors": [
-            "新興市場",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMFが「世界金融安定報告書」と「世界経済見通し」を発表",
-          "country": "グローバル",
-          "category": "マクロ経済, 金融安定性",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFが世界金融安定報告書と世界経済見通しを発表。新興市場や地政学的リスクの分析が含まれる。",
-          "affected_sectors": [
-            "全般"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉への期待と主要銀行決算に注目"
-    }
-  },
-  {
     "timestamp": "2026-04-14 22:30",
     "data": {
       "breaking_news": [
@@ -15084,6 +15012,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、ホルムズ海峡封鎖報道で市場に動揺。"
+    }
+  },
+  {
+    "timestamp": "2026-04-19 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国 2025年第4四半期 GDP（第3次速報値）発表",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国商務省経済分析局が本日発表した2025年第4四半期のGDP第3次速報値は年率換算で0.5%増と、前期の4.4%から大幅に鈍化しました。",
+          "affected_sectors": [
+            "経済全般",
+            "株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国 2025年第4四半期 経常収支赤字幅が縮小",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "米国商務省経済分析局によると、2025年第4四半期の経常収支赤字は20.2%縮小し、1,907億ドルとなりました。",
+          "affected_sectors": [
+            "為替市場",
+            "貿易"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "カナダ中小企業景況感指数が2026年4月に上昇、物価上昇は加速",
+          "country": "カナダ",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "カナダ中小企業連盟の景況感指数が2026年4月に58.5へ上昇しましたが、平均物価上昇率も3.2%に加速しています。",
+          "affected_sectors": [
+            "中小企業",
+            "労働市場",
+            "インフレ関連"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ユーロ圏 2026年2月貿易黒字が予想を下回る",
+          "country": "ユーロ圏",
+          "category": "経済指標",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "2026年2月のユーロ圏貿易黒字は115億ユーロに縮小し、市場予想（117億ユーロ）をわずかに下回りました。",
+          "affected_sectors": [
+            "貿易",
+            "為替市場"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米国のGDP成長鈍化と経常収支改善、カナダ景況感上昇"
     }
   }
 ]
