@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "カナダ、春季経済報告を4月28日に発表へ",
-          "country": "カナダ",
-          "category": "政府・財政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "カナダ政府は4月28日に春季経済報告を発表予定。今後の財政・経済政策の方向性を示す。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カナダ政府、連邦ガソリン税を一時停止へ",
-          "country": "カナダ",
-          "category": "財政政策・エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "カナダ政府は来週から連邦ガソリン税を一時停止。消費者の負担軽減と経済刺激が目的。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費者裁量"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "石油価格緩和でウォール街が過去最高値に迫る",
-          "country": "米国",
-          "category": "市場パフォーマンス・コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "石油価格沈静化を受け、ウォール街が過去最高値に迫る勢いで上昇。市場の楽観が高まる。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "3月の米中小企業景況感が低下",
-          "country": "米国",
-          "category": "経済指標・景況感",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "3月の米中小企業景況感指数が低下。インフレとサプライチェーン問題が継続的な懸念。",
-          "affected_sectors": [
-            "中小企業",
-            "消費者裁量"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン情勢沈静化で石油価格緩和、世界市場が回復の兆し",
-          "country": "グローバル",
-          "category": "地政学・コモディティ・市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン情勢の沈静化期待と原油価格緩和を受け、世界の株式市場は回復傾向。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カナダとマニトバ州、大型プロジェクト加速の新協定を締結",
-          "country": "カナダ",
-          "category": "インフラ・政府政策",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "カナダとマニトバ州が大型プロジェクト加速の新協定を締結。建設・インフラ投資を促進。",
-          "affected_sectors": [
-            "建設",
-            "インフラ",
-            "運輸"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン情勢の動きと原油価格に注視、市場は高値圏で推移。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 08:00",
     "data": {
       "breaking_news": [
@@ -14646,6 +14557,73 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン核協議とホルムズ海峡の最新情勢が市場の主要懸念。トランプ氏の警告に注意。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡を再び閉鎖か。米国との緊張高まる",
+          "country": "Iran",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡を再閉鎖し、米国の海上封鎖により石油貿易が完全に停止。世界経済に重大な影響。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Trade",
+            "Aviation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡の不確実性で世界の株式市場が失速",
+          "country": "Global",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イランと米国の間の緊張再燃とホルムズ海峡の不確実性により、世界的な株式市場の好調が失速。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国、南アフリカのレアアース抽出プロジェクトを支援",
+          "country": "US",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国が南アフリカのレアアース抽出プロジェクトを支援。戦略的資源のサプライチェーン強化に貢献。",
+          "affected_sectors": [
+            "Mining",
+            "Technology",
+            "Automotive",
+            "Defense"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "カナダ中銀元総裁、30%の景気後退リスクを警告",
+          "country": "Canada",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "カナダ中央銀行元総裁が、カナダが景気後退に陥る可能性が30%あると警告。経済指標の監視が重要。",
+          "affected_sectors": [
+            "All sectors in Canada",
+            "Financial Services",
+            "Consumer Cyclicals"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡封鎖再燃、原油高騰リスク増大、市場はリスクオフへ"
     }
   }
 ]
