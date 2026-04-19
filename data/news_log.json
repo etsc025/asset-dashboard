@@ -1,86 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US-Iran Conflict Impacts Global Markets and Oil Prices Amidst Peace Talk Hopes and Blockade",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米イラン紛争は、和平交渉への期待と米国による港湾封鎖の中で、世界の市場と原油価格に影響を与えている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "金融",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争を理由に2026年の世界経済成長予測を下方修正",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、中東紛争による経済的影響のため、2026年の世界経済成長予測を3.1%に下方修正し、長期化する敵対行為への懸念を表明した。",
-          "affected_sectors": [
-            "グローバル経済",
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3月の米国生産者物価指数、予想を下回る上昇",
-          "country": "United States",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の米国生産者物価指数は0.5%上昇し、予想の1.1%を下回った。これはインフレ圧力の緩和を示唆している。",
-          "affected_sectors": [
-            "金融",
-            "一般消費財",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AmazonがGlobalstarを115億ドルで買収",
-          "country": "United States",
-          "category": "Corporate M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Amazonは衛星サービス事業者Globalstarを115億ドルで買収すると発表。衛星インターネット事業とProject Kuiperを強化する。",
-          "affected_sectors": [
-            "テクノロジー",
-            "電気通信",
-            "航空宇宙",
-            "衛星サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中国、AI分野で「優等生」の立場を確立か、トランプ氏の「ワイルドウェスト」アプローチとの対比",
-          "country": "China",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国はAI開発において責任あるアプローチをとっており、トランプ氏の「ワイルドウェスト」なAIアプローチとは対照的であると指摘されている。",
-          "affected_sectors": [
-            "人工知能",
-            "テクノロジー",
-            "地政学"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "IMFはイラン紛争による世界経済の減速を警告し、成長予測を下方修正した。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 05:00",
     "data": {
       "breaking_news": [
@@ -14724,6 +14643,54 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン交渉の隔たりと米債券市場の懸念が週明け市場に影響"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン和平協議進展期待で原油下落、世界株は反発",
+          "country": "Global",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイランの停戦協議進展観測から原油価格が大幅下落。ホルムズ海峡の緊張緩和期待で世界株式市場は反発。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米金融大手モルガン・スタンレー、第1四半期決算で株取引収入が過去最高",
+          "country": "USA",
+          "category": "Corporate Earnings",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "モルガン・スタンレーは第1四半期に株式取引収入が過去最高を記録。金融セクターの堅調な業績が確認された。",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ドル円159円台で推移、日本政府・日銀による介入警戒感継続",
+          "country": "Japan",
+          "category": "Currency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ドル円は159円台で推移。日本政府と日銀による円安けん制発言や為替介入への市場の警戒感が続いている。",
+          "affected_sectors": [
+            "Export/Import",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン和平期待で原油安・株高。ドル円は159円台で介入警戒。"
     }
   }
 ]
