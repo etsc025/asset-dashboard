@@ -1,87 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、中東紛争による世界的な金融不安定化を警告",
-          "country": "グローバル",
-          "category": "金融安定, マクロ経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFの報告書は、中東紛争による金融市場の混乱、インフレ圧力、金融引き締めのリスク増大により、世界的な金融不安定化が進んでいると警告した。",
-          "affected_sectors": [
-            "全金融市場",
-            "エネルギー",
-            "新興市場",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン紛争の余波で世界経済見通しが「急激に悪化」と発表",
-          "country": "グローバル",
-          "category": "マクロ経済, 地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、イラン紛争の影響で世界の経済見通しが急激に悪化し、2026年の成長予測を3.1%に下方修正し、インフレ率も上方修正した。",
-          "affected_sectors": [
-            "エネルギー",
-            "新興市場",
-            "グローバル経済全体",
-            "石油・ガス産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、「前例のない」エネルギー危機が世界的な景気後退を引き起こす可能性を警告",
-          "country": "グローバル",
-          "category": "エネルギー, マクロ経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、米イスラエルとイランの紛争が「前例のない規模のエネルギー危機」を引き起こし、世界経済を景気後退に陥れる可能性を警告した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "グローバル経済全体"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イランとの合意期待で原油価格が緩和し、ウォール街は高値に接近",
-          "country": "米国",
-          "category": "市場反応, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イランとの和平交渉への期待から原油価格が緩和し、ウォール街は上昇した。ヨーロッパとアジアの市場も同様に上昇した。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ロシア、BRICS諸国との食料備蓄創設を提案",
-          "country": "ロシア, BRICS諸国",
-          "category": "地政学, コモディティ, 食料安全保障",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ロシアは中東紛争による食料安全保障のリスクを背景に、BRICS諸国との共同食料備蓄の創設を提案した。",
-          "affected_sectors": [
-            "農業",
-            "食料品",
-            "コモディティ市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "IMFが中東紛争による世界的な金融不安定化と景気後退リスクを警告。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 05:30",
     "data": {
       "breaking_news": [
@@ -14691,6 +14609,57 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン和平期待で原油安・株高。ドル円は159円台で介入警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡の閉鎖継続を表明。世界的なエネルギー供給に懸念。",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランは、港湾封鎖が解除されるまでホルムズ海峡を閉鎖し続けると表明。世界のエネルギー供給に懸念。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インドのLPG使用量がFY26年3月に約13%減少、西アジアの緊張が供給を阻害。",
+          "country": "インド",
+          "category": "経済データ",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "西アジアの緊張による供給混乱が原因で、インドのLPG消費が会計年度26年3月に約13%減少した。",
+          "affected_sectors": [
+            "エネルギー",
+            "石油化学",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国、EUとの経済関係強化へ鉄鋼・EV分野での合意を模索。",
+          "country": "英国",
+          "category": "貿易政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国はブレグジット後の経済関係強化のため、EUとの間で鉄鋼および電気自動車に関する新たな貿易協定を求めている。",
+          "affected_sectors": [
+            "自動車",
+            "鉄鋼",
+            "国際貿易"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イランがホルムズ海峡の閉鎖継続を発表し、原油供給への懸念が高まる。"
     }
   }
 ]
