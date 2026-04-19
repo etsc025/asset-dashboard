@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン協議再開期待で世界株高・原油安",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の協議再開への期待が高まり、世界的に株価が上昇し原油価格が緩和傾向にある。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Industrials",
-            "Aviation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Amazon、Globalstarを115億ドルで買収へ",
-          "country": "US",
-          "category": "M&A, Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Amazonが衛星サービス事業者Globalstarを115億ドルで買収する合意を発表、宇宙通信分野への進出を強化。",
-          "affected_sectors": [
-            "Technology",
-            "Telecommunications",
-            "Space Industry"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "BlackRockが予想上回るQ1決算、株価上昇",
-          "country": "US",
-          "category": "Corporate Earnings, Financials",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "BlackRockが堅調なETF流入と高い運用手数料に支えられ、予想を上回る第1四半期利益を報告した。",
-          "affected_sectors": [
-            "Financials",
-            "Asset Management"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争で世界経済成長予測を下方修正",
-          "country": "Global",
-          "category": "Economic Outlook, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは中東紛争が世界経済の勢いを止めたとし、2026年の世界経済成長予測を3.3%から3.1%に下方修正しインフレ加速を警告。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン協議期待で株高・原油安もIMFは世界成長下方修正、警戒必要。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 02:30",
     "data": {
       "breaking_news": [
@@ -14825,6 +14762,87 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢の不確実性が高まり、市場に警戒感"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡再開で中東情勢沈静化、原油急落し市場に安堵感",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "イラン外相はホルムズ海峡の商業船向け完全開放を発表。イスラエルとレバノンの停戦合意と合わせ中東情勢が沈静化し、原油価格下落と市場の楽観を招いた。",
+          "affected_sectors": [
+            "Energy",
+            "Shipping",
+            "Global Equities",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "原油価格が10%超急落、米利下げ期待が大幅に上昇",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡再開の報道を受け、原油価格が10%以上急落。これにより米連邦準備制度理事会による年内利下げの可能性が高まり、トレーダーの利下げ期待が上昇した。",
+          "affected_sectors": [
+            "Energy",
+            "Financials",
+            "Airlines",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米株式市場が最高値更新、中東リスク緩和を好感",
+          "country": "United States",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ホルムズ海峡の再開と中東での停戦合意を受け、エネルギー価格上昇への懸念が和らぎ、米主要株価指数は新たな過去最高値を記録。テクノロジー株が特に好調だった。",
+          "affected_sectors": [
+            "Global Equities",
+            "Technology",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ経済、元中銀総裁が30%の景気後退確率を予測",
+          "country": "Canada",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "カナダ銀行の元総裁が、同国経済が景気後退に陥る可能性が30%あると予測。世界的な経済不確実性と地政学的緊張が背景にあると見られる。",
+          "affected_sectors": [
+            "Canadian Equities",
+            "Banking",
+            "Retail",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米カジノ大手Bally's Corp、英Evoke PLC買収交渉報道",
+          "country": "United Kingdom",
+          "category": "Mergers & Acquisitions",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "米国のカジノ運営会社Bally's Corpが、英国のEvoke PLC買収に向けた交渉を行っていると報じられた。買収が実現すればゲーム業界の再編につながる。",
+          "affected_sectors": [
+            "Gaming",
+            "Leisure"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中東情勢の沈静化とホルムズ海峡再開で原油急落、米株高。利下げ期待も上昇。"
     }
   }
 ]
