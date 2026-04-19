@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉期待で世界市場リスクオン",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国のイランとの和平交渉再開への期待感から、世界の株式市場が上昇し、米ドルが下落。原油価格も軟化。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Energy",
-            "Forex",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米ドルがインフレ軟化とイラン情勢楽観論で下落",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "予想を下回る米国の生産者物価指数（PPI）とイラン和平交渉への楽観論が米ドルを押し下げた。",
-          "affected_sectors": [
-            "Forex",
-            "Equities",
-            "Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イスラエルとレバノン、米国仲介で直接交渉に合意",
-          "country": "Middle East",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国仲介のもと、イスラエルとレバノンがヘズボラ武装解除を巡る直接交渉に合意し、地域緊張緩和に期待。",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Regional Stability"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日銀が原油高でインフレ見通し引き上げか",
-          "country": "Japan",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "原油価格の上昇を受け、日本銀行がインフレ見通しを引き上げる可能性。金融政策の正常化継続を示唆。",
-          "affected_sectors": [
-            "Forex",
-            "Japanese Equities",
-            "Bonds"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉期待で市場リスクオン、ドル安・株高進行中"
-    }
-  },
-  {
     "timestamp": "2026-04-15 10:30",
     "data": {
       "breaking_news": [
@@ -14456,6 +14390,88 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢緊迫化、米国によるイラン船舶拿捕で原油市場に混乱の兆し。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Mortgage Rates Dip Amid Falling Treasury Yields",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "US mortgage rates decreased as 10-year Treasury yields fell, boosting housing market and consumer sentiment.",
+          "affected_sectors": [
+            "Real Estate",
+            "Financials",
+            "Construction"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Iran Reopens Strait of Hormuz, Oil Plunges, Global Stocks Rally",
+          "country": "Global",
+          "category": "Geopolitics, Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Iran reopened Strait of Hormuz after ceasefire, plunging oil prices and sparking global stock market rally.",
+          "affected_sectors": [
+            "Energy",
+            "Airlines",
+            "Transportation",
+            "Equities",
+            "Manufacturing",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Former BoC Governor Warns of 30% Recession Risk for Canada",
+          "country": "Canada",
+          "category": "Economic Outlook",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "A former Bank of Canada governor sees a 30% chance of Canada entering recession due to global economic pressures.",
+          "affected_sectors": [
+            "All Canadian sectors",
+            "Financials",
+            "Real Estate",
+            "Consumer Discretionary"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Helium Prices Surge 35-50% After Qatar Supply Disruption",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Helium prices spiked globally due to supply disruption from military strikes in Qatar halting production.",
+          "affected_sectors": [
+            "Technology",
+            "Healthcare",
+            "Aerospace",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "S&P 500 Indicator Sounds Alarm: History Suggests Sell-off Ahead",
+          "country": "USA",
+          "category": "Market Analysis",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Despite recent rallies, an S&P 500 indicator suggests a potential harsh sell-off due to high CAPE ratios.",
+          "affected_sectors": [
+            "All equity markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally; Iran reopens Strait of Hormuz."
     }
   }
 ]
