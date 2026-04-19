@@ -1,102 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国・イラン和平交渉期待で株価上昇、原油価格安定",
-          "country": "米国/イラン",
-          "category": "地政学, 市場動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの和平交渉への期待から米国株式は史上最高値に迫り、原油価格は安定化傾向。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争の影響で2026年世界経済成長予測を下方修正",
-          "country": "グローバル",
-          "category": "マクロ経済, 地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFはイラン戦争が世界経済成長を著しく損ない、インフレを加速させると警告し、2026年の予測を下方修正した。",
-          "affected_sectors": [
-            "全セクター",
-            "エネルギー",
-            "製造業",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "保険会社が2008年危機前より高いリスクを取っていると報告",
-          "country": "グローバル",
-          "category": "金融安定性",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "報告書によると、保険会社はプライベートクレジット投資において2008年の金融危機前よりも大きなリスクを負っている。",
-          "affected_sectors": [
-            "金融",
-            "保険",
-            "プライベートクレジット"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国のイラン海上封鎖継続、原油価格の変動要因に",
-          "country": "米国/イラン",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国によるイラン港湾封鎖が継続され、和平交渉中にも関わらず原油価格高騰と市場混乱を招いている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カナダ、燃料物品税を約5か月間停止",
-          "country": "カナダ",
-          "category": "政府政策, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "カナダ政府は、高騰するエネルギー価格の中で消費者の負担を軽減するため、燃料物品税を約5か月間停止する。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "小売",
-            "消費者"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ユーロ圏3月インフレ率が加速、エネルギー価格が主因",
-          "country": "ユーロ圏",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の消費者物価インフレ率は3月に急上昇し、主にエネルギー価格の急激な上昇が原因である。",
-          "affected_sectors": [
-            "エネルギー",
-            "小売",
-            "消費財",
-            "中央銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "IMFはイラン戦争が世界経済成長とインフレに高リスクと警告"
-    }
-  },
-  {
     "timestamp": "2026-04-15 07:00",
     "data": {
       "breaking_news": [
@@ -14717,6 +14620,44 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "グローバルな地政学的緊張が緩和し、米国のインフレが鎮静化、リスクオンを支持。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "KelpDAOで分散型ウォレットから2億9200万ドル流出",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "KelpDAOの分散型ウォレットから約2億9200万ドルが流出。攻撃者がイーサリアムとアービトラム上のDeFiプロトコルからポジションを引き出した。",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Decentralized Finance",
+            "Blockchain Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "PayPay、4月末から台湾でも決済サービスを利用可能に",
+          "country": "Japan, Taiwan",
+          "category": "FinTech",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "日本の決済サービスPayPayが4月末から台湾での利用を開始。インバウンド需要に対応し、事業拡大へ。",
+          "affected_sectors": [
+            "FinTech",
+            "Mobile Payments",
+            "Retail",
+            "Tourism"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "KelpDAOから2.9億ドル流出、DeFi市場に警戒感。"
     }
   }
 ]
