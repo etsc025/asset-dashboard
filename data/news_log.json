@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "湾岸戦争が英国防衛費の「手抜き」を露呈",
-          "country": "UK",
-          "category": "Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "湾岸での戦争が英国防衛体制の予算削減問題を浮き彫りにし、政府への圧力を増す可能性。",
-          "affected_sectors": [
-            "Defense",
-            "Public Sector"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン交渉継続期待で株式市場上昇、原油価格は下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦交渉継続への期待が市場の楽観を促し、株式市場は上昇。原油価格は5%程度下落。",
-          "affected_sectors": [
-            "Global Equities",
-            "Energy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ナイキ株、役員による自社株買いで上昇",
-          "country": "US",
-          "category": "Corporate",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "ナイキのティム・クック取締役らによる自社株買いが発表され、株価が時間外取引で1.5%上昇。",
-          "affected_sectors": [
-            "Apparel",
-            "Consumer Discretionary"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン交渉継続と原油安が市場を押し上げ、株式は上昇基調。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 06:30",
     "data": {
       "breaking_news": [
@@ -14674,6 +14625,98 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢が世界経済とエネルギー市場に引き続き影響。英国経済は課題に直面し、カナダは景気後退リスク。原油価格は下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "英国、鉄鋼とEVでEUとの貿易交渉を推進",
+          "country": "英国",
+          "category": "貿易政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国は鉄鋼と電気自動車に関してEUとの新たな貿易協定を追求しており、ブレグジット後の経済関係強化を示唆しています。",
+          "affected_sectors": [
+            "製造業",
+            "自動車",
+            "鉄鋼",
+            "国際貿易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国の民間賃貸料、2017年以来初めて上昇停止",
+          "country": "英国",
+          "category": "不動産, 経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "2017年以来初めて、英国の民間賃貸料の上昇が停止し、住宅市場の安定化の可能性を示しています。",
+          "affected_sectors": [
+            "不動産",
+            "消費者支出"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "オーストリアのベビーフードから殺鼠剤が発見され製品回収",
+          "country": "オーストリア",
+          "category": "食品安全, 企業",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "オーストリアでベビーフードの瓶から殺鼠剤が発見され、製品回収が行われました。消費者安全と企業責任に関する深刻な懸念を引き起こしています。",
+          "affected_sectors": [
+            "食品・飲料",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢の沈静化でホルムズ海峡が開通、原油価格下落",
+          "country": "グローバル",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中東情勢の沈静化とホルムズ海峡の開通により、世界の貿易懸念が緩和され、原油価格が下落しました。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "国際貿易",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国の卸売物価指数は予想を下回り、雇用統計は安定",
+          "country": "米国",
+          "category": "経済, 金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の米国の生産者物価指数は予想を下回り、失業保険申請件数は安定しており、インフレ緩和と労働市場の堅調さを示唆しています。",
+          "affected_sectors": [
+            "全セクター（マクロ経済）",
+            "金利敏感セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ECB、利上げを急がない姿勢を示す",
+          "country": "ユーロ圏",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧州中央銀行は、さらなる利上げを急がない姿勢を示しており、借り手にとって安心材料となり経済活動を支援します。",
+          "affected_sectors": [
+            "銀行",
+            "不動産",
+            "債券市場"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "グローバルな地政学的緊張が緩和し、米国のインフレが鎮静化、リスクオンを支持。"
     }
   }
 ]
