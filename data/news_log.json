@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、中東情勢緩和期待で高騰し史上最高値に迫る",
-          "country": "米国",
-          "category": "金融市場, 地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株式市場は、米国とイランの和平交渉再開への期待が高まり、原油価格が下落したことを受け、S&P 500が史上最高値まで上昇した。",
-          "affected_sectors": [
-            "株式市場",
-            "石油・ガス",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争を背景に2026年世界経済成長予測を下方修正",
-          "country": "グローバル",
-          "category": "経済, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFは、中東紛争の影響で2026年の世界経済成長率予測を3.1%に下方修正し、敵対行為が長期化すればさらなる経済悪化を警告した。",
-          "affected_sectors": [
-            "世界経済",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3月の米生産者物価指数、予想を下回る上昇",
-          "country": "米国",
-          "category": "経済, インフレ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月の米生産者物価指数は0.5%上昇と、予想の1.1%を下回った。しかし、エネルギーコストの上昇により財価格は1.6%急騰した。",
-          "affected_sectors": [
-            "製造業",
-            "エネルギー",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Amazon、衛星企業Globalstarを115.7億ドルで買収合意",
-          "country": "米国",
-          "category": "テクノロジー, M&A",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Amazonが衛星サービス事業者のGlobalstarを115.7億ドルで買収することに合意。これにより、Starlinkのような競合他社に対抗する。",
-          "affected_sectors": [
-            "テクノロジー",
-            "衛星通信",
-            "電気通信"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国株は中東情勢緩和期待で高騰; IMFは世界成長予測を下方修正。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 09:30",
     "data": {
       "breaking_news": [
@@ -14506,6 +14442,43 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開、世界株式が急騰し原油価格が下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争後の経済的影響、米国を傷つけるとエコノミストが警告",
+          "country": "米国",
+          "category": "地政学、経済",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "エコノミストは、イラン紛争が終結しても米国経済に悪影響が及ぶ可能性を警告。エネルギー価格やサプライチェーンへの影響が懸念される。",
+          "affected_sectors": [
+            "エネルギー",
+            "製造業",
+            "貿易",
+            "全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン紛争を受け個人投資家が市場から撤退",
+          "country": "グローバル",
+          "category": "市場心理、地政学",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の勃発に伴い、個人投資家の取引活動が大幅に減少。金価格も下落し、市場のリスク回避傾向が示唆される。",
+          "affected_sectors": [
+            "株式市場全般",
+            "コモディティ"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争後の経済的影響と市場のリスク回避傾向に警戒"
     }
   }
 ]
