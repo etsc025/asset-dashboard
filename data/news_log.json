@@ -1,91 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン和平交渉期待で急騰、原油価格下落",
-          "country": "米国",
-          "category": "市場動向、地政学、商品",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株はイラン和平交渉への期待から急騰し、S&P500は史上最高値に迫る勢い。原油価格も下落。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の株式市場（欧州、アジア）が大幅上昇",
-          "country": "欧州、アジア",
-          "category": "市場動向、地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧州・アジア市場も米国株に追随し大幅上昇。イラン和平交渉期待が投資家心理を改善。",
-          "affected_sectors": [
-            "広範な市場指数"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が大幅下落、インフレ懸念後退",
-          "country": "グローバル",
-          "category": "商品、地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン和平交渉期待で原油価格が大幅下落。インフレ懸念後退、中央銀行の金融政策に影響か。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMFが世界経済成長率予測を下方修正",
-          "country": "グローバル",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFは2026年の世界経済成長率予測を下方修正、3.1%に。地政学リスクが影響。",
-          "affected_sectors": [
-            "広範な経済"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国3月卸売物価指数が加速",
-          "country": "米国",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の3月卸売物価指数は4%に加速。予想を下回ったものの、インフレ圧力は継続。",
-          "affected_sectors": [
-            "広範な経済"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AmazonがGlobalstarを115.7億ドルで買収へ",
-          "country": "米国",
-          "category": "テクノロジー、M&A",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Amazonが衛星通信企業Globalstarを115.7億ドルで買収合意。MuskのStarlinkに対抗。",
-          "affected_sectors": [
-            "衛星通信",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国・イラン和平交渉期待が市場を押し上げ、株価は上昇、原油価格は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 13:00",
     "data": {
       "breaking_news": [
@@ -14394,6 +14308,58 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "中東情勢の緊張再燃、原油・為替市場に影響継続"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン、ホルムズ海峡への制限を再導入し、地政学的緊張が激化",
+          "country": "イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランがホルムズ海峡への制限を再導入し、米国との対立が激化。世界のエネルギー供給と貿易に重大な影響を及ぼす可能性が高まった。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "世界貿易",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国株式市場、中東の地政学的不安続く中、主要指数は記録的高値更新",
+          "country": "米国",
+          "category": "市場パフォーマンス",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中東の地政学的緊張が続くにもかかわらず、S&P 500とナスダックが史上最高値を更新し、投資家の回復力と楽観性を示した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "金融",
+            "広範な市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "世界の中央銀行、中東紛争によるインフレリスクを厳重監視",
+          "country": "グローバル",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国やオーストラリアを含む主要中央銀行は、中東紛争がエネルギー価格高騰とインフレを加速させる可能性について警戒を強化している。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "一般消費財"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡の緊張再燃、世界のエネルギー市場に高まる不確実性。"
     }
   }
 ]
