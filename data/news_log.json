@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン和平協議期待で世界株式市場が続伸、原油価格は大幅反落",
-          "country": "GLOBAL",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米・イラン間の和平協議継続への期待から、NYダウ、ナスダックが続伸、S&P500が最高値に接近。原油価格は大幅反落。",
-          "affected_sectors": [
-            "Energy",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコインが4週間ぶり高値に上昇、取引高も増加",
-          "country": "GLOBAL",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ビットコイン（BTC）が一時7万5000ドル台を回復し、過去4週間で最高値に。24時間の取引高も53.90%増と大幅に上昇。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Fintech"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド準備銀行、銀行からの四半期評価損繰り延べ要請を却下",
-          "country": "India",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インド準備銀行が、銀行からの3月期債券評価損の引当金繰り延べ要請を拒否。銀行の財務に影響。",
-          "affected_sectors": [
-            "Banking",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢緊迫化による原油価格高騰で日本国内の資材供給に影響",
-          "country": "Japan",
-          "category": "Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中東情勢の不透明感増大による原油高と国際物流への影響で、日本国内で石油由来資材の供給制限や価格高騰が発生。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Construction",
-            "Logistics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米・イラン和平期待で株式市場が上昇、原油は下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 12:30",
     "data": {
       "breaking_news": [
@@ -14408,6 +14345,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ホルムズ海峡再開で市場が上昇、原油価格が下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "日経平均株価、午前10時に501円高で推移、ソフトバンクGが牽引",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "20日午前10時の日経平均株価は前週末比501円高の5万8977円で推移。ソフトバンクGが上昇を牽引した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "広範な市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "外為サマリー：中東巡る楽観論後退で円安一時159円20銭台に上伸",
+          "country": "グローバル",
+          "category": "外国為替",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢に関する市場の楽観論が後退し、円が対ドルで一時159円20銭付近まで下落した。",
+          "affected_sectors": [
+            "金融",
+            "輸出関連産業",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アーキテクツが3連騰、2027年2月期は営業黒字見通しを発表",
+          "country": "日本",
+          "category": "企業業績",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "「アーキテクツ」が3連騰。2027年2月期の営業黒字見通しを発表し、株価が上昇している。",
+          "affected_sectors": [
+            "テクノロジー",
+            "ソフトウェア"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "中東情勢の緊張再燃、原油・為替市場に影響継続"
     }
   }
 ]
