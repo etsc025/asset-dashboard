@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉進展で原油価格下落、世界株式市場が上昇",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の停戦交渉進展への期待から原油価格が約5%下落。世界的に株式市場が上昇し、リスクオンムードが強まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界株式市場が堅調に推移、米国株は史上最高値に迫る",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン情勢の緩和期待を受け、S&P500、ラッセル2000など主要指数が上昇。テクノロジー株や金融株が主導した。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の第1四半期GDP成長率が4.8%に加速の見込み",
-          "country": "中国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の第1四半期GDP成長率が4.8%に加速すると予測され、経済回復への期待が高まっている。",
-          "affected_sectors": [
-            "汎用工業",
-            "消費財",
-            "不動産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF、ホルムズ海峡閉鎖なら「前例のない」エネルギー危機を警告",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "IMFはホルムズ海峡の閉鎖が「前例のない」エネルギー危機と世界経済のリセッションを引き起こす可能性を警告した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン交渉進展で世界株高、原油安。リスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 17:00",
     "data": {
       "breaking_news": [
@@ -14155,6 +14090,85 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "イラン停戦で米株が史上最高値、原油は大幅下落。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢緊迫化、原油価格急騰で世界経済に下押し圧力",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ホルムズ海峡封鎖の脅威で原油価格が7%超急騰。IMFは中東紛争が世界経済成長を阻害と警告。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、中東紛争による世界経済成長見通しを下方修正",
+          "country": "Global",
+          "category": "Macroeconomics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは2026年の世界経済成長率を3.1%に下方修正し、中東紛争と地政学リスクが主な要因と発表。",
+          "affected_sectors": [
+            "All sectors",
+            "Emerging Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRBウォーラー理事、イラン紛争長期化で利下げ困難に言及",
+          "country": "United States",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ウォーラー理事はホルムズ海峡封鎖が続けばインフレ上昇でFRBの利下げを妨げると発言。",
+          "affected_sectors": [
+            "Interest-rate sensitive sectors",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "富士通、AI活用ERPソリューション「GLOVIA One」を日本市場向けに発表",
+          "country": "Japan",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "富士通はAIエージェントを搭載した新ERP「GLOVIA One」を中小企業向けに提供開始し、デジタル化を支援。",
+          "affected_sectors": [
+            "Technology",
+            "Business Services",
+            "Japanese Mid-sized Enterprises"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド株式市場、中東情勢受け下落も投資家はリスクを乗り越え回復",
+          "country": "India",
+          "category": "Market Movement",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "イラン情勢緊迫化でインド市場は下落スタートも、終盤に回復。原油高は引き続き懸念材料。",
+          "affected_sectors": [
+            "All Indian equity sectors",
+            "Oil & Gas",
+            "Metals",
+            "Realty"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東地政学リスク高まり原油急騰、IMFが世界成長を下方修正し警戒感"
     }
   }
 ]
