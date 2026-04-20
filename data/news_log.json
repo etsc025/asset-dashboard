@@ -1,122 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Chevron says Venezuelan oil imports are helping curb U.S. gas prices",
-          "country": "US",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "シェブロンはベネズエラ産原油輸入が米ガソリン価格抑制に貢献し、中東戦争による高値から緩和を報告。",
-          "affected_sectors": [
-            "Energy",
-            "Automotive",
-            "Consumer Staples"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Google sued by rival app store Aptoide over alleged monopoly",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "競合アプリストアAptoideがGoogleを独占禁止法違反で提訴。モバイルエコシステムへの影響の可能性あり。",
-          "affected_sectors": [
-            "Technology",
-            "Software",
-            "Mobile"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "OpenAI unveils GPT-5.4-Cyber a week after Anthropic's announcement of AI model",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OpenAIが新AIモデルGPT-5.4-Cyberを発表。Anthropicの発表に続き、AI開発競争が激化。",
-          "affected_sectors": [
-            "Technology",
-            "AI",
-            "Software"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Rupee gains 20 paise to 93.15 against US dollar in early trade",
-          "country": "India",
-          "category": "Currency",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "インド・ルピーが対米ドルで20パイサ上昇。国内株式市場の好調と世界的圧力の緩和が背景。",
-          "affected_sectors": [
-            "Forex",
-            "Indian exports/imports"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "LIC shares soar 5% after first-ever 1:1 bonus issue",
-          "country": "India",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド生命保険公社(LIC)が初の1:1ボーナス発行を発表後、株価が5%急騰。投資家の信頼高まる。",
-          "affected_sectors": [
-            "Insurance",
-            "Financials",
-            "Stock Market (India)"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Silver rises Rs 2,200, gold at Rs 1.54 lakh as Iran war peace talks, falling oil lifts mood",
-          "country": "India",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン戦争和平交渉の期待と原油価格下落で銀・金価格が上昇。コモディティ市場に好影響。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Commodities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Indian stock market rally: Sensex soars 1,200 points, Nifty above 24,200",
-          "country": "India",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "インド株式市場が急騰、Sensexは1,200ポイント上昇しNiftyは24,200超え。原油価格緩和と和平期待が要因。",
-          "affected_sectors": [
-            "All sectors in India"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "BofA Securities initiates coverage on Groww with 'buy' rating; shares rally 4% to record high",
-          "country": "India",
-          "category": "Corporate",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "BofA証券がGrowwの株価を「買い」に格上げ、株価が4%高騰し過去最高値更新。フィンテックへの期待高まる。",
-          "affected_sectors": [
-            "Financial Services",
-            "Fintech",
-            "Stock Market (India)"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "インド市場急騰、原油安とイラン和平期待でリスクオン加速。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 16:00",
     "data": {
       "breaking_news": [
@@ -14231,6 +14114,71 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "地政学的緊張激化で原油高騰、市場はボラティリティ増大。"
+    }
+  },
+  {
+    "timestamp": "2026-04-20 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イランのホルムズ海峡閉鎖により原油価格が急騰、世界市場に影響",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イランによるホルムズ海峡閉鎖の動きが原油価格を急騰させ、中東情勢の悪化懸念が世界の株式市場に売り圧力をもたらしている。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Manufacturing",
+            "Airlines"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "香港、中国本土からの大規模資金流入が継続し市場の安定性示す",
+          "country": "Hong Kong",
+          "category": "Capital Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国本土経済の安定した成長とテクノロジー企業の新規株式公開が牽引し、香港市場への大規模な資金流入が続いている。",
+          "affected_sectors": [
+            "Financial Services",
+            "Technology",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド株式市場は堅調推移後に調整局面、銀行セクターに注目",
+          "country": "India",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "インド株式市場は、堅調な上昇の後に調整局面に入ると見られる。大手銀行の決算発表が相場を左右する要因となる。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMFが世界金融安定報告書で公的・民間債務のリスクを警告",
+          "country": "Global",
+          "category": "Global Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "IMFは最新の報告書で、高水準の公的・民間債務と債券市場の脆弱性が世界経済にとって主要なリスク要因であると警告した。",
+          "affected_sectors": [
+            "Financial Services",
+            "Government Bonds",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡閉鎖による原油急騰と中東情勢悪化に警戒が必要。"
     }
   }
 ]
