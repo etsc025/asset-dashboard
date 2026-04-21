@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bank of America Beats Profit Estimates, Driving Financial Sector Gains",
-          "country": "US",
-          "category": "Company Earnings",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bank of Americaが好調な取引と投資銀行部門によりQ1利益予想を上回り、金融セクターを牽引。",
-          "affected_sectors": [
-            "Financials",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Gold Eases as Investors Monitor US-Iran Tensions and Rate Outlook",
-          "country": "Global",
-          "category": "Commodities, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "金価格は、米イラン情勢と金利見通しを警戒する投資家心理により、1カ月ぶりの高値から下落。",
-          "affected_sectors": [
-            "Precious Metals",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Stocks Rise as Corporate Earnings Impress and US-Iran Talks Hopes Emerge",
-          "country": "US",
-          "category": "Stock Market, Macroeconomics, Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株式市場は、好決算と米イラン交渉進展への期待から上昇。S&P 500とナスダックが牽引。",
-          "affected_sectors": [
-            "All Sectors",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Elevated Oil Prices from Middle East Tensions Could Delay Rate Cuts",
-          "country": "Global",
-          "category": "Commodities, Geopolitics, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢による原油価格高騰が、利下げ時期の遅延につながる可能性があり、市場に影響。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Global Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Broadcom Shares Surge on Extended Custom Chip Agreement with Meta",
-          "country": "US",
-          "category": "Company News, Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "メタとのカスタムチップ契約延長により、Broadcomの株価が上昇。AI分野での協力強化を示す。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors",
-            "AI"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国株上昇、銀行好決算と米イラン交渉期待。地政学・金利に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 01:30",
     "data": {
       "breaking_news": [
@@ -13773,6 +13695,81 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "地政学的リスク（イラン戦争の影響）が小売企業の戦略に影響、インド市場では銀行株から資金流出が続く。"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "アジア市場はまちまち、米イラン間の緊張高まりで原油価格下落",
+          "country": "Global",
+          "category": "Financial Markets",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米イラン間の緊張再燃と和平交渉の不確実性により、アジア株はまちまちの展開となり、原油価格は下落している。",
+          "affected_sectors": [
+            "Energy",
+            "Financial Services",
+            "Global Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Apple、ティム・クック氏の後任CEOにジョン・ターナス氏指名",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Appleはティム・クックCEOが退任し、後任としてジョン・ターナス氏が指名される予定であると報じられた。",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Electronics"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド銀行株から外国人投資家が20億ドル引き出し",
+          "country": "India",
+          "category": "Financial Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "外国人機関投資家がインドの銀行株から20億ドルを引き出した。アナリストは銀行セクターに前向きな見方を示す。",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アダニ・パワー株が13営業日で約40%急騰",
+          "country": "India",
+          "category": "Stock Market",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "アダニ・パワーの株価は、電力需要見通しの好調を背景に13営業日で約40%急騰。アナリストは保有継続を推奨。",
+          "affected_sectors": [
+            "Energy",
+            "Utilities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Primark、イラン戦争の影響懸念で食品事業から分離へ",
+          "country": "UK",
+          "category": "Retail",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Primarkがイラン戦争の影響を懸念し、食品事業からの分離を計画。地政学リスクが企業戦略に影響。",
+          "affected_sectors": [
+            "Retail",
+            "Food & Beverage"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン間の緊張再燃、世界市場とエネルギー価格に影響。"
     }
   }
 ]
