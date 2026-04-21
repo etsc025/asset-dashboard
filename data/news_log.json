@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イラン停戦延長を拒否しトランプ大統領がインフラ攻撃を警告",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイランとの停戦延長を拒否し、トランプ大統領がイランへのインフラ攻撃の可能性を示唆。中東情勢の緊張が再燃し市場に不確実性をもたらしている。",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Airlines",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争による世界経済と債務増加リスクを警告",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFと世界銀行の春季会合で、中東紛争が世界の成長見通しを悪化させ、債務水準を押し上げる可能性について繰り返し警告がなされた。",
-          "affected_sectors": [
-            "Government Bonds",
-            "Emerging Markets",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦延長拒否とトランプ氏の警告で市場警戒、リスクオフに。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 00:00",
     "data": {
       "breaking_news": [
@@ -13837,6 +13798,81 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン紛争により個人投資家が撤退、市場はリスクオフへ転換中。"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン緊張再燃、欧州株下落と原油価格上昇",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の緊張が再燃し、欧州と英国の株式市場は下落。供給懸念から原油価格が上昇。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "アジア株はまちまち、イラン協議期待で原油は下落",
+          "country": "Asia",
+          "category": "Geopolitics, Market Performance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "アジア市場はまちまちの動き。米イラン協議への期待感から原油価格は下落している。",
+          "affected_sectors": [
+            "グローバル株式",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド・ルピーが対ドルで下落、早朝取引で軟調",
+          "country": "India",
+          "category": "Currency",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "インド・ルピーは早朝取引で対米ドルで16パイサ下落。ドル高とインド準備銀行の政策が影響。",
+          "affected_sectors": [
+            "外国為替",
+            "インド株式"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "アップルCEOティム・クック氏、2026年9月に退任へ",
+          "country": "USA",
+          "category": "Corporate News",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "アップルのティム・クックCEOが2026年9月1日にジョン・ターナス氏に職務を引き継ぎ退任すると発表。",
+          "affected_sectors": [
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "スペースXがアナリスト会議開催、IPOへの期待高まる",
+          "country": "USA",
+          "category": "Corporate News, IPO",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "スペースXが今週アナリスト会議を開催。大規模な新規株式公開（IPO）に向けた動きとの見方が強まる。",
+          "affected_sectors": [
+            "航空宇宙",
+            "テクノロジー",
+            "プライベートエクイティ"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン緊張再燃で市場警戒、原油価格上昇に注意。"
     }
   }
 ]
