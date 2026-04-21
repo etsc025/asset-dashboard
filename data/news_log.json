@@ -1,93 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500が7000突破、史上最高値に迫る",
-          "country": "USA",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500が7000ポイントを突破し、史上最高値に迫る。銀行決算好調とイラン和平協議への期待が後押し。",
-          "affected_sectors": [
-            "Broader Market",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米主要銀行（MS, BofA）Q1決算、予想上回る好調",
-          "country": "USA",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "モルガン・スタンレー、バンク・オブ・アメリカが決算予想を上回り、米経済の回復力と消費者の堅調な支出を示唆。",
-          "affected_sectors": [
-            "Financials",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン和平協議への期待高まる、トランプ大統領が紛争終結を示唆",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイラン紛争終結の可能性を示唆、市場の楽観を後押しし、世界のエネルギー価格を安定化。",
-          "affected_sectors": [
-            "Energy",
-            "Global Markets",
-            "Geopolitical Risk"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争影響で世界経済成長予測を下方修正",
-          "country": "Global",
-          "category": "Economic Outlook",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFはイラン戦争が世界経済の勢いを止めたとし、2026年の世界成長率予測を3.1%に下方修正し、インフレ見通しも上方修正。",
-          "affected_sectors": [
-            "Global Economy",
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国銀行システム、税金支払いで5000億ドル超の流動性枯渇に直面",
-          "country": "USA",
-          "category": "Market Liquidity",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国納税に伴う5000億ドル超の流動性流出が銀行システムに影響を及ぼす可能性があり、ストラテジストが警告。",
-          "affected_sectors": [
-            "Financials",
-            "Broader Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ASML株下落、売上高予測がアナリスト予想を下回る",
-          "country": "Netherlands",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ASMLの株価が5.4%下落。AI関連需要は堅調なものの、今後の売上高予測がアナリストの期待に届かず。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "S&P 500が7000突破。銀行決算好調とイラン和平協議期待で市場楽観。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 04:00",
     "data": {
       "breaking_news": [
@@ -13688,6 +13600,84 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "ホルムズ海峡事件で地政学的リスク増大、原油市場が脆弱に。"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ドイツ4月ZEW景気期待指数、予想を大幅に下回る",
+          "country": "ドイツ",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ドイツの4月ZEW景気期待指数が-17.2と、予想の-7.0を大きく下回り、欧州経済の先行きに懸念を示した。",
+          "affected_sectors": [
+            "金融",
+            "輸出",
+            "欧州株"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均続伸、米イラン停戦期待と半導体株主導",
+          "country": "日本",
+          "category": "市場動向",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "東京株式市場は、米イラン停戦交渉進展への期待感から日経平均が続伸。特に半導体関連株が買われた。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "輸出"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英賃金上昇率鈍化、失業率も予想外に低下",
+          "country": "英国",
+          "category": "労働市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国の賃金上昇率が2020年11月以来の低水準を記録し、失業率も予想に反して低下した。",
+          "affected_sectors": [
+            "サービス",
+            "小売",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米イラン情勢不透明感、原油価格と米国市場に影響",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン情勢を巡る不透明感が市場に重くのしかかり、前日の米国株式市場で主要指数は反落した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "全般市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "AIチップ関連株、Marvell上昇・Broadcom下落",
+          "country": "米国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "AIチップ開発を巡るニュースで、Marvell Technologyは上昇、一方BroadcomはGoogleとの関連報道で下落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン情勢と独経済指標悪化が市場に不透明感"
     }
   }
 ]
