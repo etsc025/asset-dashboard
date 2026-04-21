@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500がイラン戦争懸念を払拭し史上最高値を更新",
-          "country": "US",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国市場S&P500がイラン戦争懸念を払拭し過去最高値を更新。投資家は和解交渉に期待を示している。",
-          "affected_sectors": [
-            "Technology",
-            "Finance",
-            "Broader Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会ベージュブック、イラン戦争で米企業が様子見姿勢",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米連邦準備制度理事会のベージュブックによると、イラン戦争の影響で米企業は投資・雇用に慎重姿勢。エネルギー価格上昇も懸念。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Energy",
-            "Corporate Investment"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、ロシア・イラン産原油の制裁免除を更新せず",
-          "country": "US, Global",
-          "category": "Geopolitics, Energy Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がロシア・イラン産原油の制裁免除措置の更新を拒否。世界の原油供給と価格に大きな影響を与える可能性。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行、ノンバンク金融会社への支店開設規制を緩和",
-          "country": "India",
-          "category": "Financial Regulation",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド中央銀行がノンバンク金融機関に対し、大半の支店開設について事前承認不要とする方針を発表。",
-          "affected_sectors": [
-            "Financial Services",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米市場は地政学リスクを克服しS&P500が最高値を更新。イラン戦争の行方と原油価格が焦点。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 09:30",
     "data": {
       "breaking_news": [
@@ -13454,6 +13389,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US先物上昇、ビットコインとテック株も堅調。市場はリスク選好モードへ。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国株上昇、ユナイテッドヘルス好決算、原油価格は比較的安定",
+          "country": "米国",
+          "category": "企業決算, 金融市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ユナイテッドヘルスなど主要企業の予想を上回る好決算を受け、米国株は上昇。米イラン情勢を巡る懸念にもかかわらず原油価格は安定的に推移している。",
+          "affected_sectors": [
+            "ヘルスケア",
+            "株式市場",
+            "エネルギー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米イラン停戦期限が迫る中、市場は地政学的緊張に警戒",
+          "country": "グローバル",
+          "category": "地政学, 金融市場",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦期限が迫り、合意への期待と不確実性が混在し、市場は慎重な姿勢を示している。",
+          "affected_sectors": [
+            "株式市場",
+            "エネルギー",
+            "為替"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Apple CEOティム・クック氏が退任へ、ジョン・ターナス氏が後任に",
+          "country": "米国",
+          "category": "企業ニュース, テクノロジー",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Appleのティム・クックCEOが退任し、ハードウェアエンジニアリング責任者のジョン・ターナス氏が後任となる。",
+          "affected_sectors": [
+            "テクノロジー",
+            "株式市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国3月小売売上高が予想を上回り、消費者支出の回復力を示す",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の3月小売売上高は予想を上回る結果となり、消費者の堅調な支出が示された。",
+          "affected_sectors": [
+            "小売",
+            "景気全般"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ガザ復興には今後10年間で710億ドルの資金が必要との報告",
+          "country": "中東",
+          "category": "地政学, 人道支援, 経済",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "国連とEUの報告書によると、ガザ地区の復興には今後10年間で710億ドルの大規模な資金が必要とされる。",
+          "affected_sectors": [
+            "建設",
+            "国際協力",
+            "地域経済"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦期限が迫り、地政学的緊張が市場に影響。"
     }
   }
 ]
