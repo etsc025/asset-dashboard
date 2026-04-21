@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株市場、イラン和平期待で過去最高値更新",
-          "country": "USA",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株はイランとの和平交渉再開期待でS&P 500とNasdaqが過去最高値を更新。地政学的緊張緩和が市場を押し上げ、リスクオン継続中。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、イラン和平期待で急落・安定",
-          "country": "Global",
-          "category": "Commodity",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン和平交渉再開の兆しを受け、原油価格は急落後に安定。地政学的リスク緩和でエネルギー供給懸念が後退。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Snap Inc.、AI効率化のため1000人規模の人員削減",
-          "country": "USA",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Snapchat親会社のSnap Inc.、AI活用による効率化を理由に約1000人の従業員を削減。コスト削減への動き。",
-          "affected_sectors": [
-            "テクノロジー",
-            "ソーシャルメディア",
-            "雇用"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Allbirds、AIコンピューティングへ事業転換で株価急騰",
-          "country": "USA",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "環境配慮型シューズのAllbirdsがAIコンピューティング分野への事業転換を発表。市場の期待を受け株価が400%超急騰。",
-          "affected_sectors": [
-            "テクノロジー",
-            "小売",
-            "AI"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン和平期待で世界市場リスクオン、米国株が過去最高値。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 14:00",
     "data": {
       "breaking_news": [
@@ -13520,6 +13454,68 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国とイランの停戦交渉の不確実性が市場を圧迫し、原油価格変動。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦協議の不透明感で原油高、米国株反落",
+          "country": "米国, イラン",
+          "category": "地政学, 商品, 株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン停戦協議の不透明感が原油価格を急騰させ、米国主要株価指数は反落した。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "日経平均続伸、米イラン停戦協議進展期待とAI株が牽引",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "日経平均は524円高で続伸。米イラン停戦協議進展期待とAI・半導体関連株への短期資金流入が主因。",
+          "affected_sectors": [
+            "テクノロジー",
+            "半導体",
+            "株式市場全般"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米3月小売売上高が予想上回る1.7%増、経済回復を示唆",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の3月小売売上高は1.7%増で市場予想を上回った。ガソリン収入増と多額の税還付が寄与。",
+          "affected_sectors": [
+            "小売",
+            "消費財"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国航空会社が燃料不足で税制緩和要求、欧州原油価格軟化",
+          "country": "英国, 欧州",
+          "category": "航空, 商品",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧州市場で原油価格は軟化、米イラン停戦協議の行方注視。英航空会社が燃料不足対策を要請。",
+          "affected_sectors": [
+            "航空",
+            "エネルギー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦協議の不透明感と原油高、市場の動向に警戒。"
     }
   }
 ]
