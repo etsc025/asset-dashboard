@@ -1,185 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01 22:00",
-    "ticker": "CF",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.79（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.79,
-      "pc_ratio_oi": 0.77,
-      "total_put_vol": 6610,
-      "total_call_vol": 3684
-    }
-  },
-  {
-    "timestamp": "2026-04-01 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.51（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.51,
-      "pc_ratio_oi": 1.01,
-      "total_put_vol": 711,
-      "total_call_vol": 470
-    }
-  },
-  {
-    "timestamp": "2026-04-01 22:01",
-    "ticker": "EXE",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.26（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.26,
-      "pc_ratio_oi": 1.21,
-      "total_put_vol": 253,
-      "total_call_vol": 980
-    }
-  },
-  {
-    "timestamp": "2026-04-01 22:01",
-    "ticker": "DOW",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.90（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.9,
-      "pc_ratio_oi": 0.91,
-      "total_put_vol": 5424,
-      "total_call_vol": 2851
-    }
-  },
-  {
-    "timestamp": "2026-04-02 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "LABARRE DENNIS W  (CIK 0001247923)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Miller Michael Sidney  (CIK 0001681715)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "RANKIN MATTHEW M  (CIK 0001247948)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "DALRYMPLE JOHN S III  (CIK 0001195627)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "McDonald William Paul  (CIK 0002012711)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-02 22:00",
-    "ticker": "MPC",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.98（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.98,
-      "pc_ratio_oi": 0.45,
-      "total_put_vol": 1810,
-      "total_call_vol": 916
-    }
-  },
-  {
-    "timestamp": "2026-04-02 22:00",
-    "ticker": "DELL",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.34（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.34,
-      "pc_ratio_oi": 1.0,
-      "total_put_vol": 6205,
-      "total_call_vol": 18415
-    }
-  },
-  {
-    "timestamp": "2026-04-02 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.05（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.05,
-      "pc_ratio_oi": 0.94,
-      "total_put_vol": 714,
-      "total_call_vol": 348
-    }
-  },
-  {
-    "timestamp": "2026-04-02 22:01",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-03-31",
-          "filer": [
-            "Levine Jeremy S.  (CIK 0001534341)",
-            "StubHub Holdings, Inc.  (CIK 0001337634)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-02 22:01",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Mu Yang  (CIK 0002116220)",
-            "Kanzhun Ltd  (CIK 0001842827)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-02 22:01",
     "ticker": "EXE",
     "type": "Put/Call比率異常（下落警戒）",
@@ -5353,6 +5173,300 @@
       "pc_ratio_oi": 0.94,
       "total_put_vol": 5735,
       "total_call_vol": 12011
+    }
+  },
+  {
+    "timestamp": "2026-04-21 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "Shabani Javad  (CIK 0002021223)",
+            "Quantum Computing Inc.  (CIK 0001758009)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "SINGER DAVID B  (CIK 0001240366)",
+            "Infleqtion, Inc.  (CIK 0002007825)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "Haas Kevin Richard  (CIK 0001843872)",
+            "VERACYTE, INC.  (CIK 0001384101)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "Yin Peter  (CIK 0001819639)",
+            "R F INDUSTRIES LTD  (CIK 0000740664)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "Broz Steven  (CIK 0001665574)",
+            "PROGRESSIVE CORP/OH/  (CIK 0000080661)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-21 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)",
+            "Clarion Partners Real Estate Income Fund Inc.  (CIK 0001762562)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-15",
+          "filer": [
+            "Weitkamp Robin Joseph  (CIK 0002124351)",
+            "STEPAN CO  (CIK 0000094049)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-15",
+          "filer": [
+            "HARRIS DONALD A  (CIK 0001134583)",
+            "CREATIVE REALITIES, INC.  (CIK 0001356093)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-15",
+          "filer": [
+            "Nesbit Stephen  (CIK 0001781564)",
+            "CREATIVE REALITIES, INC.  (CIK 0001356093)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-16",
+          "filer": [
+            "Herh Ting  (CIK 0002016104)",
+            "TD SYNNEX CORP  (CIK 0001177394)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:00",
+    "ticker": "MU",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に3件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-14",
+          "filer": [
+            "Sadana Sumit  (CIK 0001311079)",
+            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-16",
+          "filer": [
+            "CORDANO MICHAEL D  (CIK 0001201490)",
+            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "ALLEN SCOTT R.  (CIK 0001652149)",
+            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:00",
+    "ticker": "EXPE",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-15",
+          "filer": [
+            "Dzielak Robert J  (CIK 0001549041)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:01",
+    "ticker": "DOW",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.45（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.45,
+      "pc_ratio_oi": 0.51,
+      "total_put_vol": 5276,
+      "total_call_vol": 11819
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:01",
+    "ticker": "DELL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "CLARKE JEFFREY W  (CIK 0001215588)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "SLTA V (GP), L.L.C.  (CIK 0001737652)",
+            "Silver Lake Technology Investors V, L.P.  (CIK 0001735863)",
+            "Silver Lake Partners V DE (AIV), L.P.  (CIK 0001737659)",
+            "Silver Lake Technology Associates V, L.P.  (CIK 0001737657)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "SLTA V (GP), L.L.C.  (CIK 0001737652)",
+            "Silver Lake Technology Investors V, L.P.  (CIK 0001735863)",
+            "Silver Lake Partners V DE (AIV), L.P.  (CIK 0001737659)",
+            "Silver Lake Technology Associates V, L.P.  (CIK 0001737657)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "Silver Lake Group, L.L.C.  (CIK 0001418226)",
+            "Silver Lake Partners IV, L.P.  (CIK 0001552054)",
+            "Silver Lake Technology Investors IV, L.P.  (CIK 0001672565)",
+            "Durban Egon  (CIK 0001651403)",
+            "SLTA SPV-2 (GP), L.L.C.  (CIK 0001767116)",
+            "Silver Lake Technology Associates IV, L.P.  (CIK 0001672566)",
+            "SLTA IV (GP), L.L.C.  (CIK 0001672568)",
+            "SL SPV-2, L.P.  (CIK 0001767114)",
+            "SLTA SPV-2, L.P.  (CIK 0001767115)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-17",
+          "filer": [
+            "Silver Lake Group, L.L.C.  (CIK 0001418226)",
+            "Silver Lake Partners IV, L.P.  (CIK 0001552054)",
+            "Silver Lake Technology Investors IV, L.P.  (CIK 0001672565)",
+            "Durban Egon  (CIK 0001651403)",
+            "SLTA SPV-2 (GP), L.L.C.  (CIK 0001767116)",
+            "Silver Lake Technology Associates IV, L.P.  (CIK 0001672566)",
+            "SLTA IV (GP), L.L.C.  (CIK 0001672568)",
+            "SL SPV-2, L.P.  (CIK 0001767114)",
+            "SLTA SPV-2, L.P.  (CIK 0001767115)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:01",
+    "ticker": "DELL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.26（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.26,
+      "pc_ratio_oi": 1.15,
+      "total_put_vol": 10063,
+      "total_call_vol": 39066
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:01",
+    "ticker": "EXE",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=15.80（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 15.8,
+      "pc_ratio_oi": 6.68,
+      "total_put_vol": 28381,
+      "total_call_vol": 1796
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.23（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.23,
+      "pc_ratio_oi": 0.47,
+      "total_put_vol": 379,
+      "total_call_vol": 1624
+    }
+  },
+  {
+    "timestamp": "2026-04-21 22:02",
+    "ticker": "CF",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.33（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.33,
+      "pc_ratio_oi": 0.47,
+      "total_put_vol": 2217,
+      "total_call_vol": 6660
     }
   }
 ]
