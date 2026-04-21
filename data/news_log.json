@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、イラン戦争の経済的影響と世界的景気後退リスクを警告",
-          "country": "Global",
-          "category": "Geopolitics, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFや政策立案者はイラン戦争の経済的影響に市場が楽観的すぎると警告。世界経済の成長率に悪影響が生じ、エネルギー不足や食料危機のリスクが高まると予測している。",
-          "affected_sectors": [
-            "Energy",
-            "Food & Agriculture",
-            "Global Trade",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国Q1 GDPは予想を上回るも、イラン戦争が経済に影を落とす",
-          "country": "China",
-          "category": "Macroeconomics, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の第1四半期GDPは5%成長で予想を上回ったが、イラン戦争によるエネルギー価格高騰と世界需要への影響で、中国政府は「複雑で不安定な」環境を警告。",
-          "affected_sectors": [
-            "Technology",
-            "Energy",
-            "Manufacturing",
-            "Global Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン和平交渉への期待感でインド市場が上昇、金銀も高騰",
-          "country": "India, Global",
-          "category": "Markets, Geopolitics, Commodities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン和平交渉への期待からインド市場が反発し、原油価格も下落。金は800ルピー、銀は4000ルピー高騰し、中東の供給懸念緩和とドル安が需要を押し上げた。",
-          "affected_sectors": [
-            "Equity Markets",
-            "Precious Metals",
-            "Oil & Gas"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "チリ、カスト大統領が40以上の経済改革を発表、減税含む",
-          "country": "Chile",
-          "category": "Fiscal Policy, Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "チリのカスト大統領は、成長率4%達成と失業率低下を目指し、減税や復興支出を含む40以上の経済改革案を発表した。",
-          "affected_sectors": [
-            "Construction",
-            "Finance",
-            "Public Sector"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン戦争により世界経済見通しが暗転、IMFが警告。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 17:00",
     "data": {
       "breaking_news": [
@@ -13489,6 +13422,81 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東の地政学的緊張が高まり、原油高と世界株安を招いています。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国市場、中東情勢懸念で下落、好調な企業決算を相殺",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争再燃の懸念から米国株が下落。企業決算の好調さや小売売上高の堅調さを相殺した。",
+          "affected_sectors": [
+            "株式市場全般",
+            "エネルギー",
+            "航空"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "3月米小売売上高、予想を上回る伸びでドル買い反応",
+          "country": "米国",
+          "category": "経済指標",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "3月の米小売売上高が前月比+1.7%と予想を上回り、堅調な経済指標を受けてドルが買われた。",
+          "affected_sectors": [
+            "小売",
+            "為替市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ECB理事会メンバー、ユーロ圏経済には追加刺激策が必要と発言",
+          "country": "ユーロ圏",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB理事会メンバーのセントラル氏が、ユーロ圏経済はECBからの追加刺激策を必要としていると述べた。",
+          "affected_sectors": [
+            "金融サービス",
+            "株式市場全般"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日銀の利上げ慎重姿勢で円売り、ドル円159円台に上昇",
+          "country": "日本",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "日本銀行が早期利上げに慎重な姿勢を見せているとの思惑から円売りが進み、ドル円は159円台に乗せた。",
+          "affected_sectors": [
+            "為替市場",
+            "輸出関連企業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "IMF、ロシアの2026年経済見通しを上方修正",
+          "country": "ロシア",
+          "category": "経済見通し",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "IMFは4月14日に発表した世界経済見通しで、ロシアの実質GDP成長率を上方修正した。",
+          "affected_sectors": [
+            "コモディティ",
+            "ロシア株式市場"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢の不透明感で米国株が下落、地政学リスクに警戒。"
     }
   }
 ]
