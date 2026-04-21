@@ -1,66 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、イラン戦争による世界経済後退リスクを警告",
-          "country": "Global",
-          "category": "Economic Outlook",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFはイラン戦争のエスカレートが世界経済成長を2%に鈍化させ、景気後退リスクを高めると警告。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Global Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン和平交渉期待で市場が上昇、原油価格が下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン和平交渉再開への期待が市場のリスクオンを促し、株式は上昇、原油価格は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Equities",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "モルガン・スタンレー、M&Aとトレーディング好調で第1四半期利益増加",
-          "country": "US",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "モルガン・スタンレーの第1四半期利益はM&Aとトレーディング事業の好調に支えられ増加。",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "DFI暗号通貨が1時間で69%急落、市場の不確実性高まる",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "DFIトークンが市場の不確実性とパニック売りによりわずか1時間で69%急落。",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉期待で市場が上昇も、IMFは景気後退リスクを警告。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 22:30",
     "data": {
       "breaking_news": [
@@ -13946,6 +13885,89 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦協議難航、中東情勢悪化懸念で市場に警戒感"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国とイランの緊張激化が世界市場に影響",
+          "country": "グローバル",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国によるイラン船舶の拿捕後、米国とイラン間の緊張が激化。ホルムズ海峡への懸念から原油価格が上昇し、世界の株式市場が下落。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "金融",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的不安定を背景に原油価格が高騰",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国とイラン間の緊張が高まり、世界の原油価格が大幅に上昇。エネルギーコストとインフレ見通しに影響を与える。",
+          "affected_sectors": [
+            "石油・ガス",
+            "輸送",
+            "製造業",
+            "消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "地政学的懸念から世界の株式市場が後退",
+          "country": "英国",
+          "category": "市場変動",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの緊張激化および原油価格上昇が投資家心理を冷やし、英国、欧州、米国の主要株式指数が下落。",
+          "affected_sectors": [
+            "金融",
+            "産業",
+            "テクノロジー",
+            "一般消費財"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国経済が景気後退に近づき、失業増の懸念",
+          "country": "英国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国経済は景気後退に陥る可能性があり、2027年半ばまでに大量の失業者が発生するとの分析があり、労働市場の安定が懸念される。",
+          "affected_sectors": [
+            "広範な市場",
+            "一般消費財",
+            "小売",
+            "サービス"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン協議への期待でインド株式市場が回復",
+          "country": "インド",
+          "category": "株式",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン情勢の緊張緩和への期待から、インドおよびアジアの株式市場が上昇し、Nifty指数は今月9%回復した。",
+          "affected_sectors": [
+            "広範な市場",
+            "金融",
+            "テクノロジー"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン緊張激化、原油高・世界株安を招く。"
     }
   }
 ]
