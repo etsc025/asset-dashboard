@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦交渉進展期待、原油・金価格に変動",
-          "country": "GLOBAL",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦交渉進展期待が高まり、原油価格の高騰が緩和傾向。金価格は変動。市場には不確実性が残る。",
-          "affected_sectors": [
-            "Energy",
-            "Precious Metals",
-            "Global Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米主要銀行、予想を上回る好決算を報告し金融セクターを牽引",
-          "country": "US",
-          "category": "Corporate Earnings, Banking",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "バンク・オブ・アメリカやモルガン・スタンレーなど米主要銀行が予想を上回る四半期決算を発表。金融株を押し上げている。",
-          "affected_sectors": [
-            "Financials",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "テック企業のAI関連動向で株価に明暗、AllbirdsがAI転換で急騰",
-          "country": "US",
-          "category": "Corporate News, Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "AllbirdsがAIへの事業転換を発表し株価が急騰。一方でSnapはAI関連で人員削減を実施。半導体株も変動。",
-          "affected_sectors": [
-            "Technology",
-            "Retail",
-            "Semiconductor"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米・イラン停戦期待で市場はリスクオン、原油・金は変動。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 15:00",
     "data": {
       "breaking_news": [
@@ -13499,6 +13449,31 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "イラン情勢の緊迫化が世界市場に影響、原油高・株安"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東紛争懸念再燃で米国株が下落、IMFが世界成長予測を下方修正",
+          "country": "グローバル",
+          "category": "地政学/マクロ経済/市場変動",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東紛争への懸念再燃で米国株が大幅に下落。IMFは紛争の影響で2026年の世界経済成長率予測を3.1%に下方修正した。",
+          "affected_sectors": [
+            "エネルギー",
+            "金融",
+            "テクノロジー",
+            "航空",
+            "物流"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢緊迫化、原油価格高騰、IMF成長下方修正に警戒。"
     }
   }
 ]
