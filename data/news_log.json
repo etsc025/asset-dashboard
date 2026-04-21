@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve Beige Book: Iran Conflict Drives Uncertainty, Inflation Pressures",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Fed Beige Book indicates steady economy, but Iran conflict causes rising energy prices, inflation, and business investment delays.",
-          "affected_sectors": [
-            "Energy",
-            "Industrials",
-            "Consumer Discretionary",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Will Not Renew Sanctions Waivers on Iranian, Russian Oil",
-          "country": "USA",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US announces non-renewal of sanctions waivers on Iranian and Russian oil, escalating energy market concerns amid conflict.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stocks Mixed as Oil Remains Below $100 Amid Middle East Tensions",
-          "country": "Europe",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European markets closed mixed, with oil prices below $100, as investors monitor escalating Middle East geopolitical developments.",
-          "affected_sectors": [
-            "All",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Snap Stock Jumps 6% After Announcing 16% Global Workforce Cut Due to AI",
-          "country": "USA",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Snap shares rose 6% after revealing plans to cut 16% of its workforce, attributing the move to AI-driven efficiencies.",
-          "affected_sectors": [
-            "Technology",
-            "Social Media",
-            "Labor"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "RBI Allows NBFCs to Open Branches Without Prior Approval in Most Cases",
-          "country": "India",
-          "category": "Regulatory",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "India's RBI has eased regulations, allowing non-banking financial companies to open branches without prior approval.",
-          "affected_sectors": [
-            "Financials",
-            "Non-Banking Financial Companies (NBFCs)"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "US-Iran tensions escalate, impacting oil and economy; Fed Beige Book flags inflation risks."
-    }
-  },
-  {
     "timestamp": "2026-04-16 08:32",
     "data": {
       "breaking_news": [
@@ -13494,6 +13415,69 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン交渉の不確実性で市場警戒、英国雇用統計も発表。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦期待で原油価格下落、欧州・米国株上昇",
+          "country": "グローバル",
+          "category": "地政学, エネルギー, マクロ経済",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米イラン間の停戦期限が迫り、原油価格は下落。期待感が市場に広がり、欧州と米国株は上昇。アジア市場はまちまち。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "輸送",
+            "全株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英経済、雇用市場の脆弱性からリセッション懸念が浮上",
+          "country": "英国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の雇用市場が脆弱であることから、中期的なリセッションの可能性が指摘されている。イラン紛争の影響も懸念。",
+          "affected_sectors": [
+            "銀行",
+            "全英国セクター",
+            "雇用"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Primark、食品事業からの分離計画を発表",
+          "country": "英国",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Primarkは、イラン紛争による影響の警告がある中でも、食品事業からの分離を発表した。戦略的再編の一環。",
+          "affected_sectors": [
+            "小売"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "トランプ氏、米国化石燃料生産促進のためのメモに署名",
+          "country": "米国",
+          "category": "エネルギー, 政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "トランプ氏は、「防衛準備」のために米国での化石燃料生産を促進するメモに署名した。",
+          "affected_sectors": [
+            "エネルギー",
+            "環境"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦期待で原油下落・株上昇。英国経済は後退懸念。"
     }
   }
 ]
