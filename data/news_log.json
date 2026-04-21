@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン和平交渉再開観測で原油急落、世界株高",
-          "country": "Global",
-          "category": "Geopolitics, Energy Markets, Equity Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの和平交渉再開期待が高まり、原油価格が急落。インフレ懸念緩和で、世界的に株価が上昇中。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Transportation",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド3月卸売物価指数、38カ月ぶり高水準を記録",
-          "country": "India",
-          "category": "Economic Data, Inflation",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドの3月の卸売物価指数が3.88%に上昇し、38カ月ぶりの高水準を記録。原油価格高騰が主な要因。",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Industrials",
-            "Manufacturing",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平交渉再開観測で原油急落、世界株高が継続。"
-    }
-  },
-  {
     "timestamp": "2026-04-15 21:30",
     "data": {
       "breaking_news": [
@@ -13893,6 +13853,83 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US-イラン交渉進展期待で原油安、アジア株は上昇。"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中東情勢再悪化、ホルムズ海峡閉鎖と原油価格高騰",
+          "country": "Global",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国によるイラン船舶差し押さえと停戦交渉の不確実性を受け、ホルムズ海峡が再閉鎖。原油価格は急騰し、市場はリスクオフへ転換。",
+          "affected_sectors": [
+            "Energy",
+            "Transportation",
+            "Airlines",
+            "Global Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "カナダ郵政公社が2025年に過去最大の15.7億ドルの損失を計上",
+          "country": "Canada",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "カナダの国営郵便会社が2025会計年度に15.7億カナダドルの記録的な税引き前損失を発表。事業再編の緊急性を示す。",
+          "affected_sectors": [
+            "Logistics",
+            "Government Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Apple CEOティム・クック氏が9月1日付で退任、後任にターナス氏",
+          "country": "US",
+          "category": "Corporate",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Appleのティム・クックCEOが9月1日付で退任し、ジェフ・ターナス氏が後任となる。",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Electronics"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "TopBuild、QXOによる170億ドル買収合意で株価急騰",
+          "country": "US",
+          "category": "M&A",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "建設資材販売のQXOがTopBuildを170億ドルで買収することに合意し、TopBuildの株価が19%近く急騰した。",
+          "affected_sectors": [
+            "Construction",
+            "Industrials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Marvell Technology、GoogleとAIチップ開発で協議か",
+          "country": "US",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Marvell TechnologyがGoogleとAIチップ開発について協議しているとの報道で、同社株価が5.8%上昇した。",
+          "affected_sectors": [
+            "Semiconductors",
+            "Technology",
+            "AI"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "中東情勢悪化でホルムズ海峡再閉鎖、原油高騰、市場リスクオフ。"
     }
   }
 ]
