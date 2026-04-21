@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン緊張緩和の期待で世界市場が上昇、原油価格は下落",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの和平交渉への期待が高まり、地政学的緊張が緩和され、世界中の株式市場が過去最高値を記録。原油価格は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Technology",
-            "Financials",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "S&P 500とナスダックが過去最高値を更新",
-          "country": "United States",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500が史上初めて7,000を突破し、ナスダックも連勝を続け新記録を達成。",
-          "affected_sectors": [
-            "Technology",
-            "Broad Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド主要指数は序盤の上昇を消し、金属株が医薬品株を上回る",
-          "country": "India",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "NiftyとSensexは序盤の上昇の大部分を失う。Nifty金属指数が上昇する一方、医薬品指数は下落。",
-          "affected_sectors": [
-            "Financials",
-            "Pharmaceuticals",
-            "Metals"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "リップルが教保生命と提携し政府債券をトークン化",
-          "country": "South Korea",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "リップルは教保生命と提携し、政府債券決済のトークン化を推進。ブロックチェーン採用の動きを示す。",
-          "affected_sectors": [
-            "Financial Services",
-            "Blockchain",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "地政学的な落ち着きの中、日本株に過去最高の海外資金流入",
-          "country": "Japan",
-          "category": "International Capital Flows",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米イラン間の解決への楽観と世界的なセンチメントにより、日本市場が記録的な海外投資を誘致。",
-          "affected_sectors": [
-            "Financials",
-            "Japanese Equities"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン緊張緩和で世界株高、原油安。S&P500が史上最高値更新。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 16:00",
     "data": {
       "breaking_news": [
@@ -13515,6 +13436,70 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン停戦交渉の不確実性により北米株式市場が下落。原油価格は上昇"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉の不確実性が市場を動揺させ、株価と原油価格が変動",
+          "country": "グローバル",
+          "category": "地政学,市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米国とイランの停戦交渉が水曜日に期限を迎える中、不確実性が高まり、世界の株式と原油価格が変動している。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中東情勢への懸念から米国株が下落、好決算を相殺",
+          "country": "米国",
+          "category": "市場,地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中東情勢への懸念が再燃し、米国株式市場は下落。好調な企業決算と堅調な小売売上高を相殺した。",
+          "affected_sectors": [
+            "株式市場",
+            "テクノロジー",
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Sebi委員会がNSEに1億9300万ドルの支払いによる案件解決を勧告",
+          "country": "インド",
+          "category": "規制,金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Sebi任命委員会が、インド最大の証券取引所であるNSEに対し、案件解決のために1億9300万ドルの支払いを勧告した。",
+          "affected_sectors": [
+            "金融",
+            "資本市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英国企業決算：Mpacは損失に転落、Gear4musicは売上30%増",
+          "country": "英国",
+          "category": "企業収益",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "最新の英国企業決算で、Mpacは損失に転落したが、Gear4musicの売上は30%増加したと報告された。",
+          "affected_sectors": [
+            "製造業",
+            "小売",
+            "Eコマース"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン停戦交渉の不確実性が市場を揺るがす"
     }
   }
 ]
