@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "片山財務相、日米財務相会談で金融政策は議論せず",
-          "country": "Japan, United States",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "片山財務相は、日米財務相会談で金融政策について議論しなかったと発表し、市場の憶測を鎮静化させた。",
-          "affected_sectors": [
-            "銀行",
-            "証券",
-            "外為市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ECBセントーノ理事、ユーロ圏経済にさらなる刺激策が必要と発言",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECBのセントーノ理事が、ユーロ圏経済には欧州中央銀行による追加の刺激策が必要であるとの見解を示した。",
-          "affected_sectors": [
-            "銀行",
-            "欧州株式",
-            "債券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン革命防衛隊、対イスラエル攻撃で40発のミサイル使用を公表",
-          "country": "Iran, Israel",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン革命防衛隊が、イスラエルへの攻撃で40発のミサイル（新型を含む）を使用したと発表、軍の主力は未展開とも言及。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イスラエル、空域を日曜午後2時に再開予定と報道",
-          "country": "Israel",
-          "category": "Geopolitics, Aviation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イスラエルメディアの報道によると、イスラエルは空域を日曜日の午後2時（現地時間）に再開する予定である。",
-          "affected_sectors": [
-            "航空",
-            "観光",
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、ミサイル使用報道で市場に警戒感。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 12:30",
     "data": {
       "breaking_news": [
@@ -13542,6 +13476,81 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米イラン間の緊張緩和とホルムズ海峡再開が市場を押し上げ、株式市場はリスクオンの反応。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "ホルムズ海峡情勢の不確実性が原油価格と世界市場に影響",
+          "country": "グローバル",
+          "category": "地政学, エネルギー",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "イラン情勢を巡りホルムズ海峡の開閉状況に混乱、原油価格と世界市場に不確実性をもたらす。",
+          "affected_sectors": [
+            "エネルギー",
+            "海運",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Apple CEOティム・クックが退任、ジョン・ターナスが後任に",
+          "country": "米国",
+          "category": "企業ニュース, テクノロジー",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Appleのティム・クックがCEOを退任し、ジョン・ターナスが後任に就任。株式は3%下落した。",
+          "affected_sectors": [
+            "テクノロジー",
+            "家電"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ホルムズ海峡開放宣言で南アフリカランドが対ドルで急騰",
+          "country": "南アフリカ",
+          "category": "通貨, 地政学",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "イラン外相によるホルムズ海峡の「完全開放」宣言を受け、南アフリカランドが対ドルで一時急騰。",
+          "affected_sectors": [
+            "外国為替",
+            "新興市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "インド・ルピーが対米ドルで急落、グローバル要因が影響",
+          "country": "インド",
+          "category": "通貨",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "グローバル要因を受け、インド・ルピーが対米ドルで32パイサ急落し、93.48で取引を終える。",
+          "affected_sectors": [
+            "外国為替",
+            "インド市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国の失業率が予想外に低下、賃金伸び率は5年ぶりの低水準",
+          "country": "英国",
+          "category": "経済指標, 労働市場",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国の失業率が4.9%に低下したが、賃金伸び率は過去5年で最低水準に。イングランド銀行は金利据え置き予想。",
+          "affected_sectors": [
+            "英国経済",
+            "銀行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "ホルムズ海峡情勢の変動が原油価格と世界市場に影響、不確実性が高まる。"
     }
   }
 ]
