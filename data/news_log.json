@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500が史上最高値を更新、イラン情勢の緊張緩和期待が寄与",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500指数が水曜日に新たな史上最高値を記録。米国とイラン間の交渉再開への楽観が背景にある。",
-          "affected_sectors": [
-            "株式市場全般",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米軍によるイラン港湾封鎖が発表、原油価格が急騰",
-          "country": "米国, イラン (国際的な影響)",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米軍がイランの港湾を完全に封鎖したと発表。これを受けて原油価格が急騰し、世界経済への懸念が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ASMLがAI牽引で2026年見通しを上方修正するも株価下落",
-          "country": "オランダ",
-          "category": "企業決算, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ASMLはAIによる好調な第1四半期決算と2026年見通しの上方修正を発表したが、株価は下落した。",
-          "affected_sectors": [
-            "半導体",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド準備銀行がノンバンクの支店開設規制を緩和",
-          "country": "インド",
-          "category": "金融政策, 規制緩和",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "インド準備銀行は、ノンバンク金融会社が多くのケースで事前承認なしに支店を開設できる規制緩和を発表した。",
-          "affected_sectors": [
-            "インド金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国の月間住宅ローン支払額が史上最高値を更新、2000ドル超え",
-          "country": "米国",
-          "category": "不動産, 消費者金融",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国における平均月間住宅ローン支払額が初めて2,000ドルを超え、過去最高を記録した。",
-          "affected_sectors": [
-            "不動産",
-            "銀行",
-            "消費者裁量支出"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン情勢の進展と原油価格の急騰が市場の主要な焦点。米国株は最高値更新。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 07:30",
     "data": {
       "breaking_news": [
@@ -13502,6 +13427,85 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米イラン協議の不確実性、原油価格、EMリスクに注視"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米・イラン停戦期限迫る、交渉の不確実性が市場に影響",
+          "country": "米国, イラン",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦期限が本日迫り、交渉の不確実性が世界の市場心理に影響を与え、原油価格と株価が変動。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル株式",
+            "海運"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米・イラン情勢で原油価格が変動、ホルムズ海峡開通も影響",
+          "country": "グローバル",
+          "category": "コモディティ, 地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイランの停戦交渉の不確実性により原油価格が変動。ホルムズ海峡の再開通は価格を引き下げている。",
+          "affected_sectors": [
+            "エネルギー",
+            "輸送",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "世界の株式市場、米イラン情勢と企業決算に反応し変動",
+          "country": "米国, 欧州, アジア",
+          "category": "株式, 経済データ",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国株は最高値を更新する一方、欧州・アジア市場は米イラン情勢や経済指標を注視し、慎重な動きを見せる。",
+          "affected_sectors": [
+            "金融",
+            "テクノロジー",
+            "産業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "インド株式市場、SensexとNifty上昇、不動産・金融が牽引",
+          "country": "インド",
+          "category": "株式, 企業決算",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "インド株式市場は上昇し、SensexとNiftyが24500を突破。不動産および金融セクターが特に好調。",
+          "affected_sectors": [
+            "金融",
+            "不動産",
+            "IT",
+            "産業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "英Crest Nicholson、利益見通し下方修正で株価急落",
+          "country": "英国",
+          "category": "企業決算, 不動産",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "英国の住宅建設大手Crest Nicholsonが利益見通しを下方修正し、株価が急落。",
+          "affected_sectors": [
+            "不動産",
+            "建設"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン停戦期限が迫り、交渉の行方が市場の焦点に。"
     }
   }
 ]
