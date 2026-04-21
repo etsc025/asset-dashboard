@@ -1,107 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦延長に向けた交渉が進行中",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "仲介者が米国とイラン間の停戦延長に向けて活動しており、市場に不確実性をもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "モルガン・スタンレー、市場の変動により第1四半期利益が急増",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "モルガン・スタンレーは、市場の変動が取引活動を押し上げ、第1四半期の利益が約30%増加したと報告した。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Snap Inc.が1,000人の人員削減を発表",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Snap Inc.は、コスト削減と事業再編の一環として、1,000人の人員削減計画を発表した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "広告"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ウクライナの電力攻撃によりFerrexpoの生産が減少",
-          "country": "ウクライナ",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ウクライナにおける電力攻撃の影響を受け、Ferrexpoの生産量が大幅に減少した。",
-          "affected_sectors": [
-            "鉱業",
-            "商品"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド市場が大幅に上昇、Sensexは1,200ポイント超の上昇",
-          "country": "インド",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "インドの主要株価指数であるSensexとNiftyは大幅に上昇し、広範な市場の買いを反映している。",
-          "affected_sectors": [
-            "金融",
-            "全般市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "原油先物が世界の弱い手がかりを受けて下落",
-          "country": "グローバル",
-          "category": "商品",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "世界の弱い経済指標と地政学的緊張の緩和期待から、原油先物価格が下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争で世界経済見通しを下方修正し、世界債務は第二次世界大戦後最高水準に",
-          "country": "グローバル",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、イラン戦争が世界経済を悪化させ、世界債務が第二次世界大戦後最高水準に達すると警告した。",
-          "affected_sectors": [
-            "全般市場",
-            "政府債務",
-            "エネルギー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "US-Iran停戦延長交渉とIMFの世界経済悪化警告で市場は神経質"
-    }
-  },
-  {
     "timestamp": "2026-04-15 23:30",
     "data": {
       "breaking_news": [
@@ -13903,6 +13801,42 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢悪化、原油高と株価変動で市場警戒感高まる"
+    }
+  },
+  {
+    "timestamp": "2026-04-21 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "イラン紛争により個人投資家が市場から撤退",
+          "country": "Global",
+          "category": "Geopolitical/Market Behavior",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "イラン紛争の影響で個人投資家が市場から撤退し、金価格も下落。全体的に市場の不確実性が高まっている。",
+          "affected_sectors": [
+            "Financials",
+            "Technology",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "ミロク情報サービス、OLTAと提携し中小企業向けクラウドファクタリング開始",
+          "country": "Japan",
+          "category": "Business/Financial Services",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ミロク情報サービスがOLTAと提携し、中小企業向けクラウドファクタリングサービスを開始。最短即日での売掛債権現金化が可能に。",
+          "affected_sectors": [
+            "Financial Services",
+            "Software/IT"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "イラン紛争により個人投資家が撤退、市場はリスクオフへ転換中。"
     }
   }
 ]
