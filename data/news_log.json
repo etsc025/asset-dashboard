@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米株市場が最高値更新、イラン紛争終結期待と経済制裁が交錯",
-          "country": "米国",
-          "category": "地政学・市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン紛争終結への期待からウォール街は最高値を更新したが、米国はイランへの金融制裁を強化し原油輸送に影響を与える可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国GDP、予想上回るも不動産と雇用に懸念",
-          "country": "中国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の第1四半期GDPは予想を上回ったが、3月の不動産価格下落と失業率上昇は経済の課題を示す。",
-          "affected_sectors": [
-            "不動産",
-            "製造業",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECBラガルド総裁、早期利下げに慎重姿勢",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "ラガルドECB総裁は先行きの不透明感を理由に早期の利下げに慎重な姿勢を示した。一方、イエレン米財務長官は年内利下げの可能性を示唆。",
-          "affected_sectors": [
-            "金融",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "オールバーズ、AI事業への転換発表で株価急騰",
-          "country": "米国",
-          "category": "企業戦略",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "スニーカーメーカーのオールバーズがAIインフラへの事業転換を発表し、株価が600%急騰した。",
-          "affected_sectors": [
-            "IT",
-            "小売"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "地政学的緊張と金融政策の不確実性が世界の市場に影響を与え、投資家は慎重な対応を求められる。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 17:30",
     "data": {
       "breaking_news": [
@@ -13497,6 +13434,56 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中東情勢の不透明感で米国株が下落、地政学リスクに警戒。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉の不確実性が市場に波及、株下落と原油価格上昇",
+          "country": "米国, 中東",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦交渉の不確実性が高まり、米国株式市場は軟調に推移し、原油価格は上昇している。市場では中東情勢の動向への警戒感が広がり、ロンドン株も下落した。",
+          "affected_sectors": [
+            "エネルギー",
+            "株式市場全般",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国FCA、AIライブテストの第2弾を発表し金融サービス革新を促進",
+          "country": "英国",
+          "category": "金融テクノロジー, 規制",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国金融行動監視機構（FCA）がAIライブテストの第2弾を発表。金融サービスにおけるAIの安全かつ倫理的な活用を模索する動き。",
+          "affected_sectors": [
+            "金融サービス",
+            "テクノロジー"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "世界銀行・IMF会合で気候変動金融改革の必要性が議論される",
+          "country": "グローバル",
+          "category": "環境, マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "世界銀行とIMFの春季会合で、気候変動対策への資金供給を迅速化・柔軟化するための金融システム改革が議論された。債務の再考や民間部門の役割再定義が焦点。",
+          "affected_sectors": [
+            "環境",
+            "インフラ",
+            "開発金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "米イラン交渉の不確実性が市場の不透明感を高める。"
     }
   }
 ]
