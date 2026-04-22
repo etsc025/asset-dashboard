@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Netflix、予想下回るガイダンスで株価下落",
-          "country": "米国",
-          "category": "企業決算",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Netflixは予想を上回る決算を発表したが、今後のガイダンスが市場予想を下回り、株価は下落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "エンターテイメント",
-            "ストリーミング"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米民主党議員、トランプ氏のFRB議長指名案を阻止する動き",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米民主党議員が、トランプ大統領による連邦準備制度理事会（FRB）議長の指名案を阻止する動きを見せている。",
-          "affected_sectors": [
-            "全セクター",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東和平への期待で市場センチメント改善、米国株が史上最高値更新",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東情勢の緊張緩和への期待が高まり、投資家心理が改善。米国株式市場は史上最高値を更新した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "旅行",
-            "全セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米中東和平期待で市場はRISK_ON、米国株は史上最高値更新。Netflix決算は軟調。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 08:30",
     "data": {
       "breaking_news": [
@@ -12711,6 +12660,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures amid economic uncertainty"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布将降低贷款利率以刺激经济增长，市场对此反应积极。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济衰退的担忧，美国主要股指在开盘前出现大幅下跌。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行正在评估是否需要采取更多措施来控制高企的通货膨胀率。",
+          "affected_sectors": [
+            "银行业",
+            "能源行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需密切关注"
     }
   }
 ]
