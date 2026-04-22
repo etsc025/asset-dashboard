@@ -1,110 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "NY連銀総裁、中東戦争でインフレ圧力上昇、金利政策見通し困難に",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "NY連銀総裁は、中東紛争がインフレ圧力を高め、FRBの金利政策見通しを複雑化させると発言。",
-          "affected_sectors": [
-            "All sectors",
-            "Financials",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "独、2026年成長見通しを0.5％に半減、インフレ加速予想",
-          "country": "Germany",
-          "category": "Economic Data",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドイツ政府は2026年の経済成長見通しを0.5%に半減し、インフレが加速すると予想を示した。",
-          "affected_sectors": [
-            "European markets",
-            "Industrial",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ米大統領、イスラエルとレバノンが10日間の停戦開始へ",
-          "country": "US",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領が、イスラエルとレバノンが本日午後5時に10日間の停戦を開始すると発表。",
-          "affected_sectors": [
-            "Energy",
-            "Defense",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "NY外為：ドル反発、米イラン和平合意難航の見方で原油高に連れる",
-          "country": "US",
-          "category": "FX/Commodities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米イラン間の和平合意が難航するとの見方から原油価格が上昇し、ドルが反発した。",
-          "affected_sectors": [
-            "Forex",
-            "Energy",
-            "Import/Export"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月鉱工業生産は予想外にマイナス、ドル下落は限定的",
-          "country": "US",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国の3月鉱工業生産が予想外にマイナスを記録したが、ドルの下落は限定的だった。",
-          "affected_sectors": [
-            "Industrial",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "独ルフトハンザ、燃料高騰で地域航空子会社を閉鎖",
-          "country": "Germany",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ルフトハンザ航空が燃料費高騰を理由に地域航空子会社を閉鎖すると発表。",
-          "affected_sectors": [
-            "Airlines",
-            "Tourism"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日本政府、アジアのエネルギー調達に金融支援（JBIC6000億円、NEXI5000億円）",
-          "country": "Japan",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "日本政府がアジアのエネルギー調達安定化のため、JBICとNEXIを通じて計1.1兆円の金融支援を実施。",
-          "affected_sectors": [
-            "Energy",
-            "Finance",
-            "Infrastructure"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢によるインフレ懸念と独経済成長下方修正が市場圧迫"
-    }
-  },
-  {
     "timestamp": "2026-04-17 05:00",
     "data": {
       "breaking_news": [
@@ -13044,6 +12939,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive financial markets higher"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受多家大型科技公司业绩超预期影响，美股普遍上扬。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管维持现有利率水平，欧洲央行表示未来可能会进一步降低利率以刺激经济增长。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市因财报季表现强劲而上涨"
     }
   }
 ]
