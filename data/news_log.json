@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン核交渉難航、ホルムズ海峡利用停止も検討",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの核計画交渉は難航中。イランがホルムズ海峡利用停止を検討し、原油市場と世界貿易に影響の可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米経済指標好調、S&P500が史上最高値更新",
-          "country": "米国",
-          "category": "マクロ経済・市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国の週間新規失業保険申請は低水準を維持し、フィラデルフィア連銀指数が上昇。S&P500は史上最高値を更新。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "一般消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米S&P500が史上最高値、中東情勢は緊迫した交渉続く"
-    }
-  },
-  {
     "timestamp": "2026-04-17 04:00",
     "data": {
       "breaking_news": [
@@ -13188,6 +13151,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank is expected to discuss potential interest rate hikes in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI falls below 50",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's Purchasing Managers' Index (PMI) has dropped below the neutral level of 50, indicating a slowdown in economic activity.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank to consider rate hike"
     }
   }
 ]
