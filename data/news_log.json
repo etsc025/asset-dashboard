@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東地政学的緊張が市場を圧迫、エネルギー価格とサプライチェーンへの懸念増大",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢の緊張が継続し、世界の金融市場に不確実性をもたらしている。エネルギー価格の上昇とサプライチェーン混乱への懸念が拡大中。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Logistics",
-            "Consumer Goods",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ECB、金利据え置きを決定しインフレリスクを警戒。米FRBは利上げの可能性示唆しつつ年内利下げも視野。",
-          "country": "Euro Area, United States",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "欧州中央銀行はインフレ警戒から金利を据え置き、米FRBはインフレが続けば利上げも辞さない姿勢を示し、市場に複雑なシグナル。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Technology",
-            "Currencies",
-            "Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド3月CPIは3.40%上昇、英国2月CPIは3.0%で横ばい。世界的なインフレ圧力持続。",
-          "country": "India, United Kingdom",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの3月消費者物価指数は3.40%上昇、英国2月は3.0%で安定。依然として世界的にインフレ圧力が継続していることを示唆。",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Discretionary",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化、主要中央銀行の引き締め懸念により市場は高ボラティリティ状態。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 00:00",
     "data": {
       "breaking_news": [
@@ -13442,6 +13385,69 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "米国-イラン交渉停滞で中東情勢緊迫化、原油・株式市場に圧力。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉停滞、インド市場大幅下落",
+          "country": "インド",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "米イラン間の停戦交渉が進展せず、市場に不確実性が広がり、インドのSensexとNiftyが大幅に下落した。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー",
+            "グローバル株式市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "スカンディックホテルズ、2026年第1四半期は安定した業績",
+          "country": "スウェーデン",
+          "category": "決算報告",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "スカンディックホテルズは2026年第1四半期に売上高3.1%増、稼働率とRevPARが改善し、安定した業績を報告した。",
+          "affected_sectors": [
+            "ホスピタリティ",
+            "旅行"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "ABB、2026年第1四半期は堅調な受注と好調な業績",
+          "country": "スイス",
+          "category": "決算報告",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ABBは2026年第1四半期に受注が32%増加、EPSが21%上昇し、事業パフォーマンスを改善した。",
+          "affected_sectors": [
+            "産業機械",
+            "テクノロジー",
+            "電化"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日本の財務省、経済見通し維持も中東情勢に懸念",
+          "country": "日本",
+          "category": "経済政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "日本の財務省は全国の経済評価を据え置いたが、中東情勢が経済に与える影響を引き続き注視すると表明した。",
+          "affected_sectors": [
+            "一般経済",
+            "輸出関連"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米イラン交渉停滞で地政学リスク高まり、印株価が下落。"
     }
   }
 ]
