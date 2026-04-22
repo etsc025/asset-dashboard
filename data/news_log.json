@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Stocks Rally as Hopes for Iran Peace Talks Drive S&P 500 to New Highs",
-          "country": "GLOBAL",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン和平交渉への期待からS&P500が新高値。世界株式市場は強気基調で推移している。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Global Equities"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil Prices Climb Amid Continued Caution Over Iran War and Supply Concerns",
-          "country": "GLOBAL",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン紛争を巡る警戒感から原油価格が上昇。ブレントは99ドル台に迫り、供給懸念が続いている。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Industrial Production Unexpectedly Falls in March, Philadelphia Fed Index Surprises with Rise in April",
-          "country": "USA",
-          "category": "Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米3月鉱工業生産は予想外に低下も、4月フィラデルフィア連銀製造業景況指数は予想上回る上昇を示した。",
-          "affected_sectors": [
-            "Manufacturing",
-            "Industrial"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "PepsiCo and Bank of New York Mellon Report Strong Earnings, Others Disappoint",
-          "country": "USA",
-          "category": "Corporate Earnings",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ペプシコとBNYメロンは好決算を発表したが、チャールズ・シュワブやアボットは期待を下回る結果に。",
-          "affected_sectors": [
-            "Consumer Staples",
-            "Financials",
-            "Healthcare"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Commission Orders Google to Allow Third-Party Search Engine Access to Data",
-          "country": "EU",
-          "category": "Regulatory",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧州委員会はGoogleに対し、デジタル市場法に基づき第三者検索エンジンへのデータアクセスを命令した。",
-          "affected_sectors": [
-            "Technology",
-            "Internet Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global stocks rally on Iran peace hopes, S&P 500 hits new high."
-    }
-  },
-  {
     "timestamp": "2026-04-17 07:00",
     "data": {
       "breaking_news": [
@@ -12842,6 +12765,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持活跃"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, raising fears of higher interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package amid economic downturn",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK government unveils a £10 billion fiscal stimulus plan to boost the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU warns of potential recession if inflation not controlled",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The EU Commission urges governments to take action to control inflation, preventing a recession.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政府采取行动控制通胀，避免经济衰退"
     }
   }
 ]
