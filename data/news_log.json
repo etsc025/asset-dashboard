@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Equities Rally, Oil Eases on US-Iran Ceasefire Hopes",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US-Iran ceasefire hopes spark a global stock market rally, pushing indices higher while oil prices show signs of easing.",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Technology",
-            "Financials",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Economy Shows Surprise 0.5% Growth, Supports FTSE Gains",
-          "country": "UK",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK GDP surprisingly grew by 0.5% before the Iran war, supporting the FTSE's upward trend despite geopolitical concerns.",
-          "affected_sectors": [
-            "General Economy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Indian Stocks Mixed: LIC Rallies, Sensex Drops From Peak",
-          "country": "India",
-          "category": "Company Earnings",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "LIC shares jump 7% on bonus news, but India's Sensex tumbles 700 points from its peak, indicating market volatility.",
-          "affected_sectors": [
-            "Financials",
-            "Diversified Industrials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Charles Schwab Q1 Earnings Disappoint, Shares Decline",
-          "country": "US",
-          "category": "Company Earnings",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Charles Schwab's shares fell after its record first-quarter results failed to meet top-line market forecasts.",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦期待で世界株高、原油価格は軟化中。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 03:30",
     "data": {
       "breaking_news": [
@@ -13203,6 +13140,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in nearly 30 years.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a series of measures aimed at reducing inflation, including tax increases and spending cuts.",
+          "affected_sectors": [
+            "Retail",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing credit conditions and potentially boosting economic activity.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Construction"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整风险加剧"
     }
   }
 ]
