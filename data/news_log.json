@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Citizens Financial Group、Q1好決算を発表",
-          "country": "USA",
-          "category": "Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Citizens Financial GroupがQ1純利益5.17億ドルを報告、前年比39%増、EPSは1.13ドルで47%増。",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ユーロ圏最終インフレ率、予想上回る上昇",
-          "country": "Eurozone",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ユーロ圏の最終インフレ率がエネルギー価格高騰により予想を上回り、年率2.3%に上昇。",
-          "affected_sectors": [
-            "All sectors",
-            "Consumer Staples",
-            "Interest Rate Sensitive"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "TSMC、AIチップ需要で収益見通しを上方修正",
-          "country": "Taiwan",
-          "category": "Earnings",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "TSMCが好調な決算を発表し、AI駆動のチップ需要継続により収益見通しを上方修正した。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors",
-            "Global Supply Chain"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国市場、中東情勢の緊張緩和期待と企業決算で最高値更新",
-          "country": "USA",
-          "category": "Market Movement",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500とナスダックが中東情勢の緊張緩和期待と堅調な企業決算を受け過去最高値を更新。",
-          "affected_sectors": [
-            "All sectors",
-            "Technology",
-            "Growth Stocks"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド市場、銀行株安と原油価格上昇で下落",
-          "country": "India",
-          "category": "Market Movement",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Nifty50とSensexが銀行株と原油価格上昇により下落、最近の上昇からの利益確定売りも。",
-          "affected_sectors": [
-            "Banking",
-            "Energy",
-            "General Equities"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東緊張緩和期待とAI関連好決算が市場を牽引。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 22:30",
     "data": {
       "breaking_news": [
@@ -13476,6 +13398,82 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "米イラン停戦交渉の錯綜で原油と市場が変動。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "トランプ氏のイラン停戦延長で市場は慎重ながら楽観",
+          "country": "USA",
+          "category": "Geopolitics",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米大統領がイラン停戦を延長、世界市場は慎重ながら楽観。原油高は続く可能性あり。",
+          "affected_sectors": [
+            "Equities",
+            "Energy",
+            "Currencies",
+            "Precious Metals"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "イラン停戦後も原油高が続きインド・ルピーが下落",
+          "country": "India",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "イラン停戦後も原油高が続き、インド・ルピーが対米ドルで下落する見込み。",
+          "affected_sectors": [
+            "Currencies",
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "BHPがQ3業績を発表、銅生産減も鉄鉱石増",
+          "country": "Australia",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BHPのQ3業績、銅生産は3%減も鉄鉱石は2%増。株価は銅価格上昇で支持される。",
+          "affected_sectors": [
+            "Mining",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "DroneShieldが2026年Q1で前年比121%の収益増",
+          "country": "Australia",
+          "category": "Corporate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "オーストラリアのドローン防衛企業DroneShield、2026年Q1収益が前年比121%増。",
+          "affected_sectors": [
+            "Technology",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "英国で新プラットフォームがISAでの仮想通貨保有を許可",
+          "country": "United Kingdom",
+          "category": "Financial Services",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "英国で新プラットフォームがローンチされ、投資家はISAで仮想通貨を保有可能に。",
+          "affected_sectors": [
+            "Financial Services",
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "トランプ氏のイラン停戦延長で市場は慎重ながら楽観、原油高続く。"
     }
   }
 ]
