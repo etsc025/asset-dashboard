@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "アジア株、停戦ニュース待ちで下落",
-          "country": "アジア",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イランと米国間の停戦延長の進展を投資家が待つ中、アジア株は下落した。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格、停戦と和平交渉の期待で下落",
-          "country": "グローバル",
-          "category": "商品市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イスラエルとレバノンの停戦およびイラン戦争の和平交渉への期待から、原油価格は下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Citius Transnet InvIT IPOがインドで本日開始",
-          "country": "インド",
-          "category": "IPO",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Citius Transnet InvITのIPOがインドで本日開始され、インフラ資産への投資家の関心を集めている。",
-          "affected_sectors": [
-            "インフラ",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン戦争和平交渉の進展が市場と原油価格に影響を与えている"
-    }
-  },
-  {
     "timestamp": "2026-04-17 13:00",
     "data": {
       "breaking_news": [
@@ -12392,6 +12344,53 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Investors brace for more rate hikes to curb inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 2023",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed financial performance reported by European banks for the third quarter of 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's central bank reduces reserve requirement ratio, boosting liquidity and potentially supporting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
