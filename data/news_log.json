@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東停戦交渉への期待が世界市場を押し上げ",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東の停戦交渉への期待が米国株先物、日経平均など世界主要市場を押し上げ、原油価格も影響。地政学的リスク緩和へ。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "TSMCが第1四半期に記録的な純利益を達成",
-          "country": "Taiwan",
-          "category": "Corporate Earnings",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "世界最大の受託半導体メーカーTSMCが第1四半期に過去最高の純利益を記録し、市場予想を上回る好調な業績を発表。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国経済、第1四半期GDPが予想を上回る成長",
-          "country": "China",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の第1四半期経済成長率が予想を上回り、輸出と国内消費が牽引。世界経済へのプラス影響が期待される。",
-          "affected_sectors": [
-            "Global Trade",
-            "Commodities",
-            "Emerging Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Citizens Financial Groupが好調な第1四半期決算を発表",
-          "country": "United States",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "シチズンズ・フィナンシャル・グループが第1四半期の純利益とEPSが前年比で大幅増を報告し、堅調な業績を示した。",
-          "affected_sectors": [
-            "Financials",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "G7財務相が中東情勢の緊張緩和を議論",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "G7財務相・中央銀行総裁会議で中東情勢の緊張緩和とホルムズ海峡の自由な航行回復が主要議題に。",
-          "affected_sectors": [
-            "Energy",
-            "Global Trade",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢の緊張緩和期待と企業決算が市場を押し上げ。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 21:00",
     "data": {
       "breaking_news": [
@@ -13468,6 +13390,79 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "仮想資産規制の強化に注意。FATFがVASPへの対策強化を要請。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "東京為替：米ドル・円は159円20銭台で推移、原油高を意識",
+          "country": "日本",
+          "category": "為替",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "東京市場でドル円は159円20銭台で取引され、中東情勢を受けた原油価格の高止まりが意識されている。",
+          "affected_sectors": [
+            "金融",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "サムスン、テスラへの月間DRAM供給量を4倍に増加=報道",
+          "country": "韓国",
+          "category": "企業ニュース",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "サムスンがテスラへの月間DRAM供給量を4倍に増やすと報じられ、EV市場の需要増を示唆。",
+          "affected_sectors": [
+            "半導体",
+            "自動車"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "花王：37期連続増配を予定、半導体製造用薬剤で世界シェア60%",
+          "country": "日本",
+          "category": "企業ニュース",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "花王が37期連続増配を予定し、半導体製造用薬剤で世界シェア60%を占めるなど堅調な業績を発表。",
+          "affected_sectors": [
+            "消費財",
+            "半導体"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "日経平均は277円安、寄り後はもみ合い",
+          "country": "日本",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "日経平均株価は277円安で始まり、その後は狭いレンジでもみ合い。市場は方向感を模索中。",
+          "affected_sectors": [
+            "全セクター"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "SQUEEZE<558A>が東証グロースに新規上場、初値は公開価格を上回る",
+          "country": "日本",
+          "category": "IPO",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "SQUEEZEが本日東証グロース市場に新規上場し、初値は公開価格3110円を上回る3250円を記録。",
+          "affected_sectors": [
+            "ソフトウェア",
+            "サービス"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "NEUTRAL",
+      "top_alert": "日経平均は反落で始まり、為替市場ではドル円が原油高を意識し159円台で推移。"
     }
   }
 ]
