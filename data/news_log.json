@@ -1,95 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株市場、イラン和平交渉期待でS&P500とナスダックが史上最高値を更新",
-          "country": "US",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国株式市場は、イランとの和平交渉への期待と好調な企業決算を受け、S&P500とナスダックが史上最高値を記録し続伸した。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Broad Market"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン和平交渉進展で原油価格が乱高下、市場は慎重な姿勢",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの和平交渉進展のニュースを受け、原油価格は一時急落後にやや上昇し、市場は今後の展開を注視している。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF、中東紛争による世界的な債務増加とエネルギー価格ショックを警告",
-          "country": "Global",
-          "category": "Geopolitical",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、中東での紛争が世界経済に与える影響として、債務水準の上昇とエネルギー価格の高騰について警鐘を鳴らした。",
-          "affected_sectors": [
-            "Energy",
-            "Financials",
-            "Global Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会（FRB）高官が本日発言、金融政策の手がかりに注目",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "サンフランシスコ連銀総裁デイリーを含むFRB高官が本日発言予定で、今後の金融政策に関する重要な手がかりが期待される。",
-          "affected_sectors": [
-            "Financials",
-            "Interest-Rate Sensitive Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AllbirdsがAI企業へ転換し「NewBird AI」に社名変更、株価が600%急騰",
-          "country": "US",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "フットウェア企業のAllbirdsがAIコンピューティングへの事業転換と「NewBird AI」への社名変更を発表後、株価が600%急騰した。",
-          "affected_sectors": [
-            "Technology",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国経済、イラン紛争前に0.5%の予想外のGDP成長を記録",
-          "country": "UK",
-          "category": "Economic Data",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国経済がイランとの紛争発生前に0.5%のGDP成長という予想外の好結果を示し、市場に安堵感を与えた。",
-          "affected_sectors": [
-            "General Economy",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン和平交渉の進展とIMFの世界的経済リスク警告。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 09:30",
     "data": {
       "breaking_news": [
@@ -12674,6 +12584,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government unveils plans to boost spending and cut taxes to counter rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, global markets remain volatile."
     }
   }
 ]
