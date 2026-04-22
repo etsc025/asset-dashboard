@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "IMF、中東紛争による世界経済のリセッションリスクを警告",
-          "country": "Global",
-          "category": "Macroeconomics, Geopolitics, Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは、中東紛争が原油価格高騰とサプライチェーン混乱を引き起こし、世界経済をリセッションに追い込む可能性を警告している。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場、S&P500とナスダックが史上最高値を更新",
-          "country": "US",
-          "category": "Stock Market, Technology",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東和平への期待とテクノロジー株の好調を背景に、米国S&P500とナスダックは史上最高値を更新した。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "General Equity Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IEA、欧州のジェット燃料供給危機を警告",
-          "country": "Europe",
-          "category": "Energy, Geopolitics, Transportation",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IEAは、中東紛争の影響で欧州のジェット燃料供給が残り6週間分しかなく、フライト欠航の可能性が高まっていると発表。",
-          "affected_sectors": [
-            "Airlines",
-            "Logistics",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix共同創業者Hastings氏の辞任で株価が8%急落",
-          "country": "US",
-          "category": "Corporate News, Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixの共同創業者リード・ヘイスティングス氏の辞任が発表され、同社株価は8%下落した。",
-          "affected_sectors": [
-            "Media & Entertainment",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドでCitius Transnet InvITのIPO開始、インフラ投資に注目",
-          "country": "India",
-          "category": "IPO, Infrastructure, Finance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "インドでCitius Transnet InvITのIPOが開始され、1,105クローレルピーを調達目標にインフラ資産への投資家からの関心を集めている。",
-          "affected_sectors": [
-            "Infrastructure",
-            "Finance",
-            "India Equity Market"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東紛争が世界経済のリセッションリスクを高め、エネルギー供給を圧迫。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 14:00",
     "data": {
       "breaking_news": [
@@ -12388,6 +12309,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package for economic support"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's central bank cuts interest rates, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "China's manufacturing PMI drops below the critical 50 mark, signaling a slowdown in economic activity.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧"
     }
   }
 ]
