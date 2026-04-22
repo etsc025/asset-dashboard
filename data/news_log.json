@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "G7財務相・中央銀行総裁、中東情勢の緊張緩和を協議",
-          "country": "国際",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "G7財務相らがワシントンで会合し、中東情勢の緊張緩和とホルムズ海峡の自由航行回復を目指す姿勢を示した。日本は原油先物価格に懸念。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "国際貿易",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Citizens Financial GroupがQ1 2026で堅調な業績を報告",
-          "country": "米国",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Citizens Financial Groupは2026年第1四半期の純利益が前年比39%増と好調な決算を発表、EPSも47%増となり、市場予想を上回った。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF、サハラ以南アフリカ経済見通しを発表",
-          "country": "サハラ以南アフリカ",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "国際通貨基金（IMF）は、サハラ以南アフリカ地域の経済発展と将来の見通しをまとめた地域経済見通し報告書を公表した。",
-          "affected_sectors": [
-            "アフリカ市場",
-            "新興市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国経済、イラン戦争前に0.5%の予想外の成長",
-          "country": "英国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン戦争勃発前、英国経済が0.5%の予想外の成長を記録した。これは紛争前の回復力を示している。",
-          "affected_sectors": [
-            "英国経済",
-            "小売",
-            "サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "主要インド企業のQ4 FY26決算プレビュー、世界的不確実性の中",
-          "country": "インド",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "HDFC銀行やInfosysなど、主要インド企業の2026年第4四半期決算が迫る中、グローバルな不確実性が注目を集めている。",
-          "affected_sectors": [
-            "インド金融",
-            "IT",
-            "製造"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の緊張緩和協議も、地政学リスクが市場を圧迫。"
-    }
-  },
-  {
     "timestamp": "2026-04-16 21:30",
     "data": {
       "breaking_news": [
@@ -13463,6 +13385,83 @@
       ],
       "market_sentiment": "NEUTRAL",
       "top_alert": "日経平均は反落で始まり、為替市場ではドル円が原油高を意識し159円台で推移。"
+    }
+  },
+  {
+    "timestamp": "2026-04-22 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米イラン停戦交渉の不確実性で株価下落、原油価格上昇",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "米国とイラン間の停戦交渉の不確実性から、株式市場は下落し、原油価格は上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "航空",
+            "製造業",
+            "グローバル市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "トランプ大統領がイランとの停戦を延長、米株先物上昇",
+          "country": "米国",
+          "category": "地政学",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "トランプ大統領がイランとの停戦を延長したことで、米国の先物市場は上昇し、市場の緊張が緩和された。",
+          "affected_sectors": [
+            "エネルギー",
+            "グローバル市場",
+            "防衛"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国主要株価指数US500、本日0.50%上昇し7100ポイントに到達",
+          "country": "米国",
+          "category": "マクロ経済",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国主要株価指数US500は本日0.50%上昇し7100ポイントに達した。",
+          "affected_sectors": [
+            "全米株式セクター"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米イラン交渉再開期待で原油価格下落、アジア株上昇",
+          "country": "グローバル",
+          "category": "コモディティ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国とイランの和平交渉再開への期待感から、原油価格は下落し、アジア市場の株式は上昇した。",
+          "affected_sectors": [
+            "エネルギー",
+            "アジア株式",
+            "輸送"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FRB議長候補ケビン・ウォルシュ氏、独立性を主張",
+          "country": "米国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "次期FRB議長候補のケビン・ウォルシュ氏が、独立性を主張。上院議員は厳しい質問を行った。",
+          "affected_sectors": [
+            "金融",
+            "金利感応型セクター全般"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米イラン停戦延長で市場緊張緩和、米株先物上昇、原油価格に注目。"
     }
   }
 ]
