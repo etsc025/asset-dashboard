@@ -1,105 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500とNasdaq、史上最高値更新後に小幅下落",
-          "country": "米国",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "S&P500とNasdaqは中東停戦期待とAI関連株の好調で史上最高値を記録後、やや下落し、市場は慎重姿勢。",
-          "affected_sectors": [
-            "テクノロジー",
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東紛争の停戦期待と米国の対イラン追加制裁検討で原油価格変動",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東紛争の停戦交渉進展への期待がある一方で、米国はイランへの二次制裁強化を検討し、原油価格は上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "運輸"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米新規失業保険申請件数、予想以上に減少し労働市場の安定を示唆",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "4月11日終了週の米新規失業保険申請件数が予想より1.1万件減少し、労働市場の堅調さが示された。",
-          "affected_sectors": [
-            "広範な市場",
-            "消費者裁量"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア株上昇、中国GDP好調、米ウォール街の記録更新と中東停戦期待が背景",
-          "country": "アジア",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "アジア株は、中国の第1四半期5%成長報告、米ウォール街の記録更新、中東停戦期待を受け上昇した。",
-          "affected_sectors": [
-            "広範な市場",
-            "輸出関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "企業財務担当者、地政学リスク懸念を強化しMMFへの資金配分増",
-          "country": "グローバル",
-          "category": "企業金融",
-          "impact": "MEDIUM",
-          "direction": "RISK_OFF",
-          "summary": "Tradeweb調査によると、企業財務担当者の地政学リスク懸念が急増し、流動性管理のためマネーマーケットファンドへの配分を増加。",
-          "affected_sectors": [
-            "金融",
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "DTCCとCMEグループ、クロスマージニング拡張の規制承認を取得",
-          "country": "米国",
-          "category": "金融規制",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "DTCCとCMEグループは、市場参加者の資本効率を高めるクロスマージニング拡張で規制承認を得た。",
-          "affected_sectors": [
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "MicrosoftとStellantis、AI・サイバーセキュリティで戦略的提携",
-          "country": "グローバル",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "MicrosoftとStellantisがAIとサイバーセキュリティ分野で5年間の戦略的提携を締結、技術ギャップを解消。",
-          "affected_sectors": [
-            "テクノロジー",
-            "自動車"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東紛争の進展と企業決算が市場を動かす中、地政学リスクとインフレ懸念が続く"
-    }
-  },
-  {
     "timestamp": "2026-04-17 01:00",
     "data": {
       "breaking_news": [
@@ -13427,6 +13327,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally, oil drops on Iran ceasefire & Hormuz reopening."
+    }
+  },
+  {
+    "timestamp": "2026-04-22 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "HCL Techの弱いQ4決算、ITセクターに打撃を与え、Infosysなどが最大6%下落",
+          "country": "インド",
+          "category": "企業決算, セクターニュース",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "HCL Technologiesの弱い第4四半期決算が、インドIT株の920億ルピー規模の売りを誘発し、同業他社も下落しました。",
+          "affected_sectors": [
+            "情報技術"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国とイランの停戦延長後も原油高が続き、インド国債が下落",
+          "country": "インド",
+          "category": "地政学, 債券市場",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "原油価格の高止まりと中東の緊張が続き、米国の停戦延長にもかかわらずインド国債は下落しました。",
+          "affected_sectors": [
+            "債券市場",
+            "エネルギー"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "FATF、グレーリスト基準と仮想資産に関するガイダンスを更新",
+          "country": "グローバル",
+          "category": "金融規制, 暗号資産",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "FATFは、リスクに焦点を当てるためにグレーリスト基準を更新し、仮想資産に関するターゲットガイダンスを発表しました。",
+          "affected_sectors": [
+            "金融サービス",
+            "暗号資産",
+            "銀行",
+            "アンチマネーロンダリング"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "地政学的緊張、原油価格: 市場リスク上昇中。"
     }
   }
 ]
