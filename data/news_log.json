@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "豪LNG施設でストライキの可能性、INPEX労働者が新協約に反対",
-          "country": "オーストラリア",
-          "category": "エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "オーストラリアのLNG施設でINPEX労働者が新協約に反対し、ストライキのリスクが高まりガス供給に影響する可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "天然ガス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "円相場、対ドルで159円台を維持し円安傾向が継続",
-          "country": "日本",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ドル円は159円台で推移し、円安トレンドが続いている。輸入企業に影響が出ると予想される。",
-          "affected_sectors": [
-            "輸出",
-            "輸入",
-            "製造業",
-            "観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホンダ、中国での四輪車生産能力削減と開発体制見直しへ",
-          "country": "日本, 中国",
-          "category": "自動車",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ホンダが中国市場における四輪車の生産能力を削減し、開発体制の再編に着手する見通し。",
-          "affected_sectors": [
-            "自動車",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均が大幅下落、東エレクなどが市場を押し下げ",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "本日の日経平均株価は大幅に下落。特にハイテク株が市場全体のマイナス要因となっている。",
-          "affected_sectors": [
-            "ハイテク",
-            "半導体",
-            "IT"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ウェルズ・ファーゴ、S&P500は7月までに史上最高値7300に到達と予測",
-          "country": "アメリカ",
-          "category": "株式市場、経済予測",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ウェルズ・ファーゴはAIや米国の政策要因を背景に、S&P500が今年7月までに7300に達すると強気の予測。",
-          "affected_sectors": [
-            "全セクター",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東情勢の緊迫化で原油価格高騰、各国中銀は金利据え置き",
-          "country": "世界, 米国, 中東",
-          "category": "地政学, エネルギー, 金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの交渉不調が続き、原油価格高騰。日米含む複数の中央銀行が金融政策を現状維持。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢の緊迫化と円安進行が市場に影響。日経平均大幅下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 16:30",
     "data": {
       "breaking_news": [
@@ -12144,6 +12052,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggest they may raise interest rates soon to combat inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US 10-year yields hit new high, raising inflation fears."
     }
   }
 ]
