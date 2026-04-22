@@ -1,85 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株がイラン停戦期待で最高値を更新",
-          "country": "米国",
-          "category": "市場、地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国の株式市場（S&P 500、Nasdaq）は、米国とイランの停戦交渉延長への楽観論と好調な企業収益により、新たな最高値を記録しました。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "広範な市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争により欧州がジェット燃料不足に直面",
-          "country": "欧州",
-          "category": "地政学、エネルギー、サプライチェーン",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IEAのトップは、イラン紛争により欧州のジェット燃料供給が約6週間分しか残っておらず、近いうちにフライト欠航のリスクがあると警告しました。",
-          "affected_sectors": [
-            "航空",
-            "物流",
-            "エネルギー",
-            "旅行・観光"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国の第1四半期GDPが予想を上回るも小売売上高は低迷",
-          "country": "中国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の第1四半期GDPは前年比5.0%増で予想を上回りましたが、3月の小売売上高は予想を下回り、回復の不均一性を示唆しています。",
-          "affected_sectors": [
-            "製造業",
-            "小売",
-            "消費財",
-            "国際貿易"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "AccelがAIおよび後期段階のスタートアップ向けに50億ドルのファンドを調達",
-          "country": "グローバル",
-          "category": "ベンチャーキャピタル、テクノロジー、AI",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ベンチャーキャピタル企業Accelは、人工知能および後期段階のスタートアップに世界的に投資するため、50億ドルのファンドを確保しました。",
-          "affected_sectors": [
-            "テクノロジー",
-            "人工知能",
-            "ベンチャーキャピタル"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU、凍結されたロシア資産から14億ユーロをウクライナ支援に活用",
-          "country": "欧州連合",
-          "category": "地政学、金融制裁",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧州連合は、凍結されたロシア中央銀行資産から得られた14億ユーロの予想外の利益をウクライナ支援のために割り当てました。",
-          "affected_sectors": [
-            "公共財政",
-            "防衛"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "グローバル市場はイラン停戦期待で上昇、欧州はジェット燃料危機に直面。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 09:00",
     "data": {
       "breaking_news": [
@@ -12708,6 +12628,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧，需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因财报季即将来临，投资者对上市公司的盈利预期下调导致美股开盘前出现抛售。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行表示将密切关注通胀情况，但目前未决定是否加息。市场对此反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振市场信心"
     }
   }
 ]
