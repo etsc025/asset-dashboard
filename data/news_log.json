@@ -1,66 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 18:31",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開で原油価格急落、世界株価が上昇",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, 株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランによるホルムズ海峡の再開宣言を受け、原油価格が大幅に下落し、米国の主要株価指数は過去最高値を更新。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "消費者裁量",
-            "産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコインが地政学的緊張緩和で$78,000に到達",
-          "country": "グローバル",
-          "category": "暗号通貨",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "地政学的緊張の緩和と投資家の信頼感を受けて、ビットコインが2ヶ月ぶりの高値$78,000近くまで上昇した。",
-          "affected_sectors": [
-            "暗号通貨市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Metaが世界規模で10%の従業員削減計画",
-          "country": "グローバル",
-          "category": "テクノロジー, 雇用",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Metaは世界規模で従業員を10%削減する計画を発表した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "雇用市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中央銀行のトップがリーマン型破綻の脅威を評価するウォーゲームに参加",
-          "country": "グローバル",
-          "category": "金融政策, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中央銀行のトップが、リーマン型のような金融危機のリスクを評価するためのウォーゲームに加わった。",
-          "affected_sectors": [
-            "金融セクター全体"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開により原油価格が急落、リスク回避ムード後退で主要市場が大幅上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 19:00",
     "data": {
       "breaking_news": [
@@ -10981,6 +10920,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行行动将影响全球经济"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, says Bank of England",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank announces a rate cut to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices rise as OPEC+ delays production cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ decides not to reduce crude oil production, causing global oil prices to increase.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on OPEC+ decision"
     }
   }
 ]
