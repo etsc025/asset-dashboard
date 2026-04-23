@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "欧州、イラン紛争でジェット燃料供給が逼迫、イージージェットは利益に警告",
-          "country": "欧州",
-          "category": "エネルギー, 地政学, 航空",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の影響で欧州のジェット燃料供給が6週間分に減少。イージージェットは利益減益を警告。",
-          "affected_sectors": [
-            "航空",
-            "エネルギー",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド：外資系機関投資家がFX規制と収益リスクで警戒感を強める",
-          "country": "インド",
-          "category": "外国投資, 金融政策, 株式",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドのFX規制と企業収益への懸念から、外資系機関投資家はインド債券・株式市場への投資に慎重に。",
-          "affected_sectors": [
-            "金融市場",
-            "インド株式全般",
-            "外国為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ビットコインとイーサリアム、ボラティリティの中で安定推移、テクニカルは強気を示唆",
-          "country": "グローバル",
-          "category": "仮想通貨",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ボラティリティがある中、ビットコインは74,600ドル付近、イーサリアムは2,300ドル以上を維持。",
-          "affected_sectors": [
-            "仮想通貨",
-            "ブロックチェーン",
-            "フィンテック"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AIブームで台湾市場の時価総額が4兆ドル超え、英国を追い抜く",
-          "country": "台湾",
-          "category": "テクノロジー, 市場パフォーマンス",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "AI需要を背景に台湾株式市場の時価総額が4兆ドルを超え、英国を上回った。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "グローバル株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン和平期待で米国株高、欧州ジェット燃料供給は逼迫。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 18:30",
     "data": {
       "breaking_news": [
@@ -12020,6 +11955,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US 10-year Treasury yields drop to record low as investors worry about economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package amid inflation worries",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces additional measures to combat high inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches inquiry into cryptocurrency tax evasion",
+          "country": "EU",
+          "category": "Taxation",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "EU authorities investigate potential tax evasion in the crypto space.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package amid inflation worries"
     }
   }
 ]
