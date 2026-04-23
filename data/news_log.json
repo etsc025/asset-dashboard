@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡開通発表で原油急落・株価急騰",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の完全開通を発表。地政学的緊張緩和で原油価格が急落、世界株価は記録的な高値に急騰。リスクオンの流れ。",
-          "affected_sectors": [
-            "Energy",
-            "Consumer Discretionary",
-            "Industrial",
-            "Technology",
-            "Financial",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix、Q2ガイダンスが予想下回り株価10%超下落",
-          "country": "US",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixの第2四半期ガイダンスが市場予想を下回り、株価が10%以上下落。テクノロジーセクターに波及の可能性。",
-          "affected_sectors": [
-            "Technology",
-            "Media & Entertainment"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開通で原油急落、世界株式市場は記録的な高値に急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 14:30",
     "data": {
       "breaking_news": [
@@ -11002,6 +10963,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new financial regulations",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU financial regulations are set to be implemented, affecting banks and insurance companies.",
+          "affected_sectors": [
+            "Finance & Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, easing liquidity in the market.",
+          "affected_sectors": [
+            "Finance & Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be impacted by US Fed rate hike"
     }
   }
 ]
