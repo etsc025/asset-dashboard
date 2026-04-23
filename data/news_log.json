@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イランがホルムズ海峡の完全開放を発表、米・イラン和平交渉進展で原油価格急落",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の完全開放を発表し、米国とイランの和平交渉が進展。これを受け、原油価格は急落し、世界株式市場は上昇している。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Financial",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が約10%急落、世界株式市場は中東情勢緩和で大幅上昇",
-          "country": "Global",
-          "category": "Commodities, Equities, Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡開放と中東の緊張緩和を受けて、原油価格が約10%急落。世界の主要株式市場は軒並み大幅な上昇を見せている。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Consumer Discretionary",
-            "Financial"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix株が第2四半期ガイダンスの下振れで10%下落",
-          "country": "US",
-          "category": "Corporate Earnings, Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixが発表した第2四半期のガイダンスが市場予想を下回ったため、同社株価が10%下落した。",
-          "affected_sectors": [
-            "Technology",
-            "Media & Entertainment"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国で失業保険申請件数が減少、レイオフ低水準維持",
-          "country": "US",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "米国の失業保険申請件数が先週も減少し、レイオフが低水準を維持。世界経済の不確実性の中でも堅調さが示された。",
-          "affected_sectors": [
-            "Labor Market",
-            "General Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放で原油急落、世界株大幅高、リスクオンに転換。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 03:30",
     "data": {
       "breaking_news": [
@@ -11481,6 +11414,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，应对通胀压力"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，旨在刺激经济增长和稳定金融市场。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "市场情绪",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "在财报季来临之前，美股开盘前出现大规模抛售，投资者担忧企业盈利不及预期。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管保持当前利率水平不变，欧洲央行表示将在必要时采取进一步宽松措施。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市波动加剧"
     }
   }
 ]
