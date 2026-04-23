@@ -1,113 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開で原油価格急落、世界株式市場が上昇",
-          "country": "グローバル",
-          "category": "エネルギー, 金融市場, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡の再開報道を受け、原油価格が大幅に下落。米国・欧州を含む世界各地の株式市場が上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場が過去最高値を更新、イラン紛争懸念緩和で",
-          "country": "米国",
-          "category": "金融市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500とナスダックは、中東情勢の緊張緩和と原油価格下落を受けて過去最高値を更新した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州株式市場が上昇、原油価格の急落を受けて",
-          "country": "欧州",
-          "category": "金融市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "原油価格の急落と中東情勢改善への期待から、欧州株式市場は概ね上昇した。",
-          "affected_sectors": [
-            "一般産業",
-            "生活必需品",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Kaileraがナスダックデビューで60%以上急騰、減量薬への期待高まる",
-          "country": "米国",
-          "category": "ヘルスケア, IPO, 金融市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Kailera Therapeuticsは減量薬市場への投資家の強い関心を受け、ナスダックデビューで株価が60%以上急騰。",
-          "affected_sectors": [
-            "製薬",
-            "バイオテクノロジー",
-            "ヘルスケア"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ドローンメーカーAEVEXがNYSEデビューで好調、防衛産業への関心高まる",
-          "country": "米国",
-          "category": "テクノロジー, 防衛, IPO, 金融市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ドローンメーカーAEVEXがNYSEデビューで株価15%高。防衛産業への投資家の関心の高さを示す。",
-          "affected_sectors": [
-            "航空宇宙・防衛",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国、低炭素発電事業者への課徴金導入を検討",
-          "country": "英国",
-          "category": "政府政策, エネルギー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国のレイチェル・リーブス財務大臣は、低炭素電力発電事業者に対する課徴金導入を提案する見込み。",
-          "affected_sectors": [
-            "再生可能エネルギー",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドの製油所、イラン産原油の代金を人民元で決済",
-          "country": "インド, イラン, グローバル",
-          "category": "地政学, エネルギー, 通貨",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの製油所がイラン産原油の代金を中国人民元で支払っていると報じられ、米ドル離れを示唆。",
-          "affected_sectors": [
-            "石油・ガス",
-            "金融",
-            "国際貿易"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開で原油急落、世界株価が急騰中。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 10:00",
     "data": {
       "breaking_news": [
@@ -11191,6 +11083,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK Economy Slows: Data Shows Decline in GDP"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates, aiming to stimulate the UK economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank lowers reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank reduces reserves, signaling potential economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政策变动增加市场不确定性"
     }
   }
 ]
