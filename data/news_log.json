@@ -1,76 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開で原油急落、世界株式市場が高騰",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランによるホルムズ海峡再開で原油価格が10%超下落、米欧加の主要株価指数は大幅高に。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "輸送",
-            "一般消費財",
-            "住宅",
-            "自動車",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融システムへのAIリスクについて各国中央銀行が警告",
-          "country": "グローバル",
-          "category": "テクノロジー, 金融安定性, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中央銀行がAIモデルの金融システムリスクに懸念表明。AnthropicのMythosが脆弱性特定能力で注目。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国生産者物価指数、2026年3月までの1年間で4.0%上昇",
-          "country": "米国",
-          "category": "経済指標, インフレ",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "2026年3月までの1年間で米生産者物価指数は4.0%上昇。エネルギーと貿易サービスが牽引し、インフレ圧力継続。",
-          "affected_sectors": [
-            "製造業",
-            "エネルギー",
-            "輸送・倉庫",
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国企業の好調な決算シーズンが株式市場を牽引",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米主要金融企業の第1四半期決算が予想を上回り、好調なスタート。株式市場の追い風となる。",
-          "affected_sectors": [
-            "金融サービス",
-            "株式市場全般"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開、世界株を押し上げ原油価格が急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 06:00",
     "data": {
       "breaking_news": [
@@ -11383,6 +11312,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks meeting: Rate hikes possible"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announced a significant rate hike, impacting global financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Investment"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank reduced the reserve requirement ratio, affecting liquidity in Chinese financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices surge due to OPEC+ decision",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ decided to cut oil production, pushing up global crude oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，市场波动加剧"
     }
   }
 ]
