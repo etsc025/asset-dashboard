@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡の完全開放を宣言し、原油価格が急落、世界株価が急騰",
-          "country": "グローバル",
-          "category": "地政学, コモディティ, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランが停戦中にホルムズ海峡の完全開放を発表。これを受け、原油価格は約10%急落し、世界の株式市場は大幅に上昇している。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "海運",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イスラエルとレバノンの停戦が発効、中東の緊張緩和に寄与",
-          "country": "中東",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イスラエルとレバノン間の停戦が開始され、中東地域の緊張緩和に貢献し、市場の楽観的な見方を支えている。",
-          "affected_sectors": [
-            "防衛",
-            "観光",
-            "グローバル株式"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国大臣、ガスと電力価格の連動解除および国防費増額を検討",
-          "country": "英国",
-          "category": "財政政策, エネルギー政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国のレイチェル・リーブスは、ガスと電力コストの連動解除を検討し、他予算削減による国防費増額を示唆。英国エネルギー株に影響。",
-          "affected_sectors": [
-            "公益事業",
-            "エネルギー",
-            "英国防衛"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放で原油10%安、世界株価急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 01:00",
     "data": {
       "breaking_news": [
@@ -11536,6 +11484,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates to rise in Q4"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a one-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to be raised in September",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England is expected to raise interest rates by 0.5% in September, signaling a shift towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio for banks, easing liquidity conditions but with little impact on overall market sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks are tightening monetary policies to combat inflation."
     }
   }
 ]
