@@ -1,112 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Prime Minister Carney announces first-ever Canada Investment Summit",
-          "country": "Canada",
-          "category": "Investment/Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "カナダが2026年9月に初の投資サミットを開催。今後5年間で1兆ドルの投資誘致を目指す。",
-          "affected_sectors": [
-            "Infrastructure",
-            "Clean Energy",
-            "Critical Minerals",
-            "Artificial Intelligence",
-            "General Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "India Approves Rs 2,550 Cr Cathode Material Project; JSW Steel Forms JV with POSCO",
-          "country": "India",
-          "category": "Manufacturing/Industrial Investment",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドが255億ルピーの陰極材プロジェクトを承認。JSW SteelとPOSCOが6MTPA工場設立で合弁。",
-          "affected_sectors": [
-            "Metals",
-            "Manufacturing",
-            "Electric Vehicles"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Indian Refiners Settle Iranian Oil Deals in Yuan via ICICI Bank",
-          "country": "India",
-          "category": "Geopolitics/Energy/Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インドの精製業者が米国の免除措置の下、イラン産原油の支払いをICICI銀行経由で人民元決済。",
-          "affected_sectors": [
-            "Energy",
-            "Banking",
-            "International Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Truist Financial Reports First Quarter 2026 Results",
-          "country": "United States",
-          "category": "Earnings/Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Truist Financial (NYSE: TFC) が2026年第1四半期決算を発表。詳細はIRウェブサイトで公開。",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "IMF Releases Regional Economic Outlook for Western Hemisphere and Europe",
-          "country": "Global",
-          "category": "Economic Forecast/Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "IMFが2026年4月の西半球および欧州地域の経済見通しを公表、政策決定に影響。",
-          "affected_sectors": [
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "World Shares Mixed, Oil Falls Amid Iran Ceasefire Hopes",
-          "country": "Global",
-          "category": "Geopolitics/Energy/Market Sentiment",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン停戦期待で世界の株式市場はまちまち、原油価格は下落。ウォール街は新記録。",
-          "affected_sectors": [
-            "Energy",
-            "Global Equities",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix Misses Estimates, Shares Tank Post-Earnings (April 16, 2026)",
-          "country": "United States",
-          "category": "Earnings/Technology",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Netflixが2026年第1四半期の予測を下回り、決算発表後に株価が急落。テクノロジー・メディアに影響。",
-          "affected_sectors": [
-            "Technology",
-            "Media",
-            "Entertainment",
-            "Streaming"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "世界市場はイラン停戦期待で混迷; Netflix株が急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 22:30",
     "data": {
       "breaking_news": [
@@ -11693,6 +11586,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
+          "affected_sectors": [
+            "Treasury Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank has decided to cut interest rates, aiming to stimulate the economy.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU banks face liquidity crunch amid low yields",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European banks are facing a liquidity issue due to low bond yields, potentially leading to increased borrowing costs.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rates cut to boost economy"
     }
   }
 ]
