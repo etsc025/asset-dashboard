@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡の全面開放を発表、原油価格急落と世界株式市場の急騰を招く",
-          "country": "Global",
-          "category": "Geopolitical, Energy, Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の全面開放を宣言。中東情勢の緩和期待から原油価格が10%超急落し、世界主要株価指数は大幅上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場",
-            "海運",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "新AIモデル「Claude Mythos」が金融システムに脆弱性を発見、各国財務大臣が懸念表明",
-          "country": "Global",
-          "category": "Technology, Cybersecurity, Financial Regulation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Anthropic社の新AIモデル「Claude Mythos」が金融システムの脆弱性を発見。各国財務大臣や中央銀行総裁が深刻な懸念を表明した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AllbirdsがAI事業への転換を発表、株価が600%急騰",
-          "country": "US",
-          "category": "Technology, Retail, Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "スニーカーメーカーのAllbirdsがAI事業への事業転換を発表し、「NewBird AI」へリブランド。株価は600%急騰した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "リテール",
-            "株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開で中東情勢緩和、原油急落と世界株高。AI脆弱性に金融界が懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 01:30",
     "data": {
       "breaking_news": [
@@ -11529,6 +11477,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks are tightening monetary policies to combat inflation."
+    }
+  },
+  {
+    "timestamp": "2026-04-23 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国主要股指开盘后迅速下跌，投资者情绪低迷。",
+          "affected_sectors": [
+            "金融业",
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息",
+          "country": "欧盟",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多宽松措施以刺激经济复苏。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市开盘前遭遇抛售潮，需密切关注"
     }
   }
 ]
