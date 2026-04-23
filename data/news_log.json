@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開、原油価格急落、世界株高騰",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, 市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランが停戦後ホルムズ海峡の完全開放を宣言。原油価格が10%急落し、世界中の株式が急騰しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "金融",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "S&P 500とナスダックがイラン戦争懸念後退で最高値更新",
-          "country": "米国",
-          "category": "市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国のS&P 500とナスダック指数が中東紛争の懸念を払拭し、新たな記録的な高値を更新しました。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "一般株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "原油価格が10%下落し1バレル90ドルを下回る",
-          "country": "グローバル",
-          "category": "エネルギー, コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡再開後、ブレント原油が1バレル90ドルを下回り、供給懸念が緩和されました。",
-          "affected_sectors": [
-            "石油・ガス",
-            "航空",
-            "自動車",
-            "物流"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東和平への期待で欧州株が上昇",
-          "country": "欧州",
-          "category": "市場, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "CAC 40やDAXを含む欧州株式市場が、中東和平交渉への期待から上昇しました。",
-          "affected_sectors": [
-            "欧州株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflixの株価が軟調な見通しを受けて10%下落",
-          "country": "米国",
-          "category": "企業決算, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixの株価は、市場全体の好調にもかかわらず、期待外れな財務見通しを受けて10%下落しました。",
-          "affected_sectors": [
-            "テクノロジー",
-            "メディア",
-            "ストリーミング"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ホルムズ海峡発表前に原油下落に7億6000万ドルを賭けたトレーダー",
-          "country": "米国",
-          "category": "市場, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ホルムズ海峡のニュース発表前の7億6000万ドルの原油取引について、米当局がインサイダー取引の可能性を調査中です。",
-          "affected_sectors": [
-            "コモディティ",
-            "金融規制"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開、原油急落、世界株急騰でリスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 04:00",
     "data": {
       "breaking_news": [
@@ -11460,6 +11368,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above key psychological level.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank maintains status quo on interest rates, but signals readiness for hikes.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally amid strong earnings reports",
+          "country": "Global",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Major tech indexes rise as companies report robust Q4 results.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should remain cautious in volatile markets."
     }
   }
 ]
