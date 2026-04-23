@@ -1,74 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イランがホルムズ海峡を全面開放、原油価格急落し世界株式市場が大幅上昇",
-          "country": "グローバル",
-          "category": "地政学,商品市場,株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の完全開放を発表。中東情勢緩和を受け原油価格が約10%急落、世界市場で株価が広範に上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "運輸",
-            "製造業",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix、業績見通し不振と共同創設者退任で株価10%急落",
-          "country": "米国",
-          "category": "企業業績,テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixは期待外れの第2四半期ガイダンスを発表し、共同創設者リード・ヘイスティングスの退任も発表、株価が急落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "メディア",
-            "エンターテイメント",
-            "通信サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "エア・カナダ、ジェット燃料価格高騰を理由にJFK便運休を発表",
-          "country": "カナダ",
-          "category": "企業,運輸,エネルギーコスト",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "エア・カナダは、イラン紛争開始以来のジェット燃料価格倍増を理由に、6月1日から10月25日までJFK空港発着便を運休すると発表。",
-          "affected_sectors": [
-            "航空",
-            "運輸",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会（FRB）高官が今年の利下げ回数減少を示唆",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "FRB高官は、堅調な雇用市場とインフレ懸念を背景に、今年の利下げ見通しを下方修正する可能性を示唆した。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "金利敏感セクター"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン和平進展で市場はリスクオン、原油安・株高に転じる。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 05:30",
     "data": {
       "breaking_news": [
@@ -11404,6 +11335,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Rate Hikes Possible",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA is expected to announce rate hikes at their upcoming central bank meeting.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Decline on Trade Concerns",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Stock markets in Europe are experiencing a decline due to ongoing trade tensions.",
+          "affected_sectors": [
+            "Retail",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Markets Mixed After Oil Prices Rise",
+          "country": "Asia",
+          "category": "Commodity Prices",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Asian stock indices have seen mixed performance following the increase in oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Mining"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks meeting: Rate hikes possible"
     }
   }
 ]
