@@ -1,119 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和期待で米国株式市場が史上最高値更新",
-          "country": "米国",
-          "category": "市場全般",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン紛争終結への期待感から、S&P 500とナスダック100が史上最高値を更新。投資家のセンチメントが向上している。",
-          "affected_sectors": [
-            "テクノロジー",
-            "エネルギー",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本の日経平均株価、ハイテク株の低迷で史上最高値から下落",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本の日経平均株価が過去最高値から下落。特に半導体関連企業のハイテク株で利益確定売りが見られたため。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ビットコインとイーサリアムがボラティリティの中で安定推移",
-          "country": "グローバル",
-          "category": "暗号資産",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ビットコインが74,600ドル付近、イーサリアムが2,300ドルを超えて安定しており、テクニカル的には強気シグナルを示している。",
-          "affected_sectors": [
-            "暗号資産"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Allbirds株、AI企業へのブランド変更で582%急騰",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "スニーカーメーカーのAllbirdsがAI企業にブランド変更後、株価が582%急騰した。",
-          "affected_sectors": [
-            "小売",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix、収益未達とCEO交代発表で株価が急落",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Netflixは収益が予想を下回り、CEOのハスティングス氏が退任するとの発表後、株価が9.6%下落した。",
-          "affected_sectors": [
-            "メディア",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ITM Power、RheinmetallとのNATO向け契約で株価急伸",
-          "country": "英国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ITM Power PLCはRheinmetall AGとの戦略的提携を発表し、NATO向け事業強化への期待から株価が上昇した。",
-          "affected_sectors": [
-            "防衛",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アダーニ氏がアンバニ氏を抜きアジアの富豪トップに",
-          "country": "インド",
-          "category": "経済ニュース",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "最新の富豪ランキングで、アダーニ氏の純資産がアンバニ氏を上回り、アジアで最も裕福な人物となった。",
-          "affected_sectors": [
-            "コングロマリット",
-            "インフラ"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ケニア、イラン戦争の影響吸収のため世界銀行に緊急資金を要請",
-          "country": "ケニア",
-          "category": "経済ニュース",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン戦争の経済的影響を吸収するため、ケニアが世界銀行に緊急資金援助を求めている。",
-          "affected_sectors": [
-            "政府",
-            "農業",
-            "貿易"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢の緩和期待で米国株が史上最高値更新、原油価格に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 19:00",
     "data": {
       "breaking_news": [
@@ -12003,6 +11889,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package amid inflation worries"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase the federal funds rate by 75 basis points at its upcoming meeting.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Risks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its invasion of Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
     }
   }
 ]
