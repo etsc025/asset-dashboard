@@ -1,101 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開、原油価格急落、中東和平期待で世界株高騰",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イスラエル・レバノン停戦中にイランがホルムズ海峡の商用開放を宣言、原油価格急落し世界株が急騰。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "航空",
-            "工業",
-            "一般消費財",
-            "金融",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Netflix、業績見通し不振で株価が10%下落",
-          "country": "米国",
-          "category": "企業ニュース, 決算",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Netflixの株価は、第2四半期業績見通しがアナリスト予想を下回り急落、市場全体の好調とは対照的。",
-          "affected_sectors": [
-            "メディア",
-            "エンターテイメント",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米上院、富裕層のデリバティブによる租税回避を規制する法案提出",
-          "country": "米国",
-          "category": "規制, 財政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ワイデン上院議員が複雑なデリバティブ契約を利用した富裕層による租税回避を取り締まる法案を提出。",
-          "affected_sectors": [
-            "金融サービス",
-            "富裕層",
-            "投資銀行"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米銀行規制当局、モデルリスク管理ガイダンスを改訂",
-          "country": "米国",
-          "category": "規制, 金融セクター",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "FDIC、OCC、FRBがモデルリスク管理に関するガイダンスを改訂、主に300億ドル超の銀行組織が対象。",
-          "affected_sectors": [
-            "金融サービス"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国ヘルスケアセクター、M&Aが活発化しCMSが新支払いモデル提案",
-          "country": "米国",
-          "category": "ヘルスケア, 企業M&A, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "2026年第1四半期に病院M&Aが堅調。CMSは関節置換術の義務付け一括払いモデルを提案。",
-          "affected_sectors": [
-            "ヘルスケアプロバイダー",
-            "医療機器",
-            "医療保険"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "バイオテクノロジー企業のカイレラとアラマーがナスダックで好調なデビュー",
-          "country": "米国",
-          "category": "企業ニュース, IPO, ヘルスケア, バイオテクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "減量薬開発のカイレラとプロテオミクス企業のアラマーがナスダックでの取引初日に株価を大幅に上げた。",
-          "affected_sectors": [
-            "バイオテクノロジー",
-            "製薬",
-            "ヘルスケア",
-            "ライフサイエンス"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開、原油急落、世界株急騰。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 08:30",
     "data": {
       "breaking_news": [
@@ -11320,6 +11224,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global oil prices rise on OPEC+ supply cuts"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a 2.9% high, reflecting growing concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) suggests a possible interest rate increase, signaling monetary tightening.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy grows faster than expected",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "UK GDP growth exceeds forecasts by 0.2% in Q4, but remains within the range of previous quarters.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable with mixed signals."
     }
   }
 ]
