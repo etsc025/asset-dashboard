@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開、原油急落、世界株高",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡を再開し、原油価格が急落。エネルギー危機懸念が和らぎ、世界的な株式市場が上昇した。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場が史上最高値を更新",
-          "country": "United States",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500を含む米国株式市場の主要指数が史上最高値を記録し、ホルムズ海峡再開による地政学リスク緩和で上昇を継続した。",
-          "affected_sectors": [
-            "General Equities",
-            "Financials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Corcept TherapeuticsがFDA承認巡り集団訴訟に直面",
-          "country": "United States",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Corcept Therapeuticsは、新薬relacorilantのFDA承認に関する誤解を招く情報で集団訴訟に直面。株価は昨年12月に急落した。",
-          "affected_sectors": [
-            "Pharmaceuticals",
-            "Biotechnology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "主要米銀、第1四半期決算を控え消費支出に懸念",
-          "country": "United States",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "主要米銀は、前期の低迷を経て第1四半期決算を発表予定。消費支出に対する懸念が残るものの、トレーディング収益は堅調と予想される。",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開で原油急落、世界株高。米株市場は史上最高値更新。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 11:30",
     "data": {
       "breaking_news": [
@@ -11094,6 +11032,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市普遍上涨"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid geopolitical tensions",
+          "country": "USA",
+          "category": "Government Bonds",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.45% as investors react to ongoing tensions in Ukraine.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut by BoE amid inflation concerns",
+          "country": "英国",
+          "category": "Government Bonds",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "BoE cuts rate by 0.25% as UK inflation hits 9-year high.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed after US jobs data release",
+          "country": "世界",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US non-farm payrolls increase by 263k, slightly below estimates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市表现分化，投资者需谨慎评估风险。"
     }
   }
 ]
