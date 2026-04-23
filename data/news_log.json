@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡開放、原油急落で世界株式市場が上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の全面開放を宣言。イスラエル・レバノン停戦後、原油価格が急落し、S&P500などが過去最高値を更新。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Cruise",
-            "Financials",
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "企業決算に明暗：Netflix下落、IPO銘柄は高騰",
-          "country": "US",
-          "category": "Earnings",
-          "impact": "MEDIUM",
-          "direction": "MIXED",
-          "summary": "Netflixはガイダンス低調で下落も、PepsiCoは上昇。KaileraやAEVEXはIPOで急騰。米印で企業決算が混在.",
-          "affected_sectors": [
-            "Technology",
-            "Consumer Staples",
-            "Healthcare",
-            "Financials",
-            "Pharmaceuticals",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融セクター、サイバーセキュリティ強化のためAI活用を推奨",
-          "country": "US",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "金融監視機関がAnthropicのAI「Mythos」活用を金融機関に促す。サイバーセキュリティ強化が目的.",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Cybersecurity"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "地政学リスク緩和で市場楽観視、ただしバリュエーションに懸念",
-          "country": "US",
-          "category": "Market Sentiment",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "地政学リスク緩和で米国株は楽観ムード。しかし高評価と投機過熱に警戒感あり、1929年市場との類似性も指摘.",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放で原油急落、世界株高。市場はリスクオン"
-    }
-  },
-  {
     "timestamp": "2026-04-18 10:30",
     "data": {
       "breaking_news": [
@@ -11130,6 +11062,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政策变动增加市场不确定性"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting Update",
+          "country": "Multiple",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Updates on central banks' decisions and their potential impact on markets.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Major Tech Stocks Surge",
+          "country": "United States",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major tech stocks have seen significant gains today, boosting overall market sentiment.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Rise Amid Supply Concerns",
+          "country": "Multiple",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Concerns over oil supply disruptions are driving up crude prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major tech stocks have seen significant gains today, boosting overall market sentiment."
     }
   }
 ]
