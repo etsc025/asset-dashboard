@@ -1,94 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、S&P 500とナスダックが史上最高値を更新",
-          "country": "US",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P 500とナスダックが引き続き史上最高値を記録し、テクノロジー株が上昇を牽引。中東情勢の不透明感にも関わらず市場は堅調に推移した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国GDP、予想を上回りFTSE指数が上昇",
-          "country": "UK",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国のGDPデータが予想を上回り、ロンドン株式市場のFTSE指数が上昇した。これは経済回復への期待を高める。",
-          "affected_sectors": [
-            "全般",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ITM PowerがRheinmetallとのNATO関連契約で株価急騰",
-          "country": "UK",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ITM PowerがRheinmetallとの戦略的提携を発表し、NATO関連業務への関与により株価が急騰した。防衛産業への注目が高まっている。",
-          "affected_sectors": [
-            "防衛",
-            "産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Workspace Group、利益の大幅な落ち込みを警告",
-          "country": "UK",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Workspace Groupは、事業再編への投資に伴い取引利益の「大幅な落ち込み」を警告した。不動産セクターに影響の可能性。",
-          "affected_sectors": [
-            "不動産",
-            "商業用不動産"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均株価、テクノロジー株主導で過去最高値から下落",
-          "country": "Japan",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本の日経平均株価が過去最高値から下落。米国市場高騰後の利益確定売りがテクノロジー株を押し下げ、市場に警戒感。",
-          "affected_sectors": [
-            "テクノロジー",
-            "日本株式全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ氏、米国とイランの和平合意が「非常に近い」と発言",
-          "country": "Global",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ドナルド・トランプ氏が米国とイランの和平合意が「非常に近い」と発言し、地政学的緊張緩和への期待が世界市場で高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン和平合意への期待が高まり、米国株は史上最高値を更新。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 19:30",
     "data": {
       "breaking_news": [
@@ -11924,6 +11835,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank officials suggest a potential interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK stock market gains momentum",
+          "country": "UK",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK stocks have seen significant gains today, outperforming other major markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European Central Bank to announce rate decision tomorrow"
     }
   }
 ]
