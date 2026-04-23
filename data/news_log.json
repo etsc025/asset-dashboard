@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国政府、Bitfinexハッキング関連ビットコインをCoinbaseに移動",
-          "country": "US",
-          "category": "Cryptocurrency, Law Enforcement",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米政府が2016年のBitfinexハッキングに関連するビットコイン約60万ドルをCoinbaseへ移動。市場影響は限定的。",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Blockchain"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国テック企業、EUに働きかけデータセンター排出量非公開化に成功",
-          "country": "EU, US",
-          "category": "Technology, Regulation, Environment",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国のテック企業がEUにロビー活動を行い、データセンターの排出量情報を非公開に保つことに成功。ESG懸念も。",
-          "affected_sectors": [
-            "Technology",
-            "Data Centers",
-            "Cloud Computing",
-            "ESG"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン停戦期待でウォール街は記録更新も、アジア株・原油下落",
-          "country": "Asia, Global",
-          "category": "Geopolitics, Market Performance, Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン停戦への期待からウォール街は過去最高を記録し、リスクオンムード。しかし、アジア株と原油価格は下落。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Global Equities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦期待が市場を押し上げ、世界的にリスクオンムード。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 17:00",
     "data": {
       "breaking_news": [
@@ -12085,6 +12034,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US 10-year yields hit new high, raising inflation fears."
+    }
+  },
+  {
+    "timestamp": "2026-04-23 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振股市和房地产市场信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳和监管压力，美国主要科技公司股价普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振股市"
     }
   }
 ]
