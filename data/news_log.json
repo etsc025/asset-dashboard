@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Strait of Hormuz Reopens, Global Oil Prices Drop Sharply, Stock Markets Rally",
-          "country": "Global",
-          "category": "Geopolitics, Energy, Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランによるホルムズ海峡再開宣言を受け、世界の原油価格が急落し、緊張緩和により株式市場が大幅に上昇した。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Travel",
-            "Shipping",
-            "Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US株式市場が地政学的緊張緩和と好決算で史上最高値を更新",
-          "country": "USA",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中東の外交的進展と企業の好決算に支えられ、ウォール街の主要指数が史上最高水準に達した。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Consumer Discretionary"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、市場の好調にもかかわらず世界経済のリスクを警告",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMFは、エネルギーショック、高まる世界的な債務水準、地政学的な不安定さが、現在の市場回復にもかかわらず世界経済の成長を阻害する可能性があると警告。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の金融システムはAIのリスクに対処する必要がある",
-          "country": "Global",
-          "category": "Technology, Regulation, Financial Services",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "カナダ中央銀行総裁は、世界の金融システムがAIの統合に伴うリスクに真剣に取り組む必要があると述べた。",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology",
-            "Consulting"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国企業、数十億ドル規模の関税払い戻しをめぐり奔走",
-          "country": "USA",
-          "category": "Trade, Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国政府が不法徴収された関税最大1660億ドルの払い戻しシステムを開始し、企業が申請準備を進めている。",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing",
-            "Import/Export"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開で世界市場が上昇、原油価格急落。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 13:37",
     "data": {
       "breaking_news": [
@@ -11060,6 +10981,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and inflation concerns loom large."
+    }
+  },
+  {
+    "timestamp": "2026-04-24 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布将LPR下调0.1个百分点，提振了市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘后出现小幅反弹",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受科技股强劲表现带动，美股三大指数开盘后短暂上涨，但随后回落。",
+          "affected_sectors": [
+            "科技行业",
+            "金融行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前的利率水平不变，市场对此反应较为平静。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振信心"
     }
   }
 ]
