@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "東京市場で円安進行、株価大幅下落",
-          "country": "日本",
-          "category": "株式, 外国為替, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "東京市場で円安が進行し、日経平均株価は4営業日ぶりに1000円超の大幅下落。日銀総裁発言が早期利上げ観測を後退させたことも影響した。",
-          "affected_sectors": [
-            "金融",
-            "株式市場",
-            "輸出関連"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "日本市場で株価が大幅下落、円安進行。日銀発言が影響。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 18:00",
     "data": {
       "breaking_news": [
@@ -11998,6 +11975,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting growing inflationary pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England has cut interest rates to support the UK economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirements",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has reduced reserve requirements, easing liquidity constraints.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
