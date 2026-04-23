@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Ally Financialが2026年第1四半期決算を発表",
-          "country": "アメリカ",
-          "category": "決算",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Ally Financial Inc.（NYSE: ALLY）は本日、2026年第1四半期の決算を発表した。",
-          "affected_sectors": [
-            "金融サービス",
-            "銀行"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "金融界がMythos AIモデルへの深刻な懸念を表明",
-          "country": "グローバル",
-          "category": "テクノロジー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "金融大臣や大手銀行家が、金融システムを損なう可能性のある強力な新しいAIモデル「Mythos」に深刻な懸念を表明した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融サービス",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中東停戦への期待で世界の株式はまちまち、原油価格は下落",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中東での停戦期待と米イラン交渉の可能性を受け、世界の株式市場はまちまち、原油価格は下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国エネルギー株が価格連動解除案で下落",
-          "country": "英国",
-          "category": "政府政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "レイチェル・リーブス氏がガスと電力価格の連動を解除する可能性を示唆したことで、英国のエネルギー株が下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "公益事業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "カーニー首相、初のカナダ投資サミット開催を発表",
-          "country": "カナダ",
-          "category": "経済政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "カーニー首相は、今後5年間で1兆ドルの新規投資誘致を目指す初のカナダ投資サミットを発表した。",
-          "affected_sectors": [
-            "投資",
-            "テクノロジー",
-            "クリーンエネルギー",
-            "重要鉱物"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドのルピーが堅調に推移し、地政学的な緊張緩和で株価が上昇",
-          "country": "インド",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東の地政学的緊張緩和とインド準備銀行の措置への期待から、インドのルピーと株式市場は上昇した。",
-          "affected_sectors": [
-            "インド株式",
-            "外国為替市場",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "AnthropicのAIモデル「Mythos」が金融システムに脅威を与える可能性あり。"
-    }
-  },
-  {
     "timestamp": "2026-04-17 23:00",
     "data": {
       "breaking_news": [
@@ -11631,6 +11539,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-04-23 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.97%, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat recession",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and spending increases to stimulate economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes in response to inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "ECB suggests possible interest rate increases but no immediate action taken.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat recession"
     }
   }
 ]
