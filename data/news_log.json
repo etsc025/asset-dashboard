@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Strait of Hormuz Reopens, Oil Prices Plummet 10%",
-          "country": "Global",
-          "category": "Geopolitics/Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランによるホルムズ海峡の全面開放宣言を受け、原油価格が10%以上急落。供給懸念が後退しました。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global Stock Markets Rally on Easing Mideast Tensions",
-          "country": "Global",
-          "category": "Market Sentiment/Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡開放と中東停戦期待で、米国、欧州、英国の株式市場が大幅上昇し、S&P500は過去最高値を更新しました。",
-          "affected_sectors": [
-            "Technology",
-            "Financials",
-            "Consumer Discretionary",
-            "All Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Fed Rate Cut Bets Increase as Oil Drop Eases Inflation Fears",
-          "country": "Global",
-          "category": "Monetary Policy/Inflation",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "原油価格の急落がインフレ懸念を和らげ、連邦準備制度理事会（FRB）の年内利下げ期待が高まっています。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放による原油急落と世界株高"
-    }
-  },
-  {
     "timestamp": "2026-04-18 05:00",
     "data": {
       "breaking_news": [
@@ -11410,6 +11358,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-04-23 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前大幅下跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘前出现较大跌幅。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率水平不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振市场信心"
     }
   }
 ]
