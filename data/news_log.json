@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開、原油価格急落で世界株価が上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の再開を発表。原油価格は9%急落し、ウォール街を含む世界市場で株価が史上最高値を更新しました。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米FRBウォーラー理事がホルムズ海峡再開とインフレ・金利への影響に言及",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米FRBのウォーラー理事がホルムズ海峡の状況が長期的なインフレ見通しと金融政策に影響を与えると発言。",
-          "affected_sectors": [
-            "Financials",
-            "Interest-Rate Sensitive Sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド主要銀行が好調な第4四半期決算を発表",
-          "country": "India",
-          "category": "Corporate Earnings",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "HDFC銀行、Yes銀行、ICICI銀行などインドの主要銀行が、第4四半期で利益増を報告しました。",
-          "affected_sectors": [
-            "Banking",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開で原油急落・株価上昇。インフレ懸念後退で利下げ期待高まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 01:30",
     "data": {
       "breaking_news": [
@@ -10790,6 +10740,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank's rate hike decision could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-24 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as central banks consider rate hikes",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US central banks' potential rate hikes are causing concern among investors, pushing Bitcoin prices higher.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid economic concerns",
+          "country": "UK",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising global bond yields reflect growing economic worries, potentially affecting stock markets.",
+          "affected_sectors": [
+            "Bond Markets"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches investigation into Apple's tax practices",
+          "country": "EU",
+          "category": "Business",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The EU has initiated an inquiry into Apple’s tax arrangements in Ireland, with no immediate impact expected on the market.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US central banks' potential rate hikes causing Bitcoin price surge"
     }
   }
 ]
