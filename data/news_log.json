@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡を再び封鎖か、船舶攻撃報道",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡封鎖と船舶攻撃の報道。中東情勢の緊迫化が世界経済に懸念をもたらす。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国、新たな国立銀行設立を発表、民間から500億ポンド調達へ",
-          "country": "英国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国が新たな国立銀行設立計画を発表し、民間資金から500億ポンドを調達する見込み。",
-          "affected_sectors": [
-            "銀行",
-            "インフラ",
-            "建設"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米金融大手6社、第1四半期は全社増益、株式市場取引が牽引",
-          "country": "米国",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米金融大手6社の第1四半期決算が発表され、全社が増益を達成。株式市場の活況が貢献。",
-          "affected_sectors": [
-            "金融",
-            "証券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧州委員会、2026年第4回のシンジケート取引で90億ユーロを調達",
-          "country": "EU",
-          "category": "財政政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧州委員会が2026年の4回目のシンジケート取引を実施し、90億ユーロの資金を調達。",
-          "affected_sectors": [
-            "政府債務",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン紛争を受け、個人トレーダーが市場から撤退",
-          "country": "グローバル",
-          "category": "市場心理",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の激化に伴い、個人投資家が株式市場から資金を引き揚げている模様。",
-          "affected_sectors": [
-            "株式市場",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、ホルムズ海峡封鎖報道で市場に動揺。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 10:30",
     "data": {
       "breaking_news": [
@@ -10643,6 +10567,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting yields to rise in major markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-24 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in nearly 30 years.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut the RRR for banks, indicating a potential easing in monetary policy.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed hikes interest rates to curb inflation"
     }
   }
 ]
