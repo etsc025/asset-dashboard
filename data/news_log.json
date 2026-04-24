@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡を再び閉鎖、米国を非難",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡を再び閉鎖し、米国の封鎖措置を非難。世界的な原油供給と地政学的緊張に懸念。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル市場",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、イラン戦争で世界経済成長予測を下方修正",
-          "country": "世界",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争が原油・ガス価格に影響し、IMFは2026年の世界経済成長予測を下方修正したと発表。",
-          "affected_sectors": [
-            "全産業",
-            "金融",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド主要銀行、好調なQ4決算を発表",
-          "country": "インド",
-          "category": "企業業績",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "HDFC銀行、Yes銀行、ICICI銀行などインド主要銀行が、純利益と純金利収入の増加を伴う好調なQ4決算を報告。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス",
-            "インド株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン、ホルムズ海峡を再閉鎖。地政学リスク高まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 00:30",
     "data": {
       "breaking_news": [
@@ -10800,6 +10748,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行政策不确定性增加"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in July",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank officials suggest a potential interest rate increase in July.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains as economic data improves",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Positive economic indicators have boosted China's stock markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation and interest rate concerns."
     }
   }
 ]
