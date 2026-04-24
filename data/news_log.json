@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "近畿地方銀行2行、相互出資で競争力強化",
-          "country": "日本",
-          "category": "金融",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "近畿地方の地方銀行2行が相互出資を行い、競争力強化を図ると報じられた。地域金融の安定化に寄与する見込み。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イラン情勢の動向が引き続き市場の主要な焦点。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 00:00",
     "data": {
       "breaking_news": [
@@ -10543,6 +10522,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise: Bank of England forecast",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK's central bank predicts a rate hike, boosting the pound and reducing inflation.",
+          "affected_sectors": [
+            "Banking",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields surge as ECB tightens monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB's hawkish stance pushes up 10-year German bund yield to over 2.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Insurance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行政策变动引发市场波动"
     }
   }
 ]
