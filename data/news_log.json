@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン、ホルムズ海峡交渉で進展も隔たり残る",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "トランプ政権とイランはホルムズ海峡を巡る交渉で進展を報告も、重要な隔たりが残り不確実性が高まる。世界のエネルギー市場に影響を与える可能性。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債需要危機警告とMetaのAI関連人員削減",
-          "country": "米国",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国で国債需要危機への警告が出され、MetaはAIへの注力に伴い人員削減を計画。経済とテクノロジー分野に懸念。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "債券市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "BlackRock、欧州市場への慎重姿勢を強める",
-          "country": "米国",
-          "category": "投資",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "BlackRockは、エネルギーショックが市場の魅力を低下させているため、欧州市場に対してより慎重な見方を示している。",
-          "affected_sectors": [
-            "金融",
-            "投資ファンド",
-            "欧州市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン交渉の隔たりと米債券市場の懸念が週明け市場に影響"
-    }
-  },
-  {
     "timestamp": "2026-04-20 02:30",
     "data": {
       "breaking_news": [
@@ -10459,6 +10408,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
+    }
+  },
+  {
+    "timestamp": "2026-04-25 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards risk-on sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials hinted at the possibility of interest rate hikes, signaling a shift towards risk-on markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock indices mixed after China data release",
+          "country": "China",
+          "category": "Equities Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese equity market indices showed mixed performance following the release of economic data, with no clear direction for global markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
