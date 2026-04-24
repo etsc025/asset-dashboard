@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡を巡るイランの制限と米国の封鎖継続で地政学的緊張が再燃",
-          "country": "中東、米国",
-          "category": "地政学、エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡を再び制限し、米国がイランの港への海上封鎖を継続。これにより、原油価格への上昇圧力と世界市場の不確実性が高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "世界経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド大手銀行、ICICIとHDFCが堅調な四半期利益を報告",
-          "country": "インド",
-          "category": "企業決算、銀行",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドの大手銀行ICICIとHDFCが第4四半期に堅調な利益成長を報告。ICICIは9%増、HDFCは8%増で、国内金融セクターに好材料。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡の地政学的緊張が再燃し、週明けの世界市場に影響を与える可能性。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 21:30",
     "data": {
       "breaking_news": [
@@ -10573,6 +10536,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields higher in US"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济活动和股市表现。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率的上升可能影响投资者情绪和全球金融市场稳定性。",
+          "affected_sectors": [
+            "金融机构",
+            "投资者"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期提振股市"
     }
   }
 ]
