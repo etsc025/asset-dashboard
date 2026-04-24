@@ -1,29 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中央銀行、リーマン級破綻の脅威評価でウォーゲーム実施",
-          "country": "Global",
-          "category": "金融安定性",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "世界の中央銀行幹部がリーマン・ショックのような金融危機の可能性を評価するためウォーゲームに参加。金融システムの潜在的脆弱性への懸念が高まる。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス",
-            "世界経済",
-            "国債"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中央銀行が金融危機ウォーゲーム実施、リーマン級破綻の脅威を評価"
-    }
-  },
-  {
     "timestamp": "2026-04-18 20:00",
     "data": {
       "breaking_news": [
@@ -10961,6 +10937,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振经济和股市。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，债券市场承压",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致债券价格下跌，投资者情绪受到影响。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
