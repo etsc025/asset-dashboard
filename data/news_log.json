@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開で原油価格下落、米国株は過去最高値を更新",
-          "country": "Global, USA, Middle East",
-          "category": "Geopolitics, Energy, Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランによるホルムズ海峡再開宣言後、原油価格は急落し、米国株式市場は記録的な高値を更新。中東情勢緩和期待。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Stock Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMFと世銀、脆弱な停戦と世界経済の成長鈍化を警告",
-          "country": "Global",
-          "category": "Economy, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMFと世界銀行は、中東の脆弱な停戦が世界経済の成長見通しを悪化させる可能性を指摘し警鐘を鳴らした。",
-          "affected_sectors": [
-            "All sectors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "レイ・ダリオ氏、米イラン紛争は「世界大戦の初期段階」と警告",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "著名投資家レイ・ダリオ氏が、米イラン間の紛争が世界大戦の初期段階である可能性を示唆し、投資家に注意を促した。",
-          "affected_sectors": [
-            "All sectors",
-            "Defense"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "中東情勢の不確実性が高まり、市場に警戒感"
-    }
-  },
-  {
     "timestamp": "2026-04-20 00:30",
     "data": {
       "breaking_news": [
@@ -10570,6 +10521,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行政策变动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市，市场反应热烈。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，引发债券市场的波动",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致债券价格下跌，投资者情绪受到影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
