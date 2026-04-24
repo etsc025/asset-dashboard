@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、米国の港湾封鎖を「海賊行為」と非難しホルムズ海峡を再閉鎖",
-          "country": "イラン, 米国",
-          "category": "地政学, エネルギー, 貿易",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランは米国の港湾封鎖を「海賊行為」と非難し、ホルムズ海峡を再閉鎖。国際原油価格と海運に重大な影響。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "物流",
-            "グローバル貿易",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ウクライナの長距離攻撃がロシアの新たな対欧州脅威を誘発",
-          "country": "ウクライナ, ロシア, 欧州",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ウクライナの長距離攻撃に対しロシアが欧州への新たな脅威を示唆。欧州の地政学リスクが高まり市場に警戒感。",
-          "affected_sectors": [
-            "防衛",
-            "欧州市場",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中央銀行総裁らがリーマン級破綻の脅威を想定したウォーゲーム実施",
-          "country": "グローバル, イギリス",
-          "category": "銀行, 金融安定性, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中央銀行総裁らがリーマン級金融危機を想定したウォーゲームを実施。金融システムの潜在的リスク管理を強化。",
-          "affected_sectors": [
-            "銀行",
-            "金融サービス",
-            "保険"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の銀行、AnthropicのAIツール導入準備中に金融リーダーが警告",
-          "country": "イギリス",
-          "category": "テクノロジー, 銀行, 規制, サイバーセキュリティ",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "英国の銀行がAnthropicのAIツール導入を準備。金融リーダーは新技術の潜在的リスクと規制対応を警告。",
-          "affected_sectors": [
-            "銀行",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イランがホルムズ海峡を再閉鎖し、油価高騰と世界経済の不確実性が急増。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 21:30",
     "data": {
       "breaking_news": [
@@ -10930,6 +10863,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth concerns rise"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 0.75%",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 0.75%, signaling a tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has introduced new tax and spending policies aimed at reducing inflation.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank has lowered the reserve requirement ratio, providing more liquidity to financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and fiscal measures signal economic tightening"
     }
   }
 ]
