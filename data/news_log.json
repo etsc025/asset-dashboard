@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和で欧州株上昇、原油価格は急落",
-          "country": "EU",
-          "category": "市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イスラエルとレバノンの停戦合意、イランによるホルムズ海峡の「完全開放」宣言を受け、欧州株が上昇し、原油価格が急落しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国、イランの核放棄と引き換えに200億ドルの凍結資金解放を検討",
-          "country": "US",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "報道によると、米国はイランが濃縮ウラン備蓄を放棄すれば、凍結された200億ドルの資金を解放することを検討しています。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "国際関係"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "レイ・ダリオ氏、米イラン紛争を「世界大戦の初期段階」と警告",
-          "country": "Global",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "著名投資家のレイ・ダリオ氏は、現在の米イラン紛争が世界大戦の初期段階に似ていると警告し、市場に懸念を与えています。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場Nifty上昇、主要銀行Q4決算好調",
-          "country": "India",
-          "category": "市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インドのNifty指数が続伸し、HDFC、ICICI、Yes Bankの第4四半期決算が市場予想を上回りました。",
-          "affected_sectors": [
-            "金融",
-            "株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "CAB Payments株価下落、HeliosがStoneX買収案を支持せず",
-          "country": "UK",
-          "category": "企業",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "CAB Paymentsの株価は、主要株主HeliosがStoneXからの買収提案を支持しないと発表したことで下落しました。",
-          "affected_sectors": [
-            "金融サービス"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢緩和で欧州株上昇、原油急落。リスクオンムード。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 05:00",
     "data": {
       "breaking_news": [
@@ -10720,6 +10645,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响经济前景"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "银行",
+            "保险",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
+          "affected_sectors": [
+            "银行",
+            "科技股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策，市场谨慎乐观",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行可能采取更多宽松措施以刺激经济，但市场对此反应平和。",
+          "affected_sectors": [
+            "银行",
+            "汽车制造商"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
