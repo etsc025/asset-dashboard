@@ -1,41 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "英国労働党のEU関係アプローチ、Brexitによる経済的損害に対処",
-          "country": "UK",
-          "category": "経済政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国労働党はEUとの関係強化を通じてBrexitによる経済的損害に対処しようとしており、これは英国経済の将来に影響を与える可能性を秘めている。",
-          "affected_sectors": [
-            "貿易",
-            "製造業",
-            "サービス業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国財務大臣、債券市場への懸念も不必要な財政ルール見直しの余地",
-          "country": "UK",
-          "category": "財政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国のReeves財務大臣が債券市場を懸念しているが、より柔軟な財政政策のために不必要な財政ルールを見直すべきとの議論がある。",
-          "affected_sectors": [
-            "金融",
-            "政府債券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢の動向とそれが世界の金融市場に与える潜在的影響に警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 23:00",
     "data": {
       "breaking_news": [
@@ -10549,6 +10513,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "政治经济",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟对俄罗斯实施新制裁措施，可能影响欧洲能源和金融行业。",
+          "affected_sectors": [
+            "能源业",
+            "金融业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国加息预期增加，市场波动加大"
     }
   }
 ]
