@@ -1,67 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国 2025年第4四半期 GDP（第3次速報値）発表",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国商務省経済分析局が本日発表した2025年第4四半期のGDP第3次速報値は年率換算で0.5%増と、前期の4.4%から大幅に鈍化しました。",
-          "affected_sectors": [
-            "経済全般",
-            "株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国 2025年第4四半期 経常収支赤字幅が縮小",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "米国商務省経済分析局によると、2025年第4四半期の経常収支赤字は20.2%縮小し、1,907億ドルとなりました。",
-          "affected_sectors": [
-            "為替市場",
-            "貿易"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "カナダ中小企業景況感指数が2026年4月に上昇、物価上昇は加速",
-          "country": "カナダ",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "カナダ中小企業連盟の景況感指数が2026年4月に58.5へ上昇しましたが、平均物価上昇率も3.2%に加速しています。",
-          "affected_sectors": [
-            "中小企業",
-            "労働市場",
-            "インフレ関連"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏 2026年2月貿易黒字が予想を下回る",
-          "country": "ユーロ圏",
-          "category": "経済指標",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "2026年2月のユーロ圏貿易黒字は115億ユーロに縮小し、市場予想（117億ユーロ）をわずかに下回りました。",
-          "affected_sectors": [
-            "貿易",
-            "為替市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米国のGDP成長鈍化と経常収支改善、カナダ景況感上昇"
-    }
-  },
-  {
     "timestamp": "2026-04-19 11:00",
     "data": {
       "breaking_news": [
@@ -10600,6 +10538,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed hikes interest rates to curb inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yield above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PMI data misses expectations, hits stock markets",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK manufacturing sector growth slows as PMI falls below 50 threshold.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns push yields higher in US"
     }
   }
 ]
