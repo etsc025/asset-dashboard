@@ -1,71 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡の制限再開を発表し市場に不確実性",
-          "country": "イラン",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の開通報道で市場は一時楽観視したが、イランが制限再開を発表し、原油価格と貿易への影響が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル株式",
-            "製造業",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン、ホルムズ海峡通行料の仮想通貨払いを要求",
-          "country": "イラン",
-          "category": "地政学, 暗号通貨, 制裁",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡の通行料を仮想通貨で要求。米国の制裁強化とイラン港封鎖が続く中、地政学リスクが増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "暗号通貨",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AI株の評価懸念と経済不確実性で投資家が配当株へシフト",
-          "country": "グローバル",
-          "category": "投資トレンド, 市場センチメント",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "AI株の過大評価懸念やインフレ、景気後退リスクから、投資家はより安定した配当株へと資金を移動させている。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "グローバル株式"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "マスカット証券取引所が金融セクター主導で上昇",
-          "country": "オマーン",
-          "category": "地域市場, 決算",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "マスカット証券取引所の主要指数が週次で上昇し、金融セクターが銀行決算に支えられ牽引、市場の時価総額も増加した。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡の地政学リスク再燃、イランの制限再開発表に要警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 04:30",
     "data": {
       "breaking_news": [
@@ -10753,6 +10687,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘下跌，需密切监控"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济增长的担忧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，表明投资者信心增强。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响经济前景"
     }
   }
 ]
