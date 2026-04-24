@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株式市場、イラン情勢緩和報道で大幅続伸",
-          "country": "米国",
-          "category": "地政学, 株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡開放を示唆し、リスク選好度が高まり米国株が大幅続伸。S&P500、ナスダックは史上最高値を更新し、原油価格は急落。",
-          "affected_sectors": [
-            "航空",
-            "一般消費財",
-            "テクノロジー",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本株、日経平均は利益確定売りで反落もAI関連株は堅調",
-          "country": "日本",
-          "category": "株式市場, 個別銘柄",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "史上最高値更新後の利益確定売りで日経平均は反落。しかし、半導体などAI関連株は引き続き物色を集め、堅調な動きを見せた。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン情勢緩和で米国株が大幅高。日本市場は利益確定売りとAI株物色が交錯中。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 05:30",
     "data": {
       "breaking_news": [
@@ -10694,6 +10656,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government unveils plans to increase spending and cut taxes, aimed at stimulating economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China lowers key lending rates to support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政府和央行采取措施提振经济"
     }
   }
 ]
