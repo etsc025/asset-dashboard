@@ -1,44 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡再開、原油価格急落で世界の株式市場が急騰",
-          "country": "Global / Middle East",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランによるホルムズ海峡の商業船航行再開宣言を受け、中東の緊張緩和が市場心理を改善。原油価格は大幅に下落し、米国の主要株価指数が過去最高値を更新するなど、世界の株式市場は上昇した。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Airlines",
-            "Global Stock Markets",
-            "Shipping"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国3月の卸売物価、予想下回りインフレ緩和の兆候",
-          "country": "U.S.",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国労働省が発表した3月の生産者物価指数（PPI）は予想を0.5%下回り、インフレ圧力が緩和していることを示唆。サービスインフレは横ばい。",
-          "affected_sectors": [
-            "Broad Market",
-            "Interest-Rate Sensitive Sectors",
-            "Consumer Staples"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開と米インフレ緩和観測で、市場はリスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 23:30",
     "data": {
       "breaking_news": [
@@ -10548,6 +10509,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国加息预期增加，市场波动加大"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to announce another rate hike in the near future, boosting economic sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Risks",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have imposed additional sanctions on Russian entities, potentially impacting trade and investment flows.",
+          "affected_sectors": [
+            "Energy",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected to boost economy"
     }
   }
 ]
