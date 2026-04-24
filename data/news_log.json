@@ -1,97 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "S&P 500 Valuation Alarm; Potential Harsh Sell-off Ahead",
-          "country": "USA",
-          "category": "Market Analysis",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "S&P 500 valuationが過去2番目の高水準にあり、ある指標が厳しい売りの可能性を示唆しています。",
-          "affected_sectors": [
-            "Broad Market",
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イランがホルムズ海峡の開通を宣言; 原油急落、世界株上昇",
-          "country": "Global",
-          "category": "Geopolitics, Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランが停戦後にホルムズ海峡の完全開通を宣言。原油価格は約10%急落し、主要株価指数は反発しました。",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Transportation",
-            "Broad Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF会議でイラン戦争が影を落とす; 中央銀行はリーマン級破綻をシミュレート",
-          "country": "Global",
-          "category": "Geopolitics, Financial Stability",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "IMF会合ではイラン戦争への懸念が議論され、中央銀行はリーマン型破綻の脅威評価のための演習を実施中。",
-          "affected_sectors": [
-            "Financials",
-            "Broad Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国がイラン港を封鎖・制裁; イランはホルムズ通行料に暗号通貨を要求",
-          "country": "USA, Iran",
-          "category": "Geopolitics, Sanctions, Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "米国がイラン港を封鎖し新たな制裁を課しました。イランはホルムズ海峡通行料に暗号通貨を要求しています。",
-          "affected_sectors": [
-            "Shipping",
-            "Energy",
-            "Cryptocurrency",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ICICI銀行2026年第4四半期決算発表; 配当を推奨",
-          "country": "India",
-          "category": "Corporate Earnings, Banking",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ICICI銀行取締役会は2026年第4四半期監査済み財務諸表を承認し、1株あたり12ルピーの配当を推奨しました。",
-          "affected_sectors": [
-            "Banking",
-            "Financials (India)"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "イラン紛争の中、個人投資家が撤退",
-          "country": "Global",
-          "category": "Market Sentiment, Geopolitics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン紛争開始以降、個人取引が大幅に減少したことがデータで示されており、金価格にも影響。",
-          "affected_sectors": [
-            "Broad Market",
-            "Retail Investment"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "イランがホルムズ海峡の開通を宣言; 原油急落、世界株上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 23:00",
     "data": {
       "breaking_news": [
@@ -10906,6 +10814,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain cautiously optimistic."
+    }
+  },
+  {
+    "timestamp": "2026-04-24 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face new capital requirements",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟银行面临新的资本要求，旨在加强其财务稳定性。这可能影响银行业整体表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Japan's PMI hits 50.1, above the threshold",
+          "country": "日本",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "日本采购经理指数升至50.1，高于荣枯线。这表明日本制造业活动正在改善。",
+          "affected_sectors": [
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持稳定"
     }
   }
 ]
