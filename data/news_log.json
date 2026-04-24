@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Strait of Hormuz Reopens, Oil Prices Plunge, Global Stocks Rally on Mideast De-escalation",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Iran declared Hormuz open after ceasefire, plummeting oil prices and boosting global stock markets amid eased tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Airlines",
-            "Shipping",
-            "Global Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Central Banks Simulate 'Lehman-style Bust' in Global Financial Stability War Game",
-          "country": "Global",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central bank chiefs conducting a war game to gauge threat of a major financial crisis, highlighting systemic risks.",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services",
-            "Regulation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US May Release $20bn Frozen Iranian Funds for Uranium Reduction in Peace Talks",
-          "country": "US, Iran",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US considering releasing $20bn in frozen Iranian funds in exchange for uranium reduction, signaling de-escalation hopes.",
-          "affected_sectors": [
-            "Energy",
-            "International Trade",
-            "Sanctions-affected Industries"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bloomberg Intelligence: AI Reshaping Financial Research and Record Trading Volumes",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "AI is transforming financial research, while record equity volumes and zero-DTE options are altering market dynamics.",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology",
-            "Asset Management",
-            "Trading"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Hormuz Strait open, oil prices drop, stocks rally on Mideast de-escalation."
-    }
-  },
-  {
     "timestamp": "2026-04-18 20:30",
     "data": {
       "breaking_news": [
@@ -10971,6 +10904,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，表明投资者对经济前景乐观。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策将影响金融市场"
     }
   }
 ]
