@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、米国の港湾封鎖を非難しホルムズ海峡を再び閉鎖",
-          "country": "イラン",
-          "category": "地政学, エネルギー市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランは米国の港湾封鎖に抗議し、ホルムズ海峡を再び閉鎖したと発表。これにより新たな地政学的緊張が高まっている。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル貿易",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中央銀行首脳陣、リーマン型破綻の脅威を評価するウォーゲームに参加",
-          "country": "グローバル",
-          "category": "金融政策, 銀行",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "世界の中央銀行首脳陣が、リーマン・ブラザーズ型破綻の可能性を評価するためのウォーゲームに参加している。",
-          "affected_sectors": [
-            "金融",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡の再閉鎖とリーマン型破綻への懸念が市場に影を落とす。"
-    }
-  },
-  {
     "timestamp": "2026-04-18 22:00",
     "data": {
       "breaking_news": [
@@ -10909,6 +10872,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and fiscal measures signal economic tightening"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Rise Amid Economic Data Concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year yield hit a two-month high, sparking concerns over economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Interest Rates Stay Steady Amid Weak Data",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England kept interest rates unchanged despite weak employment data.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global Stocks Mixed on US Economic Indicators",
+          "country": "Global",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "US economic indicators mixed, leading to a range-bound market performance.",
+          "affected_sectors": [
+            "Finance",
+            "Stocks"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors cautious as US yields rise"
     }
   }
 ]
