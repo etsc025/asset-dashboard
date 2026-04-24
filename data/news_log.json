@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "英ポンド、好調な経済指標で上昇",
-          "country": "英国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国のGDPと雇用統計が予想を上回り、ポンドが主要通貨に対して上昇した。",
-          "affected_sectors": [
-            "金融",
-            "輸出"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB当局者、2025年の利下げに慎重姿勢",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "連邦準備制度理事会の当局者が、インフレが目標を上回るため利下げに慎重な姿勢を示した。",
-          "affected_sectors": [
-            "全セクター",
-            "不動産",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "USD/JPYが158に迫り、日銀介入懸念高まる",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "USD/JPYが158円台に接近し、日本銀行による為替介入への警戒感が高まっている。",
-          "affected_sectors": [
-            "金融",
-            "輸出",
-            "輸入"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡の再開で原油価格が急落、株式市場は上昇",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ホルムズ海峡の完全開放により原油価格が急落し、世界中の株式市場が上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "DeFi世界で2.85億ドルの仮想通貨ハッキング",
-          "country": "グローバル",
-          "category": "仮想通貨",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "DeFiセクターで2億8500万ドルの仮想通貨ハッキングが発生し、市場のセンチメントを冷やした。",
-          "affected_sectors": [
-            "仮想通貨",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放で原油価格急落、株式市場上昇"
-    }
-  },
-  {
     "timestamp": "2026-04-19 00:00",
     "data": {
       "breaking_news": [
@@ -10830,6 +10752,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rate cut may lead to liquidity issues"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a three-month high, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise in Q4, Bank of England predicts",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's monetary policy committee suggests a rate hike before the end of the year.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge on OPEC+ supply cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC and Russia reduce oil production, pushing Brent crude to its highest level in 18 months.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行政策不确定性增加"
     }
   }
 ]
