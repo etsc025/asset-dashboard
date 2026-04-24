@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Strait of Hormuz Reopens, Oil Prices Plunge, Global Stocks Rally",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イラン・米国間の停戦交渉後、ホルムズ海峡が再開され、原油価格が大幅に下落し、世界株式市場は新高値を記録しました。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "テクノロジー",
-            "金融",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Mortgage Rates Dip Amid Falling Treasury Yields",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の住宅ローン金利と10年物国債利回りが本日下落し、借り手にとって有利な金利環境を提供し、住宅市場を活性化させる可能性。",
-          "affected_sectors": [
-            "不動産",
-            "金融",
-            "住宅"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bangladesh Adjusts Fuel Prices Due to Global Market Volatility",
-          "country": "Bangladesh",
-          "category": "財政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "バングラデシュ財務大臣は、燃料価格調整がIMFの条件ではなく、世界市場の変動によるものだと述べました。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "一般経済"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Soy Gets $14 Million USDA Funding to Boost Global Exports",
-          "country": "United States",
-          "category": "貿易",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "米国のSoylは、アメリカ・ファースト貿易促進プログラムを通じて1,400万ドルのUSDA資金を受け取り、世界的な大豆輸出需要を促進します。",
-          "affected_sectors": [
-            "農業",
-            "貿易"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡再開、世界株式が急騰し原油価格が下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 07:30",
     "data": {
       "breaking_news": [
@@ -10342,6 +10275,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces tax hikes and spending cuts to address rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB signals potential for another interest rise this year amid inflation pressures.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat inflation"
     }
   }
 ]
