@@ -1,29 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡開放で原油価格急落、世界株式市場が急騰",
-          "country": "International",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イランがホルムズ海峡の完全開放を宣言し、原油価格は大幅下落、世界主要株式市場は楽観ムードで急騰。中東緊張緩和。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Aviation",
-            "Global Equity Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ホルムズ海峡開放で原油急落、世界株高。市場はリスクオン。"
-    }
-  },
-  {
     "timestamp": "2026-04-19 06:30",
     "data": {
       "breaking_news": [
@@ -10687,6 +10663,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-04-24 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，但市场整体反应较为平静，未引发大规模波动。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
