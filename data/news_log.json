@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緩和とホルムズ海峡再開、地政学リスク後退",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "イスラエル・レバノン間の停戦合意とホルムズ海峡の再開により、地政学リスクが緩和され、原油価格が下落した。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米経済指標、3月卸売物価は予想下回りインフレ懸念緩和",
-          "country": "USA",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の3月卸売物価指数は予想を下回り、新規失業保険申請は安定。製造業活動も強化され、市場に好感。",
-          "affected_sectors": [
-            "All",
-            "Financials",
-            "Industrials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "中国3月銀行融資、回復も予想には届かず景気回復にばらつき",
-          "country": "China",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の3月新規銀行融資は回復したものの予想を下回り、社会融資総額の伸びも鈍化。景気回復に不確実性。",
-          "affected_sectors": [
-            "Financials",
-            "Real Estate",
-            "Industrials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英国経済が2月に予想外の拡大、景気回復期待高まる",
-          "country": "UK",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国経済が2月に予想外の拡大を示したことで、景気回復への期待が高まっている。全体的な市場心理に貢献。",
-          "affected_sectors": [
-            "All"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米ホワイトハウス、ステーブルコイン規制を巡る銀行のロビー活動を批判",
-          "country": "USA",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米ホワイトハウスは、利付ステーブルコイン規制法案（CLARITY Act）への銀行のロビー活動を「貪欲」と批判。",
-          "affected_sectors": [
-            "FinTech",
-            "Banking",
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中東情勢の緊張緩和と原油価格下落を受け、市場はリスクオンに転換。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 02:00",
     "data": {
       "breaking_news": [
@@ -10490,6 +10413,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行将召开会议，市场高度关注"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates further in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have imposed additional economic sanctions against Russia.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio to support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
     }
   }
 ]
