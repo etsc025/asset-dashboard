@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの和平交渉進展期待で原油価格下落、アジア株上昇",
-          "country": "グローバル",
-          "category": "地政学, コモディティ, 市場センチメント",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイラン間の和平交渉への期待が高まり、中東の安定化観測からアジア株式市場が上昇。一方、原油供給増加の思惑で原油価格は下落している。",
-          "affected_sectors": [
-            "エネルギー",
-            "グローバル株式",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Apple CEOティム・クック退任、ジョン・ターナスが後任に",
-          "country": "米国",
-          "category": "企業ニュース, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ティム・クック氏がAppleのCEOを退任し、ジョン・ターナス氏が後任に指名された。クック氏の在任中、同社の株価は1000%成長した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "コンシューマーエレクトロニクス",
-            "グローバル株式"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US-イラン交渉進展期待で原油安、アジア株は上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 13:00",
     "data": {
       "breaking_news": [
@@ -10039,6 +10002,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行继续宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 03:35",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic optimism",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting positive economic sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces additional measures to support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU unveils plans for green energy transition",
+          "country": "EU",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "EU outlines strategies to accelerate renewable energy adoption.",
+          "affected_sectors": [
+            "Energy",
+            "Environmental"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package, affecting financial markets."
     }
   }
 ]
