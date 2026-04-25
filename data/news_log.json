@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "インドのNSAドバル氏が西アジア紛争を巡りサウジを訪問",
-          "country": "インド",
-          "category": "地政学",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "インド国家安全保障顧問ドバル氏が西アジア情勢を協議するためサウジアラビアを訪問中。米イラン関係の動向が注目される。",
-          "affected_sectors": [
-            "エネルギー",
-            "外交",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン緊張再燃とドル高で金価格が下落",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張再燃とドル高を受け、安全資産としてのドルの需要が高まり金価格が下落。",
-          "affected_sectors": [
-            "貴金属",
-            "外国為替市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡での米イランの対立で原油価格が上昇",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イランのホルムズ海峡での対立が続き、供給懸念から原油価格が上昇している。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "運輸",
-            "製造"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン緊張、原油高騰、金下落で市場はリスクオフ警戒中。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 16:30",
     "data": {
       "breaking_news": [
@@ -10118,6 +10067,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "FTX bankruptcy rattles crypto markets"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 00:34",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high of 3.65% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB is expected to maintain its current interest rate at 0.25% in their upcoming meeting.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin hits new all-time high amid stimulus news",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price surges to $49,000 as investors see positive outlook from recent monetary policies.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB keeps rates unchanged: no immediate market reaction expected."
     }
   }
 ]
