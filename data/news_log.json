@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株、イラン停戦・ホルムズ海峡再開で過去最高値更新",
-          "country": "USA",
-          "category": "Geopolitics, Stock Market, Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国とイランの停戦により「TINA」取引が復活し、米株が過去最高値を更新。ブレント原油は5%超下落。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Discretionary",
-            "Energy",
-            "Airlines"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Google、AIチップ開発でMarvellと協議 - Nvidiaに対抗",
-          "country": "USA",
-          "category": "Technology, Corporate Strategy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "GoogleがNvidiaのGPU優位性に対抗するため、新たなTPUチップ開発でMarvellと交渉中と報じられた。",
-          "affected_sectors": [
-            "Technology",
-            "Semiconductors"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド準備銀行、利上げ見送りか - 軟調な国内需要が背景",
-          "country": "India",
-          "category": "Monetary Policy, Economic Data",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "原油価格高騰によるインフレ圧力があるものの、国内需要の弱さからRBIは利上げを見送る可能性。",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate",
-            "Consumer Staples"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "イラン停戦で米株が史上最高値、原油は大幅下落。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 15:00",
     "data": {
       "breaking_news": [
@@ -10162,6 +10110,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets to be affected by multiple central bank actions"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 23:04",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘下跌，科技股领跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股抛售影响，美股三大指数均出现不同程度的跌幅。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
