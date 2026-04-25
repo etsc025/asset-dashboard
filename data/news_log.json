@@ -1,57 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、ホルムズ海峡への制限を再導入し、地政学的緊張が激化",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡への制限を再導入し、米国との対立が激化。世界のエネルギー供給と貿易に重大な影響を及ぼす可能性が高まった。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "世界貿易",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国株式市場、中東の地政学的不安続く中、主要指数は記録的高値更新",
-          "country": "米国",
-          "category": "市場パフォーマンス",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中東の地政学的緊張が続くにもかかわらず、S&P 500とナスダックが史上最高値を更新し、投資家の回復力と楽観性を示した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融",
-            "広範な市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "世界の中央銀行、中東紛争によるインフレリスクを厳重監視",
-          "country": "グローバル",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国やオーストラリアを含む主要中央銀行は、中東紛争がエネルギー価格高騰とインフレを加速させる可能性について警戒を強化している。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "一般消費財"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡の緊張再燃、世界のエネルギー市場に高まる不確実性。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 11:30",
     "data": {
       "breaking_news": [
@@ -10291,6 +10239,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike could lead to global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-04-25 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield hits a six-month high, raising concerns about rising interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax cuts and spending increases aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US yields rise, caution needed for financial markets."
     }
   }
 ]
