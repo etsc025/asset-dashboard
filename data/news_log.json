@@ -1,43 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国がイラン貨物船を拿捕、中東情勢緊迫化",
-          "country": "米国/イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国大統領は、米海軍艦艇がイラン貨物船に対し発砲し、拿捕したと発表した。中東情勢はさらに緊迫化し、原油市場に影響を与える可能性が高い。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国によるイラン船舶拿捕で原油価格が急騰",
-          "country": "グローバル",
-          "category": "エネルギー/コモディティ",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国によるイラン船舶拿捕の報を受け、中東地域の紛争激化懸念から原油価格が急騰している。ホルムズ海峡を巡る緊張状態が市場に不確実性をもたらしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "製造"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化、米国によるイラン船舶拿捕で原油市場に混乱の兆し。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 08:30",
     "data": {
       "breaking_news": [
@@ -10331,6 +10293,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit negotiations intensify, markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 11:17",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the third time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia, targeting key sectors including energy and finance.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50 in May",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The Purchasing Managers' Index (PMI) for China dropped below the neutral level of 50, indicating a slowdown in economic activity.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could lead to further geopolitical tensions."
     }
   }
 ]
