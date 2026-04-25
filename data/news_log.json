@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Primark、イラン戦争の影響懸念を受け食品事業から分離",
-          "country": "UK",
-          "category": "小売業, 企業戦略",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イラン戦争の影響への警告を受け、Primarkが食品事業からの分離を発表。地政学的リスクが企業戦略に影響を与えている。",
-          "affected_sectors": [
-            "小売業",
-            "食品・飲料",
-            "消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インドの銀行株から外国人機関投資家が20億ドル流出",
-          "country": "インド",
-          "category": "金融, 投資フロー",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "インドの銀行株から外国人機関投資家がさらに20億ドル引き出し。金融セクターと新興国市場に下押し圧力。",
-          "affected_sectors": [
-            "金融",
-            "銀行",
-            "新興国市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "市場は紛争を乗り越え長期成長に賭ける：エド・ヤーデニ氏",
-          "country": "グローバル",
-          "category": "市場心理, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "エド・ヤーデニ氏は、世界株式市場は紛争を乗り越え長期成長に賭けており、特にテクノロジーに焦点を当てていると指摘。",
-          "affected_sectors": [
-            "グローバル株式",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "地政学的リスク（イラン戦争の影響）が小売企業の戦略に影響、インド市場では銀行株から資金流出が続く。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 17:00",
     "data": {
       "breaking_news": [
@@ -9926,6 +9876,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks' decisions could significantly influence financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-26 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points in September",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to increase the federal funds rate by 75 basis points at its upcoming meeting on September 21-22.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to ease liquidity conditions and support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge amid OPEC+ supply cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ has announced a reduction in oil production, leading to a significant increase in crude oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动加剧"
     }
   }
 ]
