@@ -1,41 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争により個人投資家が市場から撤退",
-          "country": "Global",
-          "category": "Geopolitical/Market Behavior",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の影響で個人投資家が市場から撤退し、金価格も下落。全体的に市場の不確実性が高まっている。",
-          "affected_sectors": [
-            "Financials",
-            "Technology",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ミロク情報サービス、OLTAと提携し中小企業向けクラウドファクタリング開始",
-          "country": "Japan",
-          "category": "Business/Financial Services",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ミロク情報サービスがOLTAと提携し、中小企業向けクラウドファクタリングサービスを開始。最短即日での売掛債権現金化が可能に。",
-          "affected_sectors": [
-            "Financial Services",
-            "Software/IT"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争により個人投資家が撤退、市場はリスクオフへ転換中。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 15:30",
     "data": {
       "breaking_news": [
@@ -9978,6 +9942,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前标普500指数下跌2%"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，对股市产生积极影响",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，市场波动加剧",
+          "country": "美国",
+          "category": "债券市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致市场波动增加。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
