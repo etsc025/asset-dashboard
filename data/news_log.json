@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中東情勢緊迫化、原油価格急騰で世界経済に下押し圧力",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡封鎖の脅威で原油価格が7%超急騰。IMFは中東紛争が世界経済成長を阻害と警告。",
-          "affected_sectors": [
-            "Energy",
-            "Transportation",
-            "Manufacturing",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争による世界経済成長見通しを下方修正",
-          "country": "Global",
-          "category": "Macroeconomics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは2026年の世界経済成長率を3.1%に下方修正し、中東紛争と地政学リスクが主な要因と発表。",
-          "affected_sectors": [
-            "All sectors",
-            "Emerging Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRBウォーラー理事、イラン紛争長期化で利下げ困難に言及",
-          "country": "United States",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "ウォーラー理事はホルムズ海峡封鎖が続けばインフレ上昇でFRBの利下げを妨げると発言。",
-          "affected_sectors": [
-            "Interest-rate sensitive sectors",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "富士通、AI活用ERPソリューション「GLOVIA One」を日本市場向けに発表",
-          "country": "Japan",
-          "category": "Technology",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "富士通はAIエージェントを搭載した新ERP「GLOVIA One」を中小企業向けに提供開始し、デジタル化を支援。",
-          "affected_sectors": [
-            "Technology",
-            "Business Services",
-            "Japanese Mid-sized Enterprises"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド株式市場、中東情勢受け下落も投資家はリスクを乗り越え回復",
-          "country": "India",
-          "category": "Market Movement",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イラン情勢緊迫化でインド市場は下落スタートも、終盤に回復。原油高は引き続き懸念材料。",
-          "affected_sectors": [
-            "All Indian equity sectors",
-            "Oil & Gas",
-            "Metals",
-            "Realty"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東地政学リスク高まり原油急騰、IMFが世界成長を下方修正し警戒感"
-    }
-  },
-  {
     "timestamp": "2026-04-20 15:30",
     "data": {
       "breaking_news": [
@@ -10143,6 +10064,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 23:42",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike, boosting economic sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK publishes Q3 GDP growth report",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's Q3 GDP growth reported a 2.5% increase, signaling economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China issues stimulus package for small businesses",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China has announced a new stimulus package aimed at supporting small and medium-sized enterprises.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，经济前景乐观"
     }
   }
 ]
