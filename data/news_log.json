@@ -1,58 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国によるイラン貨物船拿捕でホルムズ海峡緊迫、原油価格高騰、対話拒否",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイラン貨物船を拿捕。イランは対話拒否しホルムズ海峡の混乱継続。原油は5%超高騰し地政学リスク増大。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "航空",
-            "製造業",
-            "グローバル株式"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場急伸、Sensexは400ポイント高、Niftyが24,450超え",
-          "country": "インド",
-          "category": "株式",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ルピー高、FII買い、原油価格安定を背景にインド株式市場が上昇。Sensexは400ポイント、Niftyは24,450超え。",
-          "affected_sectors": [
-            "金融",
-            "公共セクター銀行",
-            "中小型株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日本政府、最近の円安は投機的取引が主因との見解示す",
-          "country": "日本",
-          "category": "通貨",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "日本政府が、最近の円の動きは主に投機的な取引によるものだと発表。市場の過度な変動に警戒。",
-          "affected_sectors": [
-            "輸出産業",
-            "輸入産業",
-            "為替市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢緊迫化による原油価格高騰と地政学リスクに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 17:30",
     "data": {
       "breaking_news": [
@@ -10105,6 +10052,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-04-26 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USD/JPY Exchange Rate Hits Record High",
+          "country": "Japan",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USD/JPY exchange rate has hit a record high, indicating strong demand for the US dollar.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to Maintain Interest Rates",
+          "country": "Europe",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank announced it will maintain interest rates unchanged, affecting banking and financial sectors.",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury Bond Yields Rise Sharply",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year treasury yields have risen sharply, reflecting strong demand for US government bonds.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with potential risks."
     }
   }
 ]
