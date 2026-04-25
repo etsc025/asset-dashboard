@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "欧州株式市場下落、ホルムズ海峡情勢不安で原油・ガス価格急騰",
-          "country": "欧州",
-          "category": "地政学, エネルギー, 株式市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ホルムズ海峡の情勢不安を受け、欧州株式市場が下落し、原油・ガス価格が急騰。投資家は混乱を懸念している。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "輸送",
-            "産業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン和平交渉の錯綜で原油価格が急騰",
-          "country": "国際",
-          "category": "エネルギー, 地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン和平交渉に関する混迷した報道により、原油価格が急騰。ブレント原油は7%以上の上昇を示した。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場が上昇、ルピー高と外国人投資家買いが後押し",
-          "country": "インド",
-          "category": "株式市場, 経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド株式市場は序盤の損失から回復し上昇。ルピーの堅調、外国人機関投資家による買い、および原油価格が100ドルを下回ったことが主な要因。",
-          "affected_sectors": [
-            "金融",
-            "公共部門銀行",
-            "中小型株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Solanaのトランザクション数がEthereumを上回る",
-          "country": "グローバル",
-          "category": "仮想通貨, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "SolanaがEthereumよりも多くのトランザクションを処理し、仮想通貨市場での注目を集めている。",
-          "affected_sectors": [
-            "仮想通貨",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡情勢緊迫化で原油高と欧州株安。市場は地政学リスクに注視。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 18:08",
     "data": {
       "breaking_news": [
@@ -10098,6 +10033,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with potential risks."
+    }
+  },
+  {
+    "timestamp": "2026-04-26 02:06",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a five-month high, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK banks see profit warnings amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Major UK banks issue profit warnings due to sluggish economic conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces the reserve requirement ratio, easing liquidity in the market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
