@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン緊張激化、ブレント原油が5%超急騰",
-          "country": "Global",
-          "category": "Geopolitics, Energy Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国がイラン貨物船を拿捕、イランはホルムズ海峡の管理を再主張し地政学的緊張が激化。ブレント原油は5%超急騰し、世界市場にリスク高まる。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Airlines",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英労働党、イランのエネルギーショックを受けネットゼロ政策を強化",
-          "country": "UK",
-          "category": "Energy Policy, Politics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "イランのエネルギー供給不安を受け、英国労働党はネットゼロ排出目標達成に向けた政策を強化すると発表。英国エネルギー市場と関連投資に影響。",
-          "affected_sectors": [
-            "Energy (Renewables)",
-            "Utilities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン緊張激化、原油価格高騰で市場に地政学リスク増大"
-    }
-  },
-  {
     "timestamp": "2026-04-20 16:00",
     "data": {
       "breaking_news": [
@@ -10109,6 +10072,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，经济前景乐观"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy sees mixed signals in Q3 GDP report",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's third quarter gross domestic product (GDP) growth has been reported as positive but below expectations.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin price surges 10% in 24 hours amid FTX bankruptcy news",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin's value has surged due to the recent bankruptcy of FTX.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "FTX bankruptcy rattles crypto markets"
     }
   }
 ]
