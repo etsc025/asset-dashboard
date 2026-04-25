@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン緊張再燃、欧州株下落と原油価格上昇",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張が再燃し、欧州と英国の株式市場は下落。供給懸念から原油価格が上昇。",
-          "affected_sectors": [
-            "エネルギー",
-            "グローバル株式",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "アジア株はまちまち、イラン協議期待で原油は下落",
-          "country": "Asia",
-          "category": "Geopolitics, Market Performance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "アジア市場はまちまちの動き。米イラン協議への期待感から原油価格は下落している。",
-          "affected_sectors": [
-            "グローバル株式",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド・ルピーが対ドルで下落、早朝取引で軟調",
-          "country": "India",
-          "category": "Currency",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "インド・ルピーは早朝取引で対米ドルで16パイサ下落。ドル高とインド準備銀行の政策が影響。",
-          "affected_sectors": [
-            "外国為替",
-            "インド株式"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アップルCEOティム・クック氏、2026年9月に退任へ",
-          "country": "USA",
-          "category": "Corporate News",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "アップルのティム・クックCEOが2026年9月1日にジョン・ターナス氏に職務を引き継ぎ退任すると発表。",
-          "affected_sectors": [
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "スペースXがアナリスト会議開催、IPOへの期待高まる",
-          "country": "USA",
-          "category": "Corporate News, IPO",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "スペースXが今週アナリスト会議を開催。大規模な新規株式公開（IPO）に向けた動きとの見方が強まる。",
-          "affected_sectors": [
-            "航空宇宙",
-            "テクノロジー",
-            "プライベートエクイティ"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン緊張再燃で市場警戒、原油価格上昇に注意。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 16:00",
     "data": {
       "breaking_news": [
@@ -9975,6 +9900,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 06:50",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业信心。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前出现抛售潮，科技股领跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，美股开盘前遭遇抛售，科技股表现尤为疲软。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在政策会议上保持利率不变，市场对此反应较为平静。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市面临不确定性"
     }
   }
 ]
