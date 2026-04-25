@@ -1,28 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Futures Fall, Oil Jumps as Iran Tensions Worsen",
-          "country": "Global",
-          "category": "Geopolitical, Commodities",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東情勢悪化を受け、米国株先物が下落し原油価格が急騰。市場の緊張が高まり、リスクオフムードが広がる。",
-          "affected_sectors": [
-            "Energy",
-            "Aviation",
-            "Global Equities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢悪化で米国株先物と原油が急変動、リスク回避姿勢強まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-20 09:30",
     "data": {
       "breaking_news": [
@@ -10305,6 +10282,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
+    }
+  },
+  {
+    "timestamp": "2026-04-25 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a 2.75% high, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax cuts and spending increases aimed at bolstering economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU warns of recession risk amid pandemic",
+          "country": "EU",
+          "category": "Healthcare",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "European Union expresses concern over potential recession due to ongoing pandemic uncertainties.",
+          "affected_sectors": [
+            "Retail",
+            "Travel"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to support economy"
     }
   }
 ]
