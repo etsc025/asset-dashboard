@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
   "summary": "\n【AI Bot 週次パフォーマンスレポート】2026-04-26\n\n■ 全体サマリ\n  総資産: ¥219,671,308  週次損益: -2.37%\n  稼働bot: 225体  初期資産: ¥225,000,000\n\n■ 上位3 Bot\n  #1 Bot68_GrowthValueRotation_JP: ¥1,008,587 (+0.86%) 週次+0.49% Sharpe=2.60\n  #2 Bot54_IPO_Secondary_JP: ¥999,847 (-0.02%) 週次-0.01% Sharpe=-0.05\n  #3 Bot66_EarningsMom_JP: ¥999,803 (-0.02%) 週次-0.48% Sharpe=-0.09\n\n■ 下位5 Bot\n  Bot112_GrossMargin_US: ¥930,177 (-6.98%) MDD=-6.98% 取引108件\n  Bot104_RevenueGrowth_US: ¥930,678 (-6.93%) MDD=-6.93% 取引104件\n  Bot107_ROE_Quality_US: ¥937,639 (-6.24%) MDD=-6.24% 取引107件\n  Bot76_ADX_US: ¥939,380 (-6.06%) MDD=-6.06% 取引110件\n  Bot88_TEMA_US: ¥940,854 (-5.91%) MDD=-5.91% 取引90件\n\n■ 最高パフォーマー: Bot68_GrowthValueRotation_JP (+0.86%)\n■ 最低パフォーマー: Bot112_GrossMargin_US (-6.98%)\n",
-  "analysis": "【AI Bot 週次パフォーマンスレポート】2026-04-26を分析いたします。\n\n1. 全体的な市場環境評価：\n週間の全体資産は前週から約230万円減少し、¥219,671,308となっています。これは、AI Botが運用する範囲内で正常な範囲であり、全体的には安定したパフォーマンスを維持しています。ただし、上位Botの平均的な週次利益率はわずかにマイナスとなり、全体の収益性には若干の懸念があります。\n\n2. 上位Botの成功要因：\nBot68_GrowthValueRotation_JPが最も高いパフォーマンスを示し、週間で0.49%の利益を上げています。これは、長期的な成長志向とバリューアルゴリズムが組み込まれていることが推測されます。また、Bot54_IPO_Secondary_JPも良好なパフォーマンスを維持しており、IPO市場への適応性が高いことが示唆されています。\n\n3.",
+  "analysis": "【AI Bot 週次パフォーマンスレポート】2026-04-26を分析します。\n\n1. 全体的な市場環境の評価：\n全体の損益はマイナスであり、これは市場が堅調に推移していることを示唆しています。特に上位3botのパフォーマンスを見ると、週次+0.49%のBot68_GrowthValueRotation_JPと-0.01%のBot54_IPO_Secondary_JPは、全体の市場環境が堅調であることを示しています。一方で、下位botのパフォーマンスが悪化しており、これは市場の変動や個別のbotの問題点を反映している可能性があります。\n\n2. 上位botの成功要因の考察：\nBot68_GrowthValueRotation_JPは週次+0.49%で、全体の市場環境と一致しています。このbotが成功した理由は、成長株への投資に焦点を当てており、その結果、市場での強気なムードに対応できていると考えられます。一方、Bot54_IPO_Secondary_JPも週",
   "total_return": -2.368,
   "stats": [
     {
@@ -1031,22 +1031,22 @@
       "bot": "Bot121_VIX_Reversal_US",
       "total_return": -0.018126,
       "mdd": -0.0181,
-      "win_rate": 0.0286,
-      "sharpe": -5.81,
+      "win_rate": 0.0278,
+      "sharpe": -5.72,
       "n_trades": 32,
       "latest_equity": 981874.0,
-      "days": 35,
+      "days": 36,
       "weekly_return": -1.813
     },
     {
       "bot": "Bot126_CrossSection_US",
       "total_return": -0.01813,
       "mdd": -0.0181,
-      "win_rate": 0.0286,
-      "sharpe": -5.71,
+      "win_rate": 0.0278,
+      "sharpe": -5.62,
       "n_trades": 32,
       "latest_equity": 981870.0,
-      "days": 35,
+      "days": 36,
       "weekly_return": -1.813
     },
     {
@@ -1119,11 +1119,11 @@
       "bot": "Bot129_InstitutionalFollow_US",
       "total_return": -0.018584,
       "mdd": -0.0186,
-      "win_rate": 0.0286,
-      "sharpe": -6.18,
+      "win_rate": 0.0278,
+      "sharpe": -6.08,
       "n_trades": 32,
       "latest_equity": 981416.0,
-      "days": 35,
+      "days": 36,
       "weekly_return": -1.858
     },
     {
@@ -1142,10 +1142,10 @@
       "total_return": -0.018612,
       "mdd": -0.0186,
       "win_rate": 0.0,
-      "sharpe": -6.21,
+      "sharpe": -6.11,
       "n_trades": 32,
       "latest_equity": 981388.0,
-      "days": 35,
+      "days": 36,
       "weekly_return": -1.861
     },
     {
@@ -1174,11 +1174,11 @@
       "bot": "Bot122_SectorRotation_US",
       "total_return": -0.019018,
       "mdd": -0.019,
-      "win_rate": 0.0833,
-      "sharpe": -6.05,
+      "win_rate": 0.0811,
+      "sharpe": -5.96,
       "n_trades": 34,
       "latest_equity": 980982.0,
-      "days": 36,
+      "days": 37,
       "weekly_return": -1.902
     },
     {
@@ -1757,11 +1757,11 @@
       "bot": "Bot116_HML_US",
       "total_return": -0.032368,
       "mdd": -0.0324,
-      "win_rate": 0.0278,
-      "sharpe": -7.78,
+      "win_rate": 0.027,
+      "sharpe": -7.65,
       "n_trades": 47,
       "latest_equity": 967632.0,
-      "days": 36,
+      "days": 37,
       "weekly_return": -2.586
     },
     {
@@ -1977,11 +1977,11 @@
       "bot": "Bot118_LowVol_US",
       "total_return": -0.037759,
       "mdd": -0.0378,
-      "win_rate": 0.0526,
-      "sharpe": -10.44,
+      "win_rate": 0.0513,
+      "sharpe": -10.24,
       "n_trades": 62,
       "latest_equity": 962241.0,
-      "days": 38,
+      "days": 39,
       "weekly_return": -3.108
     },
     {
@@ -2032,11 +2032,11 @@
       "bot": "Bot125_AI_Factor_US",
       "total_return": -0.039783,
       "mdd": -0.0398,
-      "win_rate": 0.1282,
-      "sharpe": -7.05,
+      "win_rate": 0.125,
+      "sharpe": -6.95,
       "n_trades": 102,
       "latest_equity": 960217.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -2.779
     },
     {
@@ -2131,11 +2131,11 @@
       "bot": "Bot117_WML_Momentum_US",
       "total_return": -0.04444,
       "mdd": -0.0461,
-      "win_rate": 0.1282,
-      "sharpe": -8.26,
+      "win_rate": 0.125,
+      "sharpe": -8.13,
       "n_trades": 99,
       "latest_equity": 955560.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.289
     },
     {
@@ -2186,11 +2186,11 @@
       "bot": "Bot124_Trend_Momentum_US",
       "total_return": -0.045871,
       "mdd": -0.0459,
-      "win_rate": 0.1026,
-      "sharpe": -8.88,
+      "win_rate": 0.1,
+      "sharpe": -8.73,
       "n_trades": 96,
       "latest_equity": 954129.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.129
     },
     {
@@ -2296,33 +2296,33 @@
       "bot": "Bot120_AnalystUpgrade_US",
       "total_return": -0.04855,
       "mdd": -0.0491,
-      "win_rate": 0.0769,
-      "sharpe": -9.92,
+      "win_rate": 0.075,
+      "sharpe": -9.75,
       "n_trades": 87,
       "latest_equity": 951450.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.32
     },
     {
       "bot": "Bot127_MomDeterminants_US",
       "total_return": -0.048795,
       "mdd": -0.0499,
-      "win_rate": 0.1026,
-      "sharpe": -8.6,
+      "win_rate": 0.1,
+      "sharpe": -8.46,
       "n_trades": 98,
       "latest_equity": 951205.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.548
     },
     {
       "bot": "Bot119_Profitability_US",
       "total_return": -0.049221,
       "mdd": -0.0492,
-      "win_rate": 0.1026,
-      "sharpe": -9.86,
+      "win_rate": 0.1,
+      "sharpe": -9.68,
       "n_trades": 94,
       "latest_equity": 950779.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.699
     },
     {
@@ -2362,11 +2362,11 @@
       "bot": "Bot123_RL_MA_US",
       "total_return": -0.051881,
       "mdd": -0.0519,
-      "win_rate": 0.0513,
-      "sharpe": -10.59,
+      "win_rate": 0.05,
+      "sharpe": -10.4,
       "n_trades": 96,
       "latest_equity": 948119.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.494
     },
     {
@@ -2395,11 +2395,11 @@
       "bot": "Bot128_ML_DL_Hybrid_US",
       "total_return": -0.054095,
       "mdd": -0.0541,
-      "win_rate": 0.0513,
-      "sharpe": -13.55,
+      "win_rate": 0.05,
+      "sharpe": -13.25,
       "n_trades": 92,
       "latest_equity": 945905.0,
-      "days": 39,
+      "days": 40,
       "weekly_return": -3.747
     },
     {
