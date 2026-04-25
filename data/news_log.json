@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン紛争後の経済的影響、米国を傷つけるとエコノミストが警告",
-          "country": "米国",
-          "category": "地政学、経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "エコノミストは、イラン紛争が終結しても米国経済に悪影響が及ぶ可能性を警告。エネルギー価格やサプライチェーンへの影響が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "製造業",
-            "貿易",
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン紛争を受け個人投資家が市場から撤退",
-          "country": "グローバル",
-          "category": "市場心理、地政学",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン紛争の勃発に伴い、個人投資家の取引活動が大幅に減少。金価格も下落し、市場のリスク回避傾向が示唆される。",
-          "affected_sectors": [
-            "株式市場全般",
-            "コモディティ"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン紛争後の経済的影響と市場のリスク回避傾向に警戒"
-    }
-  },
-  {
     "timestamp": "2026-04-20 08:00",
     "data": {
       "breaking_news": [
@@ -10323,6 +10286,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-25 10:17",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yields higher, indicating a potential shift towards risk-on sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banking sector under scrutiny amid Brexit uncertainties",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European banks face regulatory challenges as Brexit negotiations continue to unfold, with no clear direction yet.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally on US economic data release",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Positive US economic indicators have boosted Asian stock indices, showing a positive outlook for the region.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit negotiations intensify, markets cautious"
     }
   }
 ]
