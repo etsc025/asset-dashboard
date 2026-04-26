@@ -1,153 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 08:30",
-    "ticker": "ALL",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.31（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.31,
-      "pc_ratio_oi": 1.16,
-      "total_put_vol": 65,
-      "total_call_vol": 210
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "DOW",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.38（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.38,
-      "pc_ratio_oi": 0.36,
-      "total_put_vol": 2285,
-      "total_call_vol": 6029
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "AKAM",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.14（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.14,
-      "pc_ratio_oi": 0.91,
-      "total_put_vol": 187,
-      "total_call_vol": 1306
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "KLAC",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.52（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.52,
-      "pc_ratio_oi": 2.1,
-      "total_put_vol": 1589,
-      "total_call_vol": 630
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "MPC",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.66（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.66,
-      "pc_ratio_oi": 0.42,
-      "total_put_vol": 1425,
-      "total_call_vol": 536
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Mu Yang  (CIK 0002116220)",
-            "Kanzhun Ltd  (CIK 0001842827)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "Liu Teyin M  (CIK 0002058769)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "SWAN ROBERT HOLMES  (CIK 0001218363)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "ARNZEN APRIL S  (CIK 0001632063)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "MUNOZ GEORGE  (CIK 0001238129)",
-            "LAUREATE EDUCATION, INC.  (CIK 0000912766)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:00",
-    "ticker": "MU",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.48（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.48,
-      "pc_ratio_oi": 1.07,
-      "total_put_vol": 95868,
-      "total_call_vol": 200626
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "EXE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Teunissen Marcel  (CIK 0001730935)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-07 22:01",
     "ticker": "EXE",
     "type": "Put/Call比率異常（下落警戒）",
@@ -5232,6 +5084,198 @@
   },
   {
     "timestamp": "2026-04-25 22:15",
+    "ticker": "STX",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Lee James CI  (CIK 0001773423)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-26 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "HAGALE JAMES TYSON  (CIK 0001876463)",
+            "LEGGETT & PLATT INC  (CIK 0000058492)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "FISHER ROBERT D  (CIK 0001234850)",
+            "CITY HOLDING CO  (CIK 0000726854)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Pizzie Nick  (CIK 0001742143)",
+            "Axsome Therapeutics, Inc.  (CIK 0001579428)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "FEDERICO RICHARD L  (CIK 0001217195)",
+            "DOMINOS PIZZA INC  (CIK 0001286681)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "HUTCHESON STEWART D  (CIK 0001223761)",
+            "InterDigital, Inc.  (CIK 0001405495)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-26 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)",
+            "Clarion Partners Real Estate Income Fund Inc.  (CIK 0001762562)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-22",
+          "filer": [
+            "Lucas Shannon  (CIK 0002032356)",
+            "Slide Insurance Holdings, Inc.  (CIK 0001886428)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "GOTTSCHALK MARLA C  (CIK 0001241912)",
+            "Reynolds Consumer Products Inc.  (CIK 0001786431)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-22",
+          "filer": [
+            "Marquet Magda  (CIK 0001631486)",
+            "First Tracks Biotherapeutics, Inc.  (CIK 0002091349)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-26 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=10.45（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 10.45,
+      "pc_ratio_oi": 1.4,
+      "total_put_vol": 1432,
+      "total_call_vol": 137
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:00",
+    "ticker": "EXPE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.38（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.38,
+      "pc_ratio_oi": 1.29,
+      "total_put_vol": 687,
+      "total_call_vol": 1799
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:00",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "O'Dell Timothy T  (CIK 0001556891)",
+            "CF BANKSHARES INC.  (CIK 0001070680)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:00",
+    "ticker": "EXE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.13（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.13,
+      "pc_ratio_oi": 6.29,
+      "total_put_vol": 318,
+      "total_call_vol": 2406
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:01",
+    "ticker": "DELL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.37（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.37,
+      "pc_ratio_oi": 0.92,
+      "total_put_vol": 3156,
+      "total_call_vol": 8640
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:01",
     "ticker": "STX",
     "type": "インサイダー取引報告",
     "level": "MEDIUM",
