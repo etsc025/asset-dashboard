@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦交渉の不確実性が市場に波及、株下落と原油価格上昇",
-          "country": "米国, 中東",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の停戦交渉の不確実性が高まり、米国株式市場は軟調に推移し、原油価格は上昇している。市場では中東情勢の動向への警戒感が広がり、ロンドン株も下落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "株式市場全般",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国FCA、AIライブテストの第2弾を発表し金融サービス革新を促進",
-          "country": "英国",
-          "category": "金融テクノロジー, 規制",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国金融行動監視機構（FCA）がAIライブテストの第2弾を発表。金融サービスにおけるAIの安全かつ倫理的な活用を模索する動き。",
-          "affected_sectors": [
-            "金融サービス",
-            "テクノロジー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "世界銀行・IMF会合で気候変動金融改革の必要性が議論される",
-          "country": "グローバル",
-          "category": "環境, マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "世界銀行とIMFの春季会合で、気候変動対策への資金供給を迅速化・柔軟化するための金融システム改革が議論された。債務の再考や民間部門の役割再定義が焦点。",
-          "affected_sectors": [
-            "環境",
-            "インフラ",
-            "開発金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン交渉の不確実性が市場の不透明感を高める。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 09:30",
     "data": {
       "breaking_news": [
@@ -9104,6 +9054,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政策動向と市場動向を注視中"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade restrictions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries are implementing stricter sanctions against Russian imports and exports.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU to impose new trade restrictions on Russia"
     }
   }
 ]
