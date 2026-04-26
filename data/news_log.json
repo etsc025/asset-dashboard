@@ -1,72 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの停戦期限が迫り、ホルムズ海峡と和平交渉を巡る膠着状態が続く",
-          "country": "GLOBAL",
-          "category": "地政学、エネルギー、国際関係",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦期限が迫る中、交渉は不確実で、原油価格は変動し、株式市場もまちまちの反応。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル株式",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国政府、電力価格とガス価格の連動を断ち切る措置を導入し、発電事業者への課税を強化",
-          "country": "英国",
-          "category": "エネルギー政策、財政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国は、ガス価格の変動から消費者を保護するため、再生可能エネルギーの固定価格契約を導入し、発電事業者への課徴金を増額する。",
-          "affected_sectors": [
-            "公益事業",
-            "再生可能エネルギー",
-            "石油・ガス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド株式市場、中東和平への期待で上昇するも、ルピーは地域トレンドとRBIの措置で軟化",
-          "country": "インド",
-          "category": "株式、通貨、金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中東和平への楽観論からインド株は急騰したが、地域通貨の軟化とインド準備銀行の政策調整でルピーは下落した。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "消費財",
-            "輸出指向型セクター"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "国連事務総長、地政学的対立の深化と中東紛争による世界経済への影響を警告",
-          "country": "GLOBAL",
-          "category": "地政学、世界経済、開発金融",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "国連は、地政学的緊張の激化と中東紛争が途上国の債務負担を悪化させ、世界の財政を圧迫していると警告。",
-          "affected_sectors": [
-            "新興市場",
-            "財政",
-            "グローバル貿易"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦期限迫る。和平交渉、原油価格に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 21:00",
     "data": {
       "breaking_news": [
@@ -9835,6 +9768,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, markets rally."
+    }
+  },
+  {
+    "timestamp": "2026-04-26 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a six-month high as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates next week",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to increase interest rates, supporting the euro and reducing inflation.",
+          "affected_sectors": [
+            "Monetary Policy",
+            "Euro"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices rise on supply concerns",
+          "country": "全球",
+          "category": "能源市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Concerns over oil production cuts push Brent crude to a 5% increase.",
+          "affected_sectors": [
+            "Energy Market"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行下周加息，欧元区受益"
     }
   }
 ]
