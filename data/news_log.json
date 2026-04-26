@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国市場、中東情勢懸念で下落、好調な企業決算を相殺",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中東紛争再燃の懸念から米国株が下落。企業決算の好調さや小売売上高の堅調さを相殺した。",
-          "affected_sectors": [
-            "株式市場全般",
-            "エネルギー",
-            "航空"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3月米小売売上高、予想を上回る伸びでドル買い反応",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "3月の米小売売上高が前月比+1.7%と予想を上回り、堅調な経済指標を受けてドルが買われた。",
-          "affected_sectors": [
-            "小売",
-            "為替市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ECB理事会メンバー、ユーロ圏経済には追加刺激策が必要と発言",
-          "country": "ユーロ圏",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB理事会メンバーのセントラル氏が、ユーロ圏経済はECBからの追加刺激策を必要としていると述べた。",
-          "affected_sectors": [
-            "金融サービス",
-            "株式市場全般"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "日銀の利上げ慎重姿勢で円売り、ドル円159円台に上昇",
-          "country": "日本",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "日本銀行が早期利上げに慎重な姿勢を見せているとの思惑から円売りが進み、ドル円は159円台に乗せた。",
-          "affected_sectors": [
-            "為替市場",
-            "輸出関連企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、ロシアの2026年経済見通しを上方修正",
-          "country": "ロシア",
-          "category": "経済見通し",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "IMFは4月14日に発表した世界経済見通しで、ロシアの実質GDP成長率を上方修正した。",
-          "affected_sectors": [
-            "コモディティ",
-            "ロシア株式市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "中東情勢の不透明感で米国株が下落、地政学リスクに警戒。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 09:00",
     "data": {
       "breaking_news": [
@@ -9131,6 +9056,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russian oil imports could lead to energy price hikes."
+    }
+  },
+  {
+    "timestamp": "2026-04-27 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Rise as Inflation Concerns Persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting ongoing concerns about inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound Weakens Against USD amid Brexit Uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK pound weakened against the US dollar, adding to market uncertainty following Brexit negotiations.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Stock Market Rises on Policy Easing",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rose as the government announced easing measures to support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政策動向と市場動向を注視中"
     }
   }
 ]
