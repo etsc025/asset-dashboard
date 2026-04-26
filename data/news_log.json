@@ -1,70 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国3月CPIが予想を上回り、早期利下げ観測が後退",
-          "country": "米国",
-          "category": "金融政策/マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "3月の米消費者物価指数が予想を上回り、FRBの早期利下げ期待が後退。市場の不確実性が高まり、金利上昇圧力が続く見込み。",
-          "affected_sectors": [
-            "テクノロジー",
-            "不動産",
-            "一般消費財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ユーロ圏製造業PMIが改善、景況感回復の兆し",
-          "country": "ユーロ圏",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3月のユーロ圏製造業PMIが予想を上回り、2026年3月に51.6に上昇し改善。サービス業が牽引し、経済回復への期待が見られる。",
-          "affected_sectors": [
-            "製造業",
-            "サービス業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "主要テクノロジー企業決算好調、AI需要が株価を牽引",
-          "country": "グローバル",
-          "category": "企業業績",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ASMLやTSMCなどがAI需要の強さを背景に好決算を発表。テクノロジー株が市場全体を牽引し、主要指数は最高値を更新。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "AI関連"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "地政学的緊張の高まりが原油・銅価格に影響、欧州で信用リスク懸念",
-          "country": "グローバル",
-          "category": "地政学/コモディティ",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン間の緊張再燃が原油価格の変動と銅価格の下落を引き起こし、欧州発行体の信用リスク増大が懸念される。",
-          "affected_sectors": [
-            "エネルギー",
-            "素材",
-            "航空",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国のインフレ懸念再燃、中東地政学リスクが市場の不確実性を高める"
-    }
-  },
-  {
     "timestamp": "2026-04-22 03:30",
     "data": {
       "breaking_news": [
@@ -9461,6 +9396,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致加息，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振股市和楼市。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
+          "affected_sectors": [
+            "股票",
+            "债券"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能进一步降息，提振欧元区经济增长预期。",
+          "affected_sectors": [
+            "金融",
+            "出口导向行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但波动性增加"
     }
   }
 ]
