@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "英国の賃金上昇率が2020年11月以来の最低水準に、失業率は予想外に低下",
-          "country": "UK",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "英国の賃金上昇率は2020年11月以来の最低水準に達し、失業率は予想外に低下し、経済に混在するシグナルを与えた。",
-          "affected_sectors": [
-            "全セクター",
-            "小売",
-            "サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ロイヤルメールが今後5年間で5億ポンドを投資",
-          "country": "UK",
-          "category": "企業投資",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ロイヤルメールは今後5年間で5億ポンドを投資する計画を発表。",
-          "affected_sectors": [
-            "物流",
-            "郵便サービス",
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "英国の賃金成長率が低下し、失業率が予想外に減少。金融政策に影響の可能性。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 20:30",
     "data": {
       "breaking_news": [
@@ -9837,6 +9800,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise, caution needed for financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-26 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and welfare cuts amid rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, markets rally."
     }
   }
 ]
