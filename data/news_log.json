@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国株上昇、ユナイテッドヘルス好決算、原油価格は比較的安定",
-          "country": "米国",
-          "category": "企業決算, 金融市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ユナイテッドヘルスなど主要企業の予想を上回る好決算を受け、米国株は上昇。米イラン情勢を巡る懸念にもかかわらず原油価格は安定的に推移している。",
-          "affected_sectors": [
-            "ヘルスケア",
-            "株式市場",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン停戦期限が迫る中、市場は地政学的緊張に警戒",
-          "country": "グローバル",
-          "category": "地政学, 金融市場",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦期限が迫り、合意への期待と不確実性が混在し、市場は慎重な姿勢を示している。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー",
-            "為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Apple CEOティム・クック氏が退任へ、ジョン・ターナス氏が後任に",
-          "country": "米国",
-          "category": "企業ニュース, テクノロジー",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Appleのティム・クックCEOが退任し、ハードウェアエンジニアリング責任者のジョン・ターナス氏が後任となる。",
-          "affected_sectors": [
-            "テクノロジー",
-            "株式市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国3月小売売上高が予想を上回り、消費者支出の回復力を示す",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の3月小売売上高は予想を上回る結果となり、消費者の堅調な支出が示された。",
-          "affected_sectors": [
-            "小売",
-            "景気全般"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "ガザ復興には今後10年間で710億ドルの資金が必要との報告",
-          "country": "中東",
-          "category": "地政学, 人道支援, 経済",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "国連とEUの報告書によると、ガザ地区の復興には今後10年間で710億ドルの大規模な資金が必要とされる。",
-          "affected_sectors": [
-            "建設",
-            "国際協力",
-            "地域経済"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦期限が迫り、地政学的緊張が市場に影響。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 01:30",
     "data": {
       "breaking_news": [
@@ -9610,6 +9533,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行将采取行动以应对通胀压力"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q2",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from European banks' second quarter earnings reports have investors on edge but not overly concerned.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates to be raised again in September",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bank of England hints at more rate hikes as inflation hits 9%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns intensify, prompting higher yields and interest rates"
     }
   }
 ]
