@@ -1,69 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "インド籍タンカーがホルムズ海峡で銃撃、イラン軍が関与か",
-          "country": "中東/インド",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インド籍の石油タンカーがホルムズ海峡でイラン軍による銃撃を受けた模様。地政学的緊張が大幅に高まる見込み。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英失業率予想外の低下、平均賃金は予想を上回る上昇",
-          "country": "英国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "英国の2月期平均賃金が予想以上に増加し、失業率も低下。インフレ圧力維持の可能性も。",
-          "affected_sectors": [
-            "労働市場",
-            "小売",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン情勢への懸念残るも、ロンドン株式市場は小幅上昇",
-          "country": "英国",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米イラン間の緊張が続く中、ロンドン株式市場は小幅な上昇を見せたが、地政学的リスクは意識されている。",
-          "affected_sectors": [
-            "株式市場",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "カナダ3月インフレ率2.4%に上昇、ガソリン価格高騰が主因",
-          "country": "カナダ",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "カナダの3月消費者物価指数はガソリン価格高騰により前年比2.4%上昇。インフレ抑制への課題が浮上。",
-          "affected_sectors": [
-            "エネルギー",
-            "消費財",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡でのインド籍タンカー銃撃は地政学的リスクを高める。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 21:30",
     "data": {
       "breaking_news": [
@@ -9814,6 +9750,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲央行下周加息，欧元区受益"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Yields",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank announced it will keep its current interest rates unchanged for now.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK property market hits new lows amid Brexit uncertainty",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Despite Brexit uncertainties, the UK property market has reached a new low point.",
+          "affected_sectors": [
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit risks intensify, caution advised."
     }
   }
 ]
