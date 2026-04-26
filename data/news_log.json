@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの協議とホルムズ海峡封鎖の脅威が市場を緊張させる",
-          "country": "US/Iran",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランは米国との協議に代表団を派遣。トランプ氏は停戦延長せず、ホルムズ海峡封鎖維持を示唆し、原油価格に影響を与えている。",
-          "affected_sectors": [
-            "Energy",
-            "Shipping",
-            "Global Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の失業率が予想外に低下、賃金上昇は過去5年で最低水準",
-          "country": "UK",
-          "category": "Economics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "英国の失業率が4.9%に低下したが、賃金上昇率は2020年11月以来の低水準を記録。金融政策への影響が注目される。",
-          "affected_sectors": [
-            "All sectors",
-            "Financials",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州市場が慎重な滑り出し、FTSE100は下落",
-          "country": "Europe",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "今朝の欧州市場は慎重な始まりとなり、英国のFTSE100指数が軟調に推移している。投資家は地政学的リスクを警戒。",
-          "affected_sectors": [
-            "All sectors",
-            "Equities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米連邦準備制度理事会議長候補ウォルシュ氏、本日上院で公聴会",
-          "country": "US",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米連邦準備制度理事会議長候補ケビン・ウォルシュ氏が本日14:00 GMTに上院銀行委員会で証言予定。金融市場が注目。",
-          "affected_sectors": [
-            "Financials",
-            "All sectors"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国・イラン間の緊張激化でホルムズ海峡の脅威上昇。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 18:30",
     "data": {
       "breaking_news": [
@@ -9894,6 +9831,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市继续上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 09:57",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PMI falls below expectations",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK Manufacturing Purchasing Managers' Index (PMI) drops below forecast, signaling economic slowdown.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices rise on OPEC+ supply cuts",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ countries reduce oil production to stabilize global prices.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕通胀风险"
     }
   }
 ]
