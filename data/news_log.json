@@ -1,80 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ホルムズ海峡情勢の不確実性が原油価格と世界市場に影響",
-          "country": "グローバル",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "イラン情勢を巡りホルムズ海峡の開閉状況に混乱、原油価格と世界市場に不確実性をもたらす。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Apple CEOティム・クックが退任、ジョン・ターナスが後任に",
-          "country": "米国",
-          "category": "企業ニュース, テクノロジー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Appleのティム・クックがCEOを退任し、ジョン・ターナスが後任に就任。株式は3%下落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "家電"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "ホルムズ海峡開放宣言で南アフリカランドが対ドルで急騰",
-          "country": "南アフリカ",
-          "category": "通貨, 地政学",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "イラン外相によるホルムズ海峡の「完全開放」宣言を受け、南アフリカランドが対ドルで一時急騰。",
-          "affected_sectors": [
-            "外国為替",
-            "新興市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド・ルピーが対米ドルで急落、グローバル要因が影響",
-          "country": "インド",
-          "category": "通貨",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "グローバル要因を受け、インド・ルピーが対米ドルで32パイサ急落し、93.48で取引を終える。",
-          "affected_sectors": [
-            "外国為替",
-            "インド市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の失業率が予想外に低下、賃金伸び率は5年ぶりの低水準",
-          "country": "英国",
-          "category": "経済指標, 労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国の失業率が4.9%に低下したが、賃金伸び率は過去5年で最低水準に。イングランド銀行は金利据え置き予想。",
-          "affected_sectors": [
-            "英国経済",
-            "銀行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡情勢の変動が原油価格と世界市場に影響、不確実性が高まる。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 04:30",
     "data": {
       "breaking_news": [
@@ -9366,6 +9291,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策可能提振市场"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调金融机构存款准备金率0.25个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降准，市场反应积极。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致股市波动加大。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降准提振市场信心"
     }
   }
 ]
