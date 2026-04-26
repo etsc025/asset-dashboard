@@ -1,84 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦期限迫る、交渉の不確実性が市場に影響",
-          "country": "米国, イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦期限が本日迫り、交渉の不確実性が世界の市場心理に影響を与え、原油価格と株価が変動。",
-          "affected_sectors": [
-            "エネルギー",
-            "グローバル株式",
-            "海運"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米・イラン情勢で原油価格が変動、ホルムズ海峡開通も影響",
-          "country": "グローバル",
-          "category": "コモディティ, 地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの停戦交渉の不確実性により原油価格が変動。ホルムズ海峡の再開通は価格を引き下げている。",
-          "affected_sectors": [
-            "エネルギー",
-            "輸送",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "世界の株式市場、米イラン情勢と企業決算に反応し変動",
-          "country": "米国, 欧州, アジア",
-          "category": "株式, 経済データ",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米国株は最高値を更新する一方、欧州・アジア市場は米イラン情勢や経済指標を注視し、慎重な動きを見せる。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "産業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "インド株式市場、SensexとNifty上昇、不動産・金融が牽引",
-          "country": "インド",
-          "category": "株式, 企業決算",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "インド株式市場は上昇し、SensexとNiftyが24500を突破。不動産および金融セクターが特に好調。",
-          "affected_sectors": [
-            "金融",
-            "不動産",
-            "IT",
-            "産業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "英Crest Nicholson、利益見通し下方修正で株価急落",
-          "country": "英国",
-          "category": "企業決算, 不動産",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の住宅建設大手Crest Nicholsonが利益見通しを下方修正し、株価が急落。",
-          "affected_sectors": [
-            "不動産",
-            "建設"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦期限が迫り、交渉の行方が市場の焦点に。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 23:30",
     "data": {
       "breaking_news": [
@@ -9676,6 +9597,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could lead to financial instability"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has decided to raise interest rates, potentially impacting the economy.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for security breaches",
+          "country": "EU",
+          "category": "Regulatory Developments",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union regulatory bodies are investigating a major cryptocurrency exchange for recent security incidents.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK government announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan aimed at boosting economic growth.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike signals potential for further market volatility."
     }
   }
 ]
