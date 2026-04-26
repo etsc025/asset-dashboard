@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Royal Mailが今後5年間で5億ポンドを投資する計画を発表",
-          "country": "英国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ロイヤルメールは今後5年間で5億ポンドを投資すると発表。これは同社の物流サービスの近代化と成長戦略を強化し、市場における競争力を高める動きと見られる。",
-          "affected_sectors": [
-            "物流",
-            "Eコマース",
-            "小売"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "British Landが業績予想を引き上げ",
-          "country": "英国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "不動産グループのブリティッシュ・ランドが業績予想を引き上げ、堅調な財務実績と将来への肯定的な見通しを示した。",
-          "affected_sectors": [
-            "不動産",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国労働市場データ：賃金伸び率は鈍化するも失業率は低下",
-          "country": "英国",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "英国の賃金伸び率が2020年11月以来の低水準を記録したが、失業率は予想外に低下。経済には混合的なシグナル。",
-          "affected_sectors": [
-            "全セクター",
-            "小売",
-            "銀行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "英国労働市場データが発表され、賃金伸び率は鈍化するも失業率は低下。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 19:00",
     "data": {
       "breaking_news": [
@@ -9878,6 +9828,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需警惕通胀风险"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 12:43",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced new fiscal measures aimed at reducing inflation and stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio to boost lending",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut its reserve requirement ratio, providing more liquidity and potentially boosting lending.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の政策動向に注意が必要です。"
     }
   }
 ]
