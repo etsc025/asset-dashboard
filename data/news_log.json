@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イラン、商船攻撃と港湾封鎖に対し警告",
-          "country": "イラン",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イラン外相は、商業船舶への攻撃や港湾封鎖は停戦違反および戦争行為に該当すると警告、地域の緊張が高まっている。",
-          "affected_sectors": [
-            "海運",
-            "エネルギー",
-            "保険",
-            "国際貿易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン協議の不確実性で米国株失速、原油高騰",
-          "country": "米国",
-          "category": "市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランを巡る協議の不確実性が高まり、米国株式市場は勢いを失い、原油価格が上昇、ドルも159円台前半で推移している。",
-          "affected_sectors": [
-            "金融",
-            "エネルギー",
-            "外国為替"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧州市場、原油高・株安・金利上昇・ドル高を消化",
-          "country": "欧州",
-          "category": "市場",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "欧州市場は原油価格の上昇、株式の続落、金利の急騰、そしてドル高という複合的な要因を背景に推移している。",
-          "affected_sectors": [
-            "全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "次期FRB議長候補ウォーシュ氏、バランスシートに言及",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "次期FRB議長候補のウォーシュ氏が「バランスシートはFRBの任務を支援していない」と発言し、金融政策への影響が注目される。",
-          "affected_sectors": [
-            "金融",
-            "金利敏感セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英航空会社、燃料不足を背景に減税を要求",
-          "country": "英国",
-          "category": "航空",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "燃料不足に直面している英国の航空会社が、政府に対し騒音規制の緩和と航空税の引き下げを求めている。",
-          "affected_sectors": [
-            "航空",
-            "観光"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イラン情勢の緊迫化が世界市場に影響、原油高・株安"
-    }
-  },
-  {
     "timestamp": "2026-04-22 06:30",
     "data": {
       "breaking_news": [
@@ -9268,6 +9192,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK stimulus package could boost economy but risks inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售，纳斯达克指数下跌2.5%",
+          "country": "美国",
+          "category": "股票市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受业绩不佳和监管压力影响，美国科技股普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在政策会议上决定维持当前的利率水平不变。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
