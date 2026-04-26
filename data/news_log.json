@@ -1,56 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国とイランの協議不透明感で原油価格下落、アジア株は上昇",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイランの協議の先行き不透明感が高まり、原油価格は下落、一方アジア株は概ね上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "金融サービス"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国の賃金伸び率が2020年11月以来の低水準に、失業率は予想外に低下",
-          "country": "英国",
-          "category": "経済",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国の賃金伸び率は2020年11月以来の低水準を記録したが、失業率は予想外に低下し、経済指標はまちまち。",
-          "affected_sectors": [
-            "小売",
-            "消費裁量",
-            "人材派遣"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "インド船籍の石油タンカー、ホルムズ海峡で銃撃される",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "インド船籍の石油タンカーがホルムズ海峡でイラン軍から銃撃されたと報じられ、地政学的リスクが高まった。",
-          "affected_sectors": [
-            "エネルギー",
-            "海運",
-            "保険"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "ホルムズ海峡事件で地政学的リスク増大、原油市場が脆弱に。"
-    }
-  },
-  {
     "timestamp": "2026-04-21 19:30",
     "data": {
       "breaking_news": [
@@ -9874,6 +9823,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 15:03",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, economists predict",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国经济学家预测今年将再次加息，对市场情绪构成压力。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data privacy laws",
+          "country": "EU",
+          "category": "科技",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟计划实施更严格的个人数据隐私法律，影响金融和科技行业。",
+          "affected_sectors": [
+            "金融科技",
+            "金融服务"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "中国央行降低存款准备金率，对市场情绪产生正面影响。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
