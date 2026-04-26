@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦期待で原油価格下落、欧州・米国株上昇",
-          "country": "グローバル",
-          "category": "地政学, エネルギー, マクロ経済",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米イラン間の停戦期限が迫り、原油価格は下落。期待感が市場に広がり、欧州と米国株は上昇。アジア市場はまちまち。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "輸送",
-            "全株式市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英経済、雇用市場の脆弱性からリセッション懸念が浮上",
-          "country": "英国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の雇用市場が脆弱であることから、中期的なリセッションの可能性が指摘されている。イラン紛争の影響も懸念。",
-          "affected_sectors": [
-            "銀行",
-            "全英国セクター",
-            "雇用"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Primark、食品事業からの分離計画を発表",
-          "country": "英国",
-          "category": "企業ニュース",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Primarkは、イラン紛争による影響の警告がある中でも、食品事業からの分離を発表した。戦略的再編の一環。",
-          "affected_sectors": [
-            "小売"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "トランプ氏、米国化石燃料生産促進のためのメモに署名",
-          "country": "米国",
-          "category": "エネルギー, 政治",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "トランプ氏は、「防衛準備」のために米国での化石燃料生産を促進するメモに署名した。",
-          "affected_sectors": [
-            "エネルギー",
-            "環境"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "米イラン停戦期待で原油下落・株上昇。英国経済は後退懸念。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 00:30",
     "data": {
       "breaking_news": [
@@ -9639,6 +9576,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's cautious stance on interest rates could signal a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Japan and South Korea gain, China's Shanghai Composite falls amid trade tensions.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB hints at rate hikes could signal economic recovery"
     }
   }
 ]
