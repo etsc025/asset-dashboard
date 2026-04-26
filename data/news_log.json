@@ -1,90 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米国、イランのミサイル・UAV調達網に経済制裁を発動",
-          "country": "Global",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国財務省はイランのミサイル・UAV調達網に対し経済制裁「Economic Fury」を発動。米イラン間の緊張が高まる。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空宇宙"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "IMF、中東紛争を理由に2026年世界成長率予測を下方修正",
-          "country": "Global",
-          "category": "マクロ経済",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "IMFは中東紛争の激化を受け、2026年の世界経済成長率予測を3.1%に下方修正。不安定な見通し。",
-          "affected_sectors": [
-            "全セクター"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB議長候補Kevin Warsh氏、金融政策の独立性とタカ派的インフレ観を表明",
-          "country": "USA",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "FRB議長候補ケビン・ウォーシュ氏、上院公聴会で金融政策の独立性とインフレに対するタカ派的姿勢を示す。",
-          "affected_sectors": [
-            "全セクター",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "3M、2026年第1四半期決算を発表、調整後売上高は増加もGAAP EPSは減少",
-          "country": "USA",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "3MはQ1決算で調整後売上高が1.2%増、調整後EPSは14%増。ただしGAAP EPSは40%減少。",
-          "affected_sectors": [
-            "産業財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Danaher、好調な2026年第1四半期決算と通期EPSガイダンスを引き上げ",
-          "country": "USA",
-          "category": "企業決算",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "DanaherはQ1決算で堅調な業績を報告し、通期調整後EPSガイダンスを$8.35-$8.55に引き上げ。",
-          "affected_sectors": [
-            "ヘルスケア",
-            "産業財"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Apple CEOティム・クック氏、退任を発表",
-          "country": "USA",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "長期にわたりAppleを率いてきたティム・クックCEOが退任を表明。後任にジョン・ターニス氏。",
-          "affected_sectors": [
-            "テクノロジー"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン間の緊張継続、FRB議長候補のタカ派姿勢、IMFの世界成長率下方修正が市場に重し"
-    }
-  },
-  {
     "timestamp": "2026-04-22 05:00",
     "data": {
       "breaking_news": [
@@ -9324,6 +9239,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降准提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Announces Interest Rate Hike",
+          "country": "USA",
+          "category": "宏观经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备宣布加息，市场反应强烈。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Central Bank Adjusts Lending Rates",
+          "country": "中国",
+          "category": "宏观经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行调整贷款利率，对经济影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Union Urges Member States to Increase Spending",
+          "country": "EU",
+          "category": "宏观经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟敦促成员国增加支出以刺激经济增长。",
+          "affected_sectors": [
+            "金融，工业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
