@@ -1,83 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "ドイツ4月ZEW景気期待指数、予想を大幅に下回る",
-          "country": "ドイツ",
-          "category": "経済指標",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ドイツの4月ZEW景気期待指数が-17.2と、予想の-7.0を大きく下回り、欧州経済の先行きに懸念を示した。",
-          "affected_sectors": [
-            "金融",
-            "輸出",
-            "欧州株"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "日経平均続伸、米イラン停戦期待と半導体株主導",
-          "country": "日本",
-          "category": "市場動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "東京株式市場は、米イラン停戦交渉進展への期待感から日経平均が続伸。特に半導体関連株が買われた。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体",
-            "輸出"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英賃金上昇率鈍化、失業率も予想外に低下",
-          "country": "英国",
-          "category": "労働市場",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国の賃金上昇率が2020年11月以来の低水準を記録し、失業率も予想に反して低下した。",
-          "affected_sectors": [
-            "サービス",
-            "小売",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米イラン情勢不透明感、原油価格と米国市場に影響",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米イラン情勢を巡る不透明感が市場に重くのしかかり、前日の米国株式市場で主要指数は反落した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "全般市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "AIチップ関連株、Marvell上昇・Broadcom下落",
-          "country": "米国",
-          "category": "企業ニュース",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "AIチップ開発を巡るニュースで、Marvell Technologyは上昇、一方BroadcomはGoogleとの関連報道で下落した。",
-          "affected_sectors": [
-            "テクノロジー",
-            "半導体"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン情勢と独経済指標悪化が市場に不透明感"
-    }
-  },
-  {
     "timestamp": "2026-04-21 20:00",
     "data": {
       "breaking_news": [
@@ -9870,6 +9792,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-26 16:12",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank maintains its current interest rate levels for the fourth quarter.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Gold prices surge as US dollar weakens",
+          "country": "USA",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Gold prices hit a record high amid weakening US dollar and rising inflation concerns.",
+          "affected_sectors": [
+            "Mining & Metals"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields rise, caution needed for financial markets."
     }
   }
 ]
