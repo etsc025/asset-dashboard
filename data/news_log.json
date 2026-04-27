@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "HCL Techの弱いQ4決算、ITセクターに打撃を与え、Infosysなどが最大6%下落",
-          "country": "インド",
-          "category": "企業決算, セクターニュース",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "HCL Technologiesの弱い第4四半期決算が、インドIT株の920億ルピー規模の売りを誘発し、同業他社も下落しました。",
-          "affected_sectors": [
-            "情報技術"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国とイランの停戦延長後も原油高が続き、インド国債が下落",
-          "country": "インド",
-          "category": "地政学, 債券市場",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "原油価格の高止まりと中東の緊張が続き、米国の停戦延長にもかかわらずインド国債は下落しました。",
-          "affected_sectors": [
-            "債券市場",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FATF、グレーリスト基準と仮想資産に関するガイダンスを更新",
-          "country": "グローバル",
-          "category": "金融規制, 暗号資産",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "FATFは、リスクに焦点を当てるためにグレーリスト基準を更新し、仮想資産に関するターゲットガイダンスを発表しました。",
-          "affected_sectors": [
-            "金融サービス",
-            "暗号資産",
-            "銀行",
-            "アンチマネーロンダリング"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "地政学的緊張、原油価格: 市場リスク上昇中。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 17:00",
     "data": {
       "breaking_news": [
@@ -8751,6 +8702,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package to support businesses and households"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has announced a significant interest rate hike, indicating potential economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy reports strong Q4 GDP growth",
+          "country": "UK",
+          "category": "Economic Data",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK reported robust Q4 GDP growth, supporting the UK's economic recovery efforts.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The EU has imposed new sanctions on Russia, potentially impacting global energy markets and relations.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "New trade sanctions announced by the EU"
     }
   }
 ]
