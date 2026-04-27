@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受经济数据不佳影响，美股开盘即遭遇抛售。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策引发市场乐观情绪"
-    }
-  },
-  {
     "timestamp": "2026-04-22 23:30",
     "data": {
       "breaking_news": [
@@ -8697,6 +8662,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.95% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European Central Bank suggests interest rates may rise soon, pressuring stock markets.",
+          "affected_sectors": [
+            "Financial Services",
+            "Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI hits record low amid pandemic recovery",
+          "country": "中国",
+          "category": "Economy Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese Purchasing Managers' Index (PMI) falls to 49.0, below the neutral level.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike"
     }
   }
 ]
