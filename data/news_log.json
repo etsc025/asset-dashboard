@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布将降低贷款利率以刺激经济增长，市场对此反应积极。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济衰退的担忧，美国主要股指在开盘前出现大幅下跌。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否需要采取更多措施来控制高企的通货膨胀率。",
-          "affected_sectors": [
-            "银行业",
-            "能源行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-04-23 00:30",
     "data": {
       "breaking_news": [
@@ -8695,6 +8647,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市小幅波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 3.45%, driven by rising inflation expectations.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a £10 billion fiscal stimulus plan to support businesses and households.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU warns of recession risk as pandemic continues",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "European Union officials have warned of a potential recession due to ongoing pandemic restrictions.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
     }
   }
 ]
