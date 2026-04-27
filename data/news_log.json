@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Alibaba Group to Acquire Ant Group for $37 Billion",
-          "country": "China",
-          "category": "Corporate Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese tech giant Alibaba is set to acquire Ant Group in a massive deal valued at $37 billion.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Federal Reserve Signals Possible Interest Rate Hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The US central bank hints at a potential interest rate hike, signaling economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Implement New Data Privacy Regulations",
-          "country": "Europe",
-          "category": "Regulatory Changes",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union is set to enforce new data privacy laws affecting all member states.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed hints at rate hike, EU implements new data regulations"
-    }
-  },
-  {
     "timestamp": "2026-04-23 07:30",
     "data": {
       "breaking_news": [
@@ -8676,6 +8628,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股指普遍上涨"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank may review interest rates in response to economic data.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Japan's Nikkei falls on trade tensions",
+          "country": "日本",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Japanese stock market declines due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile."
     }
   }
 ]
