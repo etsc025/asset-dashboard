@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，刺激经济增长",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，旨在促进经济增长，市场反应积极。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因科技股反弹而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于科技股强劲表现，美股整体上扬，投资者情绪乐观。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平不变，未对市场造成显著影响。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持活跃"
-    }
-  },
-  {
     "timestamp": "2026-04-22 22:30",
     "data": {
       "breaking_news": [
@@ -8698,6 +8652,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors cautious as yields hit record low"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates next week",
+          "country": "EU",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB meeting minutes suggest rate hike imminent, boosting euro.",
+          "affected_sectors": [
+            "Trade"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global oil prices stabilize after sharp drop",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "WTI crude oil price remains around $85/barrel as supply issues ease.",
+          "affected_sectors": [
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB hints at more rate hikes ahead"
     }
   }
 ]
