@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因财报季即将来临，投资者对盈利预期下调导致美股下跌。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持当前利率，欧洲央行表示正在考虑进一步的宽松政策。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-23 08:30",
     "data": {
       "breaking_news": [
@@ -8663,6 +8615,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive interest rates higher across Europe and America."
+    }
+  },
+  {
+    "timestamp": "2026-04-28 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息措施",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘后出现大幅下跌。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息措施提振信心"
     }
   }
 ]
