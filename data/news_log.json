@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, raising fears of higher interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces fiscal stimulus package amid economic downturn",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government unveils a £10 billion fiscal stimulus plan to boost the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU warns of potential recession if inflation not controlled",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU Commission urges governments to take action to control inflation, preventing a recession.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府采取行动控制通胀，避免经济衰退"
-    }
-  },
-  {
     "timestamp": "2026-04-22 23:00",
     "data": {
       "breaking_news": [
@@ -8697,6 +8649,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB hints at more rate hikes ahead"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rose above 3.2%, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cut interest rates, aiming to stimulate the UK economy amid Brexit uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduced the reserve requirement ratio, aiming to ease liquidity and support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
