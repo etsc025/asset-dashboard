@@ -1,29 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦協議の不確実性が世界の市場に影響",
-          "country": "Global",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "米国とイランの停戦協議を巡る不確実性から、アジア株はまちまちで推移し、原油価格が上昇している。",
-          "affected_sectors": [
-            "Energy",
-            "Stock Markets",
-            "Shipping",
-            "Aviation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米イラン停戦協議の不確実性が市場の動揺を招く"
-    }
-  },
-  {
     "timestamp": "2026-04-22 17:30",
     "data": {
       "breaking_news": [
@@ -8749,6 +8725,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "New trade sanctions announced by the EU"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates to curb inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank raises key rate by 0.75% in response to rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy grows faster than expected",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "GDP growth exceeds forecast, but unemployment rate rises.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns push US 10-year yield above 3.5%"
     }
   }
 ]
