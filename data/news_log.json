@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布LPR下调，可能刺激信贷增长和企业融资成本下降。",
-          "affected_sectors": [
-            "银行",
-            "企业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因科技股反弹而走高",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果、微软等科技巨头股价上涨影响，美股主要指数收涨。",
-          "affected_sectors": [
-            "科技公司",
-            "投资者"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管未调整关键利率，欧洲央行仍表示未来可能会进一步放松政策。",
-          "affected_sectors": [
-            "银行",
-            "企业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-04-22 19:00",
     "data": {
       "breaking_news": [
@@ -8737,6 +8689,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed economic signals."
+    }
+  },
+  {
+    "timestamp": "2026-04-27 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in decades.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a series of measures aimed at reducing inflation, including tax hikes and spending cuts.",
+          "affected_sectors": [
+            "Retail",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia for energy sector",
+          "country": "EU",
+          "category": "Geopolitical",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional sanctions on Russian entities involved in the energy sector, escalating tensions.",
+          "affected_sectors": [
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike to 4.25%"
     }
   }
 ]
