@@ -1,254 +1,5 @@
 [
   {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "EXE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=31.10（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 31.1,
-      "pc_ratio_oi": 1.72,
-      "total_put_vol": 11011,
-      "total_call_vol": 354
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-03-31",
-          "filer": [
-            "Levine Jeremy S.  (CIK 0001534341)",
-            "StubHub Holdings, Inc.  (CIK 0001337634)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "CF",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=5.89（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 5.89,
-      "pc_ratio_oi": 0.91,
-      "total_put_vol": 14065,
-      "total_call_vol": 2386
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "EXPE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "Menendez-Cambo Patricia  (CIK 0001855187)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "Clinton Chelsea  (CIK 0001530920)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "Dubugras Henrique Vasoncelos  (CIK 0001866429)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "Von Furstenberg Alexander  (CIK 0001451171)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "KHOSROWSHAHI DARA  (CIK 0001184237)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "EXPE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.15（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.15,
-      "pc_ratio_oi": 1.45,
-      "total_put_vol": 1342,
-      "total_call_vol": 624
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:01",
-    "ticker": "DELL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "O'Hara David Mark  (CIK 0002125738)",
-            "CADIZ INC  (CIK 0000727273)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-07 22:02",
-    "ticker": "STX",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "MOSLEY WILLIAM D  (CIK 0001388390)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-08 08:30",
-    "ticker": "--market",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "UNIVERSITY OF TEXAS/TEXAS AM INVESTMENT MANAGEMENT CO  (CIK 0001019231)",
-            "Silver Point Specialty Lending Fund  (CIK 0001646614)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Schmid John P.  (CIK 0001478916)",
-            "ANAPTYSBIO, INC  (CIK 0001370053)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "SCHULTZ EDWARD CHRISTOPHER  (CIK 0002065236)",
-            "Capstone Holding Corp.  (CIK 0000887151)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Guy Wendy  (CIK 0001799360)",
-            "Processa Pharmaceuticals, Inc.  (CIK 0001533743)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "BREZSKI RICHARD  (CIK 0001231579)",
-            "InterDigital, Inc.  (CIK 0001405495)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-08 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "LABARRE DENNIS W  (CIK 0001247923)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "Miller Michael Sidney  (CIK 0001681715)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "RANKIN MATTHEW M  (CIK 0001247948)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "DALRYMPLE JOHN S III  (CIK 0001195627)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-01",
-          "filer": [
-            "McDonald William Paul  (CIK 0002012711)",
-            "NACCO INDUSTRIES INC  (CIK 0000789933)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-08 22:00",
     "ticker": "EXE",
     "type": "インサイダー取引報告",
@@ -5291,6 +5042,211 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-04-27 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "HAGALE JAMES TYSON  (CIK 0001876463)",
+            "LEGGETT & PLATT INC  (CIK 0000058492)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "FISHER ROBERT D  (CIK 0001234850)",
+            "CITY HOLDING CO  (CIK 0000726854)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Pizzie Nick  (CIK 0001742143)",
+            "Axsome Therapeutics, Inc.  (CIK 0001579428)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "FEDERICO RICHARD L  (CIK 0001217195)",
+            "DOMINOS PIZZA INC  (CIK 0001286681)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "HUTCHESON STEWART D  (CIK 0001223761)",
+            "InterDigital, Inc.  (CIK 0001405495)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-27 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-20",
+          "filer": [
+            "FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)",
+            "Clarion Partners Real Estate Income Fund Inc.  (CIK 0001762562)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-22",
+          "filer": [
+            "Lucas Shannon  (CIK 0002032356)",
+            "Slide Insurance Holdings, Inc.  (CIK 0001886428)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "GOTTSCHALK MARLA C  (CIK 0001241912)",
+            "Reynolds Consumer Products Inc.  (CIK 0001786431)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-22",
+          "filer": [
+            "Marquet Magda  (CIK 0001631486)",
+            "First Tracks Biotherapeutics, Inc.  (CIK 0002091349)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-27 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=10.47（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 10.47,
+      "pc_ratio_oi": 1.4,
+      "total_put_vol": 1434,
+      "total_call_vol": 137
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:00",
+    "ticker": "DELL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.37（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.37,
+      "pc_ratio_oi": 0.81,
+      "total_put_vol": 3493,
+      "total_call_vol": 9349
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:01",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "O'Dell Timothy T  (CIK 0001556891)",
+            "CF BANKSHARES INC.  (CIK 0001070680)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.49（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.49,
+      "pc_ratio_oi": 0.52,
+      "total_put_vol": 1645,
+      "total_call_vol": 3391
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:01",
+    "ticker": "STX",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Lee James CI  (CIK 0001773423)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:01",
+    "ticker": "STX",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.53（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.53,
+      "pc_ratio_oi": 0.91,
+      "total_put_vol": 3120,
+      "total_call_vol": 2037
+    }
+  },
+  {
+    "timestamp": "2026-04-27 22:01",
+    "ticker": "EXE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.15（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.15,
+      "pc_ratio_oi": 5.72,
+      "total_put_vol": 370,
+      "total_call_vol": 2416
     }
   }
 ]
