@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, indicating a strong demand for safe-haven assets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank maintains its current interest rate levels, aligning with market expectations.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks under pressure amid regulatory concerns",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Regulatory scrutiny of major tech firms threatens investor confidence and stock prices.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks maintain cautious stance, global tech stocks under pressure"
-    }
-  },
-  {
     "timestamp": "2026-04-23 03:00",
     "data": {
       "breaking_news": [
@@ -8693,6 +8647,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动将影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic data release",
+          "country": "USA",
+          "category": "经济数据发布",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上涨，受最新经济数据影响。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European banks see positive outlook despite Brexit uncertainty",
+          "country": "欧洲",
+          "category": "Brexit不确定性",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "尽管存在英国退欧的不确定性，欧洲银行仍保持乐观前景。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian markets rally as China's PMI exceeds expectations",
+          "country": "亚洲",
+          "category": "中国PMI超过预期",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "由于中国采购经理人指数超出预期，亚洲股市普遍上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "英国退欧不确定性影响金融市场"
     }
   }
 ]
