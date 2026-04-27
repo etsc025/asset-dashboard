@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市波动。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国十年期国债收益率突破3%",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国十年期国债收益率首次突破3%，对全球债券市场产生影响，但未引发明显波动。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行会议后宣布维持现有利率不变，市场反应平淡。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市面临短期波动风险"
-    }
-  },
-  {
     "timestamp": "2026-04-23 02:30",
     "data": {
       "breaking_news": [
@@ -8693,6 +8648,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响显著"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Surge as Fed Signals Rate Hike Ahead",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率飙升，美联储暗示即将加息。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to Maintain Interest Rates for Now",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定暂时维持利率不变，这可能对市场产生中性影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Economy Growth Forecast Revised Downward",
+          "country": "UK",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国经济增长预期下调，但市场仍有望受益于全球增长前景。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动将影响金融市场"
     }
   }
 ]
