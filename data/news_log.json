@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和房地产市场信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因业绩不佳和监管压力，美国主要科技公司股价普遍下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振股市"
-    }
-  },
-  {
     "timestamp": "2026-04-23 09:30",
     "data": {
       "breaking_news": [
@@ -8650,6 +8616,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on Fed rate hike expectations"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced additional economic stimulus packages to boost growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Tech",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Technology stocks in Asia have led the market higher, driving overall Asian indices up.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic stimulus measures ahead"
     }
   }
 ]
