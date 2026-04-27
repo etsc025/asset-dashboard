@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米イラン停戦交渉の不確実性で株価下落、原油価格上昇",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米国とイラン間の停戦交渉の不確実性から、株式市場は下落し、原油価格は上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "航空",
-            "製造業",
-            "グローバル市場"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "トランプ大統領がイランとの停戦を延長、米株先物上昇",
-          "country": "米国",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "トランプ大統領がイランとの停戦を延長したことで、米国の先物市場は上昇し、市場の緊張が緩和された。",
-          "affected_sectors": [
-            "エネルギー",
-            "グローバル市場",
-            "防衛"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国主要株価指数US500、本日0.50%上昇し7100ポイントに到達",
-          "country": "米国",
-          "category": "マクロ経済",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国主要株価指数US500は本日0.50%上昇し7100ポイントに達した。",
-          "affected_sectors": [
-            "全米株式セクター"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米イラン交渉再開期待で原油価格下落、アジア株上昇",
-          "country": "グローバル",
-          "category": "コモディティ",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国とイランの和平交渉再開への期待感から、原油価格は下落し、アジア市場の株式は上昇した。",
-          "affected_sectors": [
-            "エネルギー",
-            "アジア株式",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB議長候補ケビン・ウォルシュ氏、独立性を主張",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "次期FRB議長候補のケビン・ウォルシュ氏が、独立性を主張。上院議員は厳しい質問を行った。",
-          "affected_sectors": [
-            "金融",
-            "金利感応型セクター全般"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米イラン停戦延長で市場緊張緩和、米株先物上昇、原油価格に注目。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 13:30",
     "data": {
       "breaking_news": [
@@ -8981,6 +8904,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US jobs data beats expectations, stocks rally globally."
+    }
+  },
+  {
+    "timestamp": "2026-04-27 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳和监管压力，纳斯达克指数连续下跌，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策利好股市"
     }
   }
 ]
