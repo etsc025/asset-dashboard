@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "米・イラン停戦協議の不確実性が原油価格と株式市場に影響",
-          "country": "グローバル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米・イラン停戦協議の期限切れが迫り、不確実性が原油価格の変動と世界の株式市場の動揺を引き起こしている。",
-          "affected_sectors": [
-            "エネルギー",
-            "金融",
-            "航空",
-            "輸送"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米FRB議長候補ウォーシュ氏、独立性を強調し承認公聴会に臨む",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "米連邦準備制度理事会（FRB）議長候補ケビン・ウォーシュ氏が、ホワイトハウスからの独立性を強調し、承認公聴会に臨んでいる。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英失業率が予想外の低下、しかしイラン紛争が経済回復を脅かす",
-          "country": "英国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "英国の失業率が4.9%に低下したが、イラン紛争による経済的影響が脆弱な労働市場の回復を脅かしている。",
-          "affected_sectors": [
-            "一般経済",
-            "小売",
-            "エネルギー"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米3月小売売上高が大幅増、ガソリン価格高騰が主な要因",
-          "country": "米国",
-          "category": "経済指標",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国の3月小売売上高は1.7%増と大幅な伸びを示したが、主な要因はイラン紛争によるガソリン価格の高騰だった。",
-          "affected_sectors": [
-            "小売",
-            "エネルギー"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "JPモルガン、AI主導の好業績期待でS&P500年末目標を引き上げ",
-          "country": "米国",
-          "category": "市場分析",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "JPモルガンは、AIとテクノロジー主導の好業績予測に基づき、S&P500の年末目標を7,600に引き上げた。",
-          "affected_sectors": [
-            "テクノロジー",
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米・イラン停戦協議の不確実性が市場に警戒感をもたらす"
-    }
-  },
-  {
     "timestamp": "2026-04-22 15:00",
     "data": {
       "breaking_news": [
@@ -8875,6 +8799,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国金融政策变动加大市场波动风险"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股表现不佳，美股开盘后出现抛售，标普500指数下跌1.2%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率不变，未采取新的刺激措施。市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息预期提振市场信心"
     }
   }
 ]
