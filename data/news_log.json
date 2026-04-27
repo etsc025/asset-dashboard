@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank cuts interest rates, aiming to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory concerns",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price drops due to new regulations in China and US.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks worldwide consider interest rate hikes."
-    }
-  },
-  {
     "timestamp": "2026-04-22 22:00",
     "data": {
       "breaking_news": [
@@ -8712,6 +8664,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a record low of 0.53% as investors remain cautious about the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government announced a new £20 billion fiscal stimulus to boost economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors cautious as yields hit record low"
     }
   }
 ]
