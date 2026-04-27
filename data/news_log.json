@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In reaction to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures amid economic uncertainty",
-          "country": "UK",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has announced additional fiscal measures to support the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU regulators investigate crypto exchange for security lapses",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European financial authorities are investigating a major cryptocurrency exchange for potential security breaches.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures amid economic uncertainty"
-    }
-  },
-  {
     "timestamp": "2026-04-23 00:00",
     "data": {
       "breaking_news": [
@@ -8708,6 +8660,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank hints at rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，股市小幅下跌",
+          "country": "美国",
+          "category": "利率与市场动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "由于美债收益率攀升，美股出现轻微回调。",
+          "affected_sectors": [
+            "金融业",
+            "科技业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市小幅波动"
     }
   }
 ]
