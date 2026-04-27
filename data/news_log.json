@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government unveils plans to increase taxes and cut public spending to curb rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns drive financial markets higher"
-    }
-  },
-  {
     "timestamp": "2026-04-22 20:30",
     "data": {
       "breaking_news": [
@@ -8711,6 +8677,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally as economic optimism prevails."
+    }
+  },
+  {
+    "timestamp": "2026-04-27 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将进一步加息，影响金融市场。",
+          "affected_sectors": [
+            "银行业",
+            "房地产市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低了存款准备金率，对市场情绪有一定影响但不显著。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国加息预期增强"
     }
   }
 ]
