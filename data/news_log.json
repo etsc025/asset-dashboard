@@ -1,98 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "イスラエル首相がイランとの交戦を明言",
-          "country": "イスラエル",
-          "category": "地政学",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イスラエル首相がイランとの交戦状態を明言。中東情勢の緊張がさらに高まる可能性があり、世界的な不安定要因に。",
-          "affected_sectors": [
-            "エネルギー",
-            "防衛",
-            "航空",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イランがホルムズ海峡の再封鎖を発表",
-          "country": "イラン",
-          "category": "地政学, エネルギー",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "イランがホルムズ海峡の再封鎖を発表。米イラン協議決裂で米中首脳会談延期の可能性も浮上、原油市場に緊張。",
-          "affected_sectors": [
-            "エネルギー",
-            "運輸",
-            "貿易",
-            "株式市場全般"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京市場で円が対ドル・対ユーロで下落、159円台前半に",
-          "country": "日本",
-          "category": "為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "東京市場で円が対ドル159円台前半に下落。米イラン協議不透明感や原油高が影響、輸入企業に影響。",
-          "affected_sectors": [
-            "自動車",
-            "電機",
-            "観光",
-            "輸入企業",
-            "輸出企業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "東京株式市場、日経平均株価が3日続伸し史上最高値更新",
-          "country": "日本",
-          "category": "株式市場",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "東京株式市場、日経平均株価が3日続伸し史上最高値更新。海外投資家の買いが日本株を押し上げ、好調維持。",
-          "affected_sectors": [
-            "株式市場全般"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アジア金融当局、AI悪用サイバー攻撃リスクに対応策急ぐ",
-          "country": "アジア太平洋",
-          "category": "サイバーセキュリティ, 金融技術",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "アジア金融当局がAIモデル「Mytos」悪用による銀行システムサイバー攻撃リスクへの対応を強化。",
-          "affected_sectors": [
-            "金融",
-            "テクノロジー",
-            "サイバーセキュリティ"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "FRB議長候補ウォーシュ氏、金融政策の独立性を強調",
-          "country": "米国",
-          "category": "金融政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "FRB次期議長候補ウォーシュ氏が公聴会で金融政策の独立性を強調。利下げ明言は避け、市場は動向を注視。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "イランがホルムズ海峡再封鎖、中東情勢緊迫化で原油高懸念"
-    }
-  },
-  {
     "timestamp": "2026-04-22 18:30",
     "data": {
       "breaking_news": [
@@ -8781,6 +8688,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks remain hawkish on inflation"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals potential interest rate increase in response to rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices rise due to supply concerns",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Concerns over global oil supply lead to price increases, affecting energy markets and economies.",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
     }
   }
 ]
