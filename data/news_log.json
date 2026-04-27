@@ -1,81 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "トランプ氏のイラン停戦延長で市場は慎重ながら楽観",
-          "country": "USA",
-          "category": "Geopolitics",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "米大統領がイラン停戦を延長、世界市場は慎重ながら楽観。原油高は続く可能性あり。",
-          "affected_sectors": [
-            "Equities",
-            "Energy",
-            "Currencies",
-            "Precious Metals"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "イラン停戦後も原油高が続きインド・ルピーが下落",
-          "country": "India",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "イラン停戦後も原油高が続き、インド・ルピーが対米ドルで下落する見込み。",
-          "affected_sectors": [
-            "Currencies",
-            "Oil & Gas"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "BHPがQ3業績を発表、銅生産減も鉄鉱石増",
-          "country": "Australia",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "BHPのQ3業績、銅生産は3%減も鉄鉱石は2%増。株価は銅価格上昇で支持される。",
-          "affected_sectors": [
-            "Mining",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "DroneShieldが2026年Q1で前年比121%の収益増",
-          "country": "Australia",
-          "category": "Corporate",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "オーストラリアのドローン防衛企業DroneShield、2026年Q1収益が前年比121%増。",
-          "affected_sectors": [
-            "Technology",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "英国で新プラットフォームがISAでの仮想通貨保有を許可",
-          "country": "United Kingdom",
-          "category": "Financial Services",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "英国で新プラットフォームがローンチされ、投資家はISAで仮想通貨を保有可能に。",
-          "affected_sectors": [
-            "Financial Services",
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "NEUTRAL",
-      "top_alert": "トランプ氏のイラン停戦延長で市場は慎重ながら楽観、原油高続く。"
-    }
-  },
-  {
     "timestamp": "2026-04-22 14:30",
     "data": {
       "breaking_news": [
@@ -8905,6 +8829,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-27 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced new fiscal measures aimed at supporting the economy and reducing unemployment.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio to boost lending",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to increase liquidity and support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国金融政策变动加大市场波动风险"
     }
   }
 ]
