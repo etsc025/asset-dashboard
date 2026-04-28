@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Treasury Bonds"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank has decided to cut interest rates, aiming to stimulate the economy.",
-          "affected_sectors": [
-            "Banking Sector"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU banks face liquidity crunch amid low yields",
-          "country": "EU",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European banks are facing a liquidity issue due to low bond yields, potentially leading to increased borrowing costs.",
-          "affected_sectors": [
-            "Banking Sector"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-04-23 15:00",
     "data": {
       "breaking_news": [
@@ -8687,6 +8642,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧，市场波动风险上升"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布LPR下调，对股市和房地产市场可能带来积极影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升至3%以上",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率的上升可能导致投资者转向风险较高的资产，对股市构成压力。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布将结束QE计划",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布结束量化宽松政策，市场反应较为平静。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升对股市构成压力"
     }
   }
 ]
