@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA is expected to announce rate hikes at their upcoming central bank meeting.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stocks Decline on Trade Concerns",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Stock markets in Europe are experiencing a decline due to ongoing trade tensions.",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Markets Mixed After Oil Prices Rise",
-          "country": "Asia",
-          "category": "Commodity Prices",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Asian stock indices have seen mixed performance following the increase in oil prices.",
-          "affected_sectors": [
-            "Energy",
-            "Mining"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks meeting: Rate hikes possible"
-    }
-  },
-  {
     "timestamp": "2026-04-23 22:30",
     "data": {
       "breaking_news": [
@@ -8679,6 +8631,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲央行可能暗示加息，需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US Treasury yields higher, impacting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to be cut: Bank of England",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK central bank announces a rate cut to support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU economic growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "New data suggests EU economies may face slower growth than previously expected.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rates to be cut: Bank of England"
     }
   }
 ]
