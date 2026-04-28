@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府采取措施刺激经济增长，市场反应积极。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季表现强劲而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家大型公司发布良好业绩报告，提振了投资者信心。",
-          "affected_sectors": [
-            "科技股",
-            "金融股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布将维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "市场预期中的决定，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行行动将影响全球经济"
-    }
-  },
-  {
     "timestamp": "2026-04-24 08:00",
     "data": {
       "breaking_news": [
@@ -8645,6 +8597,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike could trigger global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-04-29 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布下调基准利率，预计将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技巨头裁员计划公布",
+          "country": "美国",
+          "category": "企业动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "谷歌母公司Alphabet宣布将裁减10%的员工，对市场情绪造成负面影响。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕企业裁员风险"
     }
   }
 ]
