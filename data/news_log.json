@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to hike rates by 25bps",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB signals more rate hikes as inflation remains stubbornly high.",
-          "affected_sectors": [
-            "Monetary Policy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB to hike rates by 25bps today"
-    }
-  },
-  {
     "timestamp": "2026-04-23 19:00",
     "data": {
       "breaking_news": [
@@ -8677,6 +8644,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU regulators investigate crypto trading platform for potential AML violations"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着利率将上调以对抗通货膨胀。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟央行宣布将提高利率，旨在控制不断上升的通胀率。此举可能对欧元区经济产生影响。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks underperform",
+          "country": "全球",
+          "category": "科技",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "全球科技股表现平平，未能跟上大盘的涨幅。这可能反映了投资者对全球经济前景的担忧。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行行动将影响全球经济"
     }
   }
 ]
