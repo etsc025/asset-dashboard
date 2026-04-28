@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘前出现较大跌幅。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平不变，市场反应平淡。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-04-23 22:00",
     "data": {
       "breaking_news": [
@@ -8680,6 +8634,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，警惕金融市场的波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank's cautious stance suggests a possible interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed on US economic data",
+          "country": "全球",
+          "category": "Stock Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from US economic reports impact global stocks, with no clear direction.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行可能暗示加息，需密切关注"
     }
   }
 ]
