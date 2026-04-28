@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者对经济前景乐观。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策将影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-04-24 10:00",
     "data": {
       "breaking_news": [
@@ -8647,6 +8614,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation pressures."
+    }
+  },
+  {
+    "timestamp": "2026-04-29 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "英国",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国央行降息以刺激经济增长。",
+          "affected_sectors": [
+            "货币市场",
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank holds off on rate hike",
+          "country": "EU",
+          "category": "利率政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定不加息，维持现状。",
+          "affected_sectors": [
+            "债券市场",
+            "货币市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体金融环境保持稳定"
     }
   }
 ]
