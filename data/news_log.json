@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid coronavirus concerns",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US 10-year Treasury yield hits record low, adding to bearish sentiment.",
-          "affected_sectors": [
-            "Bond Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to support economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU extends lockdown in response to rising infection rates",
-          "country": "EU",
-          "category": "Healthcare & Finance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "EU countries extend lockdown, impacting travel and hospitality sectors.",
-          "affected_sectors": [
-            "Travel & Hospitality",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-04-24 06:30",
     "data": {
       "breaking_news": [
@@ -8645,6 +8599,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic data supports rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid stress tests",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European banks are facing a potential liquidity squeeze as regulators conduct stress tests.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio for banks, easing liquidity constraints.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧"
     }
   }
 ]
