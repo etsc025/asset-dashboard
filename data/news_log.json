@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax cuts and infrastructure spending plans.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-04-23 14:00",
     "data": {
       "breaking_news": [
@@ -8662,6 +8627,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU regulators investigate crypto trading platform"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to hike rates for first time since 2011",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is set to raise interest rates for the first time in over a decade.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge as OPEC+ refuses to cut production",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OPEC+ has refused to cut oil production, leading to a sharp increase in global crude prices.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and geopolitical tensions boost financial markets."
     }
   }
 ]
