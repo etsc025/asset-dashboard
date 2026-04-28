@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US 10-year Treasury yields drop to record low as investors worry about economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal stimulus package amid inflation worries",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to combat high inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches inquiry into cryptocurrency tax evasion",
-          "country": "EU",
-          "category": "Taxation",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "EU authorities investigate potential tax evasion in the crypto space.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package amid inflation worries"
-    }
-  },
-  {
     "timestamp": "2026-04-23 11:00",
     "data": {
       "breaking_news": [
@@ -8661,6 +8613,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy faces uncertainty amid Brexit negotiations",
+          "country": "英国",
+          "category": "政治",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国经济面临不确定性，因为与脱欧谈判有关。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts interest rates to boost growth",
+          "country": "中国",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行降低利率以促进经济增长。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需密切关注"
     }
   }
 ]
