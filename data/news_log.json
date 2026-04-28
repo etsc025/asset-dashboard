@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations aimed at improving data privacy and security.",
-          "affected_sectors": [
-            "Tech Companies",
-            "Data Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Interest rate cut expected to boost economic growth in China.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の金融政策動向に注意が必要"
-    }
-  },
-  {
     "timestamp": "2026-04-23 16:30",
     "data": {
       "breaking_news": [
@@ -8678,6 +8630,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to 4.25%"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to announce rate hike at its meeting this week.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank's decision could impact global financial markets"
     }
   }
 ]
