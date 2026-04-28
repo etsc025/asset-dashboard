@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国主要股指开盘后迅速下跌，投资者情绪低迷。",
-          "affected_sectors": [
-            "金融业",
-            "科技业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息",
-          "country": "欧盟",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施以刺激经济复苏。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-04-23 18:00",
     "data": {
       "breaking_news": [
@@ -8662,6 +8616,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Alibaba Group to Launch New E-commerce Platform in India",
+          "country": "India",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Alibaba is set to enter the Indian e-commerce market with a new platform, potentially boosting local startups and creating job opportunities.",
+          "affected_sectors": [
+            "Technology",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Federal Reserve Signals Interest Rate Hike",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The US Fed hints at another interest rate hike, signaling a continued tightening of monetary policy.",
+          "affected_sectors": [
+            "Financials",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to Implement New Data Protection Regulations",
+          "country": "Europe",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations on data protection are set to take effect, potentially impacting tech companies and privacy practices.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Alibaba's entry into India could reshape the e-commerce landscape."
     }
   }
 ]
