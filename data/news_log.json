@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European Central Bank suggests potential interest rate increases to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields surge",
-          "country": "Global",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bond yields across the globe have surged, reflecting investor optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Investment"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and inflation concerns loom large."
-    }
-  },
-  {
     "timestamp": "2026-04-24 05:00",
     "data": {
       "breaking_news": [
@@ -8648,6 +8600,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Regulatory changes could significantly impact financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-29 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Spike as Inflation Concerns Mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能表明投资者对经济增长的信心增强。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将加息以对抗通胀",
+          "country": "EUROPE",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示，可能采取措施提高利率来应对通胀。此举被视为对经济增长的积极信号。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场股市反弹",
+          "country": "EMERGING_MARKETS",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于全球风险偏好上升，新兴市场股市出现反弹。投资者对全球经济复苏的信心增强。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行可能采取行动以控制通胀"
     }
   }
 ]
