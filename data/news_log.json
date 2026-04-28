@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid geopolitical tensions",
-          "country": "USA",
-          "category": "Government Bonds",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.45% as investors react to ongoing tensions in Ukraine.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut by BoE amid inflation concerns",
-          "country": "英国",
-          "category": "Government Bonds",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "BoE cuts rate by 0.25% as UK inflation hits 9-year high.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after US jobs data release",
-          "country": "世界",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US non-farm payrolls increase by 263k, slightly below estimates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市表现分化，投资者需谨慎评估风险。"
-    }
-  },
-  {
     "timestamp": "2026-04-24 04:30",
     "data": {
       "breaking_news": [
@@ -8648,6 +8603,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，请密切监控"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's regulatory environment improves in Europe amid calls for more clarity",
+          "country": "UK",
+          "category": "Financial Regulations",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European regulators are easing restrictions on Bitcoin, potentially boosting the cryptocurrency market.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury yields rise as inflation concerns intensify",
+          "country": "USA",
+          "category": "Interest Rates & Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The US Treasury yield curve has steepened, reflecting growing fears of higher interest rates.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks edge lower as China's PMI data disappoints",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing activity remains robust but at a slower pace than expected.",
+          "affected_sectors": [
+            "Stock Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Regulatory changes could significantly impact financial markets."
     }
   }
 ]
