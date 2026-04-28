@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布将LPR下调0.1个百分点，提振了市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后出现小幅反弹",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受科技股强劲表现带动，美股三大指数开盘后短暂上涨，但随后回落。",
-          "affected_sectors": [
-            "科技行业",
-            "金融行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持当前的利率水平不变，市场对此反应较为平静。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振信心"
-    }
-  },
-  {
     "timestamp": "2026-04-24 06:00",
     "data": {
       "breaking_news": [
@@ -8645,6 +8597,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行可能采取行动以控制通胀"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise: BoE governor",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bank of England's Andrew Bailey suggests UK interest rates may increase soon, amid strong economic data.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields hit record high as ECB keeps rates steady",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Eurozone government bond yields reach new peaks despite ECB's decision to keep interest rates unchanged.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic data supports rate hikes"
     }
   }
 ]
