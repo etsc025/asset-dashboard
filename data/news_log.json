@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key rate by 0.75 percentage point, the biggest hike since 1999.",
-          "affected_sectors": [
-            "货币政策"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global equity markets mixed after China's GDP growth forecast",
-          "country": "China",
-          "category": "股市",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from China's economic data lead to volatile global stock markets.",
-          "affected_sectors": [
-            "金融市場"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，应对通胀压力"
-    }
-  },
-  {
     "timestamp": "2026-04-23 19:30",
     "data": {
       "breaking_news": [
@@ -8689,6 +8644,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行行动将影响全球经济"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's Price Soars as SEC Approves First Crypto ETF",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major news in US markets, potentially impacting global crypto and financial sectors.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Financial"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government's latest move could affect UK economy but may not have significant global impact.",
+          "affected_sectors": [
+            "UK Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China tightens regulations on tech giants",
+          "country": "China",
+          "category": "Tech",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Potential market reaction in China and broader Asian markets.",
+          "affected_sectors": [
+            "Technology",
+            "Asian Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package"
     }
   }
 ]
