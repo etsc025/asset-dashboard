@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a 2.9% high, reflecting growing concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank (ECB) suggests a possible interest rate increase, signaling monetary tightening.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy grows faster than expected",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "UK GDP growth exceeds forecasts by 0.2% in Q4, but remains within the range of previous quarters.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable with mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-04-24 01:00",
     "data": {
       "breaking_news": [
@@ -8662,6 +8614,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK fiscal stimulus aims to stabilize economy"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major central bank action could lead to further economic volatility.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Aimed at easing liquidity constraints and supporting growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices surge as OPEC+ announces supply cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Global energy markets remain volatile amid geopolitical tensions.",
+          "affected_sectors": [
+            "Energy",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动引发经济波动"
     }
   }
 ]
