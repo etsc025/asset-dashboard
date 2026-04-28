@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see positive outlook despite Brexit uncertainties",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Despite ongoing Brexit negotiations, European banks are expected to maintain a stable financial position.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets rally on strong earnings reports",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Strong quarterly earnings from major Asian companies have boosted stock indices in the region.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit negotiations continue, markets remain cautious"
-    }
-  },
-  {
     "timestamp": "2026-04-23 16:00",
     "data": {
       "breaking_news": [
@@ -8689,6 +8644,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in nearly three decades.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia following its invasion of Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike to 4.25%"
     }
   }
 ]
