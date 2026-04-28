@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3",
-          "country": "欧洲",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "第三季度欧洲银行的表现参差不齐，反映了地区经济的复杂性。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian currencies face pressure amid trade tensions",
-          "country": "亚洲",
-          "category": "政治",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "由于贸易紧张局势加剧，亚洲货币面临压力，但市场仍保持乐观。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加大"
-    }
-  },
-  {
     "timestamp": "2026-04-24 01:30",
     "data": {
       "breaking_news": [
@@ -8660,6 +8615,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发经济波动"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预期将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现大幅波动，投资者情绪谨慎",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "受科技股抛售影响，美股三大指数开盘即出现较大跌幅。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策以应对通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "市场预期欧洲央行将进一步放宽货币政策，利好欧元区经济复苏。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济增长预期"
     }
   }
 ]
