@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting Update",
-          "country": "Multiple",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Updates on central banks' decisions and their potential impact on markets.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Major Tech Stocks Surge",
-          "country": "United States",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major tech stocks have seen significant gains today, boosting overall market sentiment.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Rise Amid Supply Concerns",
-          "country": "Multiple",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Concerns over oil supply disruptions are driving up crude prices.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major tech stocks have seen significant gains today, boosting overall market sentiment."
-    }
-  },
-  {
     "timestamp": "2026-04-24 03:00",
     "data": {
       "breaking_news": [
@@ -8661,6 +8613,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on ECB interest hike"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Banks across Europe show varied results for the third quarter, with some improving and others declining.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The move aims to boost lending and support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整风险加剧"
     }
   }
 ]
