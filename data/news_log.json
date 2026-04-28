@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，旨在刺激经济增长和稳定金融市场。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "市场情绪",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "在财报季来临之前，美股开盘前出现大规模抛售，投资者担忧企业盈利不及预期。",
-          "affected_sectors": [
-            "金融服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持当前利率水平不变，欧洲央行表示将在必要时采取进一步宽松措施。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-23 20:00",
     "data": {
       "breaking_news": [
@@ -8691,6 +8645,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU imposes new sanctions on Russia amid ongoing conflict in Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth forecast revised downward",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Revised forecast suggests China's economy is recovering but at a slower pace than expected.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could escalate tensions."
     }
   }
 ]
