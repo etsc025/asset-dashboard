@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record high as inflation fears rise",
-          "country": "USA",
-          "category": "Interest Rates & Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new all-time high, reflecting growing concerns about inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep interest rates unchanged for now",
-          "country": "EU",
-          "category": "Interest Rates & Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB maintains its current stance on interest rates amid economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains as stimulus measures take effect",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise following government stimulus packages.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-04-23 21:30",
     "data": {
       "breaking_news": [
@@ -8691,6 +8646,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要"
+    }
+  },
+  {
+    "timestamp": "2026-04-28 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调银行存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响股市和债市。",
+          "affected_sectors": [
+            "银行业",
+            "金融市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国10年期国债收益率突破3%",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国10年期国债收益率首次突破3%，市场情绪乐观，可能推动股市上涨。",
+          "affected_sectors": [
+            "金融市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，警惕金融市场的波动"
     }
   }
 ]
