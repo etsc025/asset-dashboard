@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因科技股反弹而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果、微软等科技巨头股价上涨推动，纳斯达克指数创下新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示正在研究进一步降低利率的可能性，以应对当前的经济挑战。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市普遍上涨"
-    }
-  },
-  {
     "timestamp": "2026-04-24 04:00",
     "data": {
       "breaking_news": [
@@ -8660,6 +8613,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲股市开盘前遭遇抛售潮",
+          "country": "欧洲",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受全球经济不确定性影响，欧洲主要股指开盘后即出现大幅下跌。",
+          "affected_sectors": [
+            "金融服务业",
+            "原材料"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市波动加剧，请密切监控"
     }
   }
 ]
