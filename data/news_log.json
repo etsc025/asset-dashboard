@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市，市场反应热烈。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，引发债券市场的波动",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致债券价格下跌，投资者情绪受到影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-04-25 02:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8735,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中央銀行の利上げ懸念が市場を押し上げる"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks consider tighter monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European Central Bank policymakers discuss potential interest rate hikes to curb rising prices.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from Chinese GDP report impact regional equity and currency markets.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, investors cautious"
     }
   }
 ]
