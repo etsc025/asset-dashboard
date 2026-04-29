@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government unveils plans to increase spending and cut taxes, aimed at stimulating economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China lowers key lending rates to support the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府和央行采取措施提振经济"
-    }
-  },
-  {
     "timestamp": "2026-04-24 18:30",
     "data": {
       "breaking_news": [
@@ -8670,6 +8622,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive financial markets higher"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USA: Fed announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU: ECB to announce rate hike tomorrow",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to raise interest rates, potentially impacting the Eurozone economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global: Oil prices surge on geopolitical tensions",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Oil prices have spiked due to ongoing conflicts in the Middle East, affecting global energy markets.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, geopolitical tensions escalate"
     }
   }
 ]
