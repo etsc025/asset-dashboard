@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: Bank of England forecast",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank predicts rate hike this year, boosting UK economy growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields edge up as recession fears rise",
-          "country": "グローバル",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from central banks keep global bond yields stable.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain cautiously optimistic."
-    }
-  },
-  {
     "timestamp": "2026-04-24 12:00",
     "data": {
       "breaking_news": [
@@ -8662,6 +8614,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市因财报季表现强劲而上涨"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "XYZ Bank announces new CEO, to be effective next month.",
+          "country": "USA",
+          "category": "Corporate",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US bank announces leadership change, expected to boost confidence.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global inflation rate rises to 8.1% in Q3, IMF warns.",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMF report highlights increasing global economic risks.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "New cryptocurrency regulation proposed in Europe could impact trading volumes.",
+          "country": "EUROPE",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union proposes new regulations for crypto markets.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global inflation rate rises, IMF warns."
     }
   }
 ]
