@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪谨慎",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，但市场整体反应较为平静，未引发大规模波动。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-04-24 19:30",
     "data": {
       "breaking_news": [
@@ -8685,6 +8652,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向可能影响全球金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 2.95%, reflecting concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks consider rate hikes amid economic recovery",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials discuss potential interest rate increases to support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains as stimulus measures take effect",
+          "country": "中国",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise on the back of government stimulus packages.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic recovery gains momentum with supportive central bank actions."
     }
   }
 ]
