@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to cut interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank may reduce interest rates in response to economic challenges.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains momentum",
-          "country": "中国",
-          "category": "Stocks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks see strong gains, driven by government stimulus measures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行将召开会议，市场高度关注"
-    }
-  },
-  {
     "timestamp": "2026-04-25 03:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8720,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank hints at rate hikes, watch for further action."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The yield on US 10-year Treasuries rose to 3.65% from 2.98% yesterday, reflecting market expectations of higher interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank's (ECB) president suggested the possibility of further rate hikes to combat inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Stocks in Asia Pacific varied, with gains in Japan and losses in China.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates may rise, affecting financial markets."
     }
   }
 ]
