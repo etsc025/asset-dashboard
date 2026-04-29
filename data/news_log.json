@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates further in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have imposed additional economic sanctions against Russia.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio to support economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
-    }
-  },
-  {
     "timestamp": "2026-04-25 03:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8722,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates may rise, affecting financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Alibaba Group to Cut Jobs by 20% amid Economic Downturn",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Chinese tech giant announces job cuts due to economic challenges.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Federal Reserve Signals More Rate Hikes Ahead",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Central bank hints at further interest rate increases to curb inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU Economy Forecasted to Slow Down in Q4",
+          "country": "Europe",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "European Union predicts slower economic growth for the fourth quarter.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Federal Reserve signals more rate hikes ahead"
     }
   }
 ]
