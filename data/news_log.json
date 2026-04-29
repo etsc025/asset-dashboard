@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Eurozone's main interest rate rises by 0.5% to 3.25%, targeting inflation reduction.",
-          "affected_sectors": [
-            "Finance",
-            "Agriculture"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK GDP growth outlook cut from 1.5% to 0.5% in Q4.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks intensify rate hikes to tame inflation"
-    }
-  },
-  {
     "timestamp": "2026-04-24 23:00",
     "data": {
       "breaking_news": [
@@ -8762,6 +8714,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and financial regulations could impact global markets."
+    }
+  },
+  {
+    "timestamp": "2026-04-29 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，表明投资者对经济前景乐观。",
+          "affected_sectors": [
+            "银行股"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率风险增加"
     }
   }
 ]
