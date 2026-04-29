@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as central banks consider rate hikes",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US central banks' potential rate hikes are causing concern among investors, pushing Bitcoin prices higher.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid economic concerns",
-          "country": "UK",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Rising global bond yields reflect growing economic worries, potentially affecting stock markets.",
-          "affected_sectors": [
-            "Bond Markets"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches investigation into Apple's tax practices",
-          "country": "EU",
-          "category": "Business",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The EU has initiated an inquiry into Apple’s tax arrangements in Ireland, with no immediate impact expected on the market.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US central banks' potential rate hikes causing Bitcoin price surge"
-    }
-  },
-  {
     "timestamp": "2026-04-24 15:00",
     "data": {
       "breaking_news": [
@@ -8656,6 +8611,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to raise interest rates",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行宣布将提高利率，以应对通货膨胀压力。这可能对股市有利。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI hits 50.1, above the threshold",
+          "country": "中国",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国的采购经理指数(PMI)达到50.1，略高于荣枯线。这表明经济活动保持稳定。",
+          "affected_sectors": [
+            "制造业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行加息预期升温"
     }
   }
 ]
