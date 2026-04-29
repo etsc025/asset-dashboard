@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK PMI data misses expectations, hits stock markets",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK manufacturing sector growth slows as PMI falls below 50 threshold.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields higher in US"
-    }
-  },
-  {
     "timestamp": "2026-04-24 22:00",
     "data": {
       "breaking_news": [
@@ -8736,6 +8701,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响热烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市造成一定压力但未引发大规模抛售。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多措施来支持经济增长，提振市场信心。",
+          "affected_sectors": [
+            "金融",
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策调整引发金融市场波动"
     }
   }
 ]
