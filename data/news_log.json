@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the current fiscal year.",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have decided to impose additional economic sanctions against Russia following its invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Materials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-04-24 20:30",
     "data": {
       "breaking_news": [
@@ -8711,6 +8677,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲银行业监管加强"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since July.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound hits six-week low against USD",
+          "country": "UK",
+          "category": "Currency",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Weak UK economic data and Brexit uncertainty weigh on pound's value.",
+          "affected_sectors": [
+            "Trade",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit risks escalate, Pound hits six-week low"
     }
   }
 ]
