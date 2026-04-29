@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭抛售",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美股开盘前遭遇抛售，投资者对经济数据持谨慎态度。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振信心"
-    }
-  },
-  {
     "timestamp": "2026-04-24 19:00",
     "data": {
       "breaking_news": [
@@ -8670,6 +8637,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, geopolitical tensions escalate"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步放宽政策以刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于强劲的就业数据和企业财报表现良好，美股三大指数均以红盘报收。",
+          "affected_sectors": [
+            "金融服务业",
+            "信息技术"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息，市场情绪谨慎乐观",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管有迹象显示经济放缓，但欧洲央行仍有可能采取更多宽松措施以支持经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动向可能影响全球金融市场"
     }
   }
 ]
