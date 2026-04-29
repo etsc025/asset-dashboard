@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting investors' growing concern over inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils £50 billion economic support plan to boost growth.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches new trade sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "EU imposes additional sanctions on Russian energy sector, amid ongoing conflict and sanctions fatigue.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces fiscal stimulus package for economic growth"
-    }
-  },
-  {
     "timestamp": "2026-04-24 16:00",
     "data": {
       "breaking_news": [
@@ -8671,6 +8625,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，对股市和房地产市场构成利好消息。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳和监管压力，美国主要科技公司股价普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策利好股市"
     }
   }
 ]
