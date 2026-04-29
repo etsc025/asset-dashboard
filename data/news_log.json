@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since April.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government unveils plans to increase taxes and reduce public spending to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on US economic data"
-    }
-  },
-  {
     "timestamp": "2026-04-25 07:29",
     "data": {
       "breaking_news": [
@@ -8771,6 +8737,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府的经济政策变动可能影响市场"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rises to 3.95%, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q2 earnings",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance from European banks in the second quarter, with some firms reporting strong profits.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Tech stocks lead Asian stock indices higher as investors seek out growth opportunities.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should be cautious of rising interest rates risks."
     }
   }
 ]
