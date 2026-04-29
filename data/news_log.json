@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行",
-            "保险",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
-          "affected_sectors": [
-            "银行",
-            "科技股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策，市场谨慎乐观",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行可能采取更多宽松措施以刺激经济，但市场对此反应平和。",
-          "affected_sectors": [
-            "银行",
-            "汽车制造商"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-04-24 18:00",
     "data": {
       "breaking_news": [
@@ -8674,6 +8625,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境趋紧，投资者需谨慎"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Treasury Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to curb inflation",
+          "country": "UK",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK's Monetary Policy Committee raises base rate by 0.25% to combat rising prices.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank signals more rate hikes",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB hints at further interest rate increases in response to inflation pressures.",
+          "affected_sectors": [
+            "Eurozone Bonds"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns drive financial markets higher"
     }
   }
 ]
