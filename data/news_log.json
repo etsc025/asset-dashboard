@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year, markets react with caution.",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, causing market participants to remain cautious.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy.",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a series of economic stimulus packages aimed at boosting the country's struggling economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets mixed after China releases Q3 GDP report.",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China has released its third quarter Gross Domestic Product (GDP) figures, with the market reaction being generally neutral as expected.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Fiscal measures to boost economy in UK"
-    }
-  },
-  {
     "timestamp": "2026-04-24 16:30",
     "data": {
       "breaking_news": [
@@ -8659,6 +8613,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to curb inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises base rate by 0.25% to combat high inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields edge up amid growth fears",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from central banks keep global bond yields slightly higher.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns weigh on markets"
     }
   }
 ]
