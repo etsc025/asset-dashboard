@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: Bank of England forecast",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank predicts a rate hike, boosting the pound and reducing inflation.",
-          "affected_sectors": [
-            "Banking",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields surge as ECB tightens monetary policy",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB's hawkish stance pushes up 10-year German bund yield to over 2.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Insurance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行政策变动引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-04-25 01:30",
     "data": {
       "breaking_news": [
@@ -8771,6 +8723,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向可能影响市场风险偏好"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Government Bonds",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK house prices fall as mortgage rates rise",
+          "country": "英国",
+          "category": "Real Estate",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK housing market indicators show signs of stabilization despite rising mortgage interest rates.",
+          "affected_sectors": [
+            "Real Estate"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hikes to curb inflation",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB signals potential for further interest rate increases in response to persistent inflation pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中央銀行の利上げ懸念が市場を押し上げる"
     }
   }
 ]
