@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济增长的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者信心增强。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响经济前景"
-    }
-  },
-  {
     "timestamp": "2026-04-24 17:30",
     "data": {
       "breaking_news": [
@@ -8661,6 +8628,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者担忧通胀风险",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，可能引发市场对通胀的担忧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示未来可能加息，欧元承压",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行表示将密切关注经济数据，但未明确未来政策方向。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境趋紧，投资者需谨慎"
     }
   }
 ]
