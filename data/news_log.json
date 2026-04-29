@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 10:17",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, indicating a potential shift towards risk-on sentiment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banking sector under scrutiny amid Brexit uncertainties",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European banks face regulatory challenges as Brexit negotiations continue to unfold, with no clear direction yet.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets rally on US economic data release",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Positive US economic indicators have boosted Asian stock indices, showing a positive outlook for the region.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit negotiations intensify, markets cautious"
-    }
-  },
-  {
     "timestamp": "2026-04-25 11:17",
     "data": {
       "breaking_news": [
@@ -8786,6 +8741,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks rate hikes loom, global financial stability at risk"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Rise as Inflation Concerns Persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to Maintain Interest Rates at Record Low",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank announced no change in interest rates, keeping them at record lows.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's Stock Market Hits New High as Economic Growth Accelerates",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In China, the stock market has reached new highs due to accelerating economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持利率不变，经济数据喜忧参半"
     }
   }
 ]
