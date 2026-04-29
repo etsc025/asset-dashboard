@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to announce another rate hike in the near future, boosting economic sentiment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Risks",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have imposed additional sanctions on Russian entities, potentially impacting trade and investment flows.",
-          "affected_sectors": [
-            "Energy",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-04-25 01:00",
     "data": {
       "breaking_news": [
@@ -8758,6 +8724,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧，市场波动性上升"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府采取措施刺激经济增长，利好股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美國",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升可能影响投资者情绪，但对整体经济影响有限。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行的宽松政策可能会刺激经济增长和企业投资。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动向可能影响市场风险偏好"
     }
   }
 ]
