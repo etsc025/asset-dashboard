@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, raising concerns about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank may increase rates in response to rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank's rate hike decision could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-04-24 14:30",
     "data": {
       "breaking_news": [
@@ -8646,6 +8611,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "European Central Bank to cut interest rates further"
+    }
+  },
+  {
+    "timestamp": "2026-04-29 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，股市上涨",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期股市将上涨。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升导致市场波动，但对整体经济影响有限。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元区股市小幅下跌",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "尽管欧洲央行保持利率不变，但市场仍担心经济增长放缓。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要金融市场波动加剧"
     }
   }
 ]
