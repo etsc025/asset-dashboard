@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 12:43",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new fiscal measures aimed at reducing inflation and stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has cut its reserve requirement ratio, providing more liquidity and potentially boosting lending.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-04-26 15:03",
     "data": {
       "breaking_news": [
@@ -8785,6 +8739,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.95%, up from 3.75% yesterday.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current interest rate at 2.00%, as expected by market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits record high",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese Manufacturing Purchasing Managers' Index (PMI) reaches 52.6, up from 51.9 last month.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致预期维持利率不变"
     }
   }
 ]
