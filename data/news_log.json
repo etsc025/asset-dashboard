@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the coming weeks.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will affect how companies handle personal data.",
-          "affected_sectors": [
-            "Technology",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The move is expected to boost lending and economic growth in China.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，市场信心增强"
-    }
-  },
-  {
     "timestamp": "2026-04-26 22:00",
     "data": {
       "breaking_news": [
@@ -8784,6 +8736,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.85% amid rising inflation concerns.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains key rate at 0%, signaling no immediate rate hike.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI falls below expectations",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Chinese manufacturing PMI drops to 49.2, slightly below forecasted level.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持利率稳定，但中国制造业活动放缓"
     }
   }
 ]
