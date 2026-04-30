@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，对股市产生积极影响",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，市场波动加剧",
-          "country": "美国",
-          "category": "债券市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致市场波动增加。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-04-26 06:50",
     "data": {
       "breaking_news": [
@@ -8772,6 +8739,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU finance ministers meet to discuss economic recovery plans",
+          "country": "EU",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU finance ministers are meeting to discuss potential economic recovery plans.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates unchanged as inflation remains high",
+          "country": "UK",
+          "category": "Interest Rates",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Despite high inflation, UK interest rates have remained stable.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU finance ministers meeting for economic recovery plans"
     }
   }
 ]
