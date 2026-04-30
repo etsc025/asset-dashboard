@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 23:04",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘下跌，科技股领跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股抛售影响，美股三大指数均出现不同程度的跌幅。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-04-25 23:42",
     "data": {
       "breaking_news": [
@@ -8792,6 +8759,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場今日風險增加"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks' Rate Hikes Expected to Impact Global Economy",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to raise interest rates, potentially impacting the global economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Surge on Positive Economic Indicators",
+          "country": "EUROPE",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Stock markets in Europe have rallied following positive economic indicators.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Markets Mixed as China's PMI Hits 50.2",
+          "country": "ASIA",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese Purchasing Managers' Index (PMI) is at 50.2, indicating a balanced economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to raise rates: significant risk"
     }
   }
 ]
