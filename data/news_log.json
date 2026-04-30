@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 00:34",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high of 3.65% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB is expected to maintain its current interest rate at 0.25% in their upcoming meeting.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin hits new all-time high amid stimulus news",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price surges to $49,000 as investors see positive outlook from recent monetary policies.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB keeps rates unchanged: no immediate market reaction expected."
-    }
-  },
-  {
     "timestamp": "2026-04-26 01:12",
     "data": {
       "breaking_news": [
@@ -8810,6 +8765,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中央銀行の政策決定に市場が注目"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts key rate but warns of potential liquidity issues for banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China central bank eases monetary policy to support growth",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Central bank lowers reserve requirement ratio, signaling supportive stance towards economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rates cut to boost economy but warns of potential liquidity issues for banks."
     }
   }
 ]
