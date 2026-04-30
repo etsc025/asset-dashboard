@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 15:03",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year, economists predict",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国经济学家预测今年将再次加息，对市场情绪构成压力。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data privacy laws",
-          "country": "EU",
-          "category": "科技",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟计划实施更严格的个人数据隐私法律，影响金融和科技行业。",
-          "affected_sectors": [
-            "金融科技",
-            "金融服务"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "中国央行降低存款准备金率，对市场情绪产生正面影响。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-26 16:12",
     "data": {
       "breaking_news": [
@@ -8784,6 +8737,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致预期维持利率不变"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘即遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股重挫，美股三大指数开盘后迅速下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能加息",
+          "country": "欧盟",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管降息，但欧洲央行表示未来可能加息以应对通胀压力。",
+          "affected_sectors": [
+            "银行业",
+            "能源业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
