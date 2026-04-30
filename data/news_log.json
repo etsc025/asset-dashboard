@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a six-month high as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates next week",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to increase interest rates, supporting the euro and reducing inflation.",
-          "affected_sectors": [
-            "Monetary Policy",
-            "Euro"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices rise on supply concerns",
-          "country": "全球",
-          "category": "能源市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Concerns over oil production cuts push Brent crude to a 5% increase.",
-          "affected_sectors": [
-            "Energy Market"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行下周加息，欧元区受益"
-    }
-  },
-  {
     "timestamp": "2026-04-26 19:00",
     "data": {
       "breaking_news": [
@@ -8783,6 +8737,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の利上げが市場に影響を与えている"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
+          "affected_sectors": [
+            "金融服务业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不及预期和监管压力，美国科技股出现大规模抛售。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在会议上维持现有利率水平，但表示未来可能会考虑降息以刺激经济增长。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
