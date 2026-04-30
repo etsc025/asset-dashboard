@@ -1,274 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09 22:01",
-    "ticker": "EXPE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.36（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.36,
-      "pc_ratio_oi": 1.44,
-      "total_put_vol": 1211,
-      "total_call_vol": 514
-    }
-  },
-  {
-    "timestamp": "2026-04-09 22:01",
-    "ticker": "STX",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-02",
-          "filer": [
-            "MOSLEY WILLIAM D  (CIK 0001388390)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-09 22:01",
-    "ticker": "DOW",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.47（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.47,
-      "pc_ratio_oi": 0.35,
-      "total_put_vol": 13222,
-      "total_call_vol": 27880
-    }
-  },
-  {
-    "timestamp": "2026-04-09 22:01",
-    "ticker": "278470.KS",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.7倍（5日平均比3.2倍）",
-    "data": {
-      "vol_ratio": 2.67
-    }
-  },
-  {
-    "timestamp": "2026-04-09 22:01",
-    "ticker": "DELL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "O'Hara David Mark  (CIK 0002125738)",
-            "CADIZ INC  (CIK 0000727273)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-09 22:02",
-    "ticker": "000150.KS",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.0倍（5日平均比1.8倍）",
-    "data": {
-      "vol_ratio": 2.01
-    }
-  },
-  {
-    "timestamp": "2026-04-10 08:30",
-    "ticker": "--market",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Armes Joseph B  (CIK 0001413614)",
-            "CSW INDUSTRIALS, INC.  (CIK 0001624794)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Tzuo Tien  (CIK 0001735409)",
-            "Amplitude, Inc.  (CIK 0001866692)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Fullalove Craig Jeffrey  (CIK 0002126294)",
-            "WYNN RESORTS LTD  (CIK 0001174922)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Pinczuk Ana G.  (CIK 0001689411)",
-            "SentinelOne, Inc.  (CIK 0001583708)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Woodland Daniel D.  (CIK 0001630039)",
-            "ENTEGRIS INC  (CIK 0001101302)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-10 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Bowe Patrick E.  (CIK 0001657533)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "Krishnan Ramkumar  (CIK 0001689525)",
-            "TRACTOR SUPPLY CO /DE/  (CIK 0000916365)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "Ham Margaret M  (CIK 0001989273)",
-            "TRACTOR SUPPLY CO /DE/  (CIK 0000916365)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "MRKONIC GEORGE R JR  (CIK 0001208464)",
-            "Ulta Beauty, Inc.  (CIK 0001403568)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "White Debra  (CIK 0001859882)",
-            "PAVmed Inc.  (CIK 0001624326)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-10 22:00",
-    "ticker": "EXE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Teunissen Marcel  (CIK 0001730935)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-10 22:00",
-    "ticker": "DELL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "O'Hara David Mark  (CIK 0002125738)",
-            "CADIZ INC  (CIK 0000727273)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-10 22:01",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-03",
-          "filer": [
-            "ARNZEN APRIL S  (CIK 0001632063)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-10 22:02",
-    "ticker": "DOW",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.37（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.37,
-      "pc_ratio_oi": 0.52,
-      "total_put_vol": 25435,
-      "total_call_vol": 10747
-    }
-  },
-  {
-    "timestamp": "2026-04-10 22:02",
-    "ticker": "EXPE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.44（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.44,
-      "pc_ratio_oi": 1.51,
-      "total_put_vol": 1035,
-      "total_call_vol": 425
-    }
-  },
-  {
     "timestamp": "2026-04-11 08:30",
     "ticker": "--market",
     "type": "インサイダー取引報告",
@@ -5148,6 +4879,242 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-04-30 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Perry Marie  (CIK 0001418423)",
+            "Everforth Inc  (CIK 0000890564)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Chadwick Jeremy G  (CIK 0001388406)",
+            "Kymera Therapeutics, Inc.  (CIK 0001815442)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "PAEPER HOLLY Beth  (CIK 0002115144)",
+            "LITTELFUSE INC /DE  (CIK 0000889331)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Hart Mark J  (CIK 0001663050)",
+            "Parker-Hannifin Corp  (CIK 0000076334)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Reidy Jay  (CIK 0002004436)",
+            "Parker-Hannifin Corp  (CIK 0000076334)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-30 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Douglas Gary A.  (CIK 0001861492)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-23",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Hershberger Pamela S  (CIK 0001795702)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-29",
+          "filer": [
+            "SHALEV EDDY  (CIK 0001255126)",
+            "eToro Group Ltd.  (CIK 0001493318)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:00",
+    "ticker": "4063.T",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.2倍（5日平均比2.5倍）",
+    "data": {
+      "vol_ratio": 2.17
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:00",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.15（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.15,
+      "pc_ratio_oi": 0.44,
+      "total_put_vol": 1067,
+      "total_call_vol": 7114
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:00",
+    "ticker": "STX",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高3.0倍（5日平均比3.0倍）",
+    "data": {
+      "vol_ratio": 3.01
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "DOW",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.36（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.36,
+      "pc_ratio_oi": 0.46,
+      "total_put_vol": 3485,
+      "total_call_vol": 9681
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "O'Dell Timothy T  (CIK 0001556891)",
+            "CF BANKSHARES INC.  (CIK 0001070680)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "CF",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.44（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.44,
+      "pc_ratio_oi": 0.68,
+      "total_put_vol": 1528,
+      "total_call_vol": 3448
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "055550.KS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.1倍（5日平均比1.7倍）",
+    "data": {
+      "vol_ratio": 2.11
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "600886.SS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.6倍（5日平均比2.5倍）",
+    "data": {
+      "vol_ratio": 2.65
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "0998.HK",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.4倍（5日平均比1.7倍）",
+    "data": {
+      "vol_ratio": 2.36
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.65（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.65,
+      "pc_ratio_oi": 0.83,
+      "total_put_vol": 3187,
+      "total_call_vol": 1930
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:02",
+    "ticker": "EXE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.28（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.28,
+      "pc_ratio_oi": 5.48,
+      "total_put_vol": 825,
+      "total_call_vol": 2989
     }
   }
 ]
