@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has decided to raise interest rates, potentially impacting the economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto exchange for security breaches",
-          "country": "EU",
-          "category": "Regulatory Developments",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union regulatory bodies are investigating a major cryptocurrency exchange for recent security incidents.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK government announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan aimed at boosting economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike signals potential for further market volatility."
-    }
-  },
-  {
     "timestamp": "2026-04-26 21:30",
     "data": {
       "breaking_news": [
@@ -8783,6 +8738,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, investors cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期未来将进一步宽松货币政策以刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于科技股表现不佳，美股开盘后出现抛售，标普500指数一度下跌1.5%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管维持利率不变，但欧洲央行表示未来可能会进一步宽松政策以应对经济不确定性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市开盘前遭遇抛售潮"
     }
   }
 ]
