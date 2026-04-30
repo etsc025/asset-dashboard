@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 02:06",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a five-month high, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK banks see profit warnings amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Major UK banks issue profit warnings due to sluggish economic conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China reduces the reserve requirement ratio, easing liquidity in the market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-04-26 02:40",
     "data": {
       "breaking_news": [
@@ -8789,6 +8743,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should consider adjusting their portfolios."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current interest rate levels, signaling no immediate monetary policy changes.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits record low amid trade tensions",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Chinese manufacturing sector contracts at the fastest rate in 10 years, highlighting challenges from trade disputes.",
+          "affected_sectors": [
+            "Manufacturing Sector"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国の製造業が10年ぶりの最悪水準に落ち込んでいる"
     }
   }
 ]
