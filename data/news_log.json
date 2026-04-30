@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 04:09",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a one-month high amid rising inflation concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new sanctions on Russia",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK government has imposed new economic sanctions on Russian entities in response to the invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to boost lending and economic activity.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK sanctions on Russia could escalate tensions in Europe."
-    }
-  },
-  {
     "timestamp": "2026-04-26 04:30",
     "data": {
       "breaking_news": [
@@ -8800,6 +8754,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation fears, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggest a potential interest rate increase in September.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike"
     }
   }
 ]
