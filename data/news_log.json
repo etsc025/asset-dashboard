@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 23:42",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike, boosting economic sentiment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK publishes Q3 GDP growth report",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's Q3 GDP growth reported a 2.5% increase, signaling economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China issues stimulus package for small businesses",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China has announced a new stimulus package aimed at supporting small and medium-sized enterprises.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，经济前景乐观"
-    }
-  },
-  {
     "timestamp": "2026-04-26 00:00",
     "data": {
       "breaking_news": [
@@ -8807,6 +8762,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks to raise rates: significant risk"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has signaled a potential interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed due to trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Markets across Asia have seen mixed performance due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth outlook remains positive despite recent challenges."
     }
   }
 ]
