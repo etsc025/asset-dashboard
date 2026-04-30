@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US 10-year Treasury yield hits a six-month high, raising concerns about rising interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax cuts and spending increases aimed at reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US yields rise, caution needed for financial markets."
-    }
-  },
-  {
     "timestamp": "2026-04-25 18:03",
     "data": {
       "breaking_news": [
@@ -8780,6 +8745,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行为应对疫情采取的措施正在逐步取消，市场情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to reduce interest rates in response to economic challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks underperforming",
+          "country": "Global",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Major tech indices are declining, possibly due to regulatory pressures.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank cut interest rates: ECB"
     }
   }
 ]
