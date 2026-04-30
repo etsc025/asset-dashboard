@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR) 0.15个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国财政部公布2023年预算赤字预估为950亿美元",
-          "country": "美国",
-          "category": "财政政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国财政部预测2023年预算赤字将达950亿美元，对市场影响有限。",
-          "affected_sectors": [
-            "金融市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布加息25个基点以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行决定加息以遏制高企的通胀率，对市场情绪构成利好。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动对抗通胀风险"
-    }
-  },
-  {
     "timestamp": "2026-04-25 20:02",
     "data": {
       "breaking_news": [
@@ -8792,6 +8745,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields above 3.5% for first time since March."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are set to raise interest rates, signaling a shift towards tighter monetary policy.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Surge Amid Supply Concerns",
+          "country": "OIL",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Crude oil prices have surged due to concerns over global supply disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Tech Stocks Decline on Profit Warning",
+          "country": "CN",
+          "category": "Stock Market",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Chinese tech stocks are down after a major company issues a profit warning.",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Electronics"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to raise rates, global economy at risk of inflation"
     }
   }
 ]
