@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 06:50",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业信心。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前出现抛售潮，科技股领跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济放缓的担忧，美股开盘前遭遇抛售，科技股表现尤为疲软。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上保持利率不变，市场对此反应较为平静。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市面临不确定性"
-    }
-  },
-  {
     "timestamp": "2026-04-26 07:30",
     "data": {
       "breaking_news": [
@@ -8785,6 +8739,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU finance ministers meeting for economic recovery plans"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank considers rate hike amid economic recovery",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank is considering whether to raise interest rates as the economy continues to recover.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have rallied following a strong performance in the technology sector.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行正密切关注通胀和经济增长"
     }
   }
 ]
