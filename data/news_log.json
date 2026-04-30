@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy sees mixed signals in Q3 GDP report",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's third quarter gross domestic product (GDP) growth has been reported as positive but below expectations.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin price surges 10% in 24 hours amid FTX bankruptcy news",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin's value has surged due to the recent bankruptcy of FTX.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "FTX bankruptcy rattles crypto markets"
-    }
-  },
-  {
     "timestamp": "2026-04-26 00:34",
     "data": {
       "breaking_news": [
@@ -8810,6 +8764,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth outlook remains positive despite recent challenges."
+    }
+  },
+  {
+    "timestamp": "2026-04-30 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting Announced",
+          "country": "全球",
+          "category": "中央銀行",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Major central banks have announced a meeting to discuss monetary policy.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Stock Market Surge in Asia",
+          "country": "アジア",
+          "category": "株式市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Asian stock markets saw significant gains today, led by China and South Korea.",
+          "affected_sectors": [
+            "金融",
+            "製造業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Stable but Concerns Persist",
+          "country": "世界",
+          "category": "石油",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "While oil prices remain stable, concerns about supply disruptions continue to weigh on markets.",
+          "affected_sectors": [
+            "エネルギー"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中央銀行の政策決定に市場が注目"
     }
   }
 ]
