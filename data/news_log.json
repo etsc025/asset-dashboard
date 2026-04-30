@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Interest Rates Update",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks are set to announce interest rate decisions, expected to impact global markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Stock Market Surge in Asia: Tech Sector Leads the Way",
-          "country": "Asia (various)",
-          "category": "Market Movements",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Asian stock markets are experiencing a significant rise, with tech companies leading the gains.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Dip: Supply Concerns Loom",
-          "country": "Global",
-          "category": "Commodity Prices",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Concerns over oil supply disruptions are weighing on prices, potentially impacting global economies.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks' decisions could significantly influence financial markets."
-    }
-  },
-  {
     "timestamp": "2026-04-26 08:00",
     "data": {
       "breaking_news": [
@@ -8784,6 +8736,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行正密切关注通胀和经济增长"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to historic high",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bank of England hikes rate by 0.75%, highest in over 20 years.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at more rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB signals readiness to raise rates further, amid inflation pressures.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, markets cautious"
     }
   }
 ]
