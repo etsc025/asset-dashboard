@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 05:38",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前标普500指数下跌2%",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报季影响，美股开盘前遭遇抛售潮。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持利率不变，欧洲央行对未来的政策方向表示谨慎态度。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前标普500指数下跌2%"
-    }
-  },
-  {
     "timestamp": "2026-04-26 06:00",
     "data": {
       "breaking_news": [
@@ -8773,6 +8725,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府財政措置で経済成長を促進}"
+    }
+  },
+  {
+    "timestamp": "2026-04-30 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK publishes inflation report",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's latest inflation report shows an increase of 9.1% year-on-year.",
+          "affected_sectors": [
+            "Retail",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China launches new stimulus package",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China has announced a $50 billion stimulus package to boost economic growth.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Construction"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
     }
   }
 ]
