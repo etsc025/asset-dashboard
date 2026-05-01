@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者信心增强，股市或受益。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率风险加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-27 12:30",
     "data": {
       "breaking_news": [
@@ -8832,6 +8799,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府新政策出台，市场信心提升"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a three-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax cuts and spending increases aimed at stabilizing the economy post-pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new climate fund to combat global warming",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU initiates a €10 billion fund to support green projects and reduce carbon emissions.",
+          "affected_sectors": [
+            "Finance",
+            "Environmental"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economy recovery on track despite challenges"
     }
   }
 ]
