@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves first crypto ETF",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin prices.",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Central banks to raise interest rates amid inflation concerns",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England is expected to increase interest rates, following similar moves by the US Federal Reserve.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks are tightening monetary policies"
-    }
-  },
-  {
     "timestamp": "2026-04-27 05:30",
     "data": {
       "breaking_news": [
@@ -8787,6 +8752,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府和央行采取措施稳定金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to maintain interest rates at record low",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank announced no change in interest rates, keeping them at their lowest level since the pandemic.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on favorable economic data",
+          "country": "中国",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rose as positive economic indicators were released, including a strong manufacturing PMI and stable GDP growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持宽松货币政策"
     }
   }
 ]
