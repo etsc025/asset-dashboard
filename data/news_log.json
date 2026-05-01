@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has signaled its willingness to raise interest rates in the future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets mixed after China's PMI data",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "China's manufacturing activity index has shown signs of improvement, but overall Asian stocks have remained stable.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions could significantly impact financial markets."
-    }
-  },
-  {
     "timestamp": "2026-04-27 10:00",
     "data": {
       "breaking_news": [
@@ -8823,6 +8775,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic uncertainty",
+          "country": "UK",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank has decided to cut interest rates in response to economic uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains as government stimulus measures take effect",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Following the implementation of new government stimulus packages, China's major stock indices have seen positive movements.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "政府の新たな経済刺激策が効果を発揮し、中国の主要株価指標が上昇中。"
     }
   }
 ]
