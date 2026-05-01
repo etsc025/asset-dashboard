@@ -113,7 +113,8 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
     <div id="allocationArea"></div>
   </div>
   <div class="card">
-    <h2>📈 現物ポートフォリオ</h2>
+    <h2>⚡ HyperSBI2 スキャルピング結果 <span id="scalpDate" style="font-size:11px;color:#8b949e;margin-left:6px;"></span></h2>
+    <div id="scalpSummary" style="font-size:12px;margin-bottom:8px;">読み込み中...</div>
     
   <!-- ===== AI Bot ランキング ===== -->
   <div class="card" style="margin-bottom:12px;">
@@ -134,7 +135,7 @@ h1 { font-size:20px; font-weight:700; margin-bottom:4px; }
     <div id="botEquityChart" style="font-size:12px;color:#8b949e;">データ蓄積中...</div>
   </div>
 
-<div id="portfolioDetail" style="font-size:12px;">読み込み中...</div>
+<div id="scalpDetail" style="font-size:12px;">読み込み中...</div>
   </div>
 
   <div class="card">
@@ -320,15 +321,63 @@ async function fetchAll(){
       </div>
     </div>`;
 
-  // 現物ポートフォリオ
-  const posCount = Object.keys(portfolio.positions||{}).length;
-  document.getElementById('portfolioDetail').innerHTML =
-    '<div style="margin-bottom:6px;">保有銘柄: <b style="color:#e6edf3;">'+posCount+'件</b></div>'+
-    '<div>損益: <b style="color:'+(ret>=0?'#22c55e':'#ef4444')+';">¥'+(portfolio.pnl_jpy||0).toLocaleString()+'</b></div>'+
-    (posCount>0?'<div style="margin-top:8px;">'+
-      Object.entries(portfolio.positions||{}).slice(0,5).map(([t,p])=>
-        `<div style="padding:2px 0;border-bottom:1px solid #21262d;">${t}: ${p.shares}株</div>`
-      ).join('')+'</div>':'<div style="color:#8b949e;margin-top:4px;">保有なし</div>');
+  // ⚡ HyperSBI2 スキャルピング結果
+  try {
+    const sc = await loadJSON('scalping_results.json', null);
+    if (sc && sc.summary) {
+      const s = sc.summary, ac = sc.auto_cycle || {};
+      const totColor = s.total_pnl_jpy>=0?'#22c55e':'#ef4444';
+      const manColor = s.manual_pnl_jpy>=0?'#22c55e':'#ef4444';
+      const botColor = s.bot_pnl_jpy>=0?'#22c55e':'#ef4444';
+      const dateEl = document.getElementById('scalpDate');
+      if (dateEl) dateEl.textContent = sc.session_label || sc.session_date || '';
+      document.getElementById('scalpSummary').innerHTML =
+        '<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:8px;">'+
+          '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
+            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">合計損益</div>'+
+            '<div style="font-size:20px;font-weight:800;color:'+totColor+';">¥'+(s.total_pnl_jpy||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.total_trades||0)+'件 / 売買代金 ¥'+((s.turnover_jpy||0)/10000).toLocaleString()+'万</div>'+
+          '</div>'+
+          '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
+            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">手動取引</div>'+
+            '<div style="font-size:18px;font-weight:700;color:'+manColor+';">¥'+(s.manual_pnl_jpy||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.manual_trades||0)+'件 / 勝率 '+(s.manual_winrate_pct||0)+'%</div>'+
+          '</div>'+
+          '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
+            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">Bot自動取引</div>'+
+            '<div style="font-size:18px;font-weight:700;color:'+botColor+';">¥'+(s.bot_pnl_jpy||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.bot_trades||0)+'件 / 勝率 '+(s.bot_winrate_pct||0)+'%</div>'+
+          '</div>'+
+        '</div>';
+      const tech = (sc.tech_milestones||[]).map(t=>'<li style="margin:2px 0;">'+t+'</li>').join('');
+      const issues = (sc.issues||[]).map(t=>'<li style="margin:2px 0;color:#f59e0b;">'+t+'</li>').join('');
+      const next = (sc.next_steps||[]).map(t=>'<li style="margin:2px 0;color:#60a5fa;">'+t+'</li>').join('');
+      document.getElementById('scalpDetail').innerHTML =
+        '<div style="background:#0d1117;border-radius:6px;padding:10px;margin-bottom:8px;">'+
+          '<div style="font-size:11px;color:#8b949e;margin-bottom:4px;">⚙️ 自動サイクル実績 ('+(sc.ticker||'')+')</div>'+
+          '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;font-size:11px;">'+
+            '<div>サイクル: <b style="color:#e6edf3;">'+(ac.cycles_executed||0)+'</b></div>'+
+            '<div>成功率: <b style="color:#22c55e;">'+(ac.success_rate_pct||0)+'%</b></div>'+
+            '<div>約定: <b style="color:#e6edf3;">'+(ac.fills_total||0)+'</b></div>'+
+            '<div>平均: <b style="color:#e6edf3;">'+(ac.avg_cycle_seconds||0)+'秒</b></div>'+
+            '<div>L/S/単独: <b style="color:#e6edf3;">'+(ac.long_cycles||0)+'/'+(ac.short_cycles||0)+'/'+(ac.single_cycles||0)+'</b></div>'+
+            '<div>min latency: <b style="color:#22c55e;">'+(ac.min_latency_ms||0)+'ms</b></div>'+
+            '<div>avg latency: <b style="color:#22c55e;">'+(ac.avg_latency_ms||0)+'ms</b></div>'+
+            '<div>max latency: <b style="color:#e6edf3;">'+(ac.max_latency_ms||0)+'ms</b></div>'+
+          '</div>'+
+        '</div>'+
+        (tech?'<div style="margin-bottom:6px;"><b style="color:#22c55e;">✅ 技術成果</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;color:#c9d1d9;">'+tech+'</ul></div>':'')+
+        (issues?'<div style="margin-bottom:6px;"><b style="color:#f59e0b;">⚠️ 残課題</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;">'+issues+'</ul></div>':'')+
+        (next?'<div style="margin-bottom:4px;"><b style="color:#60a5fa;">🔧 次回 (5/7) 対応</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;">'+next+'</ul></div>':'')+
+        '<div style="font-size:10px;color:#8b949e;margin-top:6px;">プラットフォーム: '+(sc.platform||'')+' / 更新: '+(sc.updated_at||'')+'</div>';
+    } else {
+      document.getElementById('scalpSummary').innerHTML = '<div style="color:#8b949e;">データ未取得</div>';
+      document.getElementById('scalpDetail').innerHTML = '';
+    }
+  } catch(e) {
+    document.getElementById('scalpSummary').innerHTML = '<div style="color:#ef4444;">読込エラー: '+e.message+'</div>';
+    document.getElementById('scalpDetail').innerHTML = '';
+  }
 
   // 信用取引
   const longCount  = Object.keys(margin.positions||{}).length;

@@ -1,0 +1,49 @@
+{
+  "updated_at": "2026-05-01T15:20:00+09:00",
+  "session_date": "2026-05-01",
+  "session_label": "5/1 (金) 全日セッション",
+  "ticker": "7203 (トヨタ自動車)",
+  "platform": "HyperSBI2 + Frida 17.9.1 + 自社proxy",
+  "summary": {
+    "total_pnl_jpy": 9450,
+    "manual_pnl_jpy": 13850,
+    "manual_trades": 138,
+    "bot_pnl_jpy": -4400,
+    "bot_trades": 67,
+    "total_trades": 205,
+    "turnover_jpy": 62000000,
+    "manual_winrate_pct": 69.1,
+    "bot_winrate_pct": 3.0
+  },
+  "auto_cycle": {
+    "cycles_executed": 16,
+    "cycles_success": 16,
+    "success_rate_pct": 100.0,
+    "fills_total": 32,
+    "long_cycles": 5,
+    "short_cycles": 5,
+    "single_cycles": 6,
+    "avg_cycle_seconds": 8.4,
+    "min_latency_ms": 1,
+    "avg_latency_ms": 1.59,
+    "max_latency_ms": 4
+  },
+  "tech_milestones": [
+    "TradeWidget::doOrder (@0x37ef9c) を発見、確認ダイアログ無し即時発注を実現",
+    "Trading::notification (StockFilledOrderNotify) hookを Module.findExportByName で固定、約定捕捉100%",
+    "arm64 強制起動 (arch -arm64) により全hook安定化",
+    "16サイクル連続100%成功、売買両方の自動化を確認",
+    "新規買→約定→区分切替→返済売 のサイクルを 8.4秒/最速約定1-2ms で実行"
+  ],
+  "issues": [
+    "1tick 不利約定 (毎回 -100円) によりbotは構造的に負け - 成行モード/許容値幅の設定起因",
+    "loss_cut も指値で出していた1ケースで -1,000円 のスリップ事故"
+  ],
+  "next_steps": [
+    "利確 = bid1+1tick の指値、損切 = 必ず成行で即決済",
+    "重複発注防止: 既存指値の事前キャンセル",
+    "AX で板情報取得しスプレッド1tickを取りに行く",
+    "1分足モメンタム/レンジ判定でエントリー時間帯を選別",
+    "5/7 (火) 寄付直後に改修版で利益化テスト"
+  ]
+}
