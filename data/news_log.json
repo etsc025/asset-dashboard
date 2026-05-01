@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国股市大幅下落，投资者情绪低迷",
-          "country": "中国",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国股市今日大幅下跌，投资者情绪受到打击。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，债券市场承压",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上涨，对债券市场造成压力。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-27 03:30",
     "data": {
       "breaking_news": [
@@ -8802,6 +8769,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks to tighten monetary policy: High risk"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率小幅上升，对股市影响有限。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，市场反应强烈"
     }
   }
 ]
