@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Announce Interest Rate Hike",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to announce a rate hike, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Introduce Carbon Tax",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union plans to introduce a carbon tax starting next year, expected to affect energy and transportation sectors.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's New Trade Policy",
-          "country": "中国",
-          "category": "Trade",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China is implementing new trade policies aimed at boosting domestic industries, potentially benefiting exporters.",
-          "affected_sectors": [
-            "Exporters",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致加息，市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-27 01:00",
     "data": {
       "breaking_news": [
@@ -8781,6 +8733,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，预计将提振经济和股市。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管担忧，美国科技股普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将进一步加息以控制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管面临经济放缓的压力，欧洲央行仍可能进一步加息。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市波动加剧，投资者需谨慎"
     }
   }
 ]
