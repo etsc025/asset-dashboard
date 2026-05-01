@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调金融机构存款准备金率0.25个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降准，市场反应积极。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致股市波动加大。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降准提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-04-27 02:30",
     "data": {
       "breaking_news": [
@@ -8788,6 +8755,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic recovery expected to accelerate with US Fed rate cut"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 3.75%, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK has raised its base interest rate by 0.25%, signaling a shift towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to boost lending and economic activity.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场关注"
     }
   }
 ]
