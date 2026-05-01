@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided not to change its current interest rate policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed due to trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Markets in Asia have seen a mix of gains and losses due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-04-27 10:30",
     "data": {
       "breaking_news": [
@@ -8823,6 +8775,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新たな経済刺激策が効果を発揮し、中国の主要株価指標が上昇中。"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Key Rate Hikes Expected",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting global markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Europe's Economic Growth Slows: IMF Report",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "IMF reports a slowdown in Europe's economic growth, likely affecting financial markets.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian Markets React to US Rate Decision",
+          "country": "Asia",
+          "category": "Financial Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Asian markets are reacting to the recent US rate decision with mixed results.",
+          "affected_sectors": [
+            "Insurance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks meeting today, potential for significant market movement."
     }
   }
 ]
