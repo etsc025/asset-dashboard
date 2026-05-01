@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q2",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed results from European banks' second quarter earnings reports have investors on edge but not overly concerned.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates to be raised again in September",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bank of England hints at more rate hikes as inflation hits 9%.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns intensify, prompting higher yields and interest rates"
-    }
-  },
-  {
     "timestamp": "2026-04-26 23:30",
     "data": {
       "breaking_news": [
@@ -8792,6 +8746,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息消息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国股市大幅下落，投资者信心受挫",
+          "country": "中国",
+          "category": "股票市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "今日早盘，中国A股主要指数集体低开并持续走跌，引发全球金融市场关注。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元汇率上涨",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受经济数据强劲影响，美国10年期国债收益率攀升至2.35%，提振美元指数。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国股市大幅下落，投资者信心受挫"
     }
   }
 ]
