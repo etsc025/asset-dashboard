@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振股市和楼市。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
-          "affected_sectors": [
-            "股票",
-            "债券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息，提振欧元区经济增长预期。",
-          "affected_sectors": [
-            "金融",
-            "出口导向行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但波动性增加"
-    }
-  },
-  {
     "timestamp": "2026-04-27 01:30",
     "data": {
       "breaking_news": [
@@ -8779,6 +8731,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，投资者需谨慎"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields hit a new high of 3.25% today.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England has decided to raise the base interest rate by 0.25 percentage points, a move seen as supportive for the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank maintains status quo on monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has decided to keep its key interest rates unchanged, citing ongoing economic recovery and inflation concerns.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions could influence global financial markets."
     }
   }
 ]
