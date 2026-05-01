@@ -1,323 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11 08:30",
-    "ticker": "--market",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Foley Brendan M  (CIK 0001644562)",
-            "MCCORMICK & CO INC  (CIK 0000063754)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Woodland Daniel D.  (CIK 0001630039)",
-            "ENTEGRIS INC  (CIK 0001101302)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "CHAUVIERE E CHARLS  (CIK 0001240953)",
-            "HMH Holding Inc  (CIK 0002021880)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Burns James William  (CIK 0001900772)",
-            "AGIOS PHARMACEUTICALS, INC.  (CIK 0001439222)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "STALICK THEODORE R  (CIK 0001240168)",
-            "MERCURY GENERAL CORP  (CIK 0000064996)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-11 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Bowe Patrick E.  (CIK 0001657533)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "MRKONIC GEORGE R JR  (CIK 0001208464)",
-            "Ulta Beauty, Inc.  (CIK 0001403568)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-08",
-          "filer": [
-            "Lucas Shannon  (CIK 0002032356)",
-            "Slide Insurance Holdings, Inc.  (CIK 0001886428)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-09",
-          "filer": [
-            "Glitzer Matthew  (CIK 0001972930)",
-            "Skillsoft Corp.  (CIK 0001774675)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Bohnen Shane  (CIK 0001969581)",
-            "BIO-TECHNE Corp  (CIK 0000842023)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:00",
-    "ticker": "EXPE",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.91（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.91,
-      "pc_ratio_oi": 1.69,
-      "total_put_vol": 819,
-      "total_call_vol": 429
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:00",
-    "ticker": "EXE",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.31（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.31,
-      "pc_ratio_oi": 2.05,
-      "total_put_vol": 208,
-      "total_call_vol": 675
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:01",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-08",
-          "filer": [
-            "Lutnick Brandon  (CIK 0002048880)",
-            "Cantor Fitzgerald Income Trust, Inc.  (CIK 0001666244)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Ringwald Bradley J  (CIK 0001632748)",
-            "CF BANKSHARES INC.  (CIK 0001070680)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Meder Timothy  (CIK 0002012261)",
-            "CF BANKSHARES INC.  (CIK 0001070680)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "McKinney Marianne  (CIK 0001921466)",
-            "CF BANKSHARES INC.  (CIK 0001070680)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-08",
-          "filer": [
-            "Lutnick Brandon  (CIK 0002048880)",
-            "Cantor Fitzgerald Income Trust, Inc.  (CIK 0001666244)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:01",
-    "ticker": "AKAM",
-    "type": "出来高異常（売り抜け疑い）",
-    "level": "HIGH",
-    "message": "出来高2.9倍増加・価格-16.66%下落（機関売り抜けの可能性）",
-    "data": {
-      "vol_ratio": 2.89,
-      "price_change": -16.66
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=4.29（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 4.29,
-      "pc_ratio_oi": 0.96,
-      "total_put_vol": 7319,
-      "total_call_vol": 1707
-    }
-  },
-  {
-    "timestamp": "2026-04-11 22:01",
-    "ticker": "DOW",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=3.33（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 3.33,
-      "pc_ratio_oi": 0.52,
-      "total_put_vol": 11302,
-      "total_call_vol": 3389
-    }
-  },
-  {
-    "timestamp": "2026-04-12 08:30",
-    "ticker": "--market",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Armes Joseph B  (CIK 0001413614)",
-            "CSW INDUSTRIALS, INC.  (CIK 0001624794)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Tzuo Tien  (CIK 0001735409)",
-            "Amplitude, Inc.  (CIK 0001866692)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Fullalove Craig Jeffrey  (CIK 0002126294)",
-            "WYNN RESORTS LTD  (CIK 0001174922)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Pinczuk Ana G.  (CIK 0001689411)",
-            "SentinelOne, Inc.  (CIK 0001583708)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-06",
-          "filer": [
-            "Woodland Daniel D.  (CIK 0001630039)",
-            "ENTEGRIS INC  (CIK 0001101302)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-12 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Bowe Patrick E.  (CIK 0001657533)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "MRKONIC GEORGE R JR  (CIK 0001208464)",
-            "Ulta Beauty, Inc.  (CIK 0001403568)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-08",
-          "filer": [
-            "Lucas Shannon  (CIK 0002032356)",
-            "Slide Insurance Holdings, Inc.  (CIK 0001886428)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-09",
-          "filer": [
-            "Glitzer Matthew  (CIK 0001972930)",
-            "Skillsoft Corp.  (CIK 0001774675)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-04-07",
-          "filer": [
-            "Bohnen Shane  (CIK 0001969581)",
-            "BIO-TECHNE Corp  (CIK 0000842023)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-04-12 22:00",
     "ticker": "DOW",
     "type": "Put/Call比率異常（下落警戒）",
@@ -5115,6 +4797,241 @@
       "pc_ratio_oi": 5.48,
       "total_put_vol": 825,
       "total_call_vol": 2989
+    }
+  },
+  {
+    "timestamp": "2026-05-01 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Butler Ronald Jr  (CIK 0002010249)",
+            "i-80 Gold Corp.  (CIK 0001853962)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "HUTCHESON STEWART D  (CIK 0001223761)",
+            "InterDigital, Inc.  (CIK 0001405495)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Thompson Rebecca  (CIK 0001565768)",
+            "AAON, INC.  (CIK 0000824142)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Nagpal Ankur  (CIK 0002126229)",
+            "USVC Venture Capital Access Fund  (CIK 0001858660)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-24",
+          "filer": [
+            "Burdman Lee J.  (CIK 0001519346)",
+            "WESBANCO INC  (CIK 0000203596)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Douglas Gary A.  (CIK 0001861492)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Bowe Patrick E.  (CIK 0001657533)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-27",
+          "filer": [
+            "Hershberger Pamela S  (CIK 0001795702)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "Wirfel Michelle  (CIK 0001807459)",
+            "California BanCorp \\ CA  (CIK 0001795815)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.54（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.54,
+      "pc_ratio_oi": 1.66,
+      "total_put_vol": 957,
+      "total_call_vol": 621
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:00",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.12（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.12,
+      "pc_ratio_oi": 0.42,
+      "total_put_vol": 878,
+      "total_call_vol": 7150
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:01",
+    "ticker": "KLAC",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.2倍（5日平均比1.7倍）",
+    "data": {
+      "vol_ratio": 2.2
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:01",
+    "ticker": "EXPE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.44（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.44,
+      "pc_ratio_oi": 2.23,
+      "total_put_vol": 820,
+      "total_call_vol": 1884
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:01",
+    "ticker": "600886.SS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.6倍（5日平均比2.5倍）",
+    "data": {
+      "vol_ratio": 2.65
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:01",
+    "ticker": "0998.HK",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.4倍（5日平均比1.7倍）",
+    "data": {
+      "vol_ratio": 2.36
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:02",
+    "ticker": "CF",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "TOELLE MICHAEL  (CIK 0001265959)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "Williams Trevor Leigh  (CIK 0002126598)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "Ahmed Javed  (CIK 0001761339)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "Ellerbusch Susan A  (CIK 0001744472)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-04-30",
+          "filer": [
+            "White Celso L.  (CIK 0001565937)",
+            "CF Industries Holdings, Inc.  (CIK 0001324404)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:02",
+    "ticker": "CF",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.47（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.47,
+      "pc_ratio_oi": 0.66,
+      "total_put_vol": 1409,
+      "total_call_vol": 3014
     }
   }
 ]
