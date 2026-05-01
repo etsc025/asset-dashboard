@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new fiscal measures aimed at supporting the economy and reducing unemployment.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to increase liquidity and support economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国金融政策变动加大市场波动风险"
-    }
-  },
-  {
     "timestamp": "2026-04-27 13:00",
     "data": {
       "breaking_news": [
@@ -8847,6 +8801,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economy recovery on track despite challenges"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates unchanged",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current rate levels, signaling no imminent changes.",
+          "affected_sectors": [
+            "Monetary Policy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "RQR cut supports liquidity in Chinese financial markets, boosting growth expectations.",
+          "affected_sectors": [
+            "Bond Market",
+            "Equities"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持利率不变，中国放宽信贷政策"
     }
   }
 ]
