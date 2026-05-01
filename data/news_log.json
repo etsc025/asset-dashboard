@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US 10-year Treasury yield fell to a record low of 0.53% as investors remain cautious about the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government announced a new £20 billion fiscal stimulus to boost economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors cautious as yields hit record low"
-    }
-  },
-  {
     "timestamp": "2026-04-27 21:30",
     "data": {
       "breaking_news": [
@@ -8844,6 +8810,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策变动，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced new fiscal policies to stabilize the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank raises interest rates for first time in years",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has raised interest rates, signaling a shift towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation and economic uncertainty."
     }
   }
 ]
