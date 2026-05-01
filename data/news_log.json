@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将基准利率上调75个基点，加剧市场波动。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) by 0.25 percentage point",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国人民银行下调存款准备金率0.25个百分点，旨在缓解流动性压力。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-27 06:30",
     "data": {
       "breaking_news": [
@@ -8797,6 +8764,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates at 0.25%",
+          "country": "Europe",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has decided to keep interest rates unchanged for now.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed as China's PMI hits 49.2",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing activity has slowed slightly, but remains above the threshold for contraction.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates to remain stable until inflation eases"
     }
   }
 ]
