@@ -302,55 +302,103 @@ async function fetchAll(){
       </div>
     </div>`;
 
-  // ⚡ HyperSBI2 スキャルピング結果
+  // ⚡ HyperSBI2 スキャルピング結果 (4/27〜の累計)
   try {
     const sc = await loadJSON('scalping_results.json', null);
     if (sc && sc.summary) {
-      const s = sc.summary, ac = sc.auto_cycle || {};
+      const s = sc.summary, ac = sc.auto_cycle || {}, daily = sc.daily || [];
       const totColor = s.total_pnl_jpy>=0?'#22c55e':'#ef4444';
-      const manColor = s.manual_pnl_jpy>=0?'#22c55e':'#ef4444';
-      const botColor = s.bot_pnl_jpy>=0?'#22c55e':'#ef4444';
       const dateEl = document.getElementById('scalpDate');
-      if (dateEl) dateEl.textContent = sc.session_label || sc.session_date || '';
+      if (dateEl) dateEl.textContent = (sc.period_start||'') + ' 〜 ' + (sc.period_end||'') + ' 累計';
+
+      // 日別合計
+      const byDate = {};
+      daily.forEach(d => { byDate[d.date] = (byDate[d.date]||0) + d.pnl; });
+      const dailySorted = Object.entries(byDate).sort();
+
       document.getElementById('scalpSummary').innerHTML =
-        '<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:8px;">'+
+        '<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:8px;margin-bottom:10px;">'+
           '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
-            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">合計損益</div>'+
-            '<div style="font-size:20px;font-weight:800;color:'+totColor+';">¥'+(s.total_pnl_jpy||0).toLocaleString()+'</div>'+
-            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.total_trades||0)+'件 / 売買代金 ¥'+((s.turnover_jpy||0)/10000).toLocaleString()+'万</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">累計損益 (公式)</div>'+
+            '<div style="font-size:22px;font-weight:800;color:'+totColor+';">¥'+(s.total_pnl_jpy||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(sc.trading_days||0)+'営業日 / SBI公式値</div>'+
           '</div>'+
           '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
-            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">手動取引</div>'+
-            '<div style="font-size:18px;font-weight:700;color:'+manColor+';">¥'+(s.manual_pnl_jpy||0).toLocaleString()+'</div>'+
-            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.manual_trades||0)+'件 / 勝率 '+(s.manual_winrate_pct||0)+'%</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">総約定</div>'+
+            '<div style="font-size:18px;font-weight:700;color:#e6edf3;">'+(s.total_orders||0)+'件</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">決済'+(s.total_settles||0)+'</div>'+
           '</div>'+
           '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
-            '<div style="font-size:10px;color:#8b949e;margin-bottom:2px;">Bot自動取引</div>'+
-            '<div style="font-size:18px;font-weight:700;color:'+botColor+';">¥'+(s.bot_pnl_jpy||0).toLocaleString()+'</div>'+
-            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.bot_trades||0)+'件 / 勝率 '+(s.bot_winrate_pct||0)+'%</div>'+
+            '<div style="font-size:10px;color:#22c55e;margin-bottom:2px;">最高益 (1銘柄/日)</div>'+
+            '<div style="font-size:16px;font-weight:700;color:#22c55e;">+¥'+(s.best_day_pnl||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.best_day_label||'')+'</div>'+
+          '</div>'+
+          '<div style="background:#0d1117;border-radius:6px;padding:10px;">'+
+            '<div style="font-size:10px;color:#ef4444;margin-bottom:2px;">最大損失 (1銘柄/日)</div>'+
+            '<div style="font-size:16px;font-weight:700;color:#ef4444;">¥'+(s.worst_day_pnl||0).toLocaleString()+'</div>'+
+            '<div style="font-size:10px;color:#8b949e;margin-top:2px;">'+(s.worst_day_label||'')+'</div>'+
           '</div>'+
         '</div>';
+
+      // 日別サマリバー
+      const dayBars = dailySorted.map(([d, pnl]) => {
+        const c = pnl>=0?'#22c55e':'#ef4444';
+        return '<div style="display:flex;align-items:center;gap:8px;padding:3px 0;font-size:11px;">'+
+               '<div style="width:90px;color:#8b949e;">'+d+'</div>'+
+               '<div style="flex:1;background:#0d1117;border-radius:3px;height:14px;position:relative;">'+
+                 '<div style="position:absolute;top:0;'+(pnl>=0?'left:50%':'right:50%')+';height:14px;background:'+c+';width:'+Math.min(50, Math.abs(pnl)/300)+'%;"></div>'+
+                 '<div style="position:absolute;top:0;left:50%;width:1px;height:14px;background:#30363d;"></div>'+
+               '</div>'+
+               '<div style="width:80px;text-align:right;color:'+c+';font-weight:700;">¥'+(pnl>=0?'+':'')+pnl.toLocaleString()+'</div>'+
+               '</div>';
+      }).join('');
+
+      // 銘柄別テーブル
+      const tableRows = daily.sort((a,b)=> a.date.localeCompare(b.date) || b.pnl-a.pnl).map(d => {
+        const c = d.pnl>=0?'#22c55e':'#ef4444';
+        return '<tr style="border-bottom:1px solid #21262d;">'+
+               '<td style="padding:3px 6px;color:#8b949e;">'+d.date.slice(5)+'</td>'+
+               '<td style="padding:3px 6px;color:#e6edf3;">'+d.ticker+'</td>'+
+               '<td style="padding:3px 6px;color:#8b949e;font-size:10px;">'+(d.name||'')+'</td>'+
+               '<td style="padding:3px 6px;text-align:right;color:#e6edf3;">'+d.fills+'</td>'+
+               '<td style="padding:3px 6px;text-align:right;color:'+c+';font-weight:700;">¥'+(d.pnl>=0?'+':'')+d.pnl.toLocaleString()+'</td>'+
+               '</tr>';
+      }).join('');
+
       const tech = (sc.tech_milestones||[]).map(t=>'<li style="margin:2px 0;">'+t+'</li>').join('');
       const issues = (sc.issues||[]).map(t=>'<li style="margin:2px 0;color:#f59e0b;">'+t+'</li>').join('');
       const next = (sc.next_steps||[]).map(t=>'<li style="margin:2px 0;color:#60a5fa;">'+t+'</li>').join('');
+
       document.getElementById('scalpDetail').innerHTML =
-        '<div style="background:#0d1117;border-radius:6px;padding:10px;margin-bottom:8px;">'+
-          '<div style="font-size:11px;color:#8b949e;margin-bottom:4px;">⚙️ 自動サイクル実績 ('+(sc.ticker||'')+')</div>'+
+        '<div style="background:#0d1117;border-radius:6px;padding:10px;margin-bottom:10px;">'+
+          '<div style="font-size:11px;color:#8b949e;margin-bottom:6px;">📅 日別損益</div>'+
+          dayBars +
+        '</div>'+
+        '<div style="background:#0d1117;border-radius:6px;padding:10px;margin-bottom:10px;overflow-x:auto;">'+
+          '<div style="font-size:11px;color:#8b949e;margin-bottom:4px;">📋 銘柄別 内訳</div>'+
+          '<table style="width:100%;border-collapse:collapse;font-size:11px;">'+
+            '<thead><tr style="border-bottom:1px solid #30363d;color:#8b949e;font-size:10px;">'+
+              '<th style="padding:4px 6px;text-align:left;">日付</th>'+
+              '<th style="padding:4px 6px;text-align:left;">code</th>'+
+              '<th style="padding:4px 6px;text-align:left;">銘柄</th>'+
+              '<th style="padding:4px 6px;text-align:right;">約定</th>'+
+              '<th style="padding:4px 6px;text-align:right;">損益</th>'+
+            '</tr></thead><tbody>'+tableRows+'</tbody>'+
+          '</table>'+
+        '</div>'+
+        '<div style="background:#0d1117;border-radius:6px;padding:10px;margin-bottom:10px;">'+
+          '<div style="font-size:11px;color:#8b949e;margin-bottom:4px;">⚙️ 自動サイクル実績 (5/1)</div>'+
           '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;font-size:11px;">'+
             '<div>サイクル: <b style="color:#e6edf3;">'+(ac.cycles_executed||0)+'</b></div>'+
             '<div>成功率: <b style="color:#22c55e;">'+(ac.success_rate_pct||0)+'%</b></div>'+
             '<div>約定: <b style="color:#e6edf3;">'+(ac.fills_total||0)+'</b></div>'+
-            '<div>平均: <b style="color:#e6edf3;">'+(ac.avg_cycle_seconds||0)+'秒</b></div>'+
-            '<div>L/S/単独: <b style="color:#e6edf3;">'+(ac.long_cycles||0)+'/'+(ac.short_cycles||0)+'/'+(ac.single_cycles||0)+'</b></div>'+
-            '<div>min latency: <b style="color:#22c55e;">'+(ac.min_latency_ms||0)+'ms</b></div>'+
-            '<div>avg latency: <b style="color:#22c55e;">'+(ac.avg_latency_ms||0)+'ms</b></div>'+
-            '<div>max latency: <b style="color:#e6edf3;">'+(ac.max_latency_ms||0)+'ms</b></div>'+
+            '<div>平均latency: <b style="color:#22c55e;">'+(ac.avg_latency_ms||0)+'ms</b></div>'+
           '</div>'+
         '</div>'+
         (tech?'<div style="margin-bottom:6px;"><b style="color:#22c55e;">✅ 技術成果</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;color:#c9d1d9;">'+tech+'</ul></div>':'')+
         (issues?'<div style="margin-bottom:6px;"><b style="color:#f59e0b;">⚠️ 残課題</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;">'+issues+'</ul></div>':'')+
         (next?'<div style="margin-bottom:4px;"><b style="color:#60a5fa;">🔧 次回 (5/7) 対応</b><ul style="margin:4px 0 0 18px;padding:0;font-size:11px;">'+next+'</ul></div>':'')+
-        '<div style="font-size:10px;color:#8b949e;margin-top:6px;">プラットフォーム: '+(sc.platform||'')+' / 更新: '+(sc.updated_at||'')+'</div>';
+        '<div style="font-size:10px;color:#8b949e;margin-top:6px;">データソース: '+(sc.data_source||'')+' / 更新: '+(sc.updated_at||'')+'</div>';
     } else {
       document.getElementById('scalpSummary').innerHTML = '<div style="color:#8b949e;">データ未取得</div>';
       document.getElementById('scalpDetail').innerHTML = '';

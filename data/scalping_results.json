@@ -1,49 +1,56 @@
 {
-  "updated_at": "2026-05-01T15:20:00+09:00",
-  "session_date": "2026-05-01",
-  "session_label": "5/1 (金) 全日セッション",
-  "ticker": "7203 (トヨタ自動車)",
+  "updated_at": "2026-05-02T08:30:00+09:00",
+  "period_start": "2026-04-27",
+  "period_end": "2026-05-01",
+  "trading_days": 4,
   "platform": "HyperSBI2 + Frida 17.9.1 + 自社proxy",
+  "data_source": "SBI証券 約定履歴 (受渡金額・決済損益 公式値)",
   "summary": {
-    "total_pnl_jpy": 9450,
-    "manual_pnl_jpy": 13850,
-    "manual_trades": 138,
-    "bot_pnl_jpy": -4400,
-    "bot_trades": 67,
-    "total_trades": 205,
-    "turnover_jpy": 62000000,
-    "manual_winrate_pct": 69.1,
-    "bot_winrate_pct": 3.0
+    "total_pnl_jpy": 6751,
+    "total_orders": 688,
+    "total_settles": 344,
+    "best_day_pnl": 15770,
+    "best_day_label": "5/1 7203 (264約定)",
+    "worst_day_pnl": -5660,
+    "worst_day_label": "4/27 6954 (10約定)"
   },
+  "daily": [
+    {"date": "2026-04-27", "ticker": "6954", "name": "ファナック", "fills": 10, "pnl": -5660},
+    {"date": "2026-04-27", "ticker": "7203", "name": "トヨタ自動車", "fills": 20, "pnl": 470},
+    {"date": "2026-04-28", "ticker": "1942", "name": "関電工", "fills": 2, "pnl": -3970},
+    {"date": "2026-04-28", "ticker": "7203", "name": "トヨタ自動車", "fills": 30, "pnl": 1300},
+    {"date": "2026-04-30", "ticker": "1671", "name": "WTI原油ETF", "fills": 4, "pnl": 201},
+    {"date": "2026-04-30", "ticker": "3436", "name": "SUMCO", "fills": 318, "pnl": 740},
+    {"date": "2026-04-30", "ticker": "6472", "name": "NTN", "fills": 2, "pnl": 30},
+    {"date": "2026-04-30", "ticker": "7203", "name": "トヨタ自動車", "fills": 36, "pnl": -2270},
+    {"date": "2026-05-01", "ticker": "3436", "name": "SUMCO", "fills": 2, "pnl": 140},
+    {"date": "2026-05-01", "ticker": "7203", "name": "トヨタ自動車", "fills": 264, "pnl": 15770}
+  ],
   "auto_cycle": {
     "cycles_executed": 16,
     "cycles_success": 16,
     "success_rate_pct": 100.0,
     "fills_total": 32,
-    "long_cycles": 5,
-    "short_cycles": 5,
-    "single_cycles": 6,
-    "avg_cycle_seconds": 8.4,
     "min_latency_ms": 1,
     "avg_latency_ms": 1.59,
     "max_latency_ms": 4
   },
   "tech_milestones": [
-    "TradeWidget::doOrder (@0x37ef9c) を発見、確認ダイアログ無し即時発注を実現",
-    "Trading::notification (StockFilledOrderNotify) hookを Module.findExportByName で固定、約定捕捉100%",
-    "arm64 強制起動 (arch -arm64) により全hook安定化",
-    "16サイクル連続100%成功、売買両方の自動化を確認",
-    "新規買→約定→区分切替→返済売 のサイクルを 8.4秒/最速約定1-2ms で実行"
+    "TradeWidget::doOrder (@0x37ef9c) 発見、確認ダイアログ無し即時発注",
+    "Trading::notification (StockFilledOrderNotify) hookで約定捕捉100%",
+    "arm64 強制起動 (arch -arm64) で全hook安定化",
+    "5/1 16サイクル連続100%成功 (latency 1-2ms)",
+    "SBI証券 約定履歴 CSVベースの確定損益管理を確立"
   ],
   "issues": [
-    "1tick 不利約定 (毎回 -100円) によりbotは構造的に負け - 成行モード/許容値幅の設定起因",
-    "loss_cut も指値で出していた1ケースで -1,000円 のスリップ事故"
+    "4/27 6954 (-5,660) と 4/28 1942 (-3,970) で大損失 → ボラ高銘柄での損切ロジック未整備",
+    "4/30 7203 (-2,270) は1tick不利約定の構造的負け (成行/許容値幅)",
+    "Frida hook FAIL期間の取りこぼし対策必要 (5/1 朝場発生)"
   ],
   "next_steps": [
     "利確 = bid1+1tick の指値、損切 = 必ず成行で即決済",
     "重複発注防止: 既存指値の事前キャンセル",
-    "AX で板情報取得しスプレッド1tickを取りに行く",
-    "1分足モメンタム/レンジ判定でエントリー時間帯を選別",
-    "5/7 (火) 寄付直後に改修版で利益化テスト"
+    "ボラ高銘柄 (6954等) は対象外、7203/3436 中心に集中",
+    "5/7 (火) 改修版 bot_main_v2 で利益化テスト"
   ]
 }
