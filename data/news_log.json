@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new trade restrictions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries are implementing stricter sanctions against Russian imports and exports.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU to impose new trade restrictions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-04-27 08:00",
     "data": {
       "breaking_news": [
@@ -8798,6 +8763,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to announce interest rate decision tomorrow",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to raise interest rates, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new economic stimulus package",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU leaders have approved a new economic support plan to boost growth and employment.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, potentially easing credit conditions.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
     }
   }
 ]
