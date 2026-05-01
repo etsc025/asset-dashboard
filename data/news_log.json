@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售，纳斯达克指数下跌2.5%",
-          "country": "美国",
-          "category": "股票市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受业绩不佳和监管压力影响，美国科技股普遍下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上决定维持当前的利率水平不变。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-04-27 04:30",
     "data": {
       "breaking_news": [
@@ -8789,6 +8743,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise rates by 75 basis points in December meeting",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to increase interest rates by 75 basis points at its upcoming meeting.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia for invasion of Ukraine",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia in response to the ongoing conflict.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the required reserves for commercial banks to boost liquidity.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場緊張度高、慎重投資"
     }
   }
 ]
