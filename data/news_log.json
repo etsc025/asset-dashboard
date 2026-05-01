@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Alibaba Group to Launch New E-commerce Platform in India",
-          "country": "India",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Alibaba Group is set to enter the Indian e-commerce market with a new platform, potentially boosting local startups and investors.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Fed to Announce Interest Rate Hike Tomorrow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to raise interest rates, which could impact global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Implement New Data Protection Regulations",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New data protection regulations are set to be implemented in the EU, affecting tech companies and privacy.",
-          "affected_sectors": [
-            "Tech",
-            "Privacy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected tomorrow"
-    }
-  },
-  {
     "timestamp": "2026-04-27 11:00",
     "data": {
       "breaking_news": [
@@ -8823,6 +8775,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks meeting today, potential for significant market movement."
+    }
+  },
+  {
+    "timestamp": "2026-05-01 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对市场情绪影响中等。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升导致股市出现波动，投资者情绪偏向乐观。",
+          "affected_sectors": [
+            "股票"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，对市场影响较小。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升，股市波动加剧"
     }
   }
 ]
