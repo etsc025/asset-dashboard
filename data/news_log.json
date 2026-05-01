@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Stock Markets Rally as US Jobs Data Beats Expectations",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US jobs data exceeded expectations, boosting stock markets across the globe.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Central Bank Keeps Interest Rates Steady",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current interest rates as expected, no significant market impact.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US jobs data beats expectations, stocks rally globally."
-    }
-  },
-  {
     "timestamp": "2026-04-27 11:30",
     "data": {
       "breaking_news": [
@@ -8820,6 +8787,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国国债收益率上升，股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "欧洲",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行在第三季度的收益报告中显示出好坏参半的结果。这可能对市场情绪产生影响，但不会引发极端波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低了存款准备金率，以支持经济增长。这可能对市场产生温和影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持稳定"
     }
   }
 ]
