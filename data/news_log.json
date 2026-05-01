@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Rise as Inflation Concerns Persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting ongoing concerns about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound Weakens Against USD amid Brexit Uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK pound weakened against the US dollar, adding to market uncertainty following Brexit negotiations.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's Stock Market Rises on Policy Easing",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rose as the government announced easing measures to support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策動向と市場動向を注視中"
-    }
-  },
-  {
     "timestamp": "2026-04-27 07:30",
     "data": {
       "breaking_news": [
@@ -8799,6 +8751,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed's interest rate decision looms large"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, a significant move in their fight against inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is set to introduce new regulations aimed at enhancing data privacy and security, potentially impacting tech companies.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the required reserves for banks, which is expected to boost lending and economic activity.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策動向に注意が必要です。"
     }
   }
 ]
