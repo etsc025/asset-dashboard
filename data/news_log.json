@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the third time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten privacy protections and compliance requirements.",
-          "affected_sectors": [
-            "Tech Companies"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech sector faces new regulatory challenges",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH/BEARISH DEPENDENT ON REGULATIONS",
-          "summary": "The Chinese government is reviewing its tech policies, which could impact major companies.",
-          "affected_sectors": [
-            "Tech Companies"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and regulatory challenges pose risks to global markets."
-    }
-  },
-  {
     "timestamp": "2026-04-27 09:00",
     "data": {
       "breaking_news": [
@@ -8822,6 +8777,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-01 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's volatility hits record high as central banks tighten monetary policy",
+          "country": "USA",
+          "category": "ECONOMY",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Federal Reserve's rate hike announcement sent shockwaves through the global financial markets, pushing Bitcoin to new all-time highs.",
+          "affected_sectors": [
+            "FINANCE",
+            "CRYPTOCURRENCY"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields surge amid economic uncertainty",
+          "country": "UK",
+          "category": "ECONOMY",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising interest rates and geopolitical tensions are causing investors to seek safer assets, pushing government bond yields higher.",
+          "affected_sectors": [
+            "FINANCE"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stocks edge lower as China's PMI misses expectations",
+          "country": "China",
+          "category": "ECONOMY",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Weak Chinese manufacturing data has dampened investor sentiment, but the market is cautiously optimistic.",
+          "affected_sectors": [
+            "FINANCE"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed's rate hike could lead to financial instability"
     }
   }
 ]
