@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，引发市场乐观情绪",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%",
-          "country": "美国",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对科技巨头财报的担忧，纳斯达克指数大幅下滑。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持利率不变，欧洲央行表示未来可能会考虑降息以刺激经济。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-04-28 10:00",
     "data": {
       "breaking_news": [
@@ -8818,6 +8772,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季开局强劲而上涨",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "主要股指普遍上扬，投资者信心增强。",
+          "affected_sectors": [
+            "金融业",
+            "科技业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑在2023年加息以对抗通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "市场预期欧央行可能采取紧缩政策，对股市构成压力。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济信心"
     }
   }
 ]
