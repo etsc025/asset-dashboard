@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data release",
-          "country": "USA",
-          "category": "经济数据发布",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上涨，受最新经济数据影响。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European banks see positive outlook despite Brexit uncertainty",
-          "country": "欧洲",
-          "category": "Brexit不确定性",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "尽管存在英国退欧的不确定性，欧洲银行仍保持乐观前景。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally as China's PMI exceeds expectations",
-          "country": "亚洲",
-          "category": "中国PMI超过预期",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "由于中国采购经理人指数超出预期，亚洲股市普遍上涨。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "英国退欧不确定性影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-04-28 02:00",
     "data": {
       "breaking_news": [
@@ -8835,6 +8790,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike could lead to economic volatility"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 13:08",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘即遭遇抛售，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策利好市场"
     }
   }
 ]
