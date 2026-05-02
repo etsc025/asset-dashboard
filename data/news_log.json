@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布LPR下调，对股市和房地产市场可能带来积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升至3%以上",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率的上升可能导致投资者转向风险较高的资产，对股市构成压力。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布将结束QE计划",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布结束量化宽松政策，市场反应较为平静。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升对股市构成压力"
-    }
-  },
-  {
     "timestamp": "2026-04-28 14:30",
     "data": {
       "breaking_news": [
@@ -8788,6 +8741,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push US 10-year yield above 3.5% for first time in months."
+    }
+  },
+  {
+    "timestamp": "2026-05-03 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将进一步加息，影响金融市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "地缘政治",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟对俄罗斯实施新制裁，可能引发市场波动。",
+          "affected_sectors": [
+            "能源行业",
+            "金融行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低存款准备金率，对经济影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统进一步加息"
     }
   }
 ]
