@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Bond Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto trading platform for anti-money laundering violations",
-          "country": "EU",
-          "category": "Technology & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union authorities probe a crypto firm for compliance issues.",
-          "affected_sectors": [
-            "Cryptocurrency Trading Platforms"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates to remain unchanged in Q2 2023",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "No change expected in UK interest rates for the second quarter of 2023.",
-          "affected_sectors": [
-            "Banking & Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU regulators investigate crypto trading platform"
-    }
-  },
-  {
     "timestamp": "2026-04-28 13:00",
     "data": {
       "breaking_news": [
@@ -8799,6 +8754,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets remain volatile due to economic uncertainties."
+    }
+  },
+  {
+    "timestamp": "2026-05-02 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts to curb rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank raises interest rates for third time this year",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB's rate hike aims to tame inflation but risks slowing growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on ECB interest rate hike"
     }
   }
 ]
