@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose above 3.2%, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cut interest rates, aiming to stimulate the UK economy amid Brexit uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China reduced the reserve requirement ratio, aiming to ease liquidity and support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-04-27 22:30",
     "data": {
       "breaking_news": [
@@ -8844,6 +8796,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，可能影响市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Rate Hikes Expected",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to announce rate hikes, affecting bond and equity markets.",
+          "affected_sectors": [
+            "Bond Market",
+            "Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank Signals Interest Rate Hike",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's statement suggests a possible interest rate hike, impacting Eurozone economies.",
+          "affected_sectors": [
+            "Eurozone Bond Market",
+            "Eurozone Equity Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian Central Banks Meeting: Mixed Signals on Interest Rates",
+          "country": "Asia",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Central banks in Asia are expected to maintain current interest rates, with mixed signals affecting regional financial markets.",
+          "affected_sectors": [
+            "Asian Bond Markets",
+            "Asian Equity Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central bank actions could shift market direction."
     }
   }
 ]
