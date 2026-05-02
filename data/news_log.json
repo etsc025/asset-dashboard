@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市连续五天上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国股市连续五天上涨，科技股表现尤为亮眼。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股指普遍上涨"
-    }
-  },
-  {
     "timestamp": "2026-04-28 06:30",
     "data": {
       "breaking_news": [
@@ -8781,6 +8748,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国中央銀行が人民元の為替レートを調整",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国中央銀行が人民元の為替レートを調整、市場は静観する展開",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債利回り上昇、株価への影響懸念",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国債利回りの上昇が株価に影響を及ぼす可能性、市場は警戒感高まる",
+          "affected_sectors": [
+            "金融",
+            "証券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国債利回り上昇で株価に影響懸念"
     }
   }
 ]
