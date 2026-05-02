@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield hits 3.95% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European Central Bank suggests interest rates may rise soon, pressuring stock markets.",
-          "affected_sectors": [
-            "Financial Services",
-            "Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI hits record low amid pandemic recovery",
-          "country": "中国",
-          "category": "Economy Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese Purchasing Managers' Index (PMI) falls to 49.0, below the neutral level.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank hints at rate hike"
-    }
-  },
-  {
     "timestamp": "2026-04-27 23:00",
     "data": {
       "breaking_news": [
@@ -8844,6 +8798,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central bank actions could shift market direction."
+    }
+  },
+  {
+    "timestamp": "2026-05-02 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a fresh high of 3.78% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised down",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK Office for National Statistics (ONS) lowers its 2023 GDP growth forecast to 1.5% from 1.8% due to supply chain disruptions.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin crashes amid regulatory concerns",
+          "country": "USA",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Bitcoin drops over 7% in a single day, partly due to new US regulations on stablecoins.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行会议临近，市场关注加息风险"
     }
   }
 ]
