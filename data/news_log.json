@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市开盘后遭遇抛售潮，科技股领跌。",
-          "affected_sectors": [
-            "科技业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布将加息0.25个百分点",
-          "country": "欧盟成员国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行宣布将加息0.25个百分点，提振欧元区经济增长预期。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘后遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-04-28 12:00",
     "data": {
       "breaking_news": [
@@ -8810,6 +8764,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike uncertainty weighs on markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能影响股市和债市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率的上升暗示经济增长预期增强，对股票市场构成压力。",
+          "affected_sectors": [
+            "金融/科技"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响金融市场"
     }
   }
 ]
