@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts rates but warns of potential liquidity problems.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Central bank cut RRR, aiming to ease credit conditions and support growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策变动可能影响市场，投资者需谨慎。"
-    }
-  },
-  {
     "timestamp": "2026-04-28 02:30",
     "data": {
       "breaking_news": [
@@ -8824,6 +8776,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策利好市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals readiness to raise interest rates, amid rising inflation.",
+          "affected_sectors": [
+            "Monetary Policy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks under pressure",
+          "country": "全球",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Tech sector faces sell-off as investors worry about economic slowdown.",
+          "affected_sectors": [
+            "Stock Market"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "经济放缓担忧下科技股承压"
     }
   }
 ]
