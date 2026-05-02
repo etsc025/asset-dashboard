@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，投资者担忧经济增长放缓。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者对经济前景的信心增强。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响显著"
-    }
-  },
-  {
     "timestamp": "2026-04-28 01:00",
     "data": {
       "breaking_news": [
@@ -8844,6 +8811,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振股市信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 12:02",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut the RRR for banks by 0.25 percentage points, aiming to boost lending and economic activity.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed hikes rates, Chinese央行 cuts RRR"
     }
   }
 ]
