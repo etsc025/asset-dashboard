@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike in September",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB suggests a potential interest rate increase in September but no concrete decision has been made yet.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains as economic data improves",
-          "country": "CHN",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive economic indicators have boosted investor confidence and led to a rise in China's stock market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with potential risks."
-    }
-  },
-  {
     "timestamp": "2026-04-28 11:30",
     "data": {
       "breaking_news": [
@@ -8808,6 +8763,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步调整货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-05-02 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, economy outlook uncertain",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, adding uncertainty to the economic outlook.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "The European Union has imposed new sanctions on Russia, potentially impacting energy and financial sectors.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, signaling a potential easing of monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike uncertainty weighs on markets"
     }
   }
 ]
