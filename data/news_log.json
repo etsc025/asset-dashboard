@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond & Interest Rates",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downwards",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK's economic outlook has been downgraded due to Brexit uncertainties.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "To support the economy, China's central bank has cut its reserve requirement ratio.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-04-28 00:30",
     "data": {
       "breaking_news": [
@@ -8844,6 +8798,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation and economic uncertainty."
+    }
+  },
+  {
+    "timestamp": "2026-05-02 11:43",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振股市和楼市信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳及监管压力，美国科技巨头股价集体下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行对是否加息保持观望态度，市场反应平淡。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振股市信心"
     }
   }
 ]
