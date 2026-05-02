@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU imposes new sanctions on Russia amid ongoing conflict in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Revised forecast suggests China's economy is recovering but at a slower pace than expected.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could escalate tensions."
-    }
-  },
-  {
     "timestamp": "2026-04-28 20:30",
     "data": {
       "breaking_news": [
@@ -8794,6 +8746,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as central banks tighten monetary policy."
+    }
+  },
+  {
+    "timestamp": "2026-05-03 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市回调。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率的上升表明投资者对经济前景的信心增强，利好股市表现。",
+          "affected_sectors": [
+            "金融业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，市场需警惕"
     }
   }
 ]
