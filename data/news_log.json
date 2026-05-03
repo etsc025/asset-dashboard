@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布下调基准利率，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头裁员计划公布",
-          "country": "美国",
-          "category": "企业动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "谷歌母公司Alphabet宣布将裁减10%的员工，对市场情绪造成负面影响。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但需警惕企业裁员风险"
-    }
-  },
-  {
     "timestamp": "2026-04-29 07:00",
     "data": {
       "breaking_news": [
@@ -8817,6 +8783,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on positive economic data"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Yield Curve",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95%, up from 2.75% last month.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current interest rate at 0.25% for another meeting.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on economic data release",
+          "country": "中国",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "A-share index up 1.8% after GDP growth exceeded expectations.",
+          "affected_sectors": [
+            "Financial Services Industry"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，市场情绪乐观"
     }
   }
 ]
