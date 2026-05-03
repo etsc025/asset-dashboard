@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季表现强劲而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于多家大型公司发布良好财报，美股普遍上涨。",
-          "affected_sectors": [
-            "科技股",
-            "金融股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上保持利率不变，但表示可能会在未来几个月内降低利率。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市因财报季表现强劲而上涨"
-    }
-  },
-  {
     "timestamp": "2026-04-29 08:00",
     "data": {
       "breaking_news": [
@@ -8826,6 +8778,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预示着宽松的货币政策将对股市和房地产市场产生积极影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受财报不佳和监管压力的影响，美国科技股今日大幅下挫，纳斯达克指数下跌1.5%，对整个科技板块造成负面影响。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "尽管市场预期欧洲央行可能降息，但最终决定维持当前利率不变，对金融市场影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
