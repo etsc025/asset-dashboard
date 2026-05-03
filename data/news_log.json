@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息，股市上涨",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期股市将上涨。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "利率与货币",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升导致市场波动，但对整体经济影响有限。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，欧元区股市小幅下跌",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "尽管欧洲央行保持利率不变，但市场仍担心经济增长放缓。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-29 14:00",
     "data": {
       "breaking_news": [
@@ -8815,6 +8770,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU regulators investigating major crypto exchange for AML violations"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to announce rate decision",
+          "country": "EU",
+          "category": "Central Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to maintain its current monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed on trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian equity indices due to ongoing US-China trade disputes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation and trade tensions."
     }
   }
 ]
