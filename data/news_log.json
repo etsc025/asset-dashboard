@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch amid stress tests",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European banks are facing a potential liquidity squeeze as regulators conduct stress tests.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio for banks, easing liquidity constraints.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-04-29 06:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8769,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场关注"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USD/JPY exchange rate hits all-time high",
+          "country": "Japan",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Japanese Yen weakened against USD, impacting Japanese economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central Bank of China announces interest rate cut",
+          "country": "China",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Interest rates reduced to boost economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices rise due to geopolitical tensions",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical risks increase oil demand and prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates cut could boost economy but geopolitical tensions remain a risk."
     }
   }
 ]
