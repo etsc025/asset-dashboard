@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "利率政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国央行降息以刺激经济增长。",
-          "affected_sectors": [
-            "货币市场",
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank holds off on rate hike",
-          "country": "EU",
-          "category": "利率政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行决定不加息，维持现状。",
-          "affected_sectors": [
-            "债券市场",
-            "货币市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体金融环境保持稳定"
-    }
-  },
-  {
     "timestamp": "2026-04-29 09:00",
     "data": {
       "breaking_news": [
@@ -8824,6 +8777,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the stock markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will tighten data privacy requirements, potentially impacting tech and financial services sectors.",
+          "affected_sectors": [
+            "Tech",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices rise due to geopolitical tensions",
+          "country": "Global",
+          "category": "Energy Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical events have led to a significant increase in oil prices, affecting global energy markets and economies.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected this year, impacting financial markets."
     }
   }
 ]
