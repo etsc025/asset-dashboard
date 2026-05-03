@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生负面影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to raise interest rates",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行宣布将提高利率，以应对通货膨胀压力。这可能对股市有利。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI hits 50.1, above the threshold",
-          "country": "中国",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国的采购经理指数(PMI)达到50.1，略高于荣枯线。这表明经济活动保持稳定。",
-          "affected_sectors": [
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行加息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-04-29 14:30",
     "data": {
       "breaking_news": [
@@ -8816,6 +8771,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation and trade tensions."
+    }
+  },
+  {
+    "timestamp": "2026-05-04 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to raise interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia, targeting key sectors and individuals.",
+          "affected_sectors": [
+            "Energy",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's GDP growth rate exceeds expectations",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China reported a stronger-than-expected 2023 Q1 GDP growth, boosting market optimism.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates to rise, geopolitical tensions persist"
     }
   }
 ]
