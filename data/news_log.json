@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Spike as Inflation Concerns Mount",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能表明投资者对经济增长的信心增强。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示将加息以对抗通胀",
-          "country": "EUROPE",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示，可能采取措施提高利率来应对通胀。此举被视为对经济增长的积极信号。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "新兴市场股市反弹",
-          "country": "EMERGING_MARKETS",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于全球风险偏好上升，新兴市场股市出现反弹。投资者对全球经济复苏的信心增强。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行可能采取行动以控制通胀"
-    }
-  },
-  {
     "timestamp": "2026-04-29 05:00",
     "data": {
       "breaking_news": [
@@ -8811,6 +8766,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package for economic boost"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Political Developments",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU has imposed additional sanctions on Russian entities in response to its actions.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio for banks.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could escalate tensions."
     }
   }
 ]
