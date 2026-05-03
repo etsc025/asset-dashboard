@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市开盘前遭遇抛售潮",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受全球经济不确定性影响，欧洲主要股指开盘后即出现大幅下跌。",
-          "affected_sectors": [
-            "金融服务业",
-            "原材料"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市波动加剧，请密切监控"
-    }
-  },
-  {
     "timestamp": "2026-04-29 04:00",
     "data": {
       "breaking_news": [
@@ -8799,6 +8764,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-03 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平静",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管市场预期欧洲央行将加息，但其决定保持利率不变。这导致市场情绪较为稳定。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场货币面临压力，投资者避险情绪上升",
+          "country": "新兴市场",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，新兴市场的货币汇率下跌。这可能影响到依赖这些市场的国家的金融稳定。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
