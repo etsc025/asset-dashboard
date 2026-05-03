@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将有更多宽松政策出台。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后小幅下跌，科技股领跌",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美国股市开盘后出现小幅下跌。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，符合市场预期。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-04-29 16:30",
     "data": {
       "breaking_news": [
@@ -8829,6 +8783,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-05-04 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains support from major banks amid crypto crackdown",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US banks have signaled their willingness to back Bitcoin, supporting the cryptocurrency's recovery.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new financial regulations for fintech companies",
+          "country": "UK",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced new rules aimed at enhancing financial stability and consumer protection in the fintech sector.",
+          "affected_sectors": [
+            "Fintech"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on positive earnings reports",
+          "country": "Asia",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive quarterly earnings from major Asian companies have boosted market sentiment, leading to a rise in stock indices across the region.",
+          "affected_sectors": [
+            "Stocks"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major banks signal support for Bitcoin amid crypto crackdown"
     }
   }
 ]
