@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 2.95%, reflecting concerns about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes amid economic recovery",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials discuss potential interest rate increases to support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains as stimulus measures take effect",
-          "country": "中国",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise on the back of government stimulus packages.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery gains momentum with supportive central bank actions."
-    }
-  },
-  {
     "timestamp": "2026-04-29 19:00",
     "data": {
       "breaking_news": [
@@ -8813,6 +8766,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks to announce rate hikes affecting mortgage and credit markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-04 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting growing concerns about inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK has decided to cut interest rates in an attempt to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks under pressure amid regulatory scrutiny",
+          "country": "グローバル",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Regulatory bodies are intensifying their scrutiny of global tech companies, putting pressure on stock prices.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tech stocks under pressure amid regulatory scrutiny"
     }
   }
 ]
