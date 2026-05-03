@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank's cautious stance suggests a possible interest rate increase in the near future.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed on US economic data",
-          "country": "全球",
-          "category": "Stock Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from US economic reports impact global stocks, with no clear direction.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行可能暗示加息，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-04-28 22:30",
     "data": {
       "breaking_news": [
@@ -8793,6 +8748,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on central bank hints of rate hikes."
+    }
+  },
+  {
+    "timestamp": "2026-05-03 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banking sector under pressure amid rising interest rates",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European banks face challenges as ECB hikes rates to curb inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Beijing aims to boost lending and support economic growth with rate cut.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場の動向に注意が必要です。"
     }
   }
 ]
