@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central bank action could lead to further economic volatility.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Aimed at easing liquidity constraints and supporting growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil prices surge as OPEC+ announces supply cuts",
-          "country": "世界",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Global energy markets remain volatile amid geopolitical tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动引发经济波动"
-    }
-  },
-  {
     "timestamp": "2026-04-29 01:00",
     "data": {
       "breaking_news": [
@@ -8810,6 +8764,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally as positive economic data outweighs inflation worries."
+    }
+  },
+  {
+    "timestamp": "2026-05-03 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current interest rate levels, signaling no change in monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin falls below $30K amid regulatory concerns",
+          "country": "Global",
+          "category": "Cryptocurrencies",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Regulatory uncertainty leads to a significant drop in Bitcoin's value, falling below $30K for the first time since October.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB keeps rates unchanged: no immediate policy shift"
     }
   }
 ]
