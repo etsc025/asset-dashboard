@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks to Raise Interest Rates",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are set to raise interest rates, signaling a shift towards tighter monetary policy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Surge Amid Supply Concerns",
-          "country": "OIL",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Crude oil prices have surged due to concerns over global supply disruptions.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Tech Stocks Decline on Profit Warning",
-          "country": "CN",
-          "category": "Stock Market",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Chinese tech stocks are down after a major company issues a profit warning.",
-          "affected_sectors": [
-            "Technology",
-            "Consumer Electronics"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks to raise rates, global economy at risk of inflation"
-    }
-  },
-  {
     "timestamp": "2026-04-30 13:00",
     "data": {
       "breaking_news": [
@@ -8818,6 +8770,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, watch for volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-05 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国の銀行が新規ファイナンススキームを導入",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国の主要銀行が新規ファイナンススキームを導入、市場にポジティブな影響",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債利回りが上昇、金価格下落",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "米国債利回りの上昇と金価格の下落、市場の不確実性が高まる",
+          "affected_sectors": [
+            "金"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国債利回りの上昇に伴うリスク回避需要"
     }
   }
 ]
