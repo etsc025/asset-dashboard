@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "[タイトル]",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "[要約]",
-          "affected_sectors": [
-            "Equities",
-            "Fixed Income"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "[タイトル]",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "[要約]",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "[タイトル]",
-          "country": "JP",
-          "category": "Finance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "[要約]",
-          "affected_sectors": [
-            "Equities",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "[重要50字]"
-    }
-  },
-  {
     "timestamp": "2026-04-30 11:00",
     "data": {
       "breaking_news": [
@@ -8811,6 +8763,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on ECB stimulus"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In reaction to persistent inflation concerns, US 10-year Treasury yields have edged up, signaling a potential shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) has signaled a possible interest rate hike in September, which could impact the eurozone's economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices edge lower amid supply concerns",
+          "country": "GLOBAL",
+          "category": "Energy Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Concerns over potential disruptions to global crude supplies have led to a modest decline in oil prices, potentially impacting energy sector stocks.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike in September - could impact eurozone economy"
     }
   }
 ]
