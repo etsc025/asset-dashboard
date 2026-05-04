@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose to a one-month high amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut as economy struggles",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank cut interest rates, aiming to support the struggling economy.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China launches new stimulus package",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China has announced a new economic stimulus package to boost growth.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策により経済が改善する可能性が高い"
-    }
-  },
-  {
     "timestamp": "2026-04-30 04:30",
     "data": {
       "breaking_news": [
@@ -8838,6 +8791,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global tensions rise amid US rate hikes and EU sanctions"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation worries mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields hit a new high of 3.45% today.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates amid economic uncertainty",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) has increased its main refinancing rate by 0.5% to combat inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks underperform as China's tech crackdown intensifies",
+          "country": "China, Global",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Investors are concerned about the Chinese government’s stricter regulatory measures on technology companies.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tech stocks underperform due to China's crackdown"
     }
   }
 ]
