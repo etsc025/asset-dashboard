@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns have pushed US 10-year Treasury yields above 3.5%, a key indicator of economic health.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank raises interest rates for first time in years",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has raised its main refinancing rate by 0.5 percentage points, the first increase since 2011.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation hits record high as cost of living crisis intensifies",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK consumer price index (CPI) has reached 9.1%, the highest level since records began.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns drive interest rate hikes in major economies"
-    }
-  },
-  {
     "timestamp": "2026-04-30 20:30",
     "data": {
       "breaking_news": [
@@ -8832,6 +8784,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks tighten monetary policies to tame inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季开始而波动加剧",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "由于公司业绩报告发布，美股出现小幅震荡。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在下半年加息以对抗通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示将考虑在下半年采取行动，但未给出具体日期。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市财报季开始，市场波动加剧"
     }
   }
 ]
