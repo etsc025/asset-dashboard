@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后出现小幅下跌，投资者情绪谨慎",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘后出现小幅下跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-04-30 13:30",
     "data": {
       "breaking_news": [
@@ -8803,6 +8770,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国債利回りの上昇に伴うリスク回避需要"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks report mixed results",
+          "country": "EU",
+          "category": "银行业",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance from major European banks highlights sector's ongoing challenges.",
+          "affected_sectors": [
+            "銀行業"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally on tech optimism",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Strong gains in Asian tech stocks drive overall market up, reflecting investor confidence.",
+          "affected_sectors": [
+            "科技業"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns push US 10-year Treasury yield above 3.5% for first time since March."
     }
   }
 ]
