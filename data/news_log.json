@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Rise as Inflation Concerns Persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank to Maintain Interest Rates at Record Low",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank announced no change in interest rates, keeping them at record lows.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's Stock Market Hits New High as Economic Growth Accelerates",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In China, the stock market has reached new highs due to accelerating economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行保持利率不变，经济数据喜忧参半"
-    }
-  },
-  {
     "timestamp": "2026-04-30 08:30",
     "data": {
       "breaking_news": [
@@ -8814,6 +8766,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as inflation pressures persist."
+    }
+  },
+  {
+    "timestamp": "2026-05-04 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "地缘政治",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟对俄罗斯实施新制裁，可能影响欧洲能源和金融行业。",
+          "affected_sectors": [
+            "能源业",
+            "金融服务"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国加息预期提升，市场波动加剧"
     }
   }
 ]
