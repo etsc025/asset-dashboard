@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rises to 3.65%, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "英国",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax hikes and spending cuts aimed at curbing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank raises interest rates for fourth time this year",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The ECB increases its main refinancing rate to 3.25%, signaling continued efforts against inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-04-30 05:00",
     "data": {
       "breaking_news": [
@@ -8836,6 +8788,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global tech stocks underperform due to China's crackdown"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国の銀行が新規株式公開(IPO)を計画",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国の主要銀行がIPOを検討、市場に中立的な影響予想",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国債利回り上昇、長期金利への警戒感高まる",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国債利回りの上昇は長期金利上昇を示唆、市場にリスクオフの兆し",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国債利回り上昇で市場警戒"
     }
   }
 ]
