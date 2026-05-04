@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the near future, indicating a continued fight against inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-04-30 10:00",
     "data": {
       "breaking_news": [
@@ -8799,6 +8764,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧，投资者需谨慎。"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic data releases",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.85% after strong GDP report.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to be raised by Bank of England",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of England is expected to raise interest rates for the first time in 14 years.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI data shows mixed results",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing sector growth slows but services sector remains strong.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to remain volatile due to mixed economic signals."
     }
   }
 ]
