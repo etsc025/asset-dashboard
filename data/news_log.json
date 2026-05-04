@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting Announced",
-          "country": "全球",
-          "category": "中央銀行",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major central banks have announced a meeting to discuss monetary policy.",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Stock Market Surge in Asia",
-          "country": "アジア",
-          "category": "株式市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Asian stock markets saw significant gains today, led by China and South Korea.",
-          "affected_sectors": [
-            "金融",
-            "製造業"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Stable but Concerns Persist",
-          "country": "世界",
-          "category": "石油",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "While oil prices remain stable, concerns about supply disruptions continue to weigh on markets.",
-          "affected_sectors": [
-            "エネルギー"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中央銀行の政策決定に市場が注目"
-    }
-  },
-  {
     "timestamp": "2026-04-30 17:00",
     "data": {
       "breaking_news": [
@@ -8823,6 +8777,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Chinese crypto regulations easing boosts Bitcoin prices"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as central banks consider interest rate hikes",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US central bank's consideration of higher interest rates has boosted Bitcoin prices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid economic recovery concerns",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising global bond yields suggest investors are becoming more cautious about the economy's recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU to introduce stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations aim to improve data privacy and security, but could impact tech companies.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise, caution investors about economic recovery risks."
     }
   }
 ]
