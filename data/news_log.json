@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府采取措施刺激经济增长，利好股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美國",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升可能影响投资者情绪，但对整体经济影响有限。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行的宽松政策可能会刺激经济增长和企业投资。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向可能影响市场风险偏好"
-    }
-  },
-  {
     "timestamp": "2026-04-30 00:00",
     "data": {
       "breaking_news": [
@@ -8811,6 +8764,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球经济面临通胀压力"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场普遍认为这将刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受多家大型公司业绩超出预期的影响，美股今日大幅上涨。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以应对通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行正在评估是否采取更多措施来对抗高通胀，市场反应谨慎。",
+          "affected_sectors": [
+            "银行业",
+            "能源业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市因财报季表现强劲而上涨"
     }
   }
 ]
