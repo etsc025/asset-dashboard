@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Alibaba Group to Cut Jobs by 20% amid Economic Downturn",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Chinese tech giant announces job cuts due to economic challenges.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Federal Reserve Signals More Rate Hikes Ahead",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Central bank hints at further interest rate increases to curb inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU Economy Forecasted to Slow Down in Q4",
-          "country": "Europe",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "European Union predicts slower economic growth for the fourth quarter.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Federal Reserve signals more rate hikes ahead"
-    }
-  },
-  {
     "timestamp": "2026-04-30 02:30",
     "data": {
       "breaking_news": [
@@ -8822,6 +8776,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-04 14:34",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has announced a new fiscal stimulus plan to boost the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "To support economic recovery, China's central bank has reduced its reserve requirement ratio.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "政府の新財政刺激プログラムが経済をサポートする可能性がある"
     }
   }
 ]
