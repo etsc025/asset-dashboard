@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK government unveils plans to increase taxes and cut public spending to address rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields above 3.5% for first time since March."
-    }
-  },
-  {
     "timestamp": "2026-04-30 12:30",
     "data": {
       "breaking_news": [
@@ -8808,6 +8773,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and monetary tightening could lead to economic volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-05 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to raise interest rates, signaling a shift towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Surge Amid Supply Concerns",
+          "country": "OIL",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising tensions in the Middle East have led to a significant increase in oil prices, affecting global energy markets.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Tech Stocks Rally on Strong Earnings Reports",
+          "country": "USA",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Major tech companies reported strong earnings, boosting stock market indices and investor confidence.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, watch for volatility."
     }
   }
 ]
