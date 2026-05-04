@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks' Rate Hikes Expected to Impact Global Economy",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are expected to raise interest rates, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stocks Surge on Positive Economic Indicators",
-          "country": "EUROPE",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Stock markets in Europe have rallied following positive economic indicators.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Markets Mixed as China's PMI Hits 50.2",
-          "country": "ASIA",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese Purchasing Managers' Index (PMI) is at 50.2, indicating a balanced economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks to raise rates: significant risk"
-    }
-  },
-  {
     "timestamp": "2026-04-30 16:00",
     "data": {
       "breaking_news": [
@@ -8829,6 +8781,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU banks liquidity issues could lead to financial instability."
+    }
+  },
+  {
+    "timestamp": "2026-05-05 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响中等。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，刺激股市上涨，但风险增加。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行表示可能在2023年加息，对市场影响中等。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升，股市波动加剧"
     }
   }
 ]
