@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data privacy laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data protection requirements for member countries.",
-          "affected_sectors": [
-            "Tech Companies",
-            "Data Management"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank has reduced the reserve requirement ratio, easing liquidity and potentially boosting economic activity.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整，市场需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-04-30 04:00",
     "data": {
       "breaking_news": [
@@ -8839,6 +8791,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package for economic recovery."
+    }
+  },
+  {
+    "timestamp": "2026-05-04 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the near future, boosting economic sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The EU has imposed new sanctions on Russian entities, potentially leading to further geopolitical tensions.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tensions rise amid US rate hikes and EU sanctions"
     }
   }
 ]
