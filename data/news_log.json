@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has signaled a potential interest rate increase in the near future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed due to trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Markets across Asia have seen mixed performance due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic growth outlook remains positive despite recent challenges."
-    }
-  },
-  {
     "timestamp": "2026-04-30 16:30",
     "data": {
       "breaking_news": [
@@ -8826,6 +8778,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国国债收益率上升，股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as China eases crypto regulations",
+          "country": "China",
+          "category": "Financial Regulations",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese authorities have eased restrictions on cryptocurrencies, boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury yields rise amid economic optimism",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits new high, reflecting growing investor confidence.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "Eurozone",
+          "category": "Central Banks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current interest rate levels, no change expected in the near future.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Chinese crypto regulations easing boosts Bitcoin prices"
     }
   }
 ]
