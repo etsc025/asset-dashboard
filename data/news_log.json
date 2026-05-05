@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期未来将进一步宽松货币政策以刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于科技股表现不佳，美股开盘后出现抛售，标普500指数一度下跌1.5%。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管维持利率不变，但欧洲央行表示未来可能会进一步宽松政策以应对经济不确定性。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-05-01 08:00",
     "data": {
       "breaking_news": [
@@ -8812,6 +8766,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要经济体政策变动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the upcoming meetings.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new fiscal stimulus package",
+          "country": "EU",
+          "category": "Government Policies",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union has announced a new fiscal stimulus plan to support its economy.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has cut the reserve requirement ratio, providing more liquidity to banks.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，利好金融市场"
     }
   }
 ]
