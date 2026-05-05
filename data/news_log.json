@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US treasury yields higher, indicating potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at more interest rate increases",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness for further interest rate rises to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after US jobs report",
-          "country": "global",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed reaction from global stocks as US non-farm payrolls numbers are released.",
-          "affected_sectors": [
-            "Finance",
-            "Stocks"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, investors cautious"
-    }
-  },
-  {
     "timestamp": "2026-05-01 07:30",
     "data": {
       "breaking_news": [
@@ -8812,6 +8764,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and stricter data protection laws pose risks for the economy."
+    }
+  },
+  {
+    "timestamp": "2026-05-05 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升影响了股票市场的表现。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平稳",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前的利率水平，对金融市场影响有限。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策变动引发市场波动"
     }
   }
 ]
