@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank to maintain interest rates at record low",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank announced no change in interest rates, keeping them at their lowest level since the pandemic.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on favorable economic data",
-          "country": "中国",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rose as positive economic indicators were released, including a strong manufacturing PMI and stable GDP growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行维持宽松货币政策"
-    }
-  },
-  {
     "timestamp": "2026-05-01 16:30",
     "data": {
       "breaking_news": [
@@ -8827,6 +8782,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府积极应对经济挑战"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Stock Market Rally Drives Bullish Sentiment in Asia",
+          "country": "中国,日本,韓国",
+          "category": "金融",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Asian stock markets rallied sharply as investors cheered the US Federal Reserve's decision to keep interest rates unchanged.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury Yields Rise on Strong Economic Data",
+          "country": "アメリカ",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The 10-year US Treasury yield rose above 3% as positive economic indicators supported the market.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank Keeps Interest Rates Stable",
+          "country": "欧州",
+          "category": "金融",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintained its interest rate unchanged, with no significant impact on financial markets.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields rise above 3%"
     }
   }
 ]
