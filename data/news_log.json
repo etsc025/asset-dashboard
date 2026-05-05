@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Eurozone's main central bank raises key rate by 0.5% amid rising prices.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks underperform as regulatory concerns mount",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Investors wary of new privacy regulations hit tech sector performance.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation pressures intensify, central banks react"
-    }
-  },
-  {
     "timestamp": "2026-05-01 06:00",
     "data": {
       "breaking_news": [
@@ -8820,6 +8775,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布将降低贷款利率，对股市产生积极影响",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振股市和经济复苏。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，市场情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，投资者对经济增长的预期有所改变。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布将维持利率不变，股市反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定维持现有利率水平，未对市场产生显著影响。",
+          "affected_sectors": [
+            "金融",
+            "旅游"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎乐观"
     }
   }
 ]
