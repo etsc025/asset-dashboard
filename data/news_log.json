@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 3.75%, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK has raised its base interest rate by 0.25%, signaling a shift towards tightening monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to boost lending and economic activity.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整引发市场关注"
-    }
-  },
-  {
     "timestamp": "2026-05-01 13:30",
     "data": {
       "breaking_news": [
@@ -8821,6 +8775,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates but warns of potential liquidity problems.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Crypto markets rally on positive regulatory news",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Regulatory clarity in crypto sector boosts investor confidence, driving gains across the board.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and regulatory clarity support financial markets."
     }
   }
 ]
