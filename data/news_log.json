@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield hits 3.95%, up from 3.75% yesterday.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current interest rate at 2.00%, as expected by market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI hits record high",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese Manufacturing Purchasing Managers' Index (PMI) reaches 52.6, up from 51.9 last month.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致预期维持利率不变"
-    }
-  },
-  {
     "timestamp": "2026-05-01 03:00",
     "data": {
       "breaking_news": [
@@ -8829,6 +8784,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed signals from major central banks."
+    }
+  },
+  {
+    "timestamp": "2026-05-05 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains support from major banks as regulatory hurdles ease",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US banks have signaled their willingness to engage in Bitcoin transactions, reducing regulatory risks.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike next year",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB's statement suggests a potential interest rate increase by the end of 2023.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stock markets mixed on trade tensions",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Stocks in Asia-Pacific regions have fluctuated due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major banks signal Bitcoin transactions, reducing regulatory risks."
     }
   }
 ]
