@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin's price surges as central banks consider interest rate hikes",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Federal Reserve's potential move on interest rates is causing volatility in the financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new measures to combat inflation",
-          "country": "UK",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has introduced a series of policies aimed at reducing inflation.",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed's interest rate decision looms large"
-    }
-  },
-  {
     "timestamp": "2026-05-01 17:30",
     "data": {
       "breaking_news": [
@@ -8826,6 +8791,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 06:01",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike amid rising unemployment",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises the base rate to combat high unemployment.",
+          "affected_sectors": [
+            "Finance",
+            "Employment"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates rise threaten economic growth"
     }
   }
 ]
