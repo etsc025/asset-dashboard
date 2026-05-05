@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK publishes inflation report",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's latest inflation report shows an increase of 9.1% year-on-year.",
-          "affected_sectors": [
-            "Retail",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China launches new stimulus package",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China has announced a $50 billion stimulus package to boost economic growth.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Construction"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-04-30 23:00",
     "data": {
       "breaking_news": [
@@ -8859,6 +8812,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場今日風險升高"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid stress tests",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Stress test results could lead to reduced lending and higher interest rates for European banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Tech stocks have driven Asian market indices higher, but overall sentiment remains stable.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Stress test results could impact lending and interest rates in Europe."
     }
   }
 ]
