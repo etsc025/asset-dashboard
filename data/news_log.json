@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has just announced a significant interest rate hike.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB raises rates for first time in 10 years",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank increases key lending rates to curb inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の利上げが市場に影響を与えている"
-    }
-  },
-  {
     "timestamp": "2026-05-01 05:00",
     "data": {
       "breaking_news": [
@@ -8819,6 +8786,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on US Treasury yields rise"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Alibaba Group to acquire Ant Group for $37 billion in cash and stock",
+          "country": "China",
+          "category": "Corporate Deal",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major Chinese tech conglomerate Alibaba announces acquisition of Ant Group, its fintech subsidiary.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Fed to raise interest rates by 0.25% on Wednesday",
+          "country": "USA",
+          "category": "Central Bank Action",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is set to increase the federal funds rate by 0.25 percentage points, signaling a move towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU plans new sanctions on Russian energy sector amid Ukraine conflict",
+          "country": "Europe",
+          "category": "Geopolitical Risk",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Union is considering imposing additional economic sanctions on Russia's energy sector in response to the ongoing conflict.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike and EU sanctions on Russian energy sector highlight risk-on sentiment."
     }
   }
 ]
