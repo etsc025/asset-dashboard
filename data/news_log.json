@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a package of fiscal measures aimed at supporting the economy and reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the RRR for banks by 0.25 percentage points, aimed at easing liquidity conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府和央行采取措施稳定金融市场"
-    }
-  },
-  {
     "timestamp": "2026-05-01 16:00",
     "data": {
       "breaking_news": [
@@ -8827,6 +8781,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global Central Banks Meeting: Rate Hikes Possible - Potential market volatility ahead."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government launches £50 billion economic recovery plan to boost growth.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's yuan strengthens against the US dollar",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese currency gains in value, reflecting stable economic conditions.",
+          "affected_sectors": [
+            "Trade"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政府积极应对经济挑战"
     }
   }
 ]
