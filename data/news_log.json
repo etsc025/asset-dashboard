@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK's Bank of England cuts key rate by 0.25% to support economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banking sector faces liquidity crunch",
-          "country": "EU",
-          "category": "Financial Services",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues threaten EU banks' operations amid geopolitical tensions.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to boost economy - 注意：インフレ懸念から脱却し、経済成長を促進する可能性があります。"
-    }
-  },
-  {
     "timestamp": "2026-05-01 01:30",
     "data": {
       "breaking_news": [
@@ -8846,6 +8798,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国科技股面临回调风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-05 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield climbed above 3.5% as investors fret over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise: MPC member suggests",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "A Bank of England policymaker hinted at higher interest rates, citing strong economic data.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Eurozone GDP growth forecast revised downward",
+          "country": "EUROZONE",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "The European Commission lowered its 2023 GDP growth projection for the Eurozone.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, investors cautious"
     }
   }
 ]
