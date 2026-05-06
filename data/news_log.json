@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces interest rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve has raised the federal funds rate by 0.75% in a significant move.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to consider further interest rate hikes",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials discuss potential for additional interest rate increases.",
-          "affected_sectors": [
-            "Insurance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Fed's action could lead to further economic volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-02 06:00",
     "data": {
       "breaking_news": [
@@ -8805,6 +8770,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting financial sector actions."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Interest Rates Update",
+          "country": "USA",
+          "category": "Central Banking",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major central banks are expected to announce interest rate decisions, potentially impacting global markets.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Stock Market Volatility Rises: Investors Worry About Economic Indicators",
+          "country": "Global",
+          "category": "Financial Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Recent economic indicators have raised concerns among investors, leading to increased volatility in stock markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Cryptocurrency Market Surge: Bitcoin Hits All-Time High",
+          "country": "Global",
+          "category": "Cryptocurrencies",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin has reached an all-time high, sparking interest and speculation among investors.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions by major central banks could significantly impact global markets."
     }
   }
 ]
