@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场普遍预期将提振经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股三大指数均出现下跌。",
-          "affected_sectors": [
-            "信息技术"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲债券市场因意大利国债收益率上升而波动",
-          "country": "欧洲",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "意大利国债收益率上升引发市场担忧，但整体影响有限。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振经济预期"
-    }
-  },
-  {
     "timestamp": "2026-05-02 06:30",
     "data": {
       "breaking_news": [
@@ -8815,6 +8769,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions by major central banks could significantly impact global markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new banking regulation",
+          "country": "EU",
+          "category": "Regulation & Compliance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union has introduced new regulations for banks to improve financial stability.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has reduced the reserve requirement ratio, easing liquidity in the financial market.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected this year"
     }
   }
 ]
