@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut amid economic uncertainty",
-          "country": "UK",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank has decided to cut interest rates in response to economic uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains as government stimulus measures take effect",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Following the implementation of new government stimulus packages, China's major stock indices have seen positive movements.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の新たな経済刺激策が効果を発揮し、中国の主要株価指標が上昇中。"
-    }
-  },
-  {
     "timestamp": "2026-05-01 22:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8766,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and new regulations pose risks to financial stability."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Government introduces tax hikes and spending cuts aimed at stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation measures announced, global financial markets may react."
     }
   }
 ]
