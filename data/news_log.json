@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Expected",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are expected to announce rate hikes, affecting bond and equity markets.",
-          "affected_sectors": [
-            "Bond Market",
-            "Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank Signals Interest Rate Hike",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB's statement suggests a possible interest rate hike, impacting Eurozone economies.",
-          "affected_sectors": [
-            "Eurozone Bond Market",
-            "Eurozone Equity Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian Central Banks Meeting: Mixed Signals on Interest Rates",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central banks in Asia are expected to maintain current interest rates, with mixed signals affecting regional financial markets.",
-          "affected_sectors": [
-            "Asian Bond Markets",
-            "Asian Equity Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central bank actions could shift market direction."
-    }
-  },
-  {
     "timestamp": "2026-05-02 10:00",
     "data": {
       "breaking_news": [
@@ -8830,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts key rate by 0.25% as inflation hits record high.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge higher amid growth worries",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "EU 10-year bond yields rise slightly, reflecting concerns over economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets edge higher amid mixed signals"
     }
   }
 ]
