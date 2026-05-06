@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors worry about the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package amid inflation fears",
-          "country": "英国",
-          "category": "Government Policies",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a new £10 billion fiscal stimulus to combat rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の新たな財政刺激により市場が上向き"
-    }
-  },
-  {
     "timestamp": "2026-05-02 08:00",
     "data": {
       "breaking_news": [
@@ -8817,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks' actions could significantly impact financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a one-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government unveils £50 billion economic support plan to boost growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces the RRR for banks, aiming to stimulate lending and investment.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "政府の財政支援が株価上昇を促進する可能性高"
     }
   }
 ]
