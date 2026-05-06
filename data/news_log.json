@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 11:43",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和楼市信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因业绩不佳及监管压力，美国科技巨头股价集体下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行对是否加息保持观望态度，市场反应平淡。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振股市信心"
-    }
-  },
-  {
     "timestamp": "2026-05-02 12:02",
     "data": {
       "breaking_news": [
@@ -8842,6 +8796,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国の製造業PMIが50未満に下落、リスク資産への流れを強める"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is set to introduce new regulations for data privacy and security, potentially affecting tech companies.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the required reserves for banks, indicating a potential easing of monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，金融市场波动加剧"
     }
   }
 ]
