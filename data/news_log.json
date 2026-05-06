@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield rises to 3.85% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "英国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional tax hikes and spending cuts to address high inflation.",
-          "affected_sectors": [
-            "Monetary Policy",
-            "Taxation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府新政策出台，市场信心提升"
-    }
-  },
-  {
     "timestamp": "2026-05-02 00:00",
     "data": {
       "breaking_news": [
@@ -8806,6 +8772,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "FAANG指数领涨，推动标普500指数创下新高。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议后声明，强调经济增长前景不确定。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动向密切监控"
     }
   }
 ]
