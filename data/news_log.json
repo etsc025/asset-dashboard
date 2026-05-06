@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报季影响，美股开盘前出现抛售行情。",
-          "affected_sectors": [
-            "科技股",
-            "金融股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行会议后声明，维持现有利率不变，但表示未来可能会考虑降息。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-05-01 21:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8766,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets show strong momentum towards recovery."
+    }
+  },
+  {
+    "timestamp": "2026-05-06 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new financial regulations",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU financial regulations are set to be implemented in 2023, affecting all member states.",
+          "affected_sectors": [
+            "Finance",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on positive earnings reports",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive earnings reports from major Asian companies have lifted stock markets in the region.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and new regulations pose risks to financial stability."
     }
   }
 ]
