@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a fresh high of 3.78% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised down",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK Office for National Statistics (ONS) lowers its 2023 GDP growth forecast to 1.5% from 1.8% due to supply chain disruptions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin crashes amid regulatory concerns",
-          "country": "USA",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Bitcoin drops over 7% in a single day, partly due to new US regulations on stablecoins.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行会议临近，市场关注加息风险"
-    }
-  },
-  {
     "timestamp": "2026-05-02 10:30",
     "data": {
       "breaking_news": [
@@ -8830,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets edge higher amid mixed signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a significant interest rate hike, impacting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced new fiscal policies aimed at stabilizing the market.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has reduced its reserve requirement ratio, potentially boosting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动影响金融市场"
     }
   }
 ]
