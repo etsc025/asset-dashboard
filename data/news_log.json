@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，预计将刺激经济增长和股市上涨。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率的上升反映了投资者对经济复苏的信心增强，但对某些新兴市场可能造成压力。",
-          "affected_sectors": [
-            "全球股市"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧盟",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行今日宣布维持现有利率水平不变，未采取进一步宽松措施。",
-          "affected_sectors": [
-            "欧洲银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体政策调整引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-05-02 19:00",
     "data": {
       "breaking_news": [
@@ -8911,6 +8865,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国中央銀行の人民元レート調整によるリスク回避注意"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid Brexit uncertainty",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European banks struggle with reduced access to funding due to Brexit uncertainties.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit and inflation risks loom large"
     }
   }
 ]
