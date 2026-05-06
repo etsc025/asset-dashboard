@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续上涨后调整",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "在连续多日上涨后，美股出现回调，投资者情绪有所降温。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，可能影响市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-02 09:30",
     "data": {
       "breaking_news": [
@@ -8817,6 +8784,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需警惕波动风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均有所上涨。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后小幅下跌，科技股领跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股抛售影响，美股开盘后出现小幅下跌，纳斯达克指数跌幅最大。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，对金融市场影响有限，股市小幅波动后恢复平静。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
