@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as central banks consider interest rate hikes",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US economic indicators suggest a potential shift towards higher interest rates, impacting Bitcoin prices.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid inflation concerns",
-          "country": "UK",
-          "category": "Market Conditions",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Rising bond yields reflect market expectations of increased inflation pressures.",
-          "affected_sectors": [
-            "Investment Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to financial instability."
-    }
-  },
-  {
     "timestamp": "2026-05-02 11:09",
     "data": {
       "breaking_news": [
@@ -8830,6 +8797,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-06 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to announce interest rate decision tomorrow",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to raise interest rates, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement new financial regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU financial rules will be enforced starting next month, affecting banks and insurance companies.",
+          "affected_sectors": [
+            "Finance",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, potentially boosting lending and economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions could lead to significant market volatility."
     }
   }
 ]
