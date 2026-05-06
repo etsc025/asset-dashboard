@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售，纳斯达克指数下跌1.5%",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报不佳影响，美国科技股普遍下跌，纳斯达克指数跌1.5%",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布加息25个基点，市场反应冷淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，但暗示未来可能继续加息",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-02 17:00",
     "data": {
       "breaking_news": [
@@ -8923,6 +8877,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU leaders consider tighter bank liquidity requirements"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as Fed hikes rates again",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Treasury yield curve has steepened, reflecting expectations of continued rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates at record low",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB's decision is seen as a signal that inflation pressures are not severe enough for rate increases.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50 in July, indicating contraction",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The manufacturing Purchasing Managers' Index (PMI) dropped to 49.2, signaling a slowdown in economic growth.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国の製造業PMIが50を下回り、経済成長率の減速を示唆"
     }
   }
 ]
