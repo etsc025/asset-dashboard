@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve Signals Rate Hike in December",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统暗示将在12月加息，提振市场信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank Holds Interest Rates",
-          "country": "EU",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，对金融市场影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统暗示将在12月加息"
-    }
-  },
-  {
     "timestamp": "2026-05-02 21:30",
     "data": {
       "breaking_news": [
@@ -8896,6 +8863,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境趋紧，需谨慎投资"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲股市因科技股下跌而下滑",
+          "country": "欧洲",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受苹果公司业绩不及预期影响，欧洲主要股指下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场"
     }
   }
 ]
