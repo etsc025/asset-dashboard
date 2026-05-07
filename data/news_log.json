@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率小幅上升，但未对股市产生显著影响。",
-          "affected_sectors": [
-            "债券市场",
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率"
-    }
-  },
-  {
     "timestamp": "2026-05-03 03:00",
     "data": {
       "breaking_news": [
@@ -8925,6 +8891,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to geopolitical risks."
+    }
+  },
+  {
+    "timestamp": "2026-05-07 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳及监管担忧，美国科技股集体下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "印度政府宣布增加基础设施投资计划",
+          "country": "印度",
+          "category": "财政政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "印度政府宣布增加10%的基础设施投资，提振市场信心。",
+          "affected_sectors": [
+            "基建材料",
+            "建筑"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
