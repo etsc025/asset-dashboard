@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK PMI falls below expectations amid Brexit uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK manufacturing sector growth slows to its lowest level in 10 months, raising concerns about economic recovery.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's CPI rises amid supply chain disruptions",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Core CPI up 2.3% in August, signaling stable inflation despite supply chain issues.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整风险加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-03 03:30",
     "data": {
       "breaking_news": [
@@ -8938,6 +8891,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves first crypto ETF",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields rise amid economic optimism",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising global bond yields reflect improving economic sentiment, with investors expecting higher interest rates in the future.",
+          "affected_sectors": [
+            "Bond Market",
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise, watch for interest rate hikes."
     }
   }
 ]
