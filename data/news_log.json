@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将进一步加息，影响金融市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "地缘政治",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧盟对俄罗斯实施新制裁，可能引发市场波动。",
-          "affected_sectors": [
-            "能源行业",
-            "金融行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国人民银行降低存款准备金率，对经济影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统进一步加息"
-    }
-  },
-  {
     "timestamp": "2026-05-03 01:30",
     "data": {
       "breaking_news": [
@@ -8924,6 +8877,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on central bank signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，可能刺激股市和房地产市场复苏。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市构成压力。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步量化宽松政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多措施刺激经济增长，提振市场信心。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕不确定性风险"
     }
   }
 ]
