@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，提振市场信心，推动股市上涨。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对股市和债券市场产生影响。",
-          "affected_sectors": [
-            "金融业",
-            "政府债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松货币政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多措施支持经济增长，提振金融市场情绪。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升影响市场"
-    }
-  },
-  {
     "timestamp": "2026-05-03 12:30",
     "data": {
       "breaking_news": [
@@ -8942,6 +8894,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-05-07 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计今日股市将上涨。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市和债市造成压力，但未引发大规模波动。",
+          "affected_sectors": [
+            "股票",
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济增长",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多宽松措施，市场预期欧元区经济将改善。",
+          "affected_sectors": [
+            "银行业",
+            "旅游行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市今日表现强劲"
     }
   }
 ]
