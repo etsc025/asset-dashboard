@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预示着宽松的货币政策将对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报不佳和监管压力的影响，美国科技股今日大幅下挫，纳斯达克指数下跌1.5%，对整个科技板块造成负面影响。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "尽管市场预期欧洲央行可能降息，但最终决定维持当前利率不变，对金融市场影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-05-03 18:30",
     "data": {
       "breaking_news": [
@@ -8919,6 +8873,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic indicators point to continued growth."
+    }
+  },
+  {
+    "timestamp": "2026-05-08 05:45",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟央行宣布将降低利率以刺激经济复苏。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "宏观经济",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "英国经济增长预期下调，因供应链问题和疫情反复影响。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市上涨，但需警惕通胀风险"
     }
   }
 ]
