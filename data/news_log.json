@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USD/JPY exchange rate hits all-time high",
-          "country": "Japan",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Japanese Yen weakened against USD, impacting Japanese economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Central Bank of China announces interest rate cut",
-          "country": "China",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Interest rates reduced to boost economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil prices rise due to geopolitical tensions",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Geopolitical risks increase oil demand and prices.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates cut could boost economy but geopolitical tensions remain a risk."
-    }
-  },
-  {
     "timestamp": "2026-05-03 16:30",
     "data": {
       "breaking_news": [
@@ -8943,6 +8895,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed economic signals."
+    }
+  },
+  {
+    "timestamp": "2026-05-08 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市连续两天上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "受利好经济数据和企业财报推动，美股继续走高。",
+          "affected_sectors": [
+            "金融业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率：影响市场流动性"
     }
   }
 ]
