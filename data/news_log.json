@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对新兴市场货币造成压力。",
-          "affected_sectors": [
-            "新兴市场货币"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息，提振欧元区股市和债券市场。",
-          "affected_sectors": [
-            "金融",
-            "股票",
-            "债券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向引发金融市场波动"
-    }
-  },
-  {
     "timestamp": "2026-05-03 07:00",
     "data": {
       "breaking_news": [
@@ -8940,6 +8892,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, global financial markets watch closely."
+    }
+  },
+  {
+    "timestamp": "2026-05-07 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 0.75%",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 0.75% in a significant move.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to cut interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to reduce the deposit rate by 0.5% in response to inflation.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market surges after economic data release",
+          "country": "CHN",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have rallied following positive economic indicators released today.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally on central bank actions"
     }
   }
 ]
