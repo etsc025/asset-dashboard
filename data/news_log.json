@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场反应积极，预计将进一步刺激经济增长和股市表现。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，表明投资者对经济前景持乐观态度，但市场整体反应较为平稳。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市因科技股下跌而下滑",
-          "country": "欧洲",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于科技板块表现不佳，欧洲主要股指出现下跌，投资者情绪受到打击。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-03 18:00",
     "data": {
       "breaking_news": [
@@ -8918,6 +8872,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to boost inflation fears"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has announced a rate hike, likely impacting the financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China releases robust Q3 GDP report",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China reported strong economic growth in the third quarter of 2023, boosting investor confidence.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's unemployment rate hits record low",
+          "country": "英国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's unemployment rate has reached a new all-time low, indicating stable job market.",
+          "affected_sectors": [
+            "Employment Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic indicators point to continued growth."
     }
   }
 ]
