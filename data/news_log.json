@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banking sector under pressure amid rising interest rates",
-          "country": "EU",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European banks face challenges as ECB hikes rates to curb inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Beijing aims to boost lending and support economic growth with rate cut.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場の動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-03 09:30",
     "data": {
       "breaking_news": [
@@ -8947,6 +8902,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB hints at rate hikes, watch for market reaction."
+    }
+  },
+  {
+    "timestamp": "2026-05-07 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors' fears over the economy grew.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package amid inflation worries",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government unveiled a £10 billion ($12.5 billion) package to boost the economy, despite rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at further rate hikes in December",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB policymakers suggested a potential fourth interest rate hike this year, which could boost the euro.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Fiscal stimulus and ECB hints support market optimism"
     }
   }
 ]
