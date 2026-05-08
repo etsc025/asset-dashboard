@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国の中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行、人民元為替レート調整、市場に中立的影響予想",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債利回りが上昇し、金価格下落",
-          "country": "アメリカ",
-          "category": "利率動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回り上昇、金価格下落、市場のリスクオフ",
-          "affected_sectors": [
-            "金"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国債利回り上昇、金価格下落"
-    }
-  },
-  {
     "timestamp": "2026-05-04 05:30",
     "data": {
       "breaking_news": [
@@ -8916,6 +8883,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策保持一致"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将利率上调75个基点，可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行降低了银行的存款准备金率，对市场情绪影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement new carbon tax on imports",
+          "country": "EU",
+          "category": "环保政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟计划对进口商品征收碳税，可能推动绿色技术的发展和应用。",
+          "affected_sectors": [
+            "能源",
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动引发市场波动"
     }
   }
 ]
