@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation worries mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US 10-year Treasury yields hit a new high of 3.45% today.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates amid economic uncertainty",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank (ECB) has increased its main refinancing rate by 0.5% to combat inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks underperform as China's tech crackdown intensifies",
-          "country": "China, Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Investors are concerned about the Chinese government’s stricter regulatory measures on technology companies.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global tech stocks underperform due to China's crackdown"
-    }
-  },
-  {
     "timestamp": "2026-05-04 17:00",
     "data": {
       "breaking_news": [
@@ -8939,6 +8894,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策，市场风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise, US dollar strengthens",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major bond yields in the USA have risen sharply, indicating a stronger economy and potentially higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to extend pandemic emergency purchase programme",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB is extending its current program until March 2023, providing liquidity and support for the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut its reserve requirement ratio, easing liquidity and potentially boosting lending activities.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持宽松政策，但美国国债收益率上升"
     }
   }
 ]
