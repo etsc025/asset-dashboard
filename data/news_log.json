@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation worries persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns continue to push US bond yields higher, affecting the broader financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider interest rate hikes amid inflation",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Banks are considering raising interest rates to combat rising inflation, potentially impacting the region's financial stability.",
-          "affected_sectors": [
-            "Finance Sector"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices surge on supply concerns",
-          "country": "GLOBAL",
-          "category": "Energy Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Concerns over global oil supply disruptions have led to a sharp increase in crude oil prices, affecting energy and related sectors.",
-          "affected_sectors": [
-            "Oil & Gas Industry"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as inflation pressures persist."
-    }
-  },
-  {
     "timestamp": "2026-05-04 20:00",
     "data": {
       "breaking_news": [
@@ -8913,6 +8867,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响中等。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false,
+          "top_alert": "中国央行调整存款准备金率"
+        },
+        {
+          "title": "美国科技股反弹，纳斯达克指数创历史新高",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "受利好财报影响，美国科技股强劲反弹，纳斯达克指数刷新历史高位。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true,
+          "top_alert": "美股科技股强势反弹"
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平不变，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false,
+          "top_alert": ""
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国科技股强势反弹"
     }
   }
 ]
