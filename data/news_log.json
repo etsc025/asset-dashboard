@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin gains support from major banks amid crypto crackdown",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US banks have signaled their willingness to back Bitcoin, supporting the cryptocurrency's recovery.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new financial regulations for fintech companies",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has introduced new rules aimed at enhancing financial stability and consumer protection in the fintech sector.",
-          "affected_sectors": [
-            "Fintech"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive quarterly earnings from major Asian companies have boosted market sentiment, leading to a rise in stock indices across the region.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major banks signal support for Bitcoin amid crypto crackdown"
-    }
-  },
-  {
     "timestamp": "2026-05-04 04:00",
     "data": {
       "breaking_news": [
@@ -8916,6 +8871,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预示着宽松的金融环境，利好股市和房地产市场。",
+          "affected_sectors": [
+            "银行业",
+            "房地产业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，表明经济增长预期增强，但对股市和房地产市场影响有限。",
+          "affected_sectors": [
+            "银行业",
+            "房地产业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能进一步降息，提振欧元区股市和债券市场表现。",
+          "affected_sectors": [
+            "银行业",
+            "金融业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策调整引发金融市场波动"
     }
   }
 ]
