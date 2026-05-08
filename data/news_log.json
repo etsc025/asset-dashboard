@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve announced a significant rate hike, indicating continued economic concerns.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts to control rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Sectors Affected By Fiscal Measures"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU warns of potential recession if no action is taken",
-          "country": "EU",
-          "category": "Economic Outlook",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "EU leaders stress the need for coordinated economic policies to avoid a downturn.",
-          "affected_sectors": [
-            "Global Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike could trigger global financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-04 18:00",
     "data": {
       "breaking_news": [
@@ -8940,6 +8894,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国債利回りの上昇が市場を刺激"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率的上升可能影响投资者信心和债券市场的稳定性。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平，未做出任何政策变动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市面临波动风险"
     }
   }
 ]
