@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank signals potential interest rate hikes in upcoming meetings.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Gold prices surge on geopolitical tensions",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Geopolitical risks boost gold prices, seen as safe-haven asset.",
-          "affected_sectors": [
-            "Mining",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push US Treasury yields higher"
-    }
-  },
-  {
     "timestamp": "2026-05-04 10:30",
     "data": {
       "breaking_news": [
@@ -8940,6 +8893,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on EU stimulus announcement"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to raise interest rates by 50 basis points",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has announced a rate hike, expected to stabilize the Eurozone economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth forecast revised upward",
+          "country": "CHINA",
+          "category": "GDP Growth",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's economic outlook is improving as its GDP growth forecast has been raised, indicating a strong recovery.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets are expected to rise with interest rate hikes and positive economic indicators."
     }
   }
 ]
