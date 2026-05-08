@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示将加息以对抗通胀",
-          "country": "EU",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示，可能会采取措施应对高通胀率，这可能提振股市。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "全球油价上涨导致能源行业担忧",
-          "country": "全球",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于石油价格上升，投资者对能源行业的前景感到不安。",
-          "affected_sectors": [
-            "能源"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球经济面临通胀压力"
-    }
-  },
-  {
     "timestamp": "2026-05-04 12:00",
     "data": {
       "breaking_news": [
@@ -8951,6 +8906,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行将召开会议，评估全球经济状况"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调存款准备金率至7.6%",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低存款准备金率，刺激经济增长预期增强。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果和微软等科技巨头股价上涨带动，美股主要指数收高。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息两次",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管表示经济复苏强劲，但欧洲央行仍保留了未来两年内加息的可能性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，投资者情绪乐观"
     }
   }
 ]
