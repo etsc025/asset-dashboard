@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能影响股市和债市表现。",
-          "affected_sectors": [
-            "银行业",
-            "金融市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国10年期国债收益率上升至3.25%",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国10年期国债收益率上升，可能提振股市表现。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来加息可能性大",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行维持利率不变，但市场预期未来可能加息，对欧元区经济和金融市场造成不确定性。",
-          "affected_sectors": [
-            "银行业",
-            "金融市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率风险加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-04 15:30",
     "data": {
       "breaking_news": [
@@ -8940,6 +8893,56 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed raises rates to curb high inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional sanctions on Russian entities, potentially leading to geopolitical tensions.",
+          "affected_sectors": [
+            "Energy",
+            "Finance",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth rate slows down",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "China reported a slower-than-expected GDP growth, affecting domestic markets and investor sentiment.",
+          "affected_sectors": [
+            "Technology",
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected to boost economy"
     }
   }
 ]
