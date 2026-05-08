@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "地缘政治",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧盟对俄罗斯实施新制裁，可能影响欧洲能源和金融行业。",
-          "affected_sectors": [
-            "能源业",
-            "金融服务"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国加息预期提升，市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-04 20:30",
     "data": {
       "breaking_news": [
@@ -8915,6 +8880,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国科技股强势反弹"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's central bank is expected to increase interest rates, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced additional economic policies aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed after China's PMI data release",
+          "country": "Asia",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's manufacturing activity index is seen as a mixed signal for the region's economic outlook.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be closely monitored"
     }
   }
 ]
