@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank has raised interest rates, potentially signaling a shift towards economic stability.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new financial regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU directives aim to improve financial market transparency and investor protection.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Positive earnings from major Asian companies have boosted stock indices across the region.",
-          "affected_sectors": [
-            "Technology",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and regulatory changes could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-04 08:30",
     "data": {
       "breaking_news": [
@@ -8935,6 +8887,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks worldwide tighten monetary policies to combat inflation."
+    }
+  },
+  {
+    "timestamp": "2026-05-08 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has raised the federal funds rate, indicating a shift towards tighter monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The EU has imposed new economic sanctions on Russia in response to its actions in Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Finance",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, aiming to boost credit growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場緊張感高まり"
     }
   }
 ]
