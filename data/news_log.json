@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as central banks consider interest rate hikes",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US central bank's consideration of higher interest rates is seen as a negative for Bitcoin, but the market remains bullish on its long-term prospects.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK's announcement of additional fiscal measures is expected to support economic growth and could lead to higher stock prices.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets mixed as China releases Q3 GDP figures",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "China's release of third quarter Gross Domestic Product (GDP) data is expected to have a neutral impact on Asian financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US central bank considering higher interest rates"
-    }
-  },
-  {
     "timestamp": "2026-05-04 06:00",
     "data": {
       "breaking_news": [
@@ -8929,6 +8884,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves first crypto ETF",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Cryptocurrency",
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising global bond yields reflect growing investor concern over rising inflation rates.",
+          "affected_sectors": [
+            "Bond Market",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central banks to meet next week for interest rate decisions",
+          "country": "GLOBAL",
+          "category": "Financials",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Key central banks are scheduled to convene next week to discuss potential interest rate adjustments.",
+          "affected_sectors": [
+            "Banking Sector",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks meeting next week for interest rate decisions"
     }
   }
 ]
