@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data privacy rules, affecting tech and financial sectors.",
-          "affected_sectors": [
-            "Tech",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains momentum",
-          "country": "中国",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have rallied sharply in the past week, driven by government stimulus measures.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
-    }
-  },
-  {
     "timestamp": "2026-05-04 09:00",
     "data": {
       "breaking_news": [
@@ -8936,6 +8890,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場緊張感高まり"
+    }
+  },
+  {
+    "timestamp": "2026-05-08 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激信贷增长和经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市在财报季开局强劲",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "主要股指普遍上涨，科技股领涨，投资者信心增强。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市今日开局强劲"
     }
   }
 ]
