@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve announced a significant rate hike, likely impacting global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Investment"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth exceeds expectations",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China reported stronger than anticipated economic growth, boosting investor confidence.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike could lead to volatility in global markets."
-    }
-  },
-  {
     "timestamp": "2026-05-04 11:00",
     "data": {
       "breaking_news": [
@@ -8938,6 +8903,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets are expected to rise with interest rate hikes and positive economic indicators."
+    }
+  },
+  {
+    "timestamp": "2026-05-08 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
+          "country": "UK",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts rates but warns of potential liquidity crunch.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China central bank to cut reserve requirements, easing credit conditions",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Central bank's move aims to boost lending and ease financing difficulties in China.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步宽松政策，市场风险偏好提升"
     }
   }
 ]
