@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国の銀行が新規株式公開(IPO)を計画",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の主要銀行がIPOを検討、市場に中立的な影響予想",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国債利回り上昇、長期金利への警戒感高まる",
-          "country": "アメリカ",
-          "category": "利率動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回りの上昇は長期金利上昇を示唆、市場にリスクオフの兆し",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国債利回り上昇で市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-05-04 17:30",
     "data": {
       "breaking_news": [
@@ -8939,6 +8906,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策，但美国国债收益率上升"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国中央銀行が人民元の為替レートを調整",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国中央銀行が人民元の為替レートを調整、市場に中立的な影響。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国債利回り上昇、株式市場への影響",
+          "country": "アメリカ",
+          "category": "財政・金利政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国債利回りの上昇により、米国の株式市場にポジティブな影響。",
+          "affected_sectors": [
+            "金融",
+            "証券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国債利回りの上昇が市場を刺激"
     }
   }
 ]
