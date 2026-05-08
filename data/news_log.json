@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic uncertainty.",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US treasury yield has dropped to a record low, signaling potential economic weakness.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package.",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces fresh measures to boost economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU economic growth forecast revised downward.",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The EU's economic outlook has been downgraded, affecting multiple sectors.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package for economic recovery."
-    }
-  },
-  {
     "timestamp": "2026-05-04 16:00",
     "data": {
       "breaking_news": [
@@ -8943,6 +8896,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury 30-Year Bond Yield Hits Record Low",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 30-year bond yield dropped to a record low, signaling potential economic weakness.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound Weakens Against USD",
+          "country": "UK",
+          "category": "Currency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK pound weakened against the US dollar, indicating market uncertainty.",
+          "affected_sectors": [
+            "Trade"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Central Bank to Cut Interest Rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB's decision could boost economic growth and inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK Pound weakness may affect trade relations."
     }
   }
 ]
