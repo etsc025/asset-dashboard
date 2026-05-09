@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Expected",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks meeting is expected to result in rate hikes, boosting economic sentiment.",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stocks Surge on Trade Tensions Relief",
-          "country": "EUROPE",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Stock markets in Europe have rallied following positive developments in trade tensions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Markets Mixed Post-China Economic Data Release",
-          "country": "ASIA",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across Asian markets post release of economic data from China.",
-          "affected_sectors": [
-            "Energy",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Rate hikes expected, global financial market volatility possible."
-    }
-  },
-  {
     "timestamp": "2026-05-05 12:30",
     "data": {
       "breaking_news": [
@@ -8878,6 +8831,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on US rate hike announcement"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates to curb inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank raises key rate by 0.5% in response to rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy grows faster than expected in Q3",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK GDP growth exceeds forecasts, driven by strong consumer spending and exports.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global inflation concerns rise as central banks tighten monetary policy"
     }
   }
 ]
