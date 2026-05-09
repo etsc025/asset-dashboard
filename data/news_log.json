@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the upcoming meetings.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new fiscal stimulus package",
-          "country": "EU",
-          "category": "Government Policies",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union has announced a new fiscal stimulus plan to support its economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank has cut the reserve requirement ratio, providing more liquidity to banks.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，利好金融市场"
-    }
-  },
-  {
     "timestamp": "2026-05-05 21:00",
     "data": {
       "breaking_news": [
@@ -8870,6 +8822,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行会议临近，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount.",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates at record low.",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持利率在历史低位不变。",
+          "affected_sectors": [
+            "货币政策"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks mixed as China's PMI falls below 50.",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "LOW",
+          "direction": "BULLISH/BEARISH DEPENDENT ON PMI VALUE",
+          "summary": "亚洲股市表现参差不齐，因中国PMI低于50。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持稳定"
     }
   }
 ]
