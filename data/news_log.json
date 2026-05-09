@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike for the current year.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new banking regulations",
-          "country": "EU",
-          "category": "Regulation & Compliance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU banking rules are set to be implemented, potentially affecting financial institutions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, indicating a supportive stance on the economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策变动，市场需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-05 03:00",
     "data": {
       "breaking_news": [
@@ -8927,6 +8882,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Regulatory uncertainty weighs on financial markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting ongoing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank officials suggest interest rates may rise soon.",
+          "affected_sectors": [
+            "Finance",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rally as technology sector rebounds from recent losses.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动将影响市场"
     }
   }
 ]
