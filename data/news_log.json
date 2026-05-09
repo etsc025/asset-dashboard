@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in decades.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank announces rate hike of 25bps",
-          "country": "Europe",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has decided to raise interest rates by 25 basis points, signaling a tightening monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "China",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to ease liquidity conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and monetary tightening could lead to economic volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-05 00:30",
     "data": {
       "breaking_news": [
@@ -8924,6 +8877,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，债券市场承压",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致投资者转向风险资产，对债券市场造成压力。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
