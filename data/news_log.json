@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors seek safer assets during the economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation rate hits 3%, highest in over a decade",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's annual inflation rate rose to 3.1% in April, the highest level since early 2011.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank extends pandemic emergency purchase program",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB extended its Pandemic Emergency Purchase Program (PEPP) until the end of 2021, aiming to support economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on ECB stimulus"
-    }
-  },
-  {
     "timestamp": "2026-05-04 23:00",
     "data": {
       "breaking_news": [
@@ -8919,6 +8874,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Chinese crypto regulations easing boosts Bitcoin"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid economic uncertainty",
+          "country": "EU",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Liquidity issues in European banking sector could lead to reduced lending and higher borrowing costs.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Central Bank of China reduces reserve requirements, easing liquidity in financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic uncertainty could impact financial markets."
     }
   }
 ]
