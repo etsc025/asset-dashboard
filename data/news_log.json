@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hit a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be raised in September",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England is expected to raise interest rates by 0.5% in September, signaling a tightening monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to signal its readiness for interest rate hikes in the near future, supporting economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates set to rise globally, financial markets watch closely."
-    }
-  },
-  {
     "timestamp": "2026-05-05 06:00",
     "data": {
       "breaking_news": [
@@ -8894,6 +8849,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed's action could lead to further economic volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-09 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US Treasury yields drop to record lows, raising fears of inflation and economic instability.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch as ECB cuts rates",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB reduces interest rates to 0.25%, leading to potential liquidity issues for European banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian markets rally on hopes of vaccine rollout",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Vaccine distribution plans in Asia boost market sentiment, driving stock indices higher.",
+          "affected_sectors": [
+            "Finance",
+            "Healthcare"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB rate cut could lead to liquidity issues for European banks."
     }
   }
 ]
