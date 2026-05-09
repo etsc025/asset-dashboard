@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to announce rate hike, supporting euro gains.",
-          "affected_sectors": [
-            "Monetary Policy",
-            "Euro"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to raise interest rates"
-    }
-  },
-  {
     "timestamp": "2026-05-05 14:00",
     "data": {
       "breaking_news": [
@@ -8879,6 +8845,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU Central Bank hints at rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息政策，预计对股市和房地产市场产生积极影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，可能引发市场波动，但具体影响需观察后续发展。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市小幅下跌，受科技股拖累",
+          "country": "欧洲",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧洲主要股指小幅下跌，科技板块表现不佳，对整体市场情绪造成压力。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振股市"
     }
   }
 ]
