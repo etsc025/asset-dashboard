@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升影响了股票市场的表现。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平稳",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持当前的利率水平，对金融市场影响有限。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体政策变动引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-05-05 20:30",
     "data": {
       "breaking_news": [
@@ -8872,6 +8824,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PMI weakens to lowest in over a year",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK Manufacturing Purchasing Managers' Index (PMI) fell below 50 for the first time since January, signaling contraction.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI hits record low amid trade tensions",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese Manufacturing Purchasing Managers' Index (PMI) dropped to 49.2 in May, its lowest level since February.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行会议临近，市场波动加剧"
     }
   }
 ]
