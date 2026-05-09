@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，有助于刺激经济增长和股市上涨。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头财报超预期增长",
-          "country": "美国",
-          "category": "公司财报",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国科技巨头发布强劲财报，推动市场情绪积极向上。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策利好股市"
-    }
-  },
-  {
     "timestamp": "2026-05-05 06:30",
     "data": {
       "breaking_news": [
@@ -8896,6 +8863,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB rate cut could lead to liquidity issues for European banks."
+    }
+  },
+  {
+    "timestamp": "2026-05-09 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates to curb inflation",
+          "country": "EU",
+          "category": "Interest Rates",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank raises key rate by 0.75 percentage points, highest in over a decade.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK GDP outlook adjusted to reflect slower economic expansion.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank rate hike signals ongoing inflation fight"
     }
   }
 ]
