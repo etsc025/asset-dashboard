@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data releases",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.85% after strong GDP report.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be raised by Bank of England",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England is expected to raise interest rates for the first time in 14 years.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI data shows mixed results",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Chinese manufacturing sector growth slows but services sector remains strong.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets to remain volatile due to mixed economic signals."
-    }
-  },
-  {
     "timestamp": "2026-05-04 22:30",
     "data": {
       "breaking_news": [
@@ -8922,6 +8874,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发金融市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains support as China relaxes crypto regulations",
+          "country": "China",
+          "category": "Crypto & Blockchain",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese authorities have eased restrictions on cryptocurrencies, boosting Bitcoin's price.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury yields rise amid economic data release",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hit a two-month high after strong GDP growth figures were released.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches inquiry into Russian energy sector sanctions",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has initiated an investigation into potential sanctions on Russia's energy sector, but no immediate action is expected.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Chinese crypto regulations easing boosts Bitcoin"
     }
   }
 ]
