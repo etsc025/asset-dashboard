@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin gains support from major banks as regulatory hurdles ease",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US banks have signaled their willingness to engage in Bitcoin transactions, reducing regulatory risks.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike next year",
-          "country": "EU",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB's statement suggests a potential interest rate increase by the end of 2023.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets mixed on trade tensions",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Stocks in Asia-Pacific regions have fluctuated due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major banks signal Bitcoin transactions, reducing regulatory risks."
-    }
-  },
-  {
     "timestamp": "2026-05-05 15:00",
     "data": {
       "breaking_news": [
@@ -8892,6 +8846,40 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "Brexit uncertainty weighs on UK economy growth forecast"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振股市和房地产市场信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国10年期国债收益率上涨，对股市构成压力。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振股市"
     }
   }
 ]
