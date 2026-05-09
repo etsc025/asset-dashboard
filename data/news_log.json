@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling a potential shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to unveil new economic stimulus package",
-          "country": "EU",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Union is set to announce a fresh economic support program aimed at bolstering the region's recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced its reserve requirement ratio, providing liquidity to the financial system.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU to unveil new economic stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-05-05 03:34",
     "data": {
       "breaking_news": [
@@ -8929,6 +8882,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动将影响市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，旨在刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市连续三日上涨结束",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管科技股表现强劲，但整体市场仍保持稳定走势。",
+          "affected_sectors": [
+            "科技行业",
+            "金融行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振经济预期"
     }
   }
 ]
