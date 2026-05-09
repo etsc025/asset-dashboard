@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield climbed above 3.5% as investors fret over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: MPC member suggests",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "A Bank of England policymaker hinted at higher interest rates, citing strong economic data.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Eurozone GDP growth forecast revised downward",
-          "country": "EUROZONE",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "The European Commission lowered its 2023 GDP growth projection for the Eurozone.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, investors cautious"
-    }
-  },
-  {
     "timestamp": "2026-05-05 13:30",
     "data": {
       "breaking_news": [
@@ -8879,6 +8834,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, raising concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank hints at rate hikes",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank suggests potential interest rate increases in the near future.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks under pressure",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Tech sector faces challenges as investors shift focus to growth sectors.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU Central Bank hints at rate hikes"
     }
   }
 ]
