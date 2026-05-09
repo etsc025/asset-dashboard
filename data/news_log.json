@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 07:36",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key rate by 0.75%, highest since 2011.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on China's economic data release",
-          "country": "Asia",
-          "category": "Equities Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China reports strong Q4 GDP growth, lifting Asian stocks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks tighten monetary policies to tame inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-05 08:00",
     "data": {
       "breaking_news": [
@@ -8906,6 +8861,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank rate hike expected today"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks consider rate hikes amid inflation spike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Central banks in EU are expected to raise interest rates to combat rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central banks may consider rate hikes today."
     }
   }
 ]
