@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid stress tests",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Stress test results could lead to reduced lending and higher interest rates for European banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally on tech sector gains",
-          "country": "Asia",
-          "category": "Technology",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Tech stocks have driven Asian market indices higher, but overall sentiment remains stable.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Stress test results could impact lending and interest rates in Europe."
-    }
-  },
-  {
     "timestamp": "2026-05-05 11:00",
     "data": {
       "breaking_news": [
@@ -8863,6 +8817,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise amid economic data release"
+    }
+  },
+  {
+    "timestamp": "2026-05-09 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have risen sharply.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB suggests a possible interest rate increase in September, but no concrete decision has been made yet.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed as China's PMI data weakens",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Weakness in China's manufacturing purchasing managers' index has led to a mixed performance across Asian stock markets.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB hints at September rate hike"
     }
   }
 ]
