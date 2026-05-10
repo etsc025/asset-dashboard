@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘即出现大幅下跌，投资者情绪低迷。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济复苏",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行正在评估是否采取更多措施来应对当前的经济挑战，市场对此反应积极。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市开盘前面临不确定性"
-    }
-  },
-  {
     "timestamp": "2026-05-05 23:30",
     "data": {
       "breaking_news": [
@@ -8877,6 +8831,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Consider Rate Hikes Amid Inflation Concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to consider rate hikes amid rising inflation concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economy Report Shows Mixed Results",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed economic indicators in the EU suggest a stable but uncertain outlook.",
+          "affected_sectors": [
+            "Retail",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Japan's GDP Growth Forecasted to Slow",
+          "country": "JP",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The Japanese economy is expected to grow at a slower pace in the coming quarters.",
+          "affected_sectors": [
+            "Technology",
+            "Healthcare"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global Central Banks may consider rate hikes, increasing market volatility."
     }
   }
 ]
