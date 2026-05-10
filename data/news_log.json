@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升可能影响投资者信心和股票市场波动性。",
-          "affected_sectors": [
-            "债券市场",
-            "股市"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行暗示将进一步放宽货币政策，提振欧元区经济复苏预期。",
-          "affected_sectors": [
-            "银行",
-            "能源"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但需警惕波动风险"
-    }
-  },
-  {
     "timestamp": "2026-05-06 21:00",
     "data": {
       "breaking_news": [
@@ -8845,6 +8797,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行政策变动，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，市场反应平淡。",
+          "affected_sectors": [
+            "货币"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK housing market cooling as mortgage approvals drop",
+          "country": "UK",
+          "category": "房地产市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "英国住房市场降温，因抵押贷款批准量下降。",
+          "affected_sectors": [
+            "房地产"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持利率不变"
     }
   }
 ]
