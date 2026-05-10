@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行降息引发市场乐观情绪",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场普遍认为这将提振经济增长和企业盈利能力。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果、亚马逊等科技巨头强劲业绩推动，美股三大指数均录得小幅上涨。",
-          "affected_sectors": [
-            "信息技术业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧盟成员国",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "尽管市场预期可能降息，但欧洲央行宣布维持现有利率水平，未对市场产生显著影响。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-06 13:30",
     "data": {
       "breaking_news": [
@@ -8867,6 +8821,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国の中央銀行の決定によりリスクオンシチュエーション"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bonds",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals readiness to raise interest rates, supporting Euro gains.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields above 3.5% for first time since June."
     }
   }
 ]
