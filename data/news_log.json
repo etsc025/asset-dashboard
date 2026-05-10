@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement carbon tax on global shipping",
-          "country": "EU",
-          "category": "Environmental Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union plans to introduce a carbon tax on international shipping emissions from January 1, 2024.",
-          "affected_sectors": [
-            "Transportation"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face antitrust investigation",
-          "country": "中国",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major Chinese technology companies are under scrutiny for potential antitrust issues by regulatory authorities.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，经济前景乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-06 14:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8800,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive US Treasury yields above 3.5% for first time since March."
+    }
+  },
+  {
+    "timestamp": "2026-05-11 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性，投资者需关注后续动向。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，暗示经济增长预期增强，对股市构成正面影响。",
+          "affected_sectors": [
+            "金融业",
+            "房地产业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率风险增加"
     }
   }
 ]
