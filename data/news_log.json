@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting ongoing concerns about inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank announced it will maintain its current interest rate levels.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Central Banks",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank cut the reserve requirement ratio, signaling a potential easing of monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行保持一致，市场情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-06 17:00",
     "data": {
       "breaking_news": [
@@ -8832,6 +8787,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by US Fed could trigger market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-11 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has raised interest rates, indicating a strong economic stance.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU to implement carbon tax",
+          "country": "EU",
+          "category": "Environmental Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is set to introduce a carbon tax starting next year.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China announces stimulus package",
+          "country": "中国",
+          "category": "Economic Stimulus",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China has announced a significant economic stimulus package to boost the economy.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Construction"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU carbon tax implementation imminent"
     }
   }
 ]
