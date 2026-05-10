@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates but warns of potential liquidity problems.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Crypto markets rally on positive regulatory news",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Regulatory clarity in crypto sector boosts investor confidence, driving gains across the board.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts and regulatory clarity support financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-06 02:04",
     "data": {
       "breaking_news": [
@@ -8875,6 +8827,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on positive economic signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融服务业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者担忧通胀风险",
+          "country": "美国",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，可能抑制市场情绪。",
+          "affected_sectors": [
+            "债券市场",
+            "股市"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以控制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "欧洲央行会议即将召开，市场关注其政策走向。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但通胀担忧加剧"
     }
   }
 ]
