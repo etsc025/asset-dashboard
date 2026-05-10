@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Interest Rates Update",
-          "country": "USA",
-          "category": "Central Banking",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks are expected to announce interest rate decisions, potentially impacting global markets.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Stock Market Volatility Rises: Investors Worry About Economic Indicators",
-          "country": "Global",
-          "category": "Financial Markets",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Recent economic indicators have raised concerns among investors, leading to increased volatility in stock markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Cryptocurrency Market Surge: Bitcoin Hits All-Time High",
-          "country": "Global",
-          "category": "Cryptocurrencies",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin has reached an all-time high, sparking interest and speculation among investors.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions by major central banks could significantly impact global markets."
-    }
-  },
-  {
     "timestamp": "2026-05-06 18:00",
     "data": {
       "breaking_news": [
@@ -8848,6 +8803,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，投资者需谨慎应对"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Surge as Fed Holds Rates",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yields hit a new high, amid Fed's rate-hold decision.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank Keeps Interest Rates Unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains rates at 0%, as expected.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Stocks Mixed After US Data Release",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Japan's Nikkei up, China's Shanghai Composite down after mixed US data release.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets remain cautiously optimistic."
     }
   }
 ]
