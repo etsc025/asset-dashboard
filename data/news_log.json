@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflationary pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues at major European banks could impact financial stability.",
-          "affected_sectors": [
-            "Banking",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China's central bank reduces reserve requirements to support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲银行面临流动性问题，可能影响金融稳定"
-    }
-  },
-  {
     "timestamp": "2026-05-06 00:00",
     "data": {
       "breaking_news": [
@@ -8879,6 +8831,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global Central Banks may consider rate hikes, increasing market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-10 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升可能对股市产生影响，但目前市场反应较为平静。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松货币政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行暗示将进一步放宽政策，以应对经济下行压力，提振股市和房地产市场表现。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎乐观"
     }
   }
 ]
