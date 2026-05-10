@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation fears, US 10-year Treasury yields have climbed above 3.25% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank policymakers signaled they may raise interest rates soon, citing strong economic growth and inflation concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit negotiations intensify as EU central bank hints at rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-06 20:30",
     "data": {
       "breaking_news": [
@@ -8832,6 +8799,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策の変更により市場が動揺する可能性がある。"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to announce interest rate decision tomorrow",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备将明天宣布利率决定，市场预期加息。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio for banks",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行降低了银行的存款准备金率，旨在刺激经济增长。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to discuss monetary policy changes",
+          "country": "欧洲",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行将讨论货币政策的可能变化，市场关注点在于是否进一步降息。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行政策变动，市场波动风险增加"
     }
   }
 ]
