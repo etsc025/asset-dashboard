@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，预计将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "银行",
-            "房地产",
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，债券市场承压",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率的上升导致投资者对长期投资信心下降，可能影响债券价格和股市表现。",
-          "affected_sectors": [
-            "债券市场",
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否采取更多措施来支持经济，目前尚未做出决定。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市今日普遍上涨"
-    }
-  },
-  {
     "timestamp": "2026-05-06 00:45",
     "data": {
       "breaking_news": [
@@ -8878,6 +8829,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic slowdown",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of England cuts key rate to 1.25% from 1.5%, signaling potential for further easing.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at more stimulus",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB suggests additional quantitative easing measures to support economy amid growth concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally on ECB stimulus hints"
     }
   }
 ]
