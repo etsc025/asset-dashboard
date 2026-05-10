@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to announce rate hikes at their meeting, potentially impacting global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance",
-            "Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Interest Rates: Rate Hike Expected",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England is set to announce a rate hike, likely influencing the UK economy and financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance",
-            "Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's Economic Growth Forecast Revised Downward",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The Chinese government has adjusted its economic growth forecast, but the outlook remains positive.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Construction"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global Central Banks Meeting: Rate Hikes Possible - Potential market volatility ahead."
-    }
-  },
-  {
     "timestamp": "2026-05-06 04:00",
     "data": {
       "breaking_news": [
@@ -8888,6 +8838,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，提振市场信心。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股开盘前遭遇抛售，科技股领跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息提振信心"
     }
   }
 ]
