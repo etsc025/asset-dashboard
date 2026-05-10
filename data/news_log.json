@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks to meet on interest rates",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank and other EU members will convene to discuss potential rate hikes.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains after stimulus package announcement",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise on news of new economic support measures.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets show strong momentum towards recovery."
-    }
-  },
-  {
     "timestamp": "2026-05-06 09:00",
     "data": {
       "breaking_news": [
@@ -8870,6 +8824,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Regulators investigating potential market manipulation"
+    }
+  },
+  {
+    "timestamp": "2026-05-10 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场反应强烈，投资者信心提升。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于科技股表现不佳，美股开盘即遭遇抛售，市场情绪低迷。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲债券收益率上升",
+          "country": "欧洲",
+          "category": "利率动态",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲主要国家的债券收益率小幅上升，对市场影响有限。",
+          "affected_sectors": [
+            "政府债券"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振股市信心"
     }
   }
 ]
