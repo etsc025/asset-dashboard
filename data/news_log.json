@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be raised in September",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK's central bank hints at rate hike next month amid strong economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on policy easing",
-          "country": "中国",
-          "category": "Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as government announces stimulus measures.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-07 17:00",
     "data": {
       "breaking_news": [
@@ -8799,6 +8751,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and yield increases signal economic stability"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB keeps key rates unchanged in response to economic uncertainty.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Gold prices surge on geopolitical tensions",
+          "country": "Global",
+          "category": "Commodity",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical risks drive gold prices up, boosting precious metals sector.",
+          "affected_sectors": [
+            "Mining",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns intensify pushing yields higher."
     }
   }
 ]
