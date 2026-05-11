@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank announced it will maintain its current interest rates at their current level.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI falls below 50",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's manufacturing Purchasing Managers' Index (PMI) has dropped below the neutral 50 mark.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国の製造業PMIが50未満に下落、リスク資産への流れを強める"
-    }
-  },
-  {
     "timestamp": "2026-05-06 23:30",
     "data": {
       "breaking_news": [
@@ -8813,6 +8768,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on interest rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对市场产生负面影响。",
+          "affected_sectors": [
+            "债券市场",
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将加息以对抗通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟央行表示，可能会采取加息措施来应对通货膨胀。这可能对股票市场产生积极影响。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场货币面临压力",
+          "country": "新兴市场国家",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "由于全球经济不确定性，新兴市场的货币价值下跌。这可能对相关行业产生负面影响。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行将采取行动以稳定金融市场"
     }
   }
 ]
