@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因业绩不佳及监管担忧，美国科技股普遍下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以控制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多紧缩措施来抑制高通胀率。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市信心"
-    }
-  },
-  {
     "timestamp": "2026-05-07 08:30",
     "data": {
       "breaking_news": [
@@ -8817,6 +8771,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK's fiscal measures could boost economy but risks remain."
+    }
+  },
+  {
+    "timestamp": "2026-05-11 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "[Title 1]",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US bank announces significant profit growth.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "[Title 2]",
+          "country": "UK",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK interest rates decision remains unchanged.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "[Title 3]",
+          "country": "China",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese tech giant reports record quarterly revenue growth.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to geopolitical tensions."
     }
   }
 ]
