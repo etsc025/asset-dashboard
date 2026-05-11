@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, potentially signaling a shift in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has unveiled a new economic support plan to boost spending and growth.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU economy report shows mixed results",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from EU economies, with some regions showing improvement while others continue to struggle.",
-          "affected_sectors": [
-            "Retail",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets remain cautiously optimistic despite mixed economic indicators."
-    }
-  },
-  {
     "timestamp": "2026-05-07 03:00",
     "data": {
       "breaking_news": [
@@ -8790,6 +8743,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should remain cautious of economic risks."
+    }
+  },
+  {
+    "timestamp": "2026-05-11 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 3.27%, amid concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates at record low",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank announced it will keep its key interest rate unchanged, reflecting stable economic conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI hits 50.3 in July, above expectations",
+          "country": "CHINA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China's Purchasing Managers' Index (PMI) reached 50.3 in July, indicating a slight improvement from June.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持利率不变，市场情绪乐观"
     }
   }
 ]
