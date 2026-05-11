@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank cuts interest rates in response to economic slowdown.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on tech sector rebound",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Tech stocks lead China's Shanghai Composite index higher amid hopes for policy support.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-05-07 16:30",
     "data": {
       "breaking_news": [
@@ -8813,6 +8766,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK's Bank of England hikes interest rates to curb rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and yield increases signal economic stability"
     }
   }
 ]
