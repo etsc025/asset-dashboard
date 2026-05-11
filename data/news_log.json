@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU faces new capital controls amid financial crisis concerns",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European leaders consider tightening bank liquidity requirements to prevent a full-blown financial crisis.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian currencies under pressure as USD strengthens",
-          "country": "Asia",
-          "category": "Currencies",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Weak Asian currencies are seen as a risk for exporters and investors.",
-          "affected_sectors": [
-            "Exporters",
-            "Investors"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU leaders consider tighter bank liquidity requirements"
-    }
-  },
-  {
     "timestamp": "2026-05-07 05:00",
     "data": {
       "breaking_news": [
@@ -8773,6 +8727,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates could increase, affecting global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-11 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Alibaba Group to issue $2 billion in bonds",
+          "country": "USA",
+          "category": "Corporate Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Alibaba Group plans to issue $2 billion worth of bonds, signaling strong financial health.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK government announces tax cuts for small businesses",
+          "country": "UK",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government's move is expected to boost economic growth and job creation.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices rise due to geopolitical tensions",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical tensions in the Middle East have led to a significant increase in oil prices.",
+          "affected_sectors": [
+            "Transportation",
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK government tax cuts for small businesses could boost economy"
     }
   }
 ]
