@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市因科技股下跌而下滑",
-          "country": "欧洲",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受苹果公司业绩不及预期影响，欧洲主要股指下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场"
-    }
-  },
-  {
     "timestamp": "2026-05-07 10:30",
     "data": {
       "breaking_news": [
@@ -8830,6 +8797,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield increases keep market volatile"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves first crypto ETF",
+          "country": "USA",
+          "category": "Financial Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S.-based cryptocurrency exchange-traded fund (ETF), boosting Bitcoin's market sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising global bond yields are seen as a positive sign for investors, despite concerns over rising inflation rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise amid inflation concerns"
     }
   }
 ]
