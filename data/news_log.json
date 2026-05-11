@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves first crypto ETF",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin prices.",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Financials"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global bond yields rise amid economic optimism",
-          "country": "GLOBAL",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Rising global bond yields reflect improving economic sentiment, with investors expecting higher interest rates in the future.",
-          "affected_sectors": [
-            "Bond Market",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global bond yields rise, watch for interest rate hikes."
-    }
-  },
-  {
     "timestamp": "2026-05-07 16:00",
     "data": {
       "breaking_news": [
@@ -8800,6 +8765,54 @@
       ],
       "market_sentiment": "RISK_OFF",
       "top_alert": "中国央行上调存款准备金率，需关注后续动向"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.95% as investors brace for higher interest rates to combat inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and infrastructure spending plans to stimulate economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Construction"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ECB maintains status quo but signals willingness to raise rates if inflation persists.",
+          "affected_sectors": [
+            "Finance",
+            "Investment"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to boost economy"
     }
   }
 ]
