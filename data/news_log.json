@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch amid Brexit uncertainty",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European banks struggle with reduced access to funding due to Brexit uncertainties.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit and inflation risks loom large"
-    }
-  },
-  {
     "timestamp": "2026-05-07 08:00",
     "data": {
       "breaking_news": [
@@ -8802,6 +8769,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise amid inflation concerns"
+    }
+  },
+  {
+    "timestamp": "2026-05-11 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as Fed hikes interest rates",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Treasury yield curve has steepened, reflecting expectations of continued rate hikes by the Federal Reserve.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support businesses",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government is implementing new tax breaks and grants for small businesses, aiming to bolster the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto trading platform for compliance issues",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union authorities are examining a major cryptocurrency exchange for potential non-compliance with regulations.",
+          "affected_sectors": [
+            "Financial Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK's fiscal measures could boost economy but risks remain."
     }
   }
 ]
