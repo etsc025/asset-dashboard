@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank considers rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is considering whether to raise interest rates in the near future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains momentum",
-          "country": "中国",
-          "category": "Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have seen a strong rally today, driven by government stimulus measures.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets show positive momentum"
-    }
-  },
-  {
     "timestamp": "2026-05-07 13:30",
     "data": {
       "breaking_news": [
@@ -8806,6 +8758,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields to new highs in major economies."
+    }
+  },
+  {
+    "timestamp": "2026-05-12 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USA: Fed announces rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve has announced a significant interest rate increase, indicating an aggressive stance against inflation.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU: ECB to review monetary policy soon",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is set to examine its current monetary policies and may make adjustments in the near future.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global: Oil prices surge on supply concerns",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Oil prices have risen sharply due to growing worries about global oil supply disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and geopolitical risks weigh on markets."
     }
   }
 ]
