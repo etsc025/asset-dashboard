@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has announced it will maintain its current interest rate levels.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's economic outlook is expected to improve despite recent revisions in GDP forecasts.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-05-07 17:30",
     "data": {
       "breaking_news": [
@@ -8798,6 +8750,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns intensify pushing yields higher."
+    }
+  },
+  {
+    "timestamp": "2026-05-12 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PMI falls below forecast, hits lowest level in over a year",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK manufacturing sector growth slows to its weakest pace since June 2021.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike in December",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ECB suggests it may raise interest rates by end of year, spurring market volatility.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK PMI falls below forecast, hits lowest level in over a year"
     }
   }
 ]
