@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut as economy struggles",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK has decided to cut its interest rates in an attempt to support the struggling economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after US jobs data",
-          "country": "Global",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US job numbers have had a neutral impact on global stock markets.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Interest rate cuts and yield increases create market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-08 08:00",
     "data": {
       "breaking_news": [
@@ -8799,6 +8751,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場今日風險情緒上升"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to hike rates, ECB president warns of stagflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB is expected to raise interest rates amid rising inflation and risk of stagflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stocks mixed, tech sector under pressure",
+          "country": "global",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US stocks end lower while European markets rise slightly.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB to hike rates, ECB president warns of stagflation"
     }
   }
 ]
