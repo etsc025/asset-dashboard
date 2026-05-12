@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen, reflecting investors' growing concern over inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided not to change its interest rate policy for now.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed after China's PMI data",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed results from China's manufacturing activity index have led to a lackluster reaction in Asian stock markets.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic growth remains uncertain due to inflation pressures."
-    }
-  },
-  {
     "timestamp": "2026-05-08 10:30",
     "data": {
       "breaking_news": [
@@ -8780,6 +8732,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global bond yields surge amid risk-off sentiment"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves SPAC deal with Bitcoin mining firm",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved a Special Purpose Acquisition Company (SPAC) deal involving Bitcoin mining company Marathon Gold Corporation, driving up the price of Bitcoin.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid economic recovery optimism",
+          "country": "GLOBAL",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising global bond yields reflect growing optimism about economic recovery, despite recent volatility in financial markets.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK government to introduce new fiscal stimulus package",
+          "country": "UK",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK government is set to announce a new fiscal stimulus package aimed at supporting businesses and individuals during the economic downturn.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise amid economic recovery optimism"
     }
   }
 ]
