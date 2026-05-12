@@ -1,54 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行",
-            "保险",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪谨慎",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，但并未引发大规模抛售潮。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市因经济数据疲软而下跌",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "由于经济增长预期下降，欧洲主要股指普遍下跌。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-08 10:00",
     "data": {
       "breaking_news": [
@@ -8784,6 +8735,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行举措可能引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Yields & Interest Rates",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in over a year.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to historic high",
+          "country": "UK",
+          "category": "Yields & Interest Rates",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises its base rate by 0.5% to 4%, the highest level since 1989.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields surge amid risk-off sentiment",
+          "country": "Global",
+          "category": "Yields & Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "Bond yields across the globe have surged, reflecting investors' cautious stance.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields surge amid risk-off sentiment"
     }
   }
 ]
