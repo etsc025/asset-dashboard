@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者对经济前景乐观。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以控制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧洲央行可能采取更多紧缩措施来对抗高通胀。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，投资者信心增强"
-    }
-  },
-  {
     "timestamp": "2026-05-07 22:30",
     "data": {
       "breaking_news": [
@@ -8777,6 +8732,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns persist across major economies"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to announce interest rate decision",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to make its latest interest rate decision, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces VAT reduction for small businesses",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has announced a temporary reduction in Value-Added Tax (VAT) rates for small businesses, aiming to stimulate economic activity.",
+          "affected_sectors": [
+            "Retail",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches new financial regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union has initiated a series of new financial regulations aimed at enhancing market transparency and investor protection.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions by major central banks can significantly impact global markets."
     }
   }
 ]
