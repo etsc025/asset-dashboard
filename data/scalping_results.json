@@ -1,41 +1,27 @@
 {
-  "updated_at": "2026-05-11T14:36:51",
-  "period_start": "2026-05-08",
-  "period_end": "2026-05-11",
-  "trading_days": 3,
+  "updated_at": "2026-05-12T15:28:24",
+  "period_start": "2026-05-12",
+  "period_end": "2026-05-12",
+  "trading_days": 1,
   "platform": "HyperSBI2 + Frida 17.9.1 + 自社proxy",
   "data_source": "SBI証券 約定履歴 (受渡金額・決済損益 公式値) - 自動更新",
-  "source_csv": "注文一覧_注文照会20260511.csv",
+  "source_csv": "注文一覧_当日約定20260512.csv",
   "summary": {
-    "total_pnl_jpy": 0,
-    "total_orders": 178,
-    "total_settles": 0,
-    "best_day_pnl": 0,
-    "best_day_label": "05-08 東P (6約定)",
-    "worst_day_pnl": 0,
-    "worst_day_label": "05-08 東P (6約定)"
+    "total_pnl_jpy": -71166,
+    "total_orders": 4,
+    "total_settles": 2,
+    "best_day_pnl": -71166,
+    "best_day_label": "05-12 7203 (4約定)",
+    "worst_day_pnl": -71166,
+    "worst_day_label": "05-12 7203 (4約定)"
   },
   "daily": [
     {
-      "date": "2026-05-08",
-      "ticker": "東P",
-      "name": "",
-      "fills": 6,
-      "pnl": 0
-    },
-    {
-      "date": "2026-05-10",
-      "ticker": "東P",
-      "name": "",
-      "fills": 81,
-      "pnl": 0
-    },
-    {
-      "date": "2026-05-11",
-      "ticker": "東P",
-      "name": "",
-      "fills": 91,
-      "pnl": 0
+      "date": "2026-05-12",
+      "ticker": "7203",
+      "name": "トヨタ自動車",
+      "fills": 4,
+      "pnl": -71166
     }
   ],
   "auto_cycle": {
