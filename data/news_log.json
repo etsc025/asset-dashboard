@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布将降低贷款利率，预计将刺激经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股抛售影响，美股三大指数开盘即出现较大跌幅。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行正在评估是否采取更多措施以应对经济放缓和通胀压力。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-07 23:00",
     "data": {
       "breaking_news": [
@@ -8778,6 +8731,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions by major central banks can significantly impact global markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-12 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，符合预期。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks mixed as China's PMI falls below 50",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "亚洲股市涨跌不一，中国PMI低于50点，暗示经济放缓。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行维持利率不变"
     }
   }
 ]
