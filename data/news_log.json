@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to consider rate hike",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟央行考虑加息可能性，但市场反应平淡。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要金融市场波动加大"
-    }
-  },
-  {
     "timestamp": "2026-05-08 13:00",
     "data": {
       "breaking_news": [
@@ -8793,6 +8760,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions could significantly impact the global economy."
+    }
+  },
+  {
+    "timestamp": "2026-05-13 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's regulatory environment improves in Europe amid calls for more clarity",
+          "country": "UK",
+          "category": "Financial Regulations",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the UK, regulators are considering new measures to provide clearer guidance on Bitcoin and other cryptocurrencies.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Fed announces interest rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike, signaling continued economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank issues new guidelines on digital currency",
+          "country": "CN",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has issued new guidelines for the development and use of digital currencies.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes continue, market cautious"
     }
   }
 ]
