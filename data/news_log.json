@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预示着宽松的金融环境，利好股市和房地产市场。",
-          "affected_sectors": [
-            "银行业",
-            "房地产业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪谨慎",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，表明经济增长预期增强，但对股市和房地产市场影响有限。",
-          "affected_sectors": [
-            "银行业",
-            "房地产业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息，提振欧元区股市和债券市场表现。",
-          "affected_sectors": [
-            "银行业",
-            "金融业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体政策调整引发金融市场波动"
-    }
-  },
-  {
     "timestamp": "2026-05-08 15:00",
     "data": {
       "breaking_news": [
@@ -8790,6 +8742,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU banks face liquidity crunch due to Brexit uncertainty"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU's GDP growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU's economic outlook has been downgraded due to geopolitical risks.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin price surges on FTX bankruptcy news",
+          "country": "Global",
+          "category": "Cryptocurrencies",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin prices have surged following the bankruptcy of FTX.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU's GDP growth forecast revised downward, geopolitical risks loom."
     }
   }
 ]
