@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市连续两天上涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "受利好经济数据和企业财报推动，美股继续走高。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率：影响市场流动性"
-    }
-  },
-  {
     "timestamp": "2026-05-08 04:00",
     "data": {
       "breaking_news": [
@@ -8764,6 +8731,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to curb inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic optimism",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rises to 3.85%, reflecting growing economic optimism.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures for energy sector",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government introduces new measures aimed at stabilizing the energy market, expected to have limited impact on overall economic performance.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike next year",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB suggests a possible interest rate hike in the near future, but markets remain cautious.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth expected to improve next quarter."
     }
   }
 ]
