@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new tax cuts and spending increases to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank lowers reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing monetary conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-07 23:30",
     "data": {
       "breaking_news": [
@@ -8776,6 +8730,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲央行维持利率不变"
+    }
+  },
+  {
+    "timestamp": "2026-05-12 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Signals Rate Hike Ahead",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve hinted at a rate hike in the near future, boosting stock markets.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to Maintain Interest Rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU Central Bank announced it will keep interest rates unchanged for now.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's Economic Growth Slows",
+          "country": "CHINA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Despite challenges, China's economy is expected to rebound in the second half of the year.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
     }
   }
 ]
