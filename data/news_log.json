@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调存款准备金率至7.6%",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低存款准备金率，刺激经济增长预期增强。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因科技股反弹而上涨",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果和微软等科技巨头股价上涨带动，美股主要指数收高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息两次",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管表示经济复苏强劲，但欧洲央行仍保留了未来两年内加息的可能性。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-08 23:09",
     "data": {
       "breaking_news": [
@@ -8740,6 +8694,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Geopolitical risks could impact financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-13 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts aimed at curbing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB suggests interest rates may rise in September but no immediate action is expected.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, ECB hints at rate hike"
     }
   }
 ]
