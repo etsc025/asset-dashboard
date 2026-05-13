@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury 30-Year Bond Yield Hits Record Low",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US 30-year bond yield dropped to a record low, signaling potential economic weakness.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound Weakens Against USD",
-          "country": "UK",
-          "category": "Currency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK pound weakened against the US dollar, indicating market uncertainty.",
-          "affected_sectors": [
-            "Trade"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Central Bank to Cut Interest Rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB's decision could boost economic growth and inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK Pound weakness may affect trade relations."
-    }
-  },
-  {
     "timestamp": "2026-05-09 03:30",
     "data": {
       "breaking_news": [
@@ -8699,6 +8654,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield increases keep markets volatile."
+    }
+  },
+  {
+    "timestamp": "2026-05-13 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，提振股市",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩担忧和监管压力，美国科技股普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息以对抗通胀",
+          "country": "欧洲",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管有放缓迹象，但欧洲央行仍表示可能在明年初采取行动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
