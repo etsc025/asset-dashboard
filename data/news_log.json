@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high of 3.87% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to hike rates again",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to raise interest rates further, following the US move.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Gold prices surge on geopolitical tensions",
-          "country": "GLOBAL",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Gold prices have surged due to increased geopolitical tensions, but investors remain cautious.",
-          "affected_sectors": [
-            "Mining & Metals"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank rate hike expected today"
-    }
-  },
-  {
     "timestamp": "2026-05-09 18:00",
     "data": {
       "breaking_news": [
@@ -8726,6 +8681,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed's rate decision looms large"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank signals potential interest rate increases in the future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally as China's tech sector reforms gain momentum",
+          "country": "China, USA",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Positive developments in China's tech sector boost global tech stocks.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally on positive economic reforms"
     }
   }
 ]
