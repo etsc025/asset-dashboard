@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调银行存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续两天上涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国股市连续两天上涨，投资者情绪乐观。",
-          "affected_sectors": [
-            "金融服务业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步加息",
-          "country": "欧盟",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多紧缩措施以抑制通胀。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融环境趋紧，投资者需谨慎。"
-    }
-  },
-  {
     "timestamp": "2026-05-09 08:30",
     "data": {
       "breaking_news": [
@@ -8732,6 +8687,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank may review interest rates in response to economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed after China data release",
+          "country": "China",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese market indices show varied performance following economic indicators release.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank to consider rate hike"
     }
   }
 ]
