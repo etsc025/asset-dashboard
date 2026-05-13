@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid economic uncertainty",
-          "country": "EU",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues in European banking sector could lead to reduced lending and higher borrowing costs.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHINA",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Central Bank of China reduces reserve requirements, easing liquidity in financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic uncertainty could impact financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-09 10:00",
     "data": {
       "breaking_news": [
@@ -8732,6 +8686,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策が市場に影響を及ぼす可能性がある"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, impacting global financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced a package of fiscal measures aimed at supporting the economy.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's GDP growth forecast revised downward",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Despite recent challenges, China is expected to maintain a positive GDP growth outlook for the year.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike could impact global financial markets"
     }
   }
 ]
