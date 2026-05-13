@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，旨在刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续三日上涨结束",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管科技股表现强劲，但整体市场仍保持稳定走势。",
-          "affected_sectors": [
-            "科技行业",
-            "金融行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振经济预期"
-    }
-  },
-  {
     "timestamp": "2026-05-09 14:00",
     "data": {
       "breaking_news": [
@@ -8724,6 +8689,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit PMI data to be watched closely"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy grows faster than expected in Q2",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Second quarter GDP growth exceeds forecast, driven by strong consumer spending.",
+          "affected_sectors": [
+            "Retail",
+            "Consumer Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU banks face liquidity squeeze amid stress tests",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Stress test results reveal potential funding pressures for major European banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU banks under liquidity stress, watch for further developments."
     }
   }
 ]
