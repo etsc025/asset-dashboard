@@ -1,55 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional sanctions on Russian entities, potentially leading to geopolitical tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Finance",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth rate slows down",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "China reported a slower-than-expected GDP growth, affecting domestic markets and investor sentiment.",
-          "affected_sectors": [
-            "Technology",
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-05-09 02:30",
     "data": {
       "breaking_news": [
@@ -8701,6 +8651,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on positive economic signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank cuts interest rates, aiming to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed after US jobs report",
+          "country": "Global",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from US jobs report lead to varied market reactions around the world.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and yield increases keep markets volatile."
     }
   }
 ]
