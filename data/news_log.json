@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08 23:09",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central banks in the EU are assessing whether to raise interest rates.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global stock markets mixed as China's PMI hits record low",
-          "country": "China",
-          "category": "Stocks",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have seen a slight rebound despite the record-low Purchasing Managers' Index.",
-          "affected_sectors": [
-            "Technology",
-            "Consumer Goods"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation and economic uncertainty."
-    }
-  },
-  {
     "timestamp": "2026-05-08 23:30",
     "data": {
       "breaking_news": [
@@ -8740,6 +8693,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, ECB hints at rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)2个基点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布LPR下调，提振股市和债市信心。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升至1.57%",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率小幅上升，对市场情绪影响有限。",
+          "affected_sectors": [
+            "债券投资者"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
