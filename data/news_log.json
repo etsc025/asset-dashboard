@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业",
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，投资者情绪乐观，推动股市上涨。",
-          "affected_sectors": [
-            "股票市场",
-            "债券市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，请谨慎投资"
-    }
-  },
-  {
     "timestamp": "2026-05-09 06:00",
     "data": {
       "breaking_news": [
@@ -8716,6 +8681,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Tighten Monetary Policy",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to raise interest rates, impacting global markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Fall on Trade Tensions",
+          "country": "EUROPEAN Union",
+          "category": "Stocks",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Trade tensions between major economies are causing European stock indices to decline.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Markets Mixed as China Eases Credit Policy",
+          "country": "ASIA",
+          "category": "Credit Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's easing of credit policy is seen as positive for Asian markets, though the impact is limited.",
+          "affected_sectors": [
+            "Real Estate",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to tighten monetary policy: High risk"
     }
   }
 ]
