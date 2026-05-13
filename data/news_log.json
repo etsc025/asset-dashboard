@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备宣布加息75个基点，市场反应强烈。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost credit availability",
-          "country": "中国",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国人民银行降低存款准备金率以增加信贷可获得性，市场情绪乐观。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank (ECB) hints at further rate hikes in the near future",
-          "country": "欧洲",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行暗示未来可能继续加息，市场反应较为平静。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动引发金融市场波动"
-    }
-  },
-  {
     "timestamp": "2026-05-09 09:00",
     "data": {
       "breaking_news": [
@@ -8732,6 +8687,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to consider rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前大幅下跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘前出现较大跌幅。",
+          "affected_sectors": [
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国科技股面临压力"
     }
   }
 ]
