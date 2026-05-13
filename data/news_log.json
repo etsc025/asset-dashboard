@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行が人民元の為替レートを調整、市場に中立的な影響。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国債利回り上昇、株式市場への影響",
-          "country": "アメリカ",
-          "category": "財政・金利政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回りの上昇により、米国の株式市場にポジティブな影響。",
-          "affected_sectors": [
-            "金融",
-            "証券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国債利回りの上昇が市場を刺激"
-    }
-  },
-  {
     "timestamp": "2026-05-09 05:00",
     "data": {
       "breaking_news": [
@@ -8701,6 +8667,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行為経済成長を支援、市場はリスクオン姿勢"
+    }
+  },
+  {
+    "timestamp": "2026-05-13 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对高通胀和利率上升的担忧，美国科技股出现抛售，纳斯达克指数下跌1.5%。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息两次",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管市场预期欧洲央行将在未来几个月内降息，但其最新声明表明可能在2023年进行两次加息。这可能导致欧元区债券收益率上升。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
