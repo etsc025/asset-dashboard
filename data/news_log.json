@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have climbed above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike in September",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank's (ECB) latest meeting minutes suggest a possible interest rate hike by September, signaling continued economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks mixed as China releases mixed economic data",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Japan's Nikkei 225 and South Korea's Kospi rose, while Hong Kong Hang Seng fell after China released mixed economic indicators.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank hints at rate hike in September - Potential for further interest rate increases ahead."
-    }
-  },
-  {
     "timestamp": "2026-05-09 17:30",
     "data": {
       "breaking_news": [
@@ -8726,6 +8681,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但科技股波动较大"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as central banks consider interest rate hikes",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Federal Reserve's potential rate hike has investors on edge, boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid economic recovery concerns",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Rising US Treasury yields are seen as a sign of improving economic conditions, but also raise worries about inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches investigation into Chinese tech giant's data practices",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU is scrutinizing the data handling of a major Chinese tech firm, raising privacy concerns.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed's rate decision looms large"
     }
   }
 ]
