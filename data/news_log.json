@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Interest Rates",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key rate by 0.75 percentage points, highest in over a decade.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK GDP outlook adjusted to reflect slower economic expansion.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank rate hike signals ongoing inflation fight"
-    }
-  },
-  {
     "timestamp": "2026-05-09 17:00",
     "data": {
       "breaking_news": [
@@ -8725,6 +8680,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新たな財政措置が市場に影響を与える可能性高"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步放宽政策以刺激经济增长。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果、微软等科技巨头股价上涨带动，美股主要指数收涨超过1%。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在政策会议上保持利率不变，市场预期未来将有更多宽松措施出台。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但科技股波动较大"
     }
   }
 ]
