@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose to a new high of 3.65% amid ongoing concerns about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike in September",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB's latest meeting suggests a possible interest rate increase in September, signaling tighter monetary policy to combat inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Equities Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Stocks across Asia surged as companies reported strong quarterly earnings, boosting investor confidence.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB hints at September rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-09 15:00",
     "data": {
       "breaking_news": [
@@ -8721,6 +8676,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut as inflation eases",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts key rate to 1.5% from 2.25%, easing concerns over rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise as growth fears intensify",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Growth worries push global government bond yields above 2.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global growth concerns intensify, US Treasury yields rise"
     }
   }
 ]
