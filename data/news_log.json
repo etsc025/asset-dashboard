@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，债券市场承压",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致投资者转向风险资产，对债券市场造成压力。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-05-09 11:30",
     "data": {
       "breaking_news": [
@@ -8735,6 +8701,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場のリスクを警戒しましょう"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year bond yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its accommodative monetary policy stance, keeping key interest rates at record lows.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin price surges on FTX bankruptcy news",
+          "country": "USA",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "FTX failure boosts Bitcoin's rally to over $20,000 amid fears of more bankruptcies.",
+          "affected_sectors": [
+            "Crypto"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB keeps rates unchanged: no immediate impact on financial markets."
     }
   }
 ]
