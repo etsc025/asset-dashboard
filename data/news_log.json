@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks to Consider Rate Hikes Amid Inflation Concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to consider rate hikes amid rising inflation concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Economy Report Shows Mixed Results",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic indicators in the EU suggest a stable but uncertain outlook.",
-          "affected_sectors": [
-            "Retail",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Japan's GDP Growth Forecasted to Slow",
-          "country": "JP",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The Japanese economy is expected to grow at a slower pace in the coming quarters.",
-          "affected_sectors": [
-            "Technology",
-            "Healthcare"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global Central Banks may consider rate hikes, increasing market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-10 11:30",
     "data": {
       "breaking_news": [
@@ -8749,6 +8701,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has signaled its intention to raise interest rates in the fourth quarter, reflecting growing economic concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Macroeconomics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK's GDP growth outlook has been adjusted downwards due to Brexit uncertainties and global economic pressures.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates may rise, affecting financial markets."
     }
   }
 ]
