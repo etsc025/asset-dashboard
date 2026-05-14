@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和房地产市场信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国10年期国债收益率上涨，对股市构成压力。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-10 02:00",
     "data": {
       "breaking_news": [
@@ -8740,6 +8706,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes could lead to economic slowdown."
+    }
+  },
+  {
+    "timestamp": "2026-05-14 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces stimulus package to combat inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The EU plans to allocate €50 billion for economic recovery, aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU stimulus package aims to curb inflation"
     }
   }
 ]
