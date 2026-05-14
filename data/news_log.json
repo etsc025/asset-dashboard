@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to announce rate hike, boosting euro.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed on China's economic data",
-          "country": "China",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from Chinese economic indicators impact global stocks.",
-          "affected_sectors": [
-            "Finance",
-            "Stocks"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to raise interest rates, watch for market reaction."
-    }
-  },
-  {
     "timestamp": "2026-05-09 22:30",
     "data": {
       "breaking_news": [
@@ -8756,6 +8708,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central banks consider rate hikes amid economic uncertainty"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin SV and Bitcoin Gold Merge Proposal Approved by Majority of Stakeholders",
+          "country": "United States",
+          "category": "Crypto",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major crypto stakeholders have approved a proposal to merge two major cryptocurrencies, potentially leading to increased trading volumes.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank Maintains Interest Rates at 0.25%",
+          "country": "Europe",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has decided not to change interest rates, maintaining them at the current level of 0.25%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's Stock Market Index Hits Record High",
+          "country": "China",
+          "category": "Stocks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Shanghai Composite index has reached a new all-time high, indicating strong investor sentiment in the Chinese market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile with mixed signals."
     }
   }
 ]
