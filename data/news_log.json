@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government plans to increase spending to boost economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "China",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese central bank reduces liquidity to support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets rally on positive economic signals"
-    }
-  },
-  {
     "timestamp": "2026-05-10 13:30",
     "data": {
       "breaking_news": [
@@ -8735,6 +8688,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike amid rising inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises rates by 0.5% to combat inflation, marking the fourth consecutive increase.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank keeps interest rates unchanged amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current rate levels to avoid further market volatility.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates rising globally, potential for economic turbulence."
     }
   }
 ]
