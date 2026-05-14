@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yields hit a new high, raising concerns about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank hints at rate hikes",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank suggests potential interest rate increases in the near future.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks under pressure",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Tech sector faces challenges as investors shift focus to growth sectors.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU Central Bank hints at rate hikes"
-    }
-  },
-  {
     "timestamp": "2026-05-10 00:30",
     "data": {
       "breaking_news": [
@@ -8753,6 +8708,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市因财报季表现强劲而上涨"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid pandemic recovery",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Pandemic-related restrictions continue to strain European bank liquidity, but recovery efforts are improving.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Strong performances by tech stocks drive Asian equity indices higher.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation and pandemic recovery uncertainties."
     }
   }
 ]
