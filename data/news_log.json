@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Political Developments",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, providing more liquidity to banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could escalate tensions."
-    }
-  },
-  {
     "timestamp": "2026-05-10 06:00",
     "data": {
       "breaking_news": [
@@ -8755,6 +8709,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融市場がリスクオンの状態を維持しています。"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for anti-money laundering violations",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union's financial watchdogs are probing a major cryptocurrency exchange for compliance issues.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates to be raised in June, Bank of England predicts",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England forecasts UK interest rates will rise in the upcoming months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU regulators investigate crypto exchange for anti-money laundering violations"
     }
   }
 ]
