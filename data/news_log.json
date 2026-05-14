@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns have pushed US 10-year Treasury yields above 3.5% for the first time since March.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current interest rate levels, leaving markets in a state of cautious optimism.",
-          "affected_sectors": [
-            "Eurozone Bond Markets",
-            "Eurozone Equity Markets"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory concerns",
-          "country": "Global",
-          "category": "Cryptocurrencies",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Despite recent declines, Bitcoin remains above key support levels as investors await further developments.",
-          "affected_sectors": [
-            "Crypto Market"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB keeps rates unchanged: Eurozone markets remain stable"
-    }
-  },
-  {
     "timestamp": "2026-05-10 02:30",
     "data": {
       "breaking_news": [
@@ -8741,6 +8695,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU stimulus package aims to curb inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-14 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns continue to push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance amid Brexit uncertainty",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK bank stocks have fluctuated due to Brexit negotiations, while other European banks have seen stable performances.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Gold prices surge as US dollar weakens",
+          "country": "Global",
+          "category": "Commodity",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Gold prices have risen significantly in response to the weakening US dollar, indicating investor preference for safe-haven assets.",
+          "affected_sectors": [
+            "Mining"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainty weighs on UK bank stocks"
     }
   }
 ]
