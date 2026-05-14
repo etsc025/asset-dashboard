@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks meeting could lead to interest rate hikes.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Economic Data Update",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic data from EU member states.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK Stock Market Performance",
-          "country": "UK",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "UK stocks outperform global markets today.",
-          "affected_sectors": [
-            "Technology",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting could trigger interest rate hikes."
-    }
-  },
-  {
     "timestamp": "2026-05-10 18:30",
     "data": {
       "breaking_news": [
@@ -8765,6 +8717,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Federal Reserve rate hike of 75 basis points"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates but warns of potential liquidity issues.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian central banks keep interest rates unchanged amid economic recovery",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Major Asian economies maintain low interest rates despite improving growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions keep markets cautious"
     }
   }
 ]
