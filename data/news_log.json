@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将有更多宽松政策出台。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市今日开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于经济数据不佳和中美贸易紧张局势，美股开盘即遭遇抛售。",
-          "affected_sectors": [
-            "科技股",
-            "金融股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济增长",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行可能采取更多宽松措施来应对经济放缓，但市场反应较为平静。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加大，投资者需谨慎。"
-    }
-  },
-  {
     "timestamp": "2026-05-10 19:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8717,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions keep markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国股市大幅下落，监管机构加强监控",
+          "country": "中国",
+          "category": "股票市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国股市今日大幅下跌，监管机构加强监控以防止进一步波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "债券及货币市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，美元兑主要货币汇率上涨，投资者情绪改善。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，但暗示可能降息",
+          "country": "欧盟成员国",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议决定维持当前利率不变，但表示可能会在未来采取降息措施。",
+          "affected_sectors": [
+            "债券及货币市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎乐观"
     }
   }
 ]
