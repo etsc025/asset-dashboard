@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank is expected to continue its rate hike policy in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU member states are considering implementing additional economic sanctions against Russia.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese government is easing monetary policy to support the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could lead to geopolitical instability."
-    }
-  },
-  {
     "timestamp": "2026-05-10 13:00",
     "data": {
       "breaking_news": [
@@ -8748,6 +8702,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，引发股市上涨预期",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期将带动股市上扬。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪转为谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，投资者对经济前景感到担忧。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期提振股市"
     }
   }
 ]
