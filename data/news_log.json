@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.97%, highest since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of risks",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Bank cuts rate by 0.25%, but warns of inflation pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China central bank lowers reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "CNY strengthens slightly, easing liquidity concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to boost economy, banks warn of risks"
-    }
-  },
-  {
     "timestamp": "2026-05-10 22:30",
     "data": {
       "breaking_news": [
@@ -8761,6 +8713,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should be cautious of rising inflation risks."
+    }
+  },
+  {
+    "timestamp": "2026-05-15 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank cuts interest rates, aiming to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stocks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as technology companies show signs of recovery.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行将召开会议，市场关注点集中。"
     }
   }
 ]
