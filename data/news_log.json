@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌2%",
-          "country": "美国",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因业绩不佳和监管压力，美国科技股集体下挫。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在年底前加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行表示将密切关注经济数据决定是否加息。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市波动加剧，投资者需谨慎应对"
-    }
-  },
-  {
     "timestamp": "2026-05-10 21:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8729,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步加息，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场对经济前景持乐观态度。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前出现抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于科技股表现不佳，美国股市在开盘前遭遇抛售。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
