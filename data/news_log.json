@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation worries",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts to curb rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank considers rate hike amid economic growth concerns",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank may raise interest rates in September, but faces resistance from some member states.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-11 13:30",
     "data": {
       "breaking_news": [
@@ -8833,6 +8785,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and inflation concerns loom large."
+    }
+  },
+  {
+    "timestamp": "2026-05-16 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise: Bank of England forecast",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's central bank predicts a rate hike, signaling potential for further tightening in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields jump amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Yields on EU government bonds surge, reflecting growing concerns over economic stability.",
+          "affected_sectors": [
+            "Finance",
+            "Government Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom as economies face challenges"
     }
   }
 ]
