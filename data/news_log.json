@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bonds",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness to raise interest rates, supporting Euro gains.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Treasury yields above 3.5% for first time since June."
-    }
-  },
-  {
     "timestamp": "2026-05-11 01:30",
     "data": {
       "breaking_news": [
@@ -8759,6 +8724,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to Announce Interest Rate Hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce a rate hike, potentially impacting the global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to Implement New Banking Regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New banking regulations are set to be implemented in Europe, affecting banks and financial institutions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's Stock Market Hits Record High",
+          "country": "CHN",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stock market reaches new record high, reflecting strong economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be impacted by US Fed's rate announcement"
     }
   }
 ]
