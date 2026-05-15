@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "[Title 1]",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US bank announces significant profit growth.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "[Title 2]",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK interest rates decision remains unchanged.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "[Title 3]",
-          "country": "China",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese tech giant reports record quarterly revenue growth.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to geopolitical tensions."
-    }
-  },
-  {
     "timestamp": "2026-05-11 20:00",
     "data": {
       "breaking_news": [
@@ -8848,6 +8803,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central banks maintain cautious stance"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "FAANG指数领涨，推动标普500指数收高1.2%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议后，市场反应平淡，但仍对未来的政策走向持观望态度。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市普遍上涨"
     }
   }
 ]
