@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.25% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates for first time in years",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank raised its main refinancing rate by 0.5 percentage points to 2.0%.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy grows at fastest pace in a year amid Brexit recovery",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's GDP grew by 0.3% quarter-on-quarter, marking the fastest growth since Q4 2019.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economy shows mixed signals but recovery continues."
-    }
-  },
-  {
     "timestamp": "2026-05-10 22:00",
     "data": {
       "breaking_news": [
@@ -8763,6 +8716,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Yields Rise as Inflation Worries Persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield rises above 3.5%, reflecting ongoing inflation concerns.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank Keeps Interest Rates Unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains rates at 0% as expected, signaling no immediate rate hike.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin Falls Below $35K amid FOMC Meeting Expectations",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Bitcoin drops below $35K as investors react to FOMC meeting expectations.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should be cautious of rising inflation risks."
     }
   }
 ]
