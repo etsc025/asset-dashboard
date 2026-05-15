@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has raised interest rates, indicating a strong economic stance.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU to implement carbon tax",
-          "country": "EU",
-          "category": "Environmental Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union is set to introduce a carbon tax starting next year.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China announces stimulus package",
-          "country": "中国",
-          "category": "Economic Stimulus",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China has announced a significant economic stimulus package to boost the economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Construction"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU carbon tax implementation imminent"
-    }
-  },
-  {
     "timestamp": "2026-05-11 04:30",
     "data": {
       "breaking_news": [
@@ -8797,6 +8749,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a six-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces additional spending plans aimed at stabilizing the economy post-pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB keeps its key rate unchanged, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to support economy"
     }
   }
 ]
