@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike in Q4",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank suggests potential interest rate increase in the fourth quarter.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates are expected to rise, increasing financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-11 10:00",
     "data": {
       "breaking_news": [
@@ -8802,6 +8769,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks consider rate hikes to curb inflation",
+          "country": "EU",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟央行考虑加息以抑制通胀，这对欧元区股市可能有利。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge on supply concerns",
+          "country": "全球",
+          "category": "能源",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于对供应的担忧，油价上涨，这将增加全球经济活动的成本。",
+          "affected_sectors": [
+            "石油及天然气"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球通胀压力上升，需密切关注"
     }
   }
 ]
