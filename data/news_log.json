@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as Fed hikes interest rates",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Treasury yield curve has steepened, reflecting expectations of continued rate hikes by the Federal Reserve.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support businesses",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government is implementing new tax breaks and grants for small businesses, aiming to bolster the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto trading platform for compliance issues",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union authorities are examining a major cryptocurrency exchange for potential non-compliance with regulations.",
-          "affected_sectors": [
-            "Financial Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK's fiscal measures could boost economy but risks remain."
-    }
-  },
-  {
     "timestamp": "2026-05-11 19:30",
     "data": {
       "breaking_news": [
@@ -8848,6 +8800,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns weigh on global markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks keep interest rates unchanged amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank maintains current 0.25% rate despite growing economic challenges.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stock market gains on Brexit optimism",
+          "country": "UK",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "London Stock Exchange sees positive returns as investors bet on UK-EU trade improvements post-Brexit.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central banks maintain cautious stance"
     }
   }
 ]
