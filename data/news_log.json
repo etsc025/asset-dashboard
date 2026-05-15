@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to announce interest rate decision tomorrow",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备将明天宣布利率决定，市场预期加息。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行降低了银行的存款准备金率，旨在刺激经济增长。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to discuss monetary policy changes",
-          "country": "欧洲",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行将讨论货币政策的可能变化，市场关注点在于是否进一步降息。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行政策变动，市场波动风险增加"
-    }
-  },
-  {
     "timestamp": "2026-05-11 08:00",
     "data": {
       "breaking_news": [
@@ -8795,6 +8749,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持谨慎"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes in Q4",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggested a potential interest rate hike in the fourth quarter of this year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks rally as China's economic data improves",
+          "country": "China, USA",
+          "category": "Technology Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive economic indicators from China have boosted global tech stock indices.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets show positive signs with rising yields and improving economic data."
     }
   }
 ]
