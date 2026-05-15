@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 3.27%, amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates at record low",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank announced it will keep its key interest rate unchanged, reflecting stable economic conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI hits 50.3 in July, above expectations",
-          "country": "CHINA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China's Purchasing Managers' Index (PMI) reached 50.3 in July, indicating a slight improvement from June.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行保持利率不变，市场情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-11 14:30",
     "data": {
       "breaking_news": [
@@ -8832,6 +8787,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has raised interest rates by 75 basis points, signaling continued economic tightening.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has introduced additional fiscal policies aimed at reducing inflation and stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced its reserve requirement ratio, providing liquidity to the financial system.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic indicators suggest continued growth and stability."
     }
   }
 ]
