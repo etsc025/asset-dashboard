@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as Fed hikes rates",
-          "country": "USA",
-          "category": "Interest Rates & Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Treasury yield curve has steepened, reflecting expectations of continued rate hikes by the Federal Reserve.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government will introduce additional spending and tax cuts aimed at bolstering economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks discuss potential interest rate hikes",
-          "country": "EU",
-          "category": "Interest Rates & Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central banks in the EU are considering whether to raise interest rates, influenced by inflation concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks consider rate hikes amid economic uncertainties."
-    }
-  },
-  {
     "timestamp": "2026-05-10 19:30",
     "data": {
       "breaking_news": [
@@ -8762,6 +8717,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策的进一步紧缩。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在7月加息",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟委员会称，欧洲央行可能在下个月的会议上宣布加息。这将对欧元区经济产生重大影响。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "油价飙升至七年来高点",
+          "country": "全球",
+          "category": "能源",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "国际油价突破每桶100美元，创七年新高，因OPEC+减产计划受阻。",
+          "affected_sectors": [
+            "石油行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
