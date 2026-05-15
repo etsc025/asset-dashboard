@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield hits new high as investors seek safer assets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB signals rate hike in September, boosting euro.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices surge on supply concerns",
-          "country": "Global",
-          "category": "Energy Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "WTI crude oil price hits record high amid geopolitical tensions.",
-          "affected_sectors": [
-            "Petroleum"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB signals rate hike in September"
-    }
-  },
-  {
     "timestamp": "2026-05-11 07:00",
     "data": {
       "breaking_news": [
@@ -8793,6 +8747,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank keeps rates unchanged but signals willingness to raise them soon.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on easing regulatory pressure",
+          "country": "中国",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as government reduces oversight.",
+          "affected_sectors": [
+            "Technology",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets cautiously optimistic with mixed signals"
     }
   }
 ]
