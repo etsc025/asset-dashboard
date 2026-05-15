@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Surge as Fed Holds Rates",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yields hit a new high, amid Fed's rate-hold decision.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank Keeps Interest Rates Unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains rates at 0%, as expected.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Stocks Mixed After US Data Release",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Japan's Nikkei up, China's Shanghai Composite down after mixed US data release.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets remain cautiously optimistic."
-    }
-  },
-  {
     "timestamp": "2026-05-11 05:30",
     "data": {
       "breaking_news": [
@@ -8796,6 +8748,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政策動向によりリスク資産への流入が加速"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对股市和债市影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，美元指数走强",
+          "country": "美国",
+          "category": "利率与货币市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上涨，带动美元指数攀升至近期高点。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行可能采取更多紧缩措施，市场反应谨慎。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升，美元指数走强"
     }
   }
 ]
