@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USD/JPY Exchange Rate Hits Record High",
-          "country": "Japan",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USD/JPY exchange rate has hit a record high, indicating strong US economic performance.",
-          "affected_sectors": [
-            "Currency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to Cut Interest Rates",
-          "country": "Europe",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is expected to cut interest rates in response to the ongoing economic challenges.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "US Treasury Bond Yields Rise",
-          "country": "USA",
-          "category": "Financial Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury bond yields have risen, suggesting a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic indicators point to continued growth"
-    }
-  },
-  {
     "timestamp": "2026-05-11 03:30",
     "data": {
       "breaking_news": [
@@ -8798,6 +8753,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加大"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, likely in June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will tighten data privacy rules, affecting tech companies and consumers.",
+          "affected_sectors": [
+            "Tech",
+            "Consumer"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in Chinese financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場の動向に注意が必要です。"
     }
   }
 ]
