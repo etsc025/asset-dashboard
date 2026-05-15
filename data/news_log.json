@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank considers rate hike in September",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB is considering a potential interest rate increase in September to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI data shows mixed results",
-          "country": "CHN",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China's manufacturing and service sector performance indicators show a mixed picture, with both positive and negative aspects.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns rise globally"
-    }
-  },
-  {
     "timestamp": "2026-05-11 18:30",
     "data": {
       "breaking_news": [
@@ -8851,6 +8803,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to rising inflation and interest rate hikes."
+    }
+  },
+  {
+    "timestamp": "2026-05-16 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates Again",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA is expected to announce another interest rate hike, boosting the stock markets.",
+          "affected_sectors": [
+            "Finance",
+            "Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economy Shows Signs of Recovery",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "GDP growth in EU countries is showing positive signs after a period of decline.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil Prices Rise Sharply Due to Supply Concerns",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Crude oil prices have surged due to concerns over supply disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and commodity price volatility pose risks."
     }
   }
 ]
