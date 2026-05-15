@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a significant interest rate hike, further tightening monetary policy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter financial regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU is set to introduce new stringent financial regulations aimed at enhancing market stability.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China has reduced its reserve requirement ratio, providing more liquidity to the financial system.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策の変更により市場が動揺する可能性がある。"
-    }
-  },
-  {
     "timestamp": "2026-05-11 07:30",
     "data": {
       "breaking_news": [
@@ -8795,6 +8750,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets cautiously optimistic with mixed signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-15 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings report",
+          "country": "欧洲",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行第三季度财报显示结果参差不齐。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stock markets rally as China's PMI hits record high",
+          "country": "亚洲",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "由于中国PMI创纪录高位，亚洲股市上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持谨慎"
     }
   }
 ]
