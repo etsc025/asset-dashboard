@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: Bank of England forecast",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank predicts rate hike as inflation hits record high.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB signals potential for interest rate increases but no immediate move.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on inflation fears"
-    }
-  },
-  {
     "timestamp": "2026-05-12 16:00",
     "data": {
       "breaking_news": [
@@ -8860,6 +8815,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致看好今明两年经济增长"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US Treasury yields fell to a record low, sparking concerns about the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government unveils plans for additional economic support measures.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to review carbon pricing policies",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "European Union considers changes to its carbon pricing framework.",
+          "affected_sectors": [
+            "Energy",
+            "Environmental Protection"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package for economic support"
     }
   }
 ]
