@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve has announced a significant interest rate increase, indicating an aggressive stance against inflation.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to review monetary policy soon",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank is set to examine its current monetary policies and may make adjustments in the near future.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global: Oil prices surge on supply concerns",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Oil prices have risen sharply due to growing worries about global oil supply disruptions.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and geopolitical risks weigh on markets."
-    }
-  },
-  {
     "timestamp": "2026-05-12 01:00",
     "data": {
       "breaking_news": [
@@ -8856,6 +8810,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation pressures."
+    }
+  },
+  {
+    "timestamp": "2026-05-16 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将基准利率上调75个基点，加剧市场波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio by 0.25 percentage point",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行下调存款准备金率0.25个百分点，对市场影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to impose sanctions on Russian energy sector",
+          "country": "EU",
+          "category": "地缘政治",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟将对俄罗斯能源行业实施制裁，引发市场担忧与反弹。",
+          "affected_sectors": [
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统宣布加息"
     }
   }
 ]
