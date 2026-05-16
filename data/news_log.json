@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB keeps key rates unchanged in response to economic uncertainty.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Gold prices surge on geopolitical tensions",
-          "country": "Global",
-          "category": "Commodity",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Geopolitical risks drive gold prices up, boosting precious metals sector.",
-          "affected_sectors": [
-            "Mining",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns intensify pushing yields higher."
-    }
-  },
-  {
     "timestamp": "2026-05-12 05:00",
     "data": {
       "breaking_news": [
@@ -8847,6 +8800,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK government's fiscal measures could lead to economic instability"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前标普500指数跌逾2%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股重挫，美股三大股指均大幅下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "尽管保持利率不变，但欧洲央行表示未来可能降息以支持经济。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行下调LPR，市场反应强烈"
     }
   }
 ]
