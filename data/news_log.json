@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves first crypto ETF",
-          "country": "USA",
-          "category": "Financial Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S.-based cryptocurrency exchange-traded fund (ETF), boosting Bitcoin's market sentiment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global bond yields rise amid inflation concerns",
-          "country": "GLOBAL",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Rising global bond yields are seen as a positive sign for investors, despite concerns over rising inflation rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global bond yields rise amid inflation concerns"
-    }
-  },
-  {
     "timestamp": "2026-05-11 22:00",
     "data": {
       "breaking_news": [
@@ -8843,6 +8810,51 @@
             "科技"
           ],
           "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "经济新闻",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑加息以对抗通膨",
+          "country": "EUROPEAN UNION",
+          "category": "经济新闻",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟各国讨论是否上调利率来应对通胀压力，市场反应不一。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场股市反弹受阻",
+          "country": "EMERGING_MARKETS",
+          "category": "股票新闻",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "新兴市场股市在近期上涨后出现回调，投资者情绪保持稳定。",
+          "affected_sectors": [
+            "金融/科技"
+          ],
+          "action_needed": false
         }
       ],
       "market_sentiment": "RISK_ON",
