@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "受财报季利好消息推动，美股三大指数集体高开，科技板块表现尤为突出。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场情绪平稳",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平，并未采取进一步行动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘上涨，科技股领涨"
-    }
-  },
-  {
     "timestamp": "2026-05-11 23:30",
     "data": {
       "breaking_news": [
@@ -8858,6 +8813,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stocks edge lower amid Brexit uncertainty",
+          "country": "UK",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK FTSE falls as investors remain cautious about Brexit negotiations.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit risks weigh on UK markets"
     }
   }
 ]
