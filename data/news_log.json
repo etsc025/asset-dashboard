@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，符合预期。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stocks mixed as China's PMI falls below 50",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市涨跌不一，中国PMI低于50点，暗示经济放缓。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行维持利率不变"
-    }
-  },
-  {
     "timestamp": "2026-05-12 13:00",
     "data": {
       "breaking_news": [
@@ -8869,6 +8824,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行为稳定市场情绪而采取措施"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对市场情绪影响中性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国科技股反弹，纳斯达克指数创历史新高",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果、微软等科技巨头带动，纳斯达克指数创下新高。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行调整政策影响金融市场"
     }
   }
 ]
