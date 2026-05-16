@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
-          "country": "UK",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Bank of England cuts rate but warns of potential liquidity issues.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Central Bank keeps rates steady amid inflation concerns",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current interest rates despite rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate cut could lead to liquidity issues"
-    }
-  },
-  {
     "timestamp": "2026-05-11 21:00",
     "data": {
       "breaking_news": [
@@ -8848,6 +8803,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府积极应对经济与环境挑战"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts rate to 1.25%, but warns of potential liquidity issues.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian central banks consider interest hikes amid growth concerns",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH DEPENDENT ON GROWTH DATA",
+          "summary": "Central banks in Asia mull hiking rates to curb inflation, but growth outlook remains uncertain.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions loom large for global financial markets."
     }
   }
 ]
