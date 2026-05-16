@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve has raised the federal funds rate by 0.75 percentage point, signaling a continued fight against inflation.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to review interest rates next week",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank will examine its current interest rate settings in the upcoming week.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China: Stock market gains after stimulus package announcement",
-          "country": "中国",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Following the release of a new economic stimulus plan, Chinese stocks have seen significant gains today.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整，市场需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-12 03:00",
     "data": {
       "breaking_news": [
@@ -8832,6 +8784,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield rises to 3.65%, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current rate at 2.00% as expected, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains momentum amid economic recovery",
+          "country": "CHN",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese A-shares close up 1.5% for the week, driven by robust earnings reports.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic recovery gains traction with positive market indicators."
     }
   }
 ]
