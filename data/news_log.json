@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国：中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の中央銀行が人民元の為替レートを調整、市場に中立的な影響",
-          "affected_sectors": [
-            "金融業"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国：FOMC声明で利上げ観測高まる",
-          "country": "アメリカ",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "FOMC声明で利上げが控えめに示され、市場は上昇期待",
-          "affected_sectors": [
-            "株式市場"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国FOMC声明で利上げ観測高まる"
-    }
-  },
-  {
     "timestamp": "2026-05-11 23:00",
     "data": {
       "breaking_news": [
@@ -8858,6 +8825,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package for economic support"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，引发股市上涨预期",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期将带动股市上扬。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，影响投资者情绪，但未导致明显方向性变化。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期提振股市"
     }
   }
 ]
