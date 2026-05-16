@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘前大幅下跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息",
-          "country": "欧盟",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息以刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前大幅下跌，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-12 10:30",
     "data": {
       "breaking_news": [
@@ -8856,6 +8809,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central bank interest rate decisions to be closely watched"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Bond Yields Rise as Inflation Concerns Persist",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US bond market, yields on US Treasuries have risen amid concerns over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound Weakens Against USD as Brexit Uncertainty Lingers",
+          "country": "UK",
+          "category": "Currency Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK pound has weakened against the US dollar due to lingering uncertainty surrounding Brexit negotiations.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Stock Markets Close Higher as Economic Data Improves",
+          "country": "中国",
+          "category": "Stocks Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stock markets ended the day higher following positive economic data releases.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融市場が落ち着きを取り戻し、リスクオンムードを強めています。"
     }
   }
 ]
