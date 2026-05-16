@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国公布非农就业数据超预期增长",
-          "country": "美国",
-          "category": "经济数据",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国非农就业人数大幅增加，强化了美联储加息放缓的市场预期。",
-          "affected_sectors": [
-            "金融服务业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上维持利率不变，未对市场产生显著影响。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市有望继续上涨"
-    }
-  },
-  {
     "timestamp": "2026-05-12 09:00",
     "data": {
       "breaking_news": [
@@ -8846,6 +8798,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国金融政策变动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "EU",
+          "category": "银行业",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行第三季度财报显示喜忧参半。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally as China's PMI hits record high",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "亚洲股市因中国PMI创纪录高位而走高。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需密切关注"
     }
   }
 ]
