@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns continue to influence US bond markets, with 10-year Treasury yields climbing above 3.5% for the first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes amid inflation spike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials suggest potential interest rate increases to combat rising inflation, signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns persist across major economies"
-    }
-  },
-  {
     "timestamp": "2026-05-12 11:30",
     "data": {
       "breaking_news": [
@@ -8854,6 +8821,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and supply concerns weigh on market"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a significant interest rate hike, signaling continued economic tightening.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU implements new banking regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU banking regulations are set to take effect, affecting financial institutions across the continent.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, providing liquidity to financial markets.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic indicators point towards continued growth"
     }
   }
 ]
