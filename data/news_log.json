@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 18:33",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a one-month high as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to support economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts the base rate by 0.25 percentage points, supporting economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory concerns",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin drops to a one-month low due to increasing regulatory scrutiny.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to support economy"
-    }
-  },
-  {
     "timestamp": "2026-05-12 19:30",
     "data": {
       "breaking_news": [
@@ -8852,6 +8804,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU banks stress tests could lead to capital raisings, affecting lending capacity."
+    }
+  },
+  {
+    "timestamp": "2026-05-17 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation worries persist",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting concerns about persistent inflation.",
+          "affected_sectors": [
+            "Treasury Bonds"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3 earnings report",
+          "country": "Europe",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "While some European banks saw strong growth, others reported declines.",
+          "affected_sectors": [
+            "Banks"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates cut as economic outlook worsens",
+          "country": "UK",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The UK's central bank has cut interest rates to support the economy amid worsening economic conditions.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should be cautious of rising inflation risks."
     }
   }
 ]
