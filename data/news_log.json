@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计今日股市将上涨。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下滑",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报不佳影响，美国科技股集体下跌，纳斯达克指数今日开盘即走低。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平，对经济前景持谨慎态度，未引发明显市场波动。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-05-12 01:30",
     "data": {
       "breaking_news": [
@@ -8855,6 +8809,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国联邦储备系统宣布加息"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布下调LPR，对股市和房地产市场可能带来积极影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国财政部发布2023年预算报告，削减公共支出计划",
+          "country": "美国",
+          "category": "财政政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "尽管削减公共支出，但报告强调了对经济的积极影响和长期增长潜力。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国财政部发布2023年预算报告"
     }
   }
 ]
