@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK PMI falls below forecast, hits lowest level in over a year",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK manufacturing sector growth slows to its weakest pace since June 2021.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike in December",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ECB suggests it may raise interest rates by end of year, spurring market volatility.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK PMI falls below forecast, hits lowest level in over a year"
-    }
-  },
-  {
     "timestamp": "2026-05-12 06:00",
     "data": {
       "breaking_news": [
@@ -8846,6 +8799,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行下调LPR，市场反应强烈"
+    }
+  },
+  {
+    "timestamp": "2026-05-16 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in decades.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed new economic sanctions on Russia, targeting key sectors including energy and finance.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains momentum",
+          "country": "CHN",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have seen a positive trend in recent sessions, with the Shanghai Composite Index closing at its highest level since January.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on Fed rate hike expectations"
     }
   }
 ]
