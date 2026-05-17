@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Government Bonds",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield touched a fresh high of 2.97% amid growing concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
-          "country": "UK",
-          "category": "Banking & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates by 0.25% but warns of potential liquidity issues for the banking sector.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank eases monetary policy to boost growth",
-          "country": "中国",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China reduces reserve requirement ratio (RRR) and cuts interest rates, signaling a supportive stance for economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行為経済成長を支援、市場はリスクオン姿勢"
-    }
-  },
-  {
     "timestamp": "2026-05-13 19:00",
     "data": {
       "breaking_news": [
@@ -8850,6 +8805,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank rate hike expected soon"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts interest rates to support the economy amid Brexit uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on US economic data release",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Asian stocks surge following positive US economic indicators.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on strong US data"
     }
   }
 ]
