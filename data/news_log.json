@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to consider rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank may review interest rates in response to economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global stock markets mixed after China data release",
-          "country": "China",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese market indices show varied performance following economic indicators release.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to consider rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-13 23:00",
     "data": {
       "breaking_news": [
@@ -8836,6 +8791,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on UK economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike next week",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB may signal interest rates could rise in September amid economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK economy shows signs of weakness",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "UK GDP growth forecast revised downward to 1.5% from 2.0% in Q2.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB may raise rates next month, boosting financial markets."
     }
   }
 ]
