@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU's GDP growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The EU's economic outlook has been downgraded due to geopolitical risks.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin price surges on FTX bankruptcy news",
-          "country": "Global",
-          "category": "Cryptocurrencies",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin prices have surged following the bankruptcy of FTX.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU's GDP growth forecast revised downward, geopolitical risks loom."
-    }
-  },
-  {
     "timestamp": "2026-05-13 05:00",
     "data": {
       "breaking_news": [
@@ -8832,6 +8785,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to persistent inflation concerns, US Treasury yields have risen, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps key rate unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has decided to keep its main refinancing rate at 0.25%, maintaining the status quo in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Following a series of economic stimulus measures, China's central bank has cut the reserve requirement ratio, signaling potential growth in credit and lending.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
     }
   }
 ]
