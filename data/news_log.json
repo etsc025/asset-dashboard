@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banking sector under scrutiny for potential regulatory changes",
-          "country": "EU",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟银行业面临潜在监管变化的审查，影响未知。",
-          "affected_sectors": [
-            "银行行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on US economic data release",
-          "country": "亚洲",
-          "category": "市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因美国经济数据发布而上涨。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-13 21:00",
     "data": {
       "breaking_news": [
@@ -8835,6 +8790,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の規制強化に伴うリスク回避が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points at next meeting",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将在下一次会议上将利率提高75个基点，引发市场关注。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK government to introduce new tax on carbon emissions",
+          "country": "英国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "英国政府宣布将在下个月引入一项针对碳排放的新税，对环保和能源行业可能产生影响。",
+          "affected_sectors": [
+            "能源",
+            "环境"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stocks rise on hopes of economic recovery",
+          "country": "亚洲",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于对经济复苏的希望，亚洲股市普遍上涨，投资者信心增强。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统宣布将提高利率"
     }
   }
 ]
