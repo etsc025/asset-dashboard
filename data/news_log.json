@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves SPAC deal with Bitcoin mining firm",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved a Special Purpose Acquisition Company (SPAC) deal involving Bitcoin mining company Marathon Gold Corporation, driving up the price of Bitcoin.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid economic recovery optimism",
-          "country": "GLOBAL",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Rising global bond yields reflect growing optimism about economic recovery, despite recent volatility in financial markets.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK government to introduce new fiscal stimulus package",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government is set to announce a new fiscal stimulus package aimed at supporting businesses and individuals during the economic downturn.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global bond yields rise amid economic recovery optimism"
-    }
-  },
-  {
     "timestamp": "2026-05-13 00:30",
     "data": {
       "breaking_news": [
@@ -8811,6 +8766,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns loom large, watch for policy responses."
+    }
+  },
+  {
+    "timestamp": "2026-05-17 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Rate Hikes Expected",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank Signals Rate Hike",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's latest statement suggests a possible rate hike, affecting Eurozone economies.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian Central Banks Remain Steady on Interest Rates",
+          "country": "Asia",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "No major changes in interest rates expected from Asian central banks, keeping markets stable.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major Central Banks to Announce Rate Decisions"
     }
   }
 ]
