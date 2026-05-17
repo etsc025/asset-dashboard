@@ -1,22 +1,13 @@
 {
-  "alert": true,
-  "level": "HIGH",
-  "reasons": [
-    "先物下落: ES=-1.2% NQ=-1.5%（注意）"
-  ],
-  "timestamp": "2026-05-16 22:10",
+  "alert": false,
+  "level": "NORMAL",
+  "reasons": [],
+  "timestamp": "2026-05-17 22:10",
   "vix": {
     "vix_current": 18.43,
     "vix_change": 6.78,
     "level": "MEDIUM",
     "message": "VIX=18.4 (+6.8%) やや不安定・慎重にエントリー"
   },
-  "futures": {
-    "es_change": -1.24,
-    "nq_change": -1.54,
-    "spy_price": 739.17,
-    "es_price": 7432.25,
-    "level": "HIGH",
-    "message": "先物下落: ES=-1.2% NQ=-1.5%（注意）"
-  }
+  "futures": null
 }
