@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后小幅下跌，投资者情绪谨慎",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市在开盘后出现小幅下跌，投资者对全球经济前景表示担忧。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持当前利率水平不变，未引发市场强烈波动。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-05-13 18:30",
     "data": {
       "breaking_news": [
@@ -8850,6 +8803,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致预期，市场情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to announce rate hike in the coming weeks.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
+          "country": "Global",
+          "category": "Cryptocurrencies",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price drops due to new regulations in major financial centers.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank rate hike expected soon"
     }
   }
 ]
