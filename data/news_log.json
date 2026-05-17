@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行将讨论是否在12月加息",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟委员会表示，欧洲央行可能在12月会议上决定是否加息以应对通胀。这可能会对市场产生中等影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国股市因监管政策调整而波动",
-          "country": "CHN",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "由于新的监管措施，中国股市出现波动。这可能对市场情绪产生中等影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持警惕"
-    }
-  },
-  {
     "timestamp": "2026-05-13 15:30",
     "data": {
       "breaking_news": [
@@ -8863,6 +8818,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting Announced",
+          "country": "Global",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Major central banks have announced a meeting to discuss economic policies.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Stock Market Reacts to US Economic Data",
+          "country": "USA",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US stock market reacts positively to recent economic data release.",
+          "affected_sectors": [
+            "Finance",
+            "Investment"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Surge on Supply Concerns",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Oil prices rise due to concerns over global supply chain disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investment sectors should remain cautious."
     }
   }
 ]
