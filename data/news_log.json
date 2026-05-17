@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)2个基点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布LPR下调，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升至1.57%",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率小幅上升，对市场情绪影响有限。",
-          "affected_sectors": [
-            "债券投资者"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-13 13:30",
     "data": {
       "breaking_news": [
@@ -8851,6 +8817,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市表现平稳，但需关注货币政策变化"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, prompting yield increases across major markets."
     }
   }
 ]
