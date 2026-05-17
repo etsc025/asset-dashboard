@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts aimed at curbing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike in September",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB suggests interest rates may rise in September but no immediate action is expected.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns escalate, ECB hints at rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-13 13:00",
     "data": {
       "breaking_news": [
@@ -8849,6 +8803,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持警惕"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国人民银行宣布降低存款准备金率和贷款基准利率，市场普遍认为这是对经济的利好消息。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现短暂回调，随后反弹",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "在连续上涨后，美国主要股指在美国股市开盘后出现小幅回调，但很快恢复了涨势。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在例行会议上决定保持当前的基准利率不变，未采取新的刺激措施。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市表现平稳，但需关注货币政策变化"
     }
   }
 ]
