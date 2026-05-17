@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields increased as economic data released today raised concerns about the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch due to Brexit uncertainty",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European banks are facing a liquidity shortage due to ongoing Brexit negotiations.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China cut the reserve requirement ratio, signaling potential economic stimulus.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU banks face liquidity crunch due to Brexit uncertainty"
-    }
-  },
-  {
     "timestamp": "2026-05-13 04:30",
     "data": {
       "breaking_news": [
@@ -8829,6 +8784,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU announces new sanctions on Russia威胁加剧，市场需警惕"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to historic high",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises the base rate by 0.5% to 4%, its highest level since 1989.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge up amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Eurozone government bond yields rise slightly, reflecting ongoing economic concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Government Bonds"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on rate hikes"
     }
   }
 ]
