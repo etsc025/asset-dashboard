@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year bond yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance amid geopolitical tensions",
-          "country": "Europe",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "German and French banks report stable earnings, while Italian banks face challenges due to sanctions.",
-          "affected_sectors": [
-            "Banking Sector"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Geopolitical risks could impact financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-13 12:30",
     "data": {
       "breaking_news": [
@@ -8837,6 +8804,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid hawkish Fed expectations",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率因鹰派美联储预期上升，市场关注点转向货币政策紧缩。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates, ECB president warns of inflation risks",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟央行宣布将提高利率，但欧洲央行行长警告通胀风险。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy to face recession risk as Brexit uncertainty persists",
+          "country": "UK",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "英国经济面临衰退风险，因脱欧不确定性持续存在。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持警惕"
     }
   }
 ]
