@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts aimed at reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-13 03:30",
     "data": {
       "breaking_news": [
@@ -8817,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to raise interest rates, potentially impacting global markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Edge Lower as Brexit Concerns Persist",
+          "country": "EUROPE",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Stock indices in Europe are slightly lower due to lingering Brexit concerns.",
+          "affected_sectors": [
+            "Retail",
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian Markets Mixed Following US Data Release",
+          "country": "ASIA",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian markets following the release of US economic data.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to raise rates, global markets watch closely."
     }
   }
 ]
