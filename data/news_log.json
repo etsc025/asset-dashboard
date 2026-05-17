@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields to new highs.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound weakens against USD due to Brexit uncertainty",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Brexit negotiations continue, weighing on UK currency strength.",
-          "affected_sectors": [
-            "Financial Services",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit developments could lead to further market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-13 14:30",
     "data": {
       "breaking_news": [
@@ -8851,6 +8816,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国联邦储备系统宣布加息"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响尚不明朗。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升导致股票市场波动加大，投资者情绪谨慎乐观。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元区经济前景不确定性增加",
+          "country": "欧洲",
+          "category": "货币政策与汇率",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定维持利率不变，但对欧元区经济增长的担忧仍在持续。",
+          "affected_sectors": [
+            "银行业，股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
