@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, signaling a tightening of monetary policy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new financial regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union has introduced new financial regulations aimed at enhancing market stability and consumer protection.",
-          "affected_sectors": [
-            "Insurance",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market hits record high",
-          "country": "CHN",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's major stock indices have reached new all-time highs, marking a positive momentum in the Chinese economy.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with potential for volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-13 12:00",
     "data": {
       "breaking_news": [
@@ -8851,6 +8803,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，利好股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股科技板块连续下跌，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策利好股市"
     }
   }
 ]
