@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin's regulatory environment improves in Europe amid calls for more clarity",
-          "country": "UK",
-          "category": "Financial Regulations",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the UK, regulators are considering new measures to provide clearer guidance on Bitcoin and other cryptocurrencies.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Fed announces interest rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a 0.75% interest rate hike, signaling continued economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank issues new guidelines on digital currency",
-          "country": "CN",
-          "category": "Central Bank Actions",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has issued new guidelines for the development and use of digital currencies.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes continue, market cautious"
-    }
-  },
-  {
     "timestamp": "2026-05-13 03:00",
     "data": {
       "breaking_news": [
@@ -8816,6 +8771,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-17 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，预计将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳及监管压力，美股科技板块连续下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，经济前景仍不明朗",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率水平不变，对经济增长的担忧依然存在。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振股市"
     }
   }
 ]
