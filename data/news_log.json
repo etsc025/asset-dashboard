@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates hike expected next month",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England may raise rates to curb inflation, according to economists.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank keeps rate unchanged amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current 0.25% interest rate despite growing inflation pressures.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates hikes and economic uncertainty loom ahead."
-    }
-  },
-  {
     "timestamp": "2026-05-14 21:30",
     "data": {
       "breaking_news": [
@@ -8864,6 +8817,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国科技巨头裁员计划公布"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic uncertainty",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a record low of 0.53% as investors remain cautious in the face of ongoing economic challenges.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Chancellor announces £45 billion stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a £45 billion ($53.8 billion) economic support plan to boost the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank extends pandemic emergency purchase program",
+          "country": "EU",
+          "category": "Central Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has extended its Pandemic Emergency Purchase Program (PEPP) for another three months, providing liquidity to the financial system.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK government stimulus package boosts economic confidence"
     }
   }
 ]
