@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, impacting global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has introduced a package of fiscal measures aimed at supporting the economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Despite recent challenges, China is expected to maintain a positive GDP growth outlook for the year.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike could impact global financial markets"
-    }
-  },
-  {
     "timestamp": "2026-05-14 00:30",
     "data": {
       "breaking_news": [
@@ -8840,6 +8792,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向密切监控"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns continue to push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance amid Brexit uncertainty",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Brexit negotiations have led to varied outcomes for European banks, with some seeing growth and others facing challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally on positive earnings reports",
+          "country": "Asia",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive quarterly results from major Asian companies have boosted stock indices across the region.",
+          "affected_sectors": [
+            "Technology",
+            "Financial Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit negotiations continue to impact European banks."
     }
   }
 ]
