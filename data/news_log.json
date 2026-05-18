@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank signals potential interest rate increases in the future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks rally as China's tech sector reforms gain momentum",
-          "country": "China, USA",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Positive developments in China's tech sector boost global tech stocks.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets rally on positive economic reforms"
-    }
-  },
-  {
     "timestamp": "2026-05-14 09:00",
     "data": {
       "breaking_news": [
@@ -8844,6 +8796,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global tech stocks rally amid positive pandemic news"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will require companies to handle personal data more securely, affecting tech and financial sectors.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market hits record high",
+          "country": "中国",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have reached a new peak, driven by strong economic growth and government support.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes expected to boost economy"
     }
   }
 ]
