@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces stimulus package to combat inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU plans to allocate €50 billion for economic recovery, aimed at reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU stimulus package aims to curb inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-14 17:00",
     "data": {
       "breaking_news": [
@@ -8836,6 +8801,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, ECB hints at rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融服务业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售，纳斯达克指数下滑",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管压力，美国科技股集体下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
