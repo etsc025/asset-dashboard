@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes amid economic uncertainty",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank officials discuss potential interest rate increases in light of economic uncertainties.",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on tech sector rebound",
-          "country": "CHINA",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have rallied as the technology sector recovers from recent declines.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central banks consider rate hikes amid economic uncertainty"
-    }
-  },
-  {
     "timestamp": "2026-05-14 13:00",
     "data": {
       "breaking_news": [
@@ -8845,6 +8799,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB interest rate hike expected to boost profitability"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Tighten Monetary Policy Amid Inflation Concerns",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve raised interest rates, signaling a continued fight against inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Suffer as Russia-Ukraine Conflict Continues",
+          "country": "EU",
+          "category": "Geopolitical Risk",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Stock markets in Europe have declined due to ongoing tensions between Russia and Ukraine.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Central Bank Eases Credit Conditions",
+          "country": "China",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has eased credit conditions, aiming to support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets remain volatile due to geopolitical risks."
     }
   }
 ]
