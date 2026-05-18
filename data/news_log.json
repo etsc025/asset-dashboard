@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy grows faster than expected in Q2",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Second quarter GDP growth exceeds forecast, driven by strong consumer spending.",
-          "affected_sectors": [
-            "Retail",
-            "Consumer Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU banks face liquidity squeeze amid stress tests",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Stress test results reveal potential funding pressures for major European banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU banks under liquidity stress, watch for further developments."
-    }
-  },
-  {
     "timestamp": "2026-05-14 04:30",
     "data": {
       "breaking_news": [
@@ -8820,6 +8774,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points in December",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates by 75 basis points in the December meeting, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russian energy sector",
+          "country": "EU",
+          "category": "Sanctions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional sanctions on Russia's energy sector, likely to affect global oil prices and financial markets.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, which is expected to boost liquidity in the Chinese financial market.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
     }
   }
 ]
