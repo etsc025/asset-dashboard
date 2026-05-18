@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yields hit a new high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy growth forecast revised downwards",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The EU's economic outlook has been downgraded due to ongoing supply chain disruptions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin price surges on FTX bankruptcy news",
-          "country": "USA",
-          "category": "Cryptocurrency & Blockchain",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin prices have surged after FTX's bankruptcy filing, sparking a rally in crypto markets.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU economy growth forecast revised downwards due to supply chain disruptions"
-    }
-  },
-  {
     "timestamp": "2026-05-14 12:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8797,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘即遭遇抛售压力"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see positive outlook amid ECB rate hike",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's interest rate hike is expected to boost European banks' profitability.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian markets following the release of economic data from China.",
+          "affected_sectors": [
+            "Stocks",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB interest rate hike expected to boost profitability"
     }
   }
 ]
