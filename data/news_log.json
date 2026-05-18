@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise sharply amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year treasury yield hits 3.95% in afternoon trading, up from 2.85% yesterday.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid rising interest rates",
-          "country": "Europe",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Several major European banks report tighter lending conditions due to higher borrowing costs.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to economic slowdown."
-    }
-  },
-  {
     "timestamp": "2026-05-14 16:30",
     "data": {
       "breaking_news": [
@@ -8823,6 +8790,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields up to 3.9% from 3.75% yesterday.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's president suggests interest rates could rise to combat inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks under pressure",
+          "country": "Global",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Sales of Apple and Microsoft drop, weighing on tech sector.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, ECB hints at rate hikes"
     }
   }
 ]
