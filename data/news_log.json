@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-13 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in September meeting",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to increase the federal funds rate by 75 basis points at its upcoming September meeting.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new financial regulations to curb crypto trading risks",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union has introduced new rules aimed at reducing the risks associated with cryptocurrency trading.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China announces measures to stabilize its financial markets amid economic downturn",
-          "country": "中国",
-          "category": "Monetary Policy & Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China has implemented several policies designed to bolster the stability of its financial sector in response to an ongoing economic slowdown.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策が市場に影響を及ぼす可能性がある"
-    }
-  },
-  {
     "timestamp": "2026-05-14 00:00",
     "data": {
       "breaking_news": [
@@ -8839,6 +8794,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款基准利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布将贷款基准利率下调，预计将刺激经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果、微软等科技巨头股价上扬影响，美股主要指数今日收高。",
+          "affected_sectors": [
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松货币政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行正在评估是否采取更多措施以应对低通胀和经济增长放缓，市场反应谨慎。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动向密切监控"
     }
   }
 ]
