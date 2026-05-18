@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year bond yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its accommodative monetary policy stance, keeping key interest rates at record lows.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin price surges on FTX bankruptcy news",
-          "country": "USA",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "FTX failure boosts Bitcoin's rally to over $20,000 amid fears of more bankruptcies.",
-          "affected_sectors": [
-            "Crypto"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB keeps rates unchanged: no immediate impact on financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-14 02:00",
     "data": {
       "breaking_news": [
@@ -8810,6 +8765,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-18 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points in December",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将在12月加息75个基点，加剧市场波动。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio for banks",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低银行存款准备金率，旨在缓解流动性紧张状况。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices surge due to supply concerns in OPEC+ countries",
+          "country": "世界",
+          "category": "能源市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+成员国的供应担忧导致油价飙升，投资者情绪积极。",
+          "affected_sectors": [
+            "石油行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统宣布将在12月加息75个基点"
     }
   }
 ]
