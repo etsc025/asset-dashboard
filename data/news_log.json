@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new financial regulations",
-          "country": "EU",
-          "category": "Regulation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU financial regulations are set to take effect in June, affecting banks and insurance companies.",
-          "affected_sectors": [
-            "Finance",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains momentum",
-          "country": "China",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have rallied sharply over the past week, driven by government stimulus measures.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this year"
-    }
-  },
-  {
     "timestamp": "2026-05-14 18:30",
     "data": {
       "breaking_news": [
@@ -8837,6 +8791,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals readiness to raise rates, supporting euro gains.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates decision delayed",
+          "country": "UK",
+          "category": "Central Bank Actions",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "BoE postpones rate announcement amid economic uncertainty.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hikes, supporting euro gains."
     }
   }
 ]
