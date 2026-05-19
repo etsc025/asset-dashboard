@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes to curb inflation",
-          "country": "EU",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧盟央行考虑加息以抑制通胀，这对欧元区股市可能有利。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices surge on supply concerns",
-          "country": "全球",
-          "category": "能源",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于对供应的担忧，油价上涨，这将增加全球经济活动的成本。",
-          "affected_sectors": [
-            "石油及天然气"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球通胀压力上升，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-15 23:30",
     "data": {
       "breaking_news": [
@@ -8833,6 +8788,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets remain optimistic with strong economic data releases."
+    }
+  },
+  {
+    "timestamp": "2026-05-20 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at supporting businesses and individuals.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank is expected to keep interest rates unchanged, indicating no significant change in economic policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike boosts economy"
     }
   }
 ]
