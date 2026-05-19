@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策的进一步紧缩。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑在7月加息",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧盟委员会称，欧洲央行可能在下个月的会议上宣布加息。这将对欧元区经济产生重大影响。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "油价飙升至七年来高点",
-          "country": "全球",
-          "category": "能源",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "国际油价突破每桶100美元，创七年新高，因OPEC+减产计划受阻。",
-          "affected_sectors": [
-            "石油行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-15 09:30",
     "data": {
       "breaking_news": [
@@ -8856,6 +8811,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
+    }
+  },
+  {
+    "timestamp": "2026-05-19 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市下跌。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率的上升预示着经济增长预期增强，利好股市和债券市场。",
+          "affected_sectors": [
+            "金融服务业",
+            "房地产行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布降息政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "欧洲央行宣布降息以应对经济放缓，市场反应敏感，可能引发欧元贬值和股市下跌。",
+          "affected_sectors": [
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响显著"
     }
   }
 ]
