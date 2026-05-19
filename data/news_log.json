@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对股市和债市影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，美元指数走强",
-          "country": "美国",
-          "category": "利率与货币市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上涨，带动美元指数攀升至近期高点。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行可能采取更多紧缩措施，市场反应谨慎。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，美元指数走强"
-    }
-  },
-  {
     "timestamp": "2026-05-15 19:30",
     "data": {
       "breaking_news": [
@@ -8828,6 +8783,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市普遍上涨"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市收高，科技股领涨",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "在强劲的非农就业报告支持下，美股三大指数集体上涨，科技板块尤为突出。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以抑制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行官员暗示可能采取更多紧缩措施来应对高企的通胀率。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市科技股领涨，市场情绪乐观"
     }
   }
 ]
