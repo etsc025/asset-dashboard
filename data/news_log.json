@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB decision leaves financial markets in a state of expectation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on economic data release",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Positive economic indicators boost Chinese stocks, attracting foreign investors.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB keeps interest rates unchanged"
-    }
-  },
-  {
     "timestamp": "2026-05-15 07:00",
     "data": {
       "breaking_news": [
@@ -8858,6 +8813,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield rises create market volatility"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year treasury yield rose to 3.25% on concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China cut the RRR for commercial banks by 0.25 percentage points.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The UK Office for National Statistics (ONS) downgraded its GDP growth forecast for 2023.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧"
     }
   }
 ]
