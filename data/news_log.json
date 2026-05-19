@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 3.95%, reflecting growing fears over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike amid economic uncertainty",
-          "country": "UK",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England has raised the UK's base interest rate to 4.25%, signaling a continued fight against inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks discuss potential interest rate hikes",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central banks in the EU are meeting to assess economic conditions and may consider raising rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-15 06:30",
     "data": {
       "breaking_news": [
@@ -8859,6 +8811,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場緊張度高、注意が必要"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK central bank has decided to cut interest rates, aiming to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU economic growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The EU's economic growth forecast for next year has been lowered due to global uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and yield rises create market volatility"
     }
   }
 ]
