@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a 7-week high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates, aiming to stimulate the UK economy amid Brexit uncertainty.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank raises reserve requirements",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's central bank reduces liquidity, signaling a shift towards tighter monetary policy to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-15 01:00",
     "data": {
       "breaking_news": [
@@ -8851,6 +8804,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "China's actions could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-19 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Signals Rate Hike Ahead",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备暗示即将加息，市场情绪乐观。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Stock Market Rises on Positive Economic Indicators",
+          "country": "中国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国股市因积极的经济指标而上涨，投资者信心增强。",
+          "affected_sectors": [
+            "金融服务业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economy Growth Forecast Revised Upward",
+          "country": "EU",
+          "category": "经济数据",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟对经济增长预测上调，市场反应平淡。",
+          "affected_sectors": [
+            "能源行业",
+            "农业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境稳定，但需关注局部地区风险"
     }
   }
 ]
