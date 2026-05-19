@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q3 earnings report",
-          "country": "欧洲",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行第三季度财报显示结果参差不齐。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets rally as China's PMI hits record high",
-          "country": "亚洲",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "由于中国PMI创纪录高位，亚洲股市上涨。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融环境保持谨慎"
-    }
-  },
-  {
     "timestamp": "2026-05-15 21:30",
     "data": {
       "breaking_news": [
@@ -8838,6 +8793,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors cautious in financial markets due to inflation concerns"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to persistent inflation fears, US Treasury yields have risen, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps key rate unchanged amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has maintained its key interest rate at 0%, citing ongoing economic uncertainties and the need for further analysis.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets mixed as China's PMI shows slight improvement",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Asian stock markets have seen a mix of gains and losses, with the Chinese Purchasing Managers' Index (PMI) showing a minor improvement.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic uncertainties persist, watch for further developments."
     }
   }
 ]
