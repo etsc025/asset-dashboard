@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发股市下跌和人民币贬值压力。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升表明市场对经济前景的信心增强，利好股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率风险增加"
-    }
-  },
-  {
     "timestamp": "2026-05-15 13:00",
     "data": {
       "breaking_news": [
@@ -8858,6 +8825,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.96%, reflecting growing fears about inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's Rishi Sunak wins general election, signals economic stability",
+          "country": "英国",
+          "category": "Politics/Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Rishi Sunak becomes the new Prime Minister of UK, expected to maintain current economic policies.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches investigation into US tech giants antitrust practices",
+          "country": "EU",
+          "category": "Tech/Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU initiates a probe into potential anticompetitive behavior by major US technology companies.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK's Rishi Sunak victory signals economic stability"
     }
   }
 ]
