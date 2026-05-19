@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank keeps rates unchanged but signals willingness to raise them soon.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on easing regulatory pressure",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as government reduces oversight.",
-          "affected_sectors": [
-            "Technology",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets cautiously optimistic with mixed signals"
-    }
-  },
-  {
     "timestamp": "2026-05-15 21:00",
     "data": {
       "breaking_news": [
@@ -8841,6 +8793,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动将影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting investors' cautious stance towards rising inflation.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to maintain current interest rates but may consider a potential increase in the future.",
+          "affected_sectors": [
+            "Banking Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global oil prices stabilize after sharp drop",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Oil prices have stabilized following a significant decline, indicating market uncertainty.",
+          "affected_sectors": [
+            "Oil and Gas Industry"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors cautious in financial markets due to inflation concerns"
     }
   }
 ]
