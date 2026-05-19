@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不及预期，美国科技巨头股价普遍下跌，引发市场担忧。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-15 20:30",
     "data": {
       "breaking_news": [
@@ -8829,6 +8795,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行保持鹰派立场，市场风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策将更加宽松。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在2023年加息",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行正在评估是否在2023年进行加息，这将影响欧元区的利率和债券市场。",
+          "affected_sectors": [
+            "债券市场",
+            "货币市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国股市反弹，科技股领涨",
+          "country": "CHN",
+          "category": "股票",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于政策支持和技术创新的推动，中国股市出现反弹，尤其是科技板块表现强劲。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动将影响金融市场"
     }
   }
 ]
