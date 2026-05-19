@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government announced additional fiscal measures aimed at reducing inflation and stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China cut the reserve requirement ratio, aiming to increase liquidity and support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策動向によりリスク資産への流入が加速"
-    }
-  },
-  {
     "timestamp": "2026-05-15 19:00",
     "data": {
       "breaking_news": [
@@ -8828,6 +8781,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备宣布加息75个基点，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU sets new carbon emission reduction targets for 2030",
+          "country": "EU",
+          "category": "环保政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟设定新的碳排放目标以应对气候变化，市场反应中性。",
+          "affected_sectors": [
+            "能源行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "中国央行降低存款准备金率，有利于企业融资和投资。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市普遍上涨"
     }
   }
 ]
