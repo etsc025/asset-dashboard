@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布今年将再次加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "法规变化",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟即将实施更严格的个人数据保护法律，对科技和金融行业产生影响。",
-          "affected_sectors": [
-            "科技公司",
-            "金融机构"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices rise due to geopolitical tensions",
-          "country": "全球",
-          "category": "能源市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于地缘政治紧张局势加剧，油价上涨，对石油和化工行业构成压力。",
-          "affected_sectors": [
-            "石油公司",
-            "化工企业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加大"
-    }
-  },
-  {
     "timestamp": "2026-05-15 17:00",
     "data": {
       "breaking_news": [
@@ -8830,6 +8782,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB rates rise may lead to bank stress tests"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hit a 2.38% high, reflecting investors' cautious optimism.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England reduced its base rate by 0.25% to support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth slows down in Q3",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Despite a slowdown, China's economy remains robust with a 6.0% growth rate.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally as US yields rise"
     }
   }
 ]
