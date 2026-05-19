@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike in Q4",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has signaled its intention to raise interest rates in the fourth quarter, reflecting growing economic concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Macroeconomics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK's GDP growth outlook has been adjusted downwards due to Brexit uncertainties and global economic pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates may rise, affecting financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-15 01:30",
     "data": {
       "breaking_news": [
@@ -8852,6 +8804,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境稳定，但需关注局部地区风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK banks cut mortgage rates amid economic uncertainty",
+          "country": "UK",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Royal Bank of Scotland cuts mortgage rate to 2.5%, signaling potential for further reductions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU economy growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "ECB warns EU GDP growth may slow, citing supply chain disruptions.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields rise amid inflation concerns - potential for further rate hikes"
     }
   }
 ]
