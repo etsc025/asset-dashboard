@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续两日下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股抛售影响，美股连续两天下滑。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行会议后宣布维持现有利率水平不变，市场反应平淡。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-16 00:00",
     "data": {
       "breaking_news": [
@@ -8834,6 +8788,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike boosts economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，预计将提振经济活动和企业融资环境。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前标普500指数跌逾1%",
+          "country": "美国",
+          "category": "股市",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受科技股拖累，美股三大股指开盘后均下跌超过1%，但市场普遍预期将企稳。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，强调通胀压力上升",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "尽管保持利率不变，欧洲央行警告称高通胀可能持续较长时间，需密切关注。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济预期"
     }
   }
 ]
