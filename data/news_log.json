@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，有助于刺激经济增长和股市上涨。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升可能影响投资者信心和债券价格波动。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市因经济数据疲软而下跌",
-          "country": "欧洲",
-          "category": "经济数据",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "由于经济数据表现不佳，欧洲主要股指普遍下跌，投资者情绪受挫。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策利好股市"
-    }
-  },
-  {
     "timestamp": "2026-05-15 13:30",
     "data": {
       "breaking_news": [
@@ -8872,6 +8825,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK's Rishi Sunak victory signals economic stability"
+    }
+  },
+  {
+    "timestamp": "2026-05-19 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技巨头财报超预期，股价飙升",
+          "country": "美国",
+          "category": "企业财报",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "苹果、微软等科技巨头发布强劲财报，推动市场情绪高涨。",
+          "affected_sectors": [
+            "科技",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能加息，投资者谨慎观望",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行表示将密切关注通胀情况，可能调整利率政策。市场反应平缓。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
