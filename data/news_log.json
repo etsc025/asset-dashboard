@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q3 earnings",
-          "country": "EU",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行第三季度财报显示喜忧参半。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets rally as China's PMI hits record high",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因中国PMI创纪录高位而走高。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，需密切关注"
-    }
-  },
-  {
     "timestamp": "2026-05-16 20:30",
     "data": {
       "breaking_news": [
@@ -8816,6 +8771,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU Central Bank to Review QE Policy: Potential for further policy changes"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响热烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技巨头裁员10%，对市场信心造成影响",
+          "country": "美国",
+          "category": "经济新闻",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国科技行业领军企业宣布大规模裁员，引发市场担忧。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
