@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Alibaba Group to Cut Jobs by 20% Amidst Economic Downturn",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Chinese tech giant announces job cuts amid economic challenges.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Treasury Yields Rise as Inflation Concerns Intensify",
-          "country": "USA",
-          "category": "Interest Rates & Financial Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yields hit a new high, reflecting market concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU Central Bank to Maintain Interest Rates at Record Low",
-          "country": "Europe",
-          "category": "Interest Rates & Financial Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank keeps interest rates unchanged, signaling no change in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic risks remain despite recent stability."
-    }
-  },
-  {
     "timestamp": "2026-05-16 13:00",
     "data": {
       "breaking_news": [
@@ -8853,6 +8808,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates, likely impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) by 50 basis points",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR, potentially easing liquidity in Chinese financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge as OPEC+ announces production cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ countries have agreed to cut oil production, driving up global crude prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike likely leading to higher interest rates globally."
     }
   }
 ]
