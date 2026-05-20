@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as Fed hikes rates again",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hit a new high of 3.94% after the Federal Reserve raised interest rates for the third time this year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government announced additional spending plans aimed at stabilizing and boosting the country's economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China reduced the RRR to support economic growth and ease credit conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行为稳定市场情绪而采取措施"
-    }
-  },
-  {
     "timestamp": "2026-05-17 00:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8727,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by US Fed could lead to economic instability."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季强劲表现而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家大型科技公司发布良好季度业绩报告，推动美股上扬。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管维持利率不变，但欧洲央行表示未来可能会考虑降息。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但风险资产波动加剧"
     }
   }
 ]
