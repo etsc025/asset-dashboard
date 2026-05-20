@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将基准利率上调75个基点，加剧市场波动。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement carbon tax on imported goods",
-          "country": "EU",
-          "category": "环境政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟计划对进口商品征收碳税，影响部分工业和能源行业。",
-          "affected_sectors": [
-            "工业",
-            "能源"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost lending",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国人民银行降低存款准备金率以促进信贷增长，提振市场信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动引发金融市场动荡"
-    }
-  },
-  {
     "timestamp": "2026-05-16 19:00",
     "data": {
       "breaking_news": [
@@ -8816,6 +8770,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable with cautious optimism."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场普遍预期将提振经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇技术性抛售",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国股市在开盘前出现技术性抛售，投资者担心经济放缓。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以抑制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多紧缩措施，提振欧元区经济增长预期。",
+          "affected_sectors": [
+            "能源行业",
+            "汽车制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
