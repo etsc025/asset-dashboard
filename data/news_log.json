@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks meeting could lead to interest rate hikes, affecting global markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stock Markets Surge on Positive Economic Indicators",
-          "country": "Europe",
-          "category": "Stock Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive economic indicators in Europe have led to a surge in stock market indices.",
-          "affected_sectors": [
-            "Finance",
-            "Industry"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Economies Face Challenges Amid Global Trade Tensions",
-          "country": "Asia",
-          "category": "Economic Conditions",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Global trade tensions are impacting Asian economies, causing concerns.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Trade"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to economic volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-16 04:30",
     "data": {
       "breaking_news": [
@@ -8861,6 +8813,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK inflation warning raises concerns"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates",
+          "country": "Europe",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB keeps key interest rates unchanged, signaling no immediate rate hike.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits 50.3 in May",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing sector expands at a steady pace, though growth is slightly below expectations.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic indicators mixed but overall stable"
     }
   }
 ]
