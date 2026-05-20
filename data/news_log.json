@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a two-month high, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax hikes and spending cuts to address high inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank warns of higher interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "European Central Bank hints at rate hikes, dampening investor sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK government's fiscal measures could lead to economic instability"
-    }
-  },
-  {
     "timestamp": "2026-05-16 17:00",
     "data": {
       "breaking_news": [
@@ -8857,6 +8809,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Interest Rates & Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains status quo on monetary policy",
+          "country": "EU",
+          "category": "Central Banks & Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has decided to keep its current monetary policy unchanged, maintaining a cautious stance.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed after China's PMI release",
+          "country": "Asia",
+          "category": "Economic Indicators & Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Asian equity markets have seen mixed performance following the release of China's Purchasing Managers' Index (PMI), reflecting varying economic conditions across the region.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
