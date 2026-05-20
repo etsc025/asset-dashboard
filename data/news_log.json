@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: Bank of England forecast",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank predicts a rate hike, signaling potential for further tightening in the near future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields jump amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Yields on EU government bonds surge, reflecting growing concerns over economic stability.",
-          "affected_sectors": [
-            "Finance",
-            "Government Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as economies face challenges"
-    }
-  },
-  {
     "timestamp": "2026-05-16 03:00",
     "data": {
       "breaking_news": [
@@ -8851,6 +8803,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed economic indicators."
+    }
+  },
+  {
+    "timestamp": "2026-05-20 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government announced new fiscal measures aimed at reducing inflation and stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China cut the RRR for banks, aiming to inject liquidity into the financial system.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政策動向に注意が必要です"
     }
   }
 ]
