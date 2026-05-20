@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces tax hikes and spending cuts to address rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank considers rate hike for first time in 10 years",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank may raise interest rates for the first time since 2011, signaling tighter monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-17 01:30",
     "data": {
       "breaking_news": [
@@ -8786,6 +8738,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets to be impacted by regulatory changes."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
+          "affected_sectors": [
+            "股票",
+            "债券"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策，市场关注点转移",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行可能采取更多措施刺激经济增长，但具体细节尚未公布。",
+          "affected_sectors": [
+            "金融",
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行政策变动引发市场波动"
     }
   }
 ]
