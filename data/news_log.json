@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has announced a new economic support program.",
-          "affected_sectors": [
-            "Finance",
-            "Industry"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU to review carbon pricing policies",
-          "country": "EU",
-          "category": "Environmental Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Union is considering changes to its carbon pricing framework.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package for economic support"
-    }
-  },
-  {
     "timestamp": "2026-05-16 11:30",
     "data": {
       "breaking_news": [
@@ -8853,6 +8806,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将提高利率以对抗通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟表示，为了应对通胀，可能会提高利率。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场货币面临压力",
+          "country": "新兴市场",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于美元走强和全球经济增长放缓，新兴市场的货币面临压力。这可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行行动将影响市场走向"
     }
   }
 ]
