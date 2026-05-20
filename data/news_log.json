@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布下调LPR，对股市和房地产市场可能带来积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国财政部发布2023年预算报告，削减公共支出计划",
-          "country": "美国",
-          "category": "财政政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "尽管削减公共支出，但报告强调了对经济的积极影响和长期增长潜力。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国财政部发布2023年预算报告"
-    }
-  },
-  {
     "timestamp": "2026-05-16 14:30",
     "data": {
       "breaking_news": [
@@ -8846,6 +8811,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive yields higher in key markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-20 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a one-month high, raising worries about rising interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces tax cuts and increased spending to support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank raises interest rates",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China increases reserve requirements, signaling a potential rate hike in the near future.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行為緩和金融危機行動迅速"
     }
   }
 ]
