@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市开盘前小幅下跌",
-          "country": "EU",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受全球经济不确定性影响，欧洲主要股指开盘后出现轻微下滑。",
-          "affected_sectors": [
-            "金融",
-            "製造业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "USA",
-          "category": "股市动态",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "尽管市场担忧经济放缓，但科技巨头股价表现强劲，尤其是苹果和微软。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-16 10:30",
     "data": {
       "breaking_news": [
@@ -8848,6 +8802,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-20 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，市场预期将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，美股开盘后出现大幅下跌，投资者情绪低迷。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管维持利率不变，但欧洲央行表示可能会在未来采取进一步宽松措施以应对经济不确定性。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球经济放缓担忧加剧"
     }
   }
 ]
