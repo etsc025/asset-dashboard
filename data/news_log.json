@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank's cautious stance suggests no imminent interest rate hikes, but watchers remain alert for further signals.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks dip on profit warnings",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Tech sector faces pressure as major players announce disappointing earnings reports.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns loom large, watch for policy responses."
-    }
-  },
-  {
     "timestamp": "2026-05-17 11:30",
     "data": {
       "breaking_news": [
@@ -8811,6 +8766,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield rises to 3.95% as investors brace for higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank announces rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB confirms another quarter-point increase in key interest rates to 4.0% effective immediately.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed after China data release",
+          "country": "Asia",
+          "category": "Equities Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing PMI falls below expectations, while Japanese stock market gains 1.5%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic data influencing global markets"
     }
   }
 ]
