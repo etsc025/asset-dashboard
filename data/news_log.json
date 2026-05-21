@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因业绩不佳及监管压力，美股科技板块连续下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，经济前景仍不明朗",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平不变，对经济增长的担忧依然存在。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-17 14:30",
     "data": {
       "breaking_news": [
@@ -8793,6 +8747,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise as inflation fears grow"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its accommodative stance as growth outlook remains uncertain.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK inflation rate hits 10-year high",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK CPI jumps to 9.9%, hitting highest level since 2012.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns intensify, ECB keeps rates steady"
     }
   }
 ]
