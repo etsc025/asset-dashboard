@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields drop to historic lows, signaling potential economic weakness.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to boost economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK fiscal stimulus could bolster economic recovery"
-    }
-  },
-  {
     "timestamp": "2026-05-17 08:00",
     "data": {
       "breaking_news": [
@@ -8816,6 +8781,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets cautiously optimistic with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to Announce Interest Rate Hike Tomorrow",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将于明日加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to Maintain Interest Rates",
+          "country": "EU",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定维持当前利率不变，对市场影响有限。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统宣布加息"
     }
   }
 ]
