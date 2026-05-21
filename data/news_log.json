@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Inflation fears push US 10-year Treasury yields up to 3.95% from 3.87% yesterday.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces tax cuts and increased spending to boost economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China cuts RRR by 0.25 percentage point, easing liquidity in financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-17 02:00",
     "data": {
       "breaking_news": [
@@ -8786,6 +8739,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行政策变动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Banks across Europe reported varied financial performance for the third quarter.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates to be raised by 0.25% in December",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England is set to increase UK interest rates for the first time since 2018.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and inflation concerns dominate financial markets."
     }
   }
 ]
