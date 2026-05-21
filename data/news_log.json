@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Expected",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting global markets.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank Signals Rate Hike",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB's latest statement suggests a possible rate hike, affecting Eurozone economies.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian Central Banks Remain Steady on Interest Rates",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "No major changes in interest rates expected from Asian central banks, keeping markets stable.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major Central Banks to Announce Rate Decisions"
-    }
-  },
-  {
     "timestamp": "2026-05-17 12:00",
     "data": {
       "breaking_news": [
@@ -8811,6 +8764,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and economic data influencing global markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-21 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major central bank action could lead to economic slowdown.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia over invasion of Ukraine",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Potential for increased geopolitical tensions and market volatility.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed action could lead to economic slowdown."
     }
   }
 ]
