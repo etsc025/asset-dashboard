@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Bank Meeting Update",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks meeting updates influencing global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Stock Market Surge in Asia",
-          "country": "Asia",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Asian stock markets have seen significant gains today.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil Prices Rise Amid Supply Concerns",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Concerns over oil supply disruptions pushing prices higher.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting updates influencing global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-17 11:00",
     "data": {
       "breaking_news": [
@@ -8825,6 +8777,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB rate decision could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融",
+            "証券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振市场信心"
     }
   }
 ]
