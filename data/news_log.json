@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks meeting this week may lead to rate hikes, impacting global markets.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Europe's Banking Crisis Deepens",
-          "country": "EU",
-          "category": "Financial Stability",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Concerns over European banking sector growth and solvency are rising.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's Stock Market Rally Continues",
-          "country": "CHN",
-          "category": "Stock Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese stock markets continue to rise, but with no significant changes in sentiment.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting this week may lead to rate hikes, impacting global markets."
-    }
-  },
-  {
     "timestamp": "2026-05-17 18:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8720,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US central banks' potential interest rate hikes causing volatility"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 3.95%, reflecting ongoing concerns about inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank raises interest rates to curb inflation",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) raised its main refinancing rate by 0.5 percentage points, the highest increase in six years.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally on US interest rate hike expectations",
+          "country": "Asia",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Asian equity markets have seen a positive trend due to anticipated US interest rate hikes, but the pace of recovery is slow.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields hit new high"
     }
   }
 ]
