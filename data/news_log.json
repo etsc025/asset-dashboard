@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity squeeze due to US dollar weakness",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European banks may struggle with funding issues if the US dollar continues its decline.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Treasury yields rise amid inflation concerns - EU banks face liquidity squeeze"
-    }
-  },
-  {
     "timestamp": "2026-05-17 05:00",
     "data": {
       "breaking_news": [
@@ -8789,6 +8756,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK government introduces additional measures to support businesses and workers."
+    }
+  },
+  {
+    "timestamp": "2026-05-21 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受财报季影响，美股开盘前出现抛售，标普500指数下跌2.5%。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在政策会议上维持利率不变，但表示如有必要将考虑进一步降息。",
+          "affected_sectors": [
+            "银行股"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美股开盘前遭遇抛售潮"
     }
   }
 ]
