@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国人民银行宣布降低存款准备金率和贷款基准利率，市场普遍认为这是对经济的利好消息。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后出现短暂回调，随后反弹",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "在连续上涨后，美国主要股指在美国股市开盘后出现小幅回调，但很快恢复了涨势。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在例行会议上决定保持当前的基准利率不变，未采取新的刺激措施。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市表现平稳，但需关注货币政策变化"
-    }
-  },
-  {
     "timestamp": "2026-05-18 00:00",
     "data": {
       "breaking_news": [
@@ -8751,6 +8703,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU regulators investigate potential market manipulation in crypto trading"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound weakens against USD due to Brexit uncertainty",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Brexit-related political developments weigh on UK currency, leading to weaker pound vs. US dollar.",
+          "affected_sectors": [
+            "Finance",
+            "Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB signals possible interest rate increase later this year, but market reaction is mixed.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainty weighs on UK currency"
     }
   }
 ]
