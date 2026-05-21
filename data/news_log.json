@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
-          "country": "USA",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points at its upcoming meeting, the largest hike since 1994.",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia over invasion of Ukraine",
-          "country": "EU",
-          "category": "地缘政治",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia for its aggression in Ukraine, including asset freezes and travel bans.",
-          "affected_sectors": [
-            "能源行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost lending",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to stimulate economic growth and support loan applications.",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，市场信心增强"
-    }
-  },
-  {
     "timestamp": "2026-05-17 17:00",
     "data": {
       "breaking_news": [
@@ -8766,6 +8720,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球通胀担忧加剧，需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，刺激股市上涨，但增加了经济衰退风险。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以控制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行可能采取更多紧缩措施，影响欧元区经济增长前景。",
+          "affected_sectors": [
+            "银行业/股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
