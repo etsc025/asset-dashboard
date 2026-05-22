@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces interest rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has raised the federal funds rate by 0.75 percentage point.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to maintain status quo on interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has decided not to change its interest rate policy for the time being.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China: Stock market gains momentum",
-          "country": "China",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have rallied after a week of losses, with major indices up over 3% today.",
-          "affected_sectors": [
-            "Stocks",
-            "Investment"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to central bank actions."
-    }
-  },
-  {
     "timestamp": "2026-05-18 19:30",
     "data": {
       "breaking_news": [
@@ -8801,6 +8753,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cut boosts UK economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-23 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对股市和债市影响复杂。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，推动美元汇率上涨，对新兴市场造成压力。",
+          "affected_sectors": [
+            "新兴市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多紧缩措施，提振欧元和股市信心。",
+          "affected_sectors": [
+            "金融",
+            "能源"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
