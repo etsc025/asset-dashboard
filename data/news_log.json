@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points at next meeting",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将在下一次会议上将利率提高75个基点，引发市场关注。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK government to introduce new tax on carbon emissions",
-          "country": "英国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国政府宣布将在下个月引入一项针对碳排放的新税，对环保和能源行业可能产生影响。",
-          "affected_sectors": [
-            "能源",
-            "环境"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks rise on hopes of economic recovery",
-          "country": "亚洲",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于对经济复苏的希望，亚洲股市普遍上涨，投资者信心增强。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统宣布将提高利率"
-    }
-  },
-  {
     "timestamp": "2026-05-18 07:00",
     "data": {
       "breaking_news": [
@@ -8782,6 +8736,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美元走强可能影响新兴市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, economists predict",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to continue raising interest rates in 2023 based on recent economic forecasts.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions against Russia over invasion of Ukraine",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional sanctions on Russian entities to further pressure the country's economy and support Ukrainian refugees.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China reports strong Q4 GDP growth, boosts market confidence",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China's fourth quarter gross domestic product (GDP) has shown robust growth, contributing to a positive outlook for the global economy.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions against Russia intensify tensions in Eastern Europe."
     }
   }
 ]
