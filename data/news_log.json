@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，股市上涨预期增强",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场对股市上涨的预期增强。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "债券与货币",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，导致美元走强，但市场整体保持中性态度。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-18 05:30",
     "data": {
       "breaking_news": [
@@ -8781,6 +8748,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振经济预期"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘后小幅下跌，科技股领跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "美股开盘后出现轻微回调，主要由科技板块带动。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行调整存款准备金率"
     }
   }
 ]
