@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new trade sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have imposed additional sanctions on Russian imports and exports as a response to Russia's actions in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China reports strong Q2 GDP growth",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China reported robust second-quarter Gross Domestic Product (GDP) growth, indicating a stable economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this year"
-    }
-  },
-  {
     "timestamp": "2026-05-18 06:00",
     "data": {
       "breaking_news": [
@@ -8781,6 +8734,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行调整存款准备金率"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU to consider carbon tax for member states",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The EU is considering implementing a carbon tax across all member states as part of their climate change strategy.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package"
     }
   }
 ]
