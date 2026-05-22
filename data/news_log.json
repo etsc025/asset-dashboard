@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this fiscal year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data privacy and security standards.",
-          "affected_sectors": [
-            "Tech Companies"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face antitrust investigation",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major Chinese tech companies could be subject to regulatory scrutiny, potentially impacting their market positions.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の規制強化に伴うリスク回避が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-18 06:30",
     "data": {
       "breaking_news": [
@@ -8782,6 +8737,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对股市和债市影响待观察。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，推动美元升值，可能对新兴市场造成压力。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，关注后续政策动向",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，但强调将密切关注通胀情况。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美元走强可能影响新兴市场"
     }
   }
 ]
