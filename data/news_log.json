@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to announce rate hike in the coming weeks.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
-          "country": "Global",
-          "category": "Cryptocurrencies",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price drops due to new regulations in major financial centers.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank rate hike expected soon"
-    }
-  },
-  {
     "timestamp": "2026-05-18 04:30",
     "data": {
       "breaking_news": [
@@ -8805,6 +8758,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to mixed economic signals."
+    }
+  },
+  {
+    "timestamp": "2026-05-22 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Political Developments",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia, targeting key sectors of the Russian economy.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia intensify financial market volatility"
     }
   }
 ]
