@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will require companies to handle personal data more securely, affecting tech and financial sectors.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market hits record high",
-          "country": "中国",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have reached a new peak, driven by strong economic growth and government support.",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes expected to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-05-18 19:00",
     "data": {
       "breaking_news": [
@@ -8812,6 +8766,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut to boost economy, banks warn of liquidity issues."
+    }
+  },
+  {
+    "timestamp": "2026-05-23 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a one-month high as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England cuts interest rates, seen as a stimulus for the UK economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cut boosts UK economy"
     }
   }
 ]
