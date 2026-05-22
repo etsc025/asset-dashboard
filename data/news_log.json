@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points in December",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将在12月加息75个基点，加剧市场波动。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国人民银行降低银行存款准备金率，旨在缓解流动性紧张状况。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil prices surge due to supply concerns in OPEC+ countries",
-          "country": "世界",
-          "category": "能源市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "OPEC+成员国的供应担忧导致油价飙升，投资者情绪积极。",
-          "affected_sectors": [
-            "石油行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统宣布将在12月加息75个基点"
-    }
-  },
-  {
     "timestamp": "2026-05-18 12:30",
     "data": {
       "breaking_news": [
@@ -8804,6 +8758,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield rises could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-22 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USA: Fed announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 0.75 percentage point, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU: Eurozone inflation hits record high of 8.1%",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation in the Eurozone has reached its highest level since records began, prompting further interest rate hikes from the ECB.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China: Shanghai Composite Index hits record high amid stimulus measures",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Shanghai Stock Exchange's main index has reached a new peak, driven by government support and economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の政策決定に市場が敏感に対応中"
     }
   }
 ]
