@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting Announced",
-          "country": "Global",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major central banks have announced a meeting to discuss economic policies.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Stock Market Reacts to US Economic Data",
-          "country": "USA",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US stock market reacts positively to recent economic data release.",
-          "affected_sectors": [
-            "Finance",
-            "Investment"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Surge on Supply Concerns",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Oil prices rise due to concerns over global supply chain disruptions.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investment sectors should remain cautious."
-    }
-  },
-  {
     "timestamp": "2026-05-18 02:30",
     "data": {
       "breaking_news": [
@@ -8792,6 +8744,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行為抑制高インフレーションに動く"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's central bank has just announced a rate hike, indicating an aggressive stance on controlling inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Treasury issues warning on Brexit impact",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK government warns of potential economic downturn due to Brexit negotiations, urging caution in financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian currencies face volatility amid US dollar strength",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Currency fluctuations in the Asian region are expected due to the strengthening of the US dollar, with no clear direction for investors.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Rate hike concerns weigh on financial markets"
     }
   }
 ]
