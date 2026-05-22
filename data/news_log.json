@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns continue to push US Treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance amid Brexit uncertainty",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Brexit negotiations have led to varied outcomes for European banks, with some seeing growth and others facing challenges.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive quarterly results from major Asian companies have boosted stock indices across the region.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit negotiations continue to impact European banks."
-    }
-  },
-  {
     "timestamp": "2026-05-18 11:00",
     "data": {
       "breaking_news": [
@@ -8779,6 +8733,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-22 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rose to 3.45%, up from 2.9% yesterday, reflecting market's concern over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has announced additional fiscal measures to support the economy, but with mixed market reactions.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the RRR by 0.25 percentage points, aiming to ease liquidity and support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策動向に注意が必要です。"
     }
   }
 ]
