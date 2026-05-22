@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府采取措施刺激经济增长，市场情绪乐观。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后出现大幅波动",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "由于国际贸易紧张局势影响，美股开盘即遭遇抛售压力。",
-          "affected_sectors": [
-            "科技股",
-            "消费类股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济增长",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施，提振市场信心。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘即遭遇抛售压力"
-    }
-  },
-  {
     "timestamp": "2026-05-18 21:30",
     "data": {
       "breaking_news": [
@@ -8800,6 +8752,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield increases signal economic stability."
+    }
+  },
+  {
+    "timestamp": "2026-05-23 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yields higher, potentially indicating a stronger economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank's cautious stance suggests no imminent interest rate changes.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally amid strong earnings reports",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Major tech companies have reported robust Q4 earnings, boosting global stock markets.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should remain cautious in volatile market conditions."
     }
   }
 ]
