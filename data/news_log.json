@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Interest Rates Update",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to announce interest rate decisions, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Budget 2023: Tax and Spending Plans",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government is expected to release its budget plans, which could affect the country's economic trajectory.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian Central Banks Meeting: Monetary Policy Changes",
-          "country": "Asia (excluding US and EU)",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Central banks in Asia are expected to announce monetary policy changes, potentially boosting regional markets.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks meeting could shift market sentiment"
-    }
-  },
-  {
     "timestamp": "2026-05-19 00:00",
     "data": {
       "breaking_news": [
@@ -8781,6 +8733,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by the US Fed could lead to higher borrowing costs."
+    }
+  },
+  {
+    "timestamp": "2026-05-23 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，受通胀担忧影响。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face capital adequacy review",
+          "country": "EU",
+          "category": "银行业务",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲多家银行面临资本充足性审查，可能影响信贷市场流动性。",
+          "affected_sectors": [
+            "银行业务"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国央行降低存款准备金率，对经济活动无显著影响。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
