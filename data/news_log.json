@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头裁员计划公布",
-          "country": "美国",
-          "category": "经济新闻",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "知名科技公司宣布大规模裁员，可能对相关产业链造成影响。",
-          "affected_sectors": [
-            "科技",
-            "制造业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲能源危机加剧，天然气价格飙升",
-          "country": "欧洲",
-          "category": "能源市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "由于供应紧张和需求增加，欧洲天然气价格创下历史新高。",
-          "affected_sectors": [
-            "能源",
-            "化工"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技巨头裁员计划公布"
-    }
-  },
-  {
     "timestamp": "2026-05-19 07:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8717,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持谨慎，关注市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB announces no change in interest rates, keeping markets stable.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on foreign inflows",
+          "country": "中国",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as foreign investors continue to flow into the market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持利率不变"
     }
   }
 ]
