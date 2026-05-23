@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Central Bank Actions",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness to raise rates, supporting euro gains.",
-          "affected_sectors": [
-            "Finance",
-            "Currency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates decision delayed",
-          "country": "UK",
-          "category": "Central Bank Actions",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "BoE postpones rate announcement amid economic uncertainty.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank hints at rate hikes, supporting euro gains."
-    }
-  },
-  {
     "timestamp": "2026-05-19 04:30",
     "data": {
       "breaking_news": [
@@ -8769,6 +8723,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行动作引发人民币汇率担忧"
+    }
+  },
+  {
+    "timestamp": "2026-05-23 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting investors' concern over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, easing liquidity in the market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Central Bank to maintain interest rates unchanged",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB is maintaining its current interest rate levels, signaling no immediate changes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場維持在風險偏好模式下"
     }
   }
 ]
