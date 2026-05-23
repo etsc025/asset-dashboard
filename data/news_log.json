@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields up to 3.9% from 3.75% yesterday.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB's president suggests interest rates could rise to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks under pressure",
-          "country": "Global",
-          "category": "Tech",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Sales of Apple and Microsoft drop, weighing on tech sector.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns escalate, ECB hints at rate hikes"
-    }
-  },
-  {
     "timestamp": "2026-05-19 03:00",
     "data": {
       "breaking_news": [
@@ -8782,6 +8736,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要经济体政策变动引发金融市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-23 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, a significant move in their ongoing fight against inflation.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat recession",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced additional economic support measures aimed at mitigating the impact of a potential recession.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike signals stronger economic stance"
     }
   }
 ]
