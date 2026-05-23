@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank has increased interest rates, potentially affecting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU implements new financial regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU rules on finance and data protection are set to take effect, impacting member states.",
-          "affected_sectors": [
-            "Financial Services",
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The Chinese central bank has reduced the reserve requirement ratio, potentially boosting lending and investment.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable with cautious optimism."
-    }
-  },
-  {
     "timestamp": "2026-05-19 13:03",
     "data": {
       "breaking_news": [
@@ -8763,6 +8715,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，可能影响市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.48% as investors remain cautious about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge up amid economic recovery",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Eurozone government bond yields rise slightly, reflecting a steady economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates unchanged despite inflation concerns",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England kept interest rates at 0.1% as expected, amid conflicting signals on inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic recovery continues with mixed signals"
     }
   }
 ]
