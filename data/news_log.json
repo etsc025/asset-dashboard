@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields climbed above 3.5% amid ongoing concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch as ECB tightens monetary policy",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB's tightening measures are expected to squeeze European banks' liquidity, potentially impacting their profitability.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for the first time in 2 years",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The move aims to boost lending and support economic growth, but could lead to inflationary pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB's measures may strain European banks' profitability"
-    }
-  },
-  {
     "timestamp": "2026-05-19 06:30",
     "data": {
       "breaking_news": [
@@ -8767,6 +8720,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市波动加剧，需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings report",
+          "country": "EU",
+          "category": "银行业",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行第三季度财报显示结果参差不齐。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks rally on hopes for stimulus",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "亚洲股市因对刺激措施的希望而上涨。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持谨慎，关注市场波动"
     }
   }
 ]
