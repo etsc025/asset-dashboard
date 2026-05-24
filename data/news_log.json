@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to review monetary policy",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank may adjust its monetary policy in response to economic data.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on foreign inflows",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Foreign investors' influx boosts Chinese stocks, indicating a positive outlook.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場の動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-20 10:00",
     "data": {
       "breaking_news": [
@@ -8769,6 +8723,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on European markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic data release",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as economic data points to improving economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut by BoE",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates in response to Brexit uncertainty.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global oil prices stabilize after sharp drop",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Oil prices remain stable following a recent decline.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and economic data releases could impact global financial markets."
     }
   }
 ]
