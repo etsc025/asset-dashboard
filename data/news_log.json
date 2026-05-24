@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头财报超预期，股价飙升",
-          "country": "美国",
-          "category": "企业财报",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "苹果、微软等科技巨头发布强劲财报，推动市场情绪高涨。",
-          "affected_sectors": [
-            "科技",
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能加息，投资者谨慎观望",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行表示将密切关注通胀情况，可能调整利率政策。市场反应平缓。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-19 22:00",
     "data": {
       "breaking_news": [
@@ -8780,6 +8733,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市因财报季表现强劲而上涨"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing investor worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "Europe",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from European banks' third quarter financial reports have investors on edge but not overly concerned.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin price surges after SEC approval of ETFs",
+          "country": "USA",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "After the US Securities and Exchange Commission approved Bitcoin ETFs, BTC prices surged significantly.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should prepare for potential market volatility."
     }
   }
 ]
