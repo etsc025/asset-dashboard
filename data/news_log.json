@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市下跌。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率的上升预示着经济增长预期增强，利好股市和债券市场。",
-          "affected_sectors": [
-            "金融服务业",
-            "房地产行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布降息政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "欧洲央行宣布降息以应对经济放缓，市场反应敏感，可能引发欧元贬值和股市下跌。",
-          "affected_sectors": [
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响显著"
-    }
-  },
-  {
     "timestamp": "2026-05-19 18:00",
     "data": {
       "breaking_news": [
@@ -8778,6 +8732,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球市场情绪乐观，但需警惕地缘政治风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.97%, up from 3.85% yesterday, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK Bank of England cuts interest rate by 0.25%, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank eases monetary policy",
+          "country": "中国",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese central bank lowers reserve requirement ratio, easing liquidity constraints.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行政策调整提振市场信心"
     }
   }
 ]
