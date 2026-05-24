@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，预期将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳及监管压力，美国主要科技公司股价普遍下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息预期提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-20 00:30",
     "data": {
       "breaking_news": [
@@ -8812,6 +8778,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向密切监控"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid low interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Low ECB rates limit banks' ability to lend, causing cash flow issues.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK housing market sees mixed performance",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from Brexit uncertainty and mortgage approvals remain stable.",
+          "affected_sectors": [
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Low interest rates may lead to higher inflation"
     }
   }
 ]
