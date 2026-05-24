@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance amid Brexit uncertainty",
-          "country": "Europe",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Performance of European banks varies due to ongoing Brexit negotiations.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The move is expected to boost lending and economic growth in China.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
-    }
-  },
-  {
     "timestamp": "2026-05-19 17:30",
     "data": {
       "breaking_news": [
@@ -8776,6 +8731,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by US Federal Reserve"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业信心。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲股市开盘前出现抛售潮",
+          "country": "欧洲",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受全球经济不确定性影响，欧洲主要股指开盘后即遭遇抛售。",
+          "affected_sectors": [
+            "金融服务业",
+            "原材料业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国科技股反弹，纳斯达克指数上涨2%",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受财报季良好表现推动，美国科技股集体上扬。",
+          "affected_sectors": [
+            "信息技术业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球市场情绪乐观，但需警惕地缘政治风险"
     }
   }
 ]
