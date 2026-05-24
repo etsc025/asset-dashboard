@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市收高，科技股领涨",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "在强劲的非农就业报告支持下，美股三大指数集体上涨，科技板块尤为突出。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以抑制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行官员暗示可能采取更多紧缩措施来应对高企的通胀率。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市科技股领涨，市场情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-20 04:00",
     "data": {
       "breaking_news": [
@@ -8829,6 +8783,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable with cautious optimism."
+    }
+  },
+  {
+    "timestamp": "2026-05-24 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has introduced a series of measures aimed at reducing inflation and stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial system.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets remain volatile due to economic uncertainties."
     }
   }
 ]
