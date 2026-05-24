@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid weak economic data",
-          "country": "USA",
-          "category": "经济数据",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率创下历史新低，受疲软的经济数据影响。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch as ECB cuts rates",
-          "country": "欧洲",
-          "category": "货币政策",
-          " impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行面临流动性紧缩压力，由于欧洲央行降低利率。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets rally on hopes of vaccine rollout",
-          "country": "亚洲",
-          "category": "疫苗进展",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因疫苗接种计划的希望而上涨。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行同步降息，市场风险偏好提升"
-    }
-  },
-  {
     "timestamp": "2026-05-20 02:30",
     "data": {
       "breaking_news": [
@@ -8829,6 +8784,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行联手行动，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-05-24 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches probe into Chinese tech firm's data practices",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has initiated an investigation into the data handling of a Chinese technology company.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal measures to support businesses",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK government is implementing new economic policies aimed at aiding small and medium-sized enterprises (SMEs).",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU probe into Chinese tech firm's data practices risks escalating tensions."
     }
   }
 ]
