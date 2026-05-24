@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均表现良好。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘即遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股重挫影响，美股三大指数开盘即下跌超过1%。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，未对市场产生显著影响。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振信心"
-    }
-  },
-  {
     "timestamp": "2026-05-20 06:30",
     "data": {
       "breaking_news": [
@@ -8817,6 +8771,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率可能引发股市回调"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "BoE cuts key rate by 0.25%, signaling cautious stance on economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin hits all-time high amid stimulus news",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin reaches $61,000 as central banks consider more monetary easing.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks considering further stimulus measures"
     }
   }
 ]
