@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策将更加宽松。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑在2023年加息",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否在2023年进行加息，这将影响欧元区的利率和债券市场。",
-          "affected_sectors": [
-            "债券市场",
-            "货币市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "中国股市反弹，科技股领涨",
-          "country": "CHN",
-          "category": "股票",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于政策支持和技术创新的推动，中国股市出现反弹，尤其是科技板块表现强劲。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动将影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-05-20 05:00",
     "data": {
       "breaking_news": [
@@ -8826,6 +8780,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲银行面临新的资本要求"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has announced a rate hike, indicating continued economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government unveils new fiscal measures to boost economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese central bank lowers reserve requirement ratio, easing liquidity.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth outlook remains positive with mixed signals from major economies."
     }
   }
 ]
