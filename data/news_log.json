@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges 7% in a single day amid positive economic data releases.",
-          "country": "USA",
-          "category": "Economy/Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US markets rallied on strong GDP numbers and inflation rates remained stable, boosting Bitcoin's value.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep interest rates unchanged for now.",
-          "country": "EU",
-          "category": "Economy/Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current stance on monetary policy despite improving economic conditions in the region.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian economies report mixed results, with China's GDP growth slightly below expectations.",
-          "country": "Asia",
-          "category": "Economy/Finance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Japan and South Korea saw positive GDP figures while China reported a modest increase.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets remain optimistic with strong economic data releases."
-    }
-  },
-  {
     "timestamp": "2026-05-20 07:30",
     "data": {
       "breaking_news": [
@@ -8806,6 +8761,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股反弹",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受利好财报影响，美国科技股出现显著上涨。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率风险增加"
     }
   }
 ]
