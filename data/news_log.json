@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation fears.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to announce rate hike.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable with cautious optimism."
-    }
-  },
-  {
     "timestamp": "2026-05-21 03:00",
     "data": {
       "breaking_news": [
@@ -8748,6 +8713,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates may rise, consider adjusting investment strategies."
+    }
+  },
+  {
+    "timestamp": "2026-05-26 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged for now",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行决定暂时保持利率不变。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets mixed as China releases economic data",
+          "country": "Asia",
+          "category": "股票",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "亚洲股市表现参差不齐，中国发布经济数据。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎态度"
     }
   }
 ]
