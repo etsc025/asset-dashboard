@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the current year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will affect how businesses handle personal data.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face antitrust investigation",
-          "country": "中国",
-          "category": "Market Regulation",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major Chinese tech companies are under scrutiny for potential anti-competitive practices.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets to be impacted by regulatory changes."
-    }
-  },
-  {
     "timestamp": "2026-05-21 08:30",
     "data": {
       "breaking_news": [
@@ -8771,6 +8725,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to tighten monetary policy, affecting global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-26 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announced a significant rate hike, likely impacting global financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices surge due to geopolitical tensions",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Geopolitical events have pushed crude oil prices sharply higher, affecting transportation and energy sectors.",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to cut interest rates for the first time in 10 years",
+          "country": "Europe",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB's decision is seen as a response to economic challenges, with no clear market direction.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global oil prices surge due to geopolitical tensions"
     }
   }
 ]
