@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank has just announced a significant interest rate increase.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto trading platform for fraud",
-          "country": "EU",
-          "category": "Regulatory Action",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European authorities are investigating a major cryptocurrency exchange for potential fraudulent activities.",
-          "affected_sectors": [
-            "Cryptocurrency",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has unveiled a new economic support program to boost the economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU regulators investigating major crypto exchange for fraud"
-    }
-  },
-  {
     "timestamp": "2026-05-21 11:00",
     "data": {
       "breaking_news": [
@@ -8758,6 +8710,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率：市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has raised the federal funds rate, indicating a tightening of monetary policy.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU warns on rising inflation risks",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The EU Commission has warned about the potential for higher inflation, suggesting a need for fiscal and monetary policy adjustments.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, providing liquidity to financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic risks remain elevated."
     }
   }
 ]
