@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市因财报季强劲表现而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家大型科技公司发布良好季度业绩报告，推动美股上扬。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "尽管维持利率不变，但欧洲央行表示未来可能会考虑降息。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但风险资产波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-21 08:00",
     "data": {
       "breaking_news": [
@@ -8769,6 +8723,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed to raise interest rates again this year"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to tighten monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European Central Bank signals interest rate hikes to curb inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Tech stocks lead China's main index higher after recent declines.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank to tighten monetary policy, affecting global financial markets."
     }
   }
 ]
