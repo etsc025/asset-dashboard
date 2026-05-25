@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces £50 billion economic support plan to boost recovery from pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Healthcare"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU proposes carbon tax for non-compliant industries",
-          "country": "EU",
-          "category": "Environmental Policies",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Union suggests levying a carbon tax on companies not meeting emission standards, aiming to reduce greenhouse gas emissions.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-05-20 16:30",
     "data": {
       "breaking_news": [
@@ -8733,6 +8686,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎态度"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策紧缩的前景。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to raise interest rates by 0.25%",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行宣布将基准利率上调0.25%，以对抗通胀。这可能对欧元区的经济增长产生影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50",
+          "country": "中国",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国采购经理指数降至50以下，表明制造业活动放缓。这可能对中国经济增长构成压力。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行将采取行动以控制通胀"
     }
   }
 ]
