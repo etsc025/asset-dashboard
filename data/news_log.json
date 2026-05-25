@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预计将进一步刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对经济数据的担忧，美股开盘后出现抛售。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-20 21:00",
     "data": {
       "breaking_news": [
@@ -8727,6 +8692,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行保持一致，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.95%, up from 3.7% yesterday, reflecting market's growing concern over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike amid rising unemployment",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK Bank of England hikes interest rates by 0.5%, citing concerns about rising unemployment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth slows to 3.9% in Q2, below expectations",
+          "country": "CHN",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Despite slowdown, China's economy remains robust with strong manufacturing sector.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rate hike could impact global financial markets"
     }
   }
 ]
