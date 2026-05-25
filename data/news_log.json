@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，市场预期将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济放缓的担忧，美股开盘后出现大幅下跌，投资者情绪低迷。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管维持利率不变，但欧洲央行表示可能会在未来采取进一步宽松措施以应对经济不确定性。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球经济放缓担忧加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-20 19:00",
     "data": {
       "breaking_news": [
@@ -8742,6 +8694,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前出现抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announced a significant rate hike, likely impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Government Policies",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government introduced economic stimulus packages aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost lending",
+          "country": "中国",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduced the RRR, expected to ease credit conditions and support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to central bank actions."
     }
   }
 ]
