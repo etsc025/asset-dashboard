@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a one-month high, raising worries about rising interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces tax cuts and increased spending to support the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank raises interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China increases reserve requirements, signaling a potential rate hike in the near future.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行為緩和金融危機行動迅速"
-    }
-  },
-  {
     "timestamp": "2026-05-20 23:00",
     "data": {
       "breaking_news": [
@@ -8724,6 +8678,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK fiscal measures could boost market but inflation remains a concern."
+    }
+  },
+  {
+    "timestamp": "2026-05-25 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对科技行业监管加强的担忧，美国科技股出现抛售。纳斯达克指数下跌1.5%，创下近几个月来的最大单日跌幅。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
