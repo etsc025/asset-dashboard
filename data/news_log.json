@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Record low US Treasury yields raise fears of inflation and economic downturn.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces measures to boost economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU sets ambitious climate targets for 2050",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Union reaffirms commitment to reducing carbon emissions.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package for economic recovery"
-    }
-  },
-  {
     "timestamp": "2026-05-20 13:30",
     "data": {
       "breaking_news": [
@@ -8754,6 +8706,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场"
+    }
+  },
+  {
+    "timestamp": "2026-05-25 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.98%, up from 2.75% last week.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains key rate at 0%, signaling no imminent rate hike.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits record high",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese manufacturing sector expands at fastest pace in over a year.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Trade"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持利率稳定，提振市场信心"
     }
   }
 ]
