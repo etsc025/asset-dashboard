@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank keeps rates steady but signals readiness for future hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks dip on profit warnings",
-          "country": "World",
-          "category": "Equities",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Tech sector faces pressure as major players issue disappointing earnings reports.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "European Central Bank hints at future rate hikes"
-    }
-  },
-  {
     "timestamp": "2026-05-21 06:00",
     "data": {
       "breaking_news": [
@@ -8748,6 +8703,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England hikes rates to combat rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economy report shows mixed results",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from EU economic indicators suggest no significant changes in policy direction.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and inflation concerns dominate markets."
     }
   }
 ]
