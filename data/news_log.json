@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Yields",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for the first time in over a year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank suggests potential interest rate increase, supporting euro gains.",
-          "affected_sectors": [
-            "Currency",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation and monetary policy remain key focus for global markets."
-    }
-  },
-  {
     "timestamp": "2026-05-21 02:00",
     "data": {
       "breaking_news": [
@@ -8724,6 +8690,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB hints at rate hikes ahead"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US 10-year Treasury yields hit a new high of 2.95% today.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy hits pause as Brexit uncertainty persists",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK GDP growth forecast for Q3 revised down to -0.1%, reflecting ongoing Brexit uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China cut the reserve requirement ratio to support economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit and inflation risks loom large"
     }
   }
 ]
