@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new financial regulations",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU financial regulations are set to take effect next month, affecting banks and insurance companies.",
-          "affected_sectors": [
-            "Banks",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market reaches new high",
-          "country": "中国",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks have reached a record high, driven by strong economic growth and government support.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable with some positive developments."
-    }
-  },
-  {
     "timestamp": "2026-05-22 05:30",
     "data": {
       "breaking_news": [
@@ -8814,6 +8767,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Banks warn of liquidity issues in UK"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US Treasury yields fell to a new record low, signaling potential economic weakness.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government unveils £10 billion stimulus plan to boost economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU sets interest rate cut for next month",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "European Central Bank may reduce interest rates, further weakening euro.",
+          "affected_sectors": [
+            "Finance",
+            "Tourism"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces fiscal stimulus package - £10 billion boost"
     }
   }
 ]
