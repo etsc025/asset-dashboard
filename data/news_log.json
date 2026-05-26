@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin's Price Hits All-Time High as Central Banks Consider Interest Rate Hike",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US central banks' potential interest rate hikes are causing volatility in financial markets, with Bitcoin reaching all-time highs.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Financial Regulators Warn of Cybersecurity Risks Amidst High Profile Data Breaches",
-          "country": "EU",
-          "category": "Security",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "EU regulators have issued warnings about cybersecurity risks following high-profile data breaches.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Stock Market Suffers Losses as Brexit Uncertainty Persists",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Despite recent progress in Brexit negotiations, UK stock markets are still experiencing losses due to lingering uncertainty.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US central banks' potential interest rate hikes causing volatility"
-    }
-  },
-  {
     "timestamp": "2026-05-22 01:00",
     "data": {
       "breaking_news": [
@@ -8766,6 +8721,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike expected this week",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Central Bank of England may raise rates to curb inflation, according to market expectations.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields surge on energy price spikes",
+          "country": "EU",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "EU government bonds yield hit record highs as energy prices soar.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central Bank action imminent, markets cautious"
     }
   }
 ]
