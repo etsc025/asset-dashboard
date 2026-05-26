@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Government Bonds",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank hints at rate hikes in September",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU Central Bank has signaled a potential interest rate hike in September.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU Central Bank hints at September rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-22 02:30",
     "data": {
       "breaking_news": [
@@ -8785,6 +8750,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic recovery on track despite challenges"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, potentially impacting borrowing costs.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches inquiry into Chinese tech companies",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European regulators investigate potential anti-competitive practices by Chinese tech firms.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates to remain unchanged in Q4",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "UK's central bank keeps interest rates steady, signaling stable economic conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tech sector under scrutiny for anti-competitive practices"
     }
   }
 ]
