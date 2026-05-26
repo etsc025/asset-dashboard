@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its accommodative stance as growth outlook remains uncertain.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK inflation rate hits 10-year high",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK CPI jumps to 9.9%, hitting highest level since 2012.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns intensify, ECB keeps rates steady"
-    }
-  },
-  {
     "timestamp": "2026-05-21 22:00",
     "data": {
       "breaking_news": [
@@ -8752,6 +8704,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USA: Fed announces rate hike of 75bps",
+          "country": "USA",
+          "category": "Central Bank Actions",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK: UK Treasury announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Actions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at supporting the economy during the pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU: EU announces carbon tax on imported goods",
+          "country": "EU",
+          "category": "Environmental Policies",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union has introduced a new carbon tax on imported goods to reduce greenhouse gas emissions.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates increase in USA, fiscal stimulus in UK"
     }
   }
 ]
