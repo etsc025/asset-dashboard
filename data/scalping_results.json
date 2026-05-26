@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-05-26T15:27:49",
+  "updated_at": "2026-05-26T15:28:00",
   "period_start": "2026-05-26",
   "period_end": "2026-05-26",
   "trading_days": 1,
   "platform": "HyperSBI2 + Frida 17.9.1 + 自社proxy",
   "data_source": "SBI証券 約定履歴 (受渡金額・決済損益 公式値) - 自動更新",
-  "source_csv": "注文一覧_注文照会20260526.csv",
+  "source_csv": "注文一覧_当日約定20260526.csv",
   "summary": {
-    "total_pnl_jpy": 0,
-    "total_orders": 394,
-    "total_settles": 0,
-    "best_day_pnl": 0,
-    "best_day_label": "05-26 東P (394約定)",
-    "worst_day_pnl": 0,
-    "worst_day_label": "05-26 東P (394約定)"
+    "total_pnl_jpy": 148075,
+    "total_orders": 4,
+    "total_settles": 2,
+    "best_day_pnl": 148075,
+    "best_day_label": "05-26 5803 (4約定)",
+    "worst_day_pnl": 148075,
+    "worst_day_label": "05-26 5803 (4約定)"
   },
   "daily": [
     {
       "date": "2026-05-26",
-      "ticker": "東P",
+      "ticker": "5803",
       "name": "",
-      "fills": 394,
-      "pnl": 0
+      "fills": 4,
+      "pnl": 148075
     }
   ],
   "auto_cycle": {
