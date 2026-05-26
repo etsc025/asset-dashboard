@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound weakens against USD due to Brexit uncertainty",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Brexit-related political developments weigh on UK currency, leading to weaker pound vs. US dollar.",
-          "affected_sectors": [
-            "Finance",
-            "Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank hints at rate hike in Q4",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB signals possible interest rate increase later this year, but market reaction is mixed.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainty weighs on UK currency"
-    }
-  },
-  {
     "timestamp": "2026-05-22 07:00",
     "data": {
       "breaking_news": [
@@ -8815,6 +8767,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets remain volatile due to mixed economic data."
+    }
+  },
+  {
+    "timestamp": "2026-05-27 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, markets react with volatility.",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "美国联邦储备系统表示今年将再次加息，市场反应剧烈。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data privacy laws, impacting tech companies.",
+          "country": "EU",
+          "category": "法规变化",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟将实施更严格的个人数据隐私法律，影响科技公司。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio, boosting liquidity.",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "LOW",
+          "direction": "BULLISH/BEARISH",
+          "summary": "中国央行降低存款准备金率，增加市场流动性。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需密切关注"
     }
   }
 ]
