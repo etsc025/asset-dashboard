@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.95% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues at some EU banks could impact cross-border payments and investments.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin hits all-time high amid positive economic data",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price surges to $45,000 as investors see signs of a recovery in the economy.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU banks face liquidity issues"
-    }
-  },
-  {
     "timestamp": "2026-05-21 13:00",
     "data": {
       "breaking_news": [
@@ -8746,6 +8701,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise amid inflation concerns - US 10-year yield hits fresh high of 3.64%"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Risks",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have decided to impose additional economic sanctions on Russia.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the required reserves for banks, potentially easing liquidity conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU announces new sanctions on Russia"
     }
   }
 ]
