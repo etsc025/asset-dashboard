@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields have fallen to a record low, signaling economic weakness.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to support businesses and workers.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches €750 billion recovery fund",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union initiates a massive economic recovery plan, aiming for stability.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK government introduces additional measures to support businesses and workers."
-    }
-  },
-  {
     "timestamp": "2026-05-21 12:00",
     "data": {
       "breaking_news": [
@@ -8758,6 +8711,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "European banks may need additional capital to comply with regulations."
+    }
+  },
+  {
+    "timestamp": "2026-05-26 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, potentially impacting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank signals readiness to raise interest rates, but no immediate action is expected.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK GDP outlook improved slightly despite recent economic challenges.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European central bank hints at rate hikes"
     }
   }
 ]
