@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, indicating a strong economy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new economic stimulus package",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU has announced a new economic stimulus package aimed at boosting the struggling economies of member states.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHN",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut its reserve requirement ratio, providing more liquidity to the financial system.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery on track with stimulus measures"
-    }
-  },
-  {
     "timestamp": "2026-05-21 11:30",
     "data": {
       "breaking_news": [
@@ -8758,6 +8711,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic risks remain elevated."
+    }
+  },
+  {
+    "timestamp": "2026-05-26 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.25% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face capital shortfall amid economic uncertainty",
+          "country": "Europe",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European banks may need up to €100 billion in additional capital to meet regulatory requirements.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Gold prices surge as US dollar weakens",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Gold prices hit a 2-week high amid weakening US dollar and rising inflation expectations.",
+          "affected_sectors": [
+            "Mining",
+            "Investments"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European banks may need additional capital to comply with regulations."
     }
   }
 ]
