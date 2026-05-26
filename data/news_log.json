@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data release",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a six-month high, reflecting positive economic indicators.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation rate rises to 9% in September",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK's latest inflation data shows signs of stabilization after a period of high volatility.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global crude oil prices fall below $80 per barrel",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Crude oil prices drop due to oversupply concerns and geopolitical tensions.",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation rises in UK, crude oil prices fall globally"
-    }
-  },
-  {
     "timestamp": "2026-05-21 17:00",
     "data": {
       "breaking_news": [
@@ -8774,6 +8726,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates to rise: Bank of England forecast"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes amid economic recovery",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has signaled its readiness to raise interest rates, reflecting a growing belief in the region's economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced its reserve requirement ratio, providing liquidity to the banking system.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic recovery concerns dominate global markets."
     }
   }
 ]
