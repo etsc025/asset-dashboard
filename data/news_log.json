@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its accommodative stance, keeping key interest rates steady at 0.25% for now.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI data shows mixed results",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Chinese manufacturing activity remains stable, but services sector growth slows.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets remain volatile due to inflation and economic uncertainty."
-    }
-  },
-  {
     "timestamp": "2026-05-22 06:00",
     "data": {
       "breaking_news": [
@@ -8815,6 +8767,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces fiscal stimulus package - £10 billion boost"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.95% after US CPI report, signaling potential for further rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts interest rates by 25bps, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank maintains status quo on monetary policy",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB's Mario Draghi signals no change in interest rates, citing stable inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise amid rising inflation fears"
     }
   }
 ]
