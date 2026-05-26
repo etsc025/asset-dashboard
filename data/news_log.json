@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受财报季影响，美股开盘前出现抛售，标普500指数下跌2.5%。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上维持利率不变，但表示如有必要将考虑进一步降息。",
-          "affected_sectors": [
-            "银行股"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美股开盘前遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-05-21 12:30",
     "data": {
       "breaking_news": [
@@ -8759,6 +8713,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "European central bank hints at rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.64% as investors brace for further rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current interest rates, disappointing some market participants who expected a cut.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields rise amid inflation concerns - US 10-year yield hits fresh high of 3.64%"
     }
   }
 ]
