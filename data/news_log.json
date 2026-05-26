@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in over a decade.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russian entities, targeting sectors including energy and finance.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike signals ongoing economic concerns"
-    }
-  },
-  {
     "timestamp": "2026-05-22 03:00",
     "data": {
       "breaking_news": [
@@ -8797,6 +8762,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global tech sector under scrutiny for anti-competitive practices"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting Announced",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The US Federal Reserve is set to announce its meeting schedule for the upcoming week.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil Prices Surge Amid Supply Concerns",
+          "country": "OIL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Crude oil prices have risen sharply due to concerns over global supply issues.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Stock Market Reacts to US-China Trade Talks Update",
+          "country": "China, USA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US and China have released updates on their ongoing trade negotiations.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should monitor oil prices closely."
     }
   }
 ]
