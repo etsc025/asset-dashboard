@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，刺激股市上涨，但增加了经济衰退风险。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以控制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行可能采取更多紧缩措施，影响欧元区经济增长前景。",
-          "affected_sectors": [
-            "银行业/股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-22 00:30",
     "data": {
       "breaking_news": [
@@ -8765,6 +8720,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-05-26 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.25% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax cuts and increased spending to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB suggests a potential interest rate increase in September amid inflation pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to boost economy"
     }
   }
 ]
