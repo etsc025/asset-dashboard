@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，人民币汇率承压",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，人民币汇率面临下行压力。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率的上升导致股市波动加大，投资者需关注风险调整策略。",
-          "affected_sectors": [
-            "股票"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行动作引发人民币汇率担忧"
-    }
-  },
-  {
     "timestamp": "2026-05-23 22:30",
     "data": {
       "breaking_news": [
@@ -8815,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市面临回调风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since May.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and public spending increases aimed at stabilizing the economy post-pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new climate initiative to reduce carbon emissions",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU announces ambitious plans to cut greenhouse gas emissions by 55% below 1990 levels by 2030.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK government's fiscal measures could boost economic recovery but risks persist."
     }
   }
 ]
