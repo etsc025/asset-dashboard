@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对股市造成压力但未引发大规模抛售。",
-          "affected_sectors": [
-            "资本市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施，提振欧元区经济信心。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-23 01:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8727,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should prepare for potential economic fluctuations."
+    }
+  },
+  {
+    "timestamp": "2026-05-27 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US treasury yields higher, signaling potential interest rate hikes.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike in next meeting",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank (ECB) may raise rates, but decision will depend on economic data.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Japan's Nikkei gains after strong earnings report",
+          "country": "日本",
+          "category": "Stocks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Japanese stocks rise following a positive earnings announcement from major companies.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain cautiously optimistic."
     }
   }
 ]
