@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat recession",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces economic stimulus packages to mitigate recession impact.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU economy growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "EU predicts slower economic expansion, but with potential for recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Agriculture"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat recession"
-    }
-  },
-  {
     "timestamp": "2026-05-22 15:30",
     "data": {
       "breaking_news": [
@@ -8795,6 +8748,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国の為替レート調整により市場混乱"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，市场预期将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市遭遇抛售潮",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股重挫，纳斯达克指数创下新低，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振市场信心"
     }
   }
 ]
