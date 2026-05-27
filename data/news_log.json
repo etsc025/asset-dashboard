@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU to consider carbon tax for member states",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The EU is considering implementing a carbon tax across all member states as part of their climate change strategy.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-05-22 13:30",
     "data": {
       "breaking_news": [
@@ -8793,6 +8745,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布将降低贷款利率，预计将提振经济增长和企业信心。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，美股在开市前出现抛售行情。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济信心"
     }
   }
 ]
