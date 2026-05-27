@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 0.75 percentage point, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: Eurozone inflation hits record high of 8.1%",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation in the Eurozone has reached its highest level since records began, prompting further interest rate hikes from the ECB.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China: Shanghai Composite Index hits record high amid stimulus measures",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Shanghai Stock Exchange's main index has reached a new peak, driven by government support and economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の政策決定に市場が敏感に対応中"
-    }
-  },
-  {
     "timestamp": "2026-05-22 20:00",
     "data": {
       "breaking_news": [
@@ -8777,6 +8729,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加大"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a fresh high of 3.76% as investors brace for further rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates by 50bps",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB is set to announce a 50-basis point increase in its main refinancing rate, signaling continued monetary tightening.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices drop on OPEC+ supply boost",
+          "country": "GLOBAL",
+          "category": "Energy Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OPEC+ countries are expected to increase production, leading to a decline in global crude oil prices.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally as ECB signals rate hike"
     }
   }
 ]
