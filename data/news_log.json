@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Key Dates Announced",
-          "country": "USA",
-          "category": "Central Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Key dates for major central bank meetings have been announced, potentially influencing interest rates and economic policies.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK Economy: Q3 GDP Growth Revised Downward",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The UK's Q3 GDP growth has been revised downward, reflecting slower economic activity.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global Tech Stocks Surge: Apple Reports Strong Revenue",
-          "country": "GLOBAL",
-          "category": "Tech Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Apple reports strong revenue growth for the quarter, boosting tech sector confidence.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates may remain stable as central banks consider economic data."
-    }
-  },
-  {
     "timestamp": "2026-05-23 00:30",
     "data": {
       "breaking_news": [
@@ -8773,6 +8725,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US 10-year bond yield hits record high"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates and inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government unveils £10 billion package to support businesses and households.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces the RRR for banks, easing liquidity in financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces fiscal stimulus package to boost economy"
     }
   }
 ]
