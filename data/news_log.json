@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Political Developments",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia, targeting key sectors of the Russian economy.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia intensify financial market volatility"
-    }
-  },
-  {
     "timestamp": "2026-05-22 12:00",
     "data": {
       "breaking_news": [
@@ -8783,6 +8748,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth outlook improves with interest rate cuts"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields rose to 3.95%, reflecting concerns over persistent inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) signaled a potential interest rate increase, signaling tighter monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks under pressure",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Tech sector indices are dropping amid concerns over rising interest rates and inflation.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, tech stocks under pressure"
     }
   }
 ]
