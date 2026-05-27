@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for the first time since April.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates rise to 4.25% in latest move by BoE",
-          "country": "UK",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England hikes rates for the third time this year, citing inflation concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider tightening monetary policy amid rising inflation",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank and other EU nations discuss potential interest rate hikes to combat inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to rising inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-22 20:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8729,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally as ECB signals rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy & Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.76% as investors brace for higher interest rates to combat inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy & Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank's (ECB) statement suggests a possible rate hike in the near future, boosting markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stocks mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Economy & Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Stocks in Asia are trading flat after China released mixed economic data, with both positive and negative indicators.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates to rise: ECB hints at potential hike"
     }
   }
 ]
