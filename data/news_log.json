@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Bank of England cuts rates but warns of potential liquidity issues.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
-          "country": "China",
-          "category": "Cryptocurrency",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Chinese regulators' stance on crypto remains unclear but Bitcoin rebounds after initial drop.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to boost economy, banks warn of liquidity issues."
-    }
-  },
-  {
     "timestamp": "2026-05-23 03:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8726,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Interest Rates & Bonds",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.98% amid rising inflation concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to cut interest rates by 25bps",
+          "country": "EU",
+          "category": "Central Banks & Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB is expected to reduce its key rate by 0.25 percentage points, signaling a shift towards accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below expectations",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The official manufacturing Purchasing Managers' Index (PMI) dropped to 49.2 in May, slightly below the expected level of 50.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行降息提振市场信心"
     }
   }
 ]
