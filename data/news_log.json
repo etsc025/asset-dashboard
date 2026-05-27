@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in nearly a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts the base rate by 0.25%, but warns that lower interest rates could lead to liquidity problems in the banking sector.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian currencies weaken amid trade tensions",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The value of Asian currencies, particularly the Chinese yuan and Japanese yen, has declined due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Finance",
-            "Trade"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts boost economy but liquidity concerns loom"
-    }
-  },
-  {
     "timestamp": "2026-05-23 02:30",
     "data": {
       "breaking_news": [
@@ -8777,6 +8729,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动增加市场波动风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have increased by over 25 basis points today.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes amid economic recovery",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggested a potential interest rate hike to curb inflation, signaling a cautious optimism towards the economy's recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed as China data varies",
+          "country": "Asia",
+          "category": "Equities Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian equity markets reflects varying economic indicators from key countries like China, Japan and India.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks remain vigilant against inflation risks."
     }
   }
 ]
