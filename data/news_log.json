@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise, Bank of England warns",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "BoE hints at more rate hikes as inflation hits 9% in UK.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates to rise, global financial markets watch closely."
-    }
-  },
-  {
     "timestamp": "2026-05-22 23:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8740,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally as central banks signal economic recovery"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to announce another interest rate hike this year, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Risks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has announced additional economic sanctions against Russia, likely to affect energy and commodity prices.",
+          "affected_sectors": [
+            "Energy",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market rebounds after recent declines",
+          "country": "China",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have shown signs of recovery following previous declines, indicating a positive outlook for the Chinese economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to geopolitical risks."
     }
   }
 ]
