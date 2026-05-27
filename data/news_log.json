@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data releases",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen following strong economic data, indicating a potential shift towards an expansionary monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch amid low interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Low interest rates in the EU are causing liquidity issues for many banks, potentially leading to financial instability.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks rally as China's tech sector reforms gain momentum",
-          "country": "China",
-          "category": "Tech",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China's tech sector reforms have boosted investor confidence in global tech stocks, driving a rise in their value.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Low interest rates leading to liquidity issues for EU banks"
-    }
-  },
-  {
     "timestamp": "2026-05-22 21:00",
     "data": {
       "breaking_news": [
@@ -8774,6 +8729,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates to rise: ECB hints at potential hike"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK banks cut interest rates to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's major banks reduce interest rates in response to economic pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global oil prices rise due to supply concerns",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Oil prices increase as production issues and geopolitical tensions persist.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks meeting today"
     }
   }
 ]
