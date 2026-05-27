@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting worries about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts the base rate, aiming to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank announces interest rate hike",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China hikes the reserve requirement ratio, seen as a tightening measure to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-22 17:30",
     "data": {
       "breaking_news": [
@@ -8780,6 +8732,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振经济预期"
+    }
+  },
+  {
+    "timestamp": "2026-05-27 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济增长放缓的担忧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，表明投资者对经济前景的信心增强。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以控制通胀",
+          "country": "歐洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "欧洲央行正评估是否采取更多措施来对抗高通胀，可能影响欧元区经济和金融市场。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策变动风险加剧"
     }
   }
 ]
