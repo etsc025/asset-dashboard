@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "China",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，对股市构成压力",
-          "country": "USA",
-          "category": "Yield Curve",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升，投资者担忧经济增长放缓。",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-22 15:00",
     "data": {
       "breaking_news": [
@@ -8783,6 +8750,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit-related risks intensify for European banks."
+    }
+  },
+  {
+    "timestamp": "2026-05-27 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国中央銀行が人民元の為替レートを調整、市場に混乱をもたらす",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国中央銀行が人民元の為替レートを調整し、市場は混乱している。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債利回り上昇、金価格下落への影響",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "米国の長期金利が上昇し、金価格は下落傾向にある。",
+          "affected_sectors": [
+            "金属"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EUの金融政策見直し期待、ユーロ安への影響",
+          "country": "EU",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "EUが金融政策を見直すと予想される事態で、ユーロは下落傾向にある。",
+          "affected_sectors": [
+            "通貨"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国の為替レート調整により市場混乱"
     }
   }
 ]
