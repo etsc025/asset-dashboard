@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国人民银行宣布将贷款基准利率下调20个基点，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "在强劲的就业报告公布后，美国三大股指均创下新高。",
-          "affected_sectors": [
-            "科技行业",
-            "金融服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场情绪平稳",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管经济数据表现强劲，但欧洲央行决定维持当前的利率水平。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，风险偏好提升"
-    }
-  },
-  {
     "timestamp": "2026-05-23 20:00",
     "data": {
       "breaking_news": [
@@ -8816,6 +8768,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府积极应对，经济前景乐观"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布下调LPR，对股市和房地产市场构成利好。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元指数走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，可能提振经济增长预期，对股市和商品市场有利。",
+          "affected_sectors": [
+            "金融",
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市房地产"
     }
   }
 ]
