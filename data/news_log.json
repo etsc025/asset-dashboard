@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hikes",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has signaled its willingness to raise interest rates, signaling a move towards tightening monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets mixed as China releases economic data",
-          "country": "Asia",
-          "category": "Equities Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "China's recent economic data has had an uneven impact on Asian equity markets, with some indices rising and others falling.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as inflation pressures persist."
-    }
-  },
-  {
     "timestamp": "2026-05-24 11:30",
     "data": {
       "breaking_news": [
@@ -8840,6 +8795,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on dovish central bank statements"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者担忧通胀压力加大",
+          "country": "美国",
+          "category": "债券市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，可能预示未来通胀压力增大，影响股市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持利率不变，市场对政策变动预期较低。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕通胀风险"
     }
   }
 ]
