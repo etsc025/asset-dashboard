@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.48% as investors remain cautious about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields edge up amid economic recovery",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Eurozone government bond yields rise slightly, reflecting a steady economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates unchanged despite inflation concerns",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England kept interest rates at 0.1% as expected, amid conflicting signals on inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery continues with mixed signals"
-    }
-  },
-  {
     "timestamp": "2026-05-24 07:30",
     "data": {
       "breaking_news": [
@@ -8851,6 +8803,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and economic forecasts highlight financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-28 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield climbs above 3.5% amid ongoing concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to hike rates, ECB president warns of recession risk",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to raise interest rates for the first time in nearly a decade.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks decline as China's regulatory crackdown intensifies",
+          "country": "China, Global",
+          "category": "Tech Sector",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese regulators continue to tighten control over technology companies, leading to declines in global tech indices.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tech stocks under pressure due to China's regulatory actions"
     }
   }
 ]
