@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank considers rate hike amid economic recovery",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is considering whether to raise interest rates in the face of a strong economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices drop as OPEC+ announces supply increase",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "OPEC+ has announced an increase in crude oil production, leading to a decline in global oil prices.",
-          "affected_sectors": [
-            "Oil and Gas"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable with cautious optimism."
-    }
-  },
-  {
     "timestamp": "2026-05-24 23:30",
     "data": {
       "breaking_news": [
@@ -8798,6 +8751,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Regulatory changes impact global crypto markets"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed raises interest rates again",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve raised the federal funds rate by 0.75% in a surprise move.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russian entities and individuals.",
+          "affected_sectors": [
+            "Energy",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed's rate hike could lead to higher inflation"
     }
   }
 ]
