@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB announces no change in interest rates, keeping markets stable.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on foreign inflows",
-          "country": "中国",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as foreign investors continue to flow into the market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行维持利率不变"
-    }
-  },
-  {
     "timestamp": "2026-05-24 01:30",
     "data": {
       "breaking_news": [
@@ -8820,6 +8775,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets to be impacted by policy changes"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济增长和企业投资信心。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现波动，投资者情绪谨慎",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "受科技股下跌影响，美股开盘后出现短暂波动，但随后恢复稳定。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑延长QE期限，市场反应正面",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示正在考虑延长量化宽松政策的实施期限，预计将为经济提供额外支持。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济增长预期"
     }
   }
 ]
