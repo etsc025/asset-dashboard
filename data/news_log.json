@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市反弹收高",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受财报季强劲表现推动，美股主要指数集体上涨。",
-          "affected_sectors": [
-            "金融业",
-            "科技业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，可能影响市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-24 07:00",
     "data": {
       "breaking_news": [
@@ -8838,6 +8804,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on rate hike expectations"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut as economy struggles",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK has decided to cut its interest rates in an attempt to support the struggling economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economic growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The EU's economic growth forecast has been adjusted downwards, indicating potential risks.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and economic forecasts highlight financial market volatility."
     }
   }
 ]
