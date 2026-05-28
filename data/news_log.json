@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激信贷增长和投资热情。",
-          "affected_sectors": [
-            "银行",
-            "房地产",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季强劲表现而上涨",
-          "country": "美国",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家大型科技公司发布良好业绩，推动标普500指数创下历史新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管经济复苏迹象明显，欧洲央行仍决定保持当前的利率水平不变。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向密切监控"
-    }
-  },
-  {
     "timestamp": "2026-05-24 20:00",
     "data": {
       "breaking_news": [
@@ -8821,6 +8773,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation and economic uncertainty loom large."
+    }
+  },
+  {
+    "timestamp": "2026-05-29 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.95% as investors brace for higher interest rates to combat inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes rate by 75bps amid rising inflation",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank raises key deposit rate by 75 basis points, the largest increase since 2011.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to 4.25% amid Brexit uncertainty",
+          "country": "UK",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK Bank of England raises base rate by 0.25 percentage point, bringing it to 4.25%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on central bank actions"
     }
   }
 ]
