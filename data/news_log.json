@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank signals rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank hints at potential interest rate hikes to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI hits 50.1, above neutral level",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Chinese Purchasing Managers' Index (PMI) shows mixed signals with slight improvement.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整风险加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-24 02:00",
     "data": {
       "breaking_news": [
@@ -8822,6 +8774,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振经济增长预期"
+    }
+  },
+  {
+    "timestamp": "2026-05-28 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场普遍认为这将刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股开盘前遭遇抛售，投资者担心全球经济放缓可能影响企业盈利。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将采取更多宽松措施",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示将进一步放宽政策以支持经济增长，市场反应积极。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
