@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a one-month high amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to review interest rates",
-          "country": "EU",
-          "category": "Central Bank Action",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is expected to keep interest rates unchanged but will review their stance in the coming months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks under pressure as China's regulatory crackdown continues",
-          "country": "China, Global",
-          "category": "Tech Sector News",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese regulators have intensified scrutiny of tech companies, leading to market volatility in global tech sectors.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global tech stocks under pressure due to Chinese regulatory actions"
-    }
-  },
-  {
     "timestamp": "2026-05-24 23:00",
     "data": {
       "breaking_news": [
@@ -8798,6 +8753,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields up in major economies"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges 7% in one day amid global crypto crackdowns",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US regulators tighten regulations on cryptocurrency markets, driving Bitcoin prices up by over 7% today.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks report mixed earnings in Q3",
+          "country": "Europe",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from major European banks for the third quarter of the year, with some showing strong growth and others facing losses.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stock markets rally on tech sector optimism",
+          "country": "Asia",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive outlook for technology sectors in Asia has led to a rise in Asian stock indices, with gains of up to 2%.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Regulatory changes impact global crypto markets"
     }
   }
 ]
