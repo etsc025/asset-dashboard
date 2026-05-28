@@ -1,139 +1,27 @@
 {
-  "updated_at": "2026-05-28T11:40:34",
-  "period_start": "2026-4-27",
-  "period_end": "2026-5-8",
-  "trading_days": 11,
+  "updated_at": "2026-05-28T13:18:42",
+  "period_start": "2026-05-28",
+  "period_end": "2026-05-28",
+  "trading_days": 1,
   "platform": "HyperSBI2 + Frida 17.9.1 + 自社proxy",
   "data_source": "SBI証券 約定履歴 (受渡金額・決済損益 公式値) - 自動更新",
-  "source_csv": "注文一覧_約定履歴20260528.csv",
+  "source_csv": "注文一覧_注文照会20260528.csv",
   "summary": {
-    "total_pnl_jpy": -1415467,
-    "total_orders": 2021,
-    "total_settles": 1001,
-    "best_day_pnl": 220432,
-    "best_day_label": "5-26 5803 (467約定)",
-    "worst_day_pnl": -1393750,
-    "worst_day_label": "5-27 5803 (193約定)"
+    "total_pnl_jpy": 0,
+    "total_orders": 52,
+    "total_settles": 0,
+    "best_day_pnl": 0,
+    "best_day_label": "05-28 東P (52約定)",
+    "worst_day_pnl": 0,
+    "worst_day_label": "05-28 東P (52約定)"
   },
   "daily": [
     {
-      "date": "2026-4-27",
-      "ticker": "6954",
-      "name": "ファナック",
-      "fills": 10,
-      "pnl": -5660
-    },
-    {
-      "date": "2026-4-27",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 20,
-      "pnl": 470
-    },
-    {
-      "date": "2026-4-28",
-      "ticker": "1942",
-      "name": "関電工",
-      "fills": 2,
-      "pnl": -3970
-    },
-    {
-      "date": "2026-4-28",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 30,
-      "pnl": 1300
-    },
-    {
-      "date": "2026-4-30",
-      "ticker": "1671",
-      "name": "WTI原油ETF",
-      "fills": 4,
-      "pnl": 201
-    },
-    {
-      "date": "2026-4-30",
-      "ticker": "3436",
-      "name": "SUMCO",
-      "fills": 318,
-      "pnl": 740
-    },
-    {
-      "date": "2026-4-30",
-      "ticker": "6472",
-      "name": "NTN",
-      "fills": 2,
-      "pnl": 30
-    },
-    {
-      "date": "2026-4-30",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 36,
-      "pnl": -2270
-    },
-    {
-      "date": "2026-5-1",
-      "ticker": "3436",
-      "name": "SUMCO",
-      "fills": 2,
-      "pnl": 140
-    },
-    {
-      "date": "2026-5-1",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 264,
-      "pnl": 15770
-    },
-    {
-      "date": "2026-5-11",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 109,
-      "pnl": 13950
-    },
-    {
-      "date": "2026-5-12",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 285,
-      "pnl": -50380
-    },
-    {
-      "date": "2026-5-25",
-      "ticker": "5803",
+      "date": "2026-05-28",
+      "ticker": "東P",
       "name": "",
-      "fills": 10,
-      "pnl": 1420
-    },
-    {
-      "date": "2026-5-26",
-      "ticker": "5803",
-      "name": "",
-      "fills": 467,
-      "pnl": 220432
-    },
-    {
-      "date": "2026-5-27",
-      "ticker": "5803",
-      "name": "",
-      "fills": 193,
-      "pnl": -1393750
-    },
-    {
-      "date": "2026-5-7",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 118,
-      "pnl": -223170
-    },
-    {
-      "date": "2026-5-8",
-      "ticker": "7203",
-      "name": "トヨタ自動車",
-      "fills": 151,
-      "pnl": 9280
+      "fills": 52,
+      "pnl": 0
     }
   ],
   "auto_cycle": {
