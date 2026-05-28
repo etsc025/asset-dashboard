@@ -1,124 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 08:30",
-    "ticker": "ALL",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=3.69（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 3.69,
-      "pc_ratio_oi": 1.67,
-      "total_put_vol": 812,
-      "total_call_vol": 220
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:00",
-    "ticker": "DOW",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "Clay Catherine R  (CIK 0001853497)",
-            "S&P Global Inc.  (CIK 0000064040)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:00",
-    "ticker": "DOW",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.69（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.69,
-      "pc_ratio_oi": 0.74,
-      "total_put_vol": 4689,
-      "total_call_vol": 2776
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:00",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-05",
-          "filer": [
-            "RAY MICHAEL CHARLES  (CIK 0001593199)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-05",
-          "filer": [
-            "MEHROTRA SANJAY  (CIK 0001242654)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:00",
-    "ticker": "STX",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.52（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.52,
-      "pc_ratio_oi": 1.14,
-      "total_put_vol": 5671,
-      "total_call_vol": 3727
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:00",
-    "ticker": "EXPE",
-    "type": "出来高異常（売り抜け疑い）",
-    "level": "HIGH",
-    "message": "出来高2.7倍増加・価格-9.02%下落（機関売り抜けの可能性）",
-    "data": {
-      "vol_ratio": 2.7,
-      "price_change": -9.02
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "AKAM",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高4.0倍（5日平均比3.4倍）",
-    "data": {
-      "vol_ratio": 4.04
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.32（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.32,
-      "pc_ratio_oi": 0.83,
-      "total_put_vol": 5359,
-      "total_call_vol": 16761
-    }
-  },
-  {
     "timestamp": "2026-05-11 22:01",
     "ticker": "MPC",
     "type": "インサイダー取引報告",
@@ -4308,6 +4189,160 @@
       "pc_ratio_oi": 1.16,
       "total_put_vol": 577,
       "total_call_vol": 1207
+    }
+  },
+  {
+    "timestamp": "2026-05-28 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Brinkman Joseph Robert  (CIK 0001887694)",
+            "CHART INDUSTRIES INC  (CIK 0000892553)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "BAGLIVO MARY  (CIK 0001403594)",
+            "HOST HOTELS & RESORTS, INC.  (CIK 0001070750)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Radakovich Lynn Vojvodich  (CIK 0001662205)",
+            "FORD MOTOR CO  (CIK 0000037996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Pritzker Jason  (CIK 0001603501)",
+            "Hyatt Hotels Corp  (CIK 0001468174)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Howell Peyton R  (CIK 0001528056)",
+            "TANDEM DIABETES CARE INC  (CIK 0001438133)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-28 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.43（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.43,
+      "pc_ratio_oi": 1.2,
+      "total_put_vol": 237,
+      "total_call_vol": 550
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:00",
+    "ticker": "STX",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-21",
+          "filer": [
+            "MOSLEY WILLIAM D  (CIK 0001388390)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:00",
+    "ticker": "STX",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.65（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.65,
+      "pc_ratio_oi": 1.84,
+      "total_put_vol": 6354,
+      "total_call_vol": 3849
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:01",
+    "ticker": "DELL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-27",
+          "filer": [
+            "DELL'OSSO DOMENIC J JR  (CIK 0001504988)",
+            "Transocean Ltd.  (CIK 0001451505)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=2.66（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 2.66,
+      "pc_ratio_oi": 0.75,
+      "total_put_vol": 3315,
+      "total_call_vol": 1245
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.25（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.25,
+      "pc_ratio_oi": 0.59,
+      "total_put_vol": 1036,
+      "total_call_vol": 4209
+    }
+  },
+  {
+    "timestamp": "2026-05-28 22:01",
+    "ticker": "DOW",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.45（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.45,
+      "pc_ratio_oi": 0.61,
+      "total_put_vol": 1216,
+      "total_call_vol": 2707
     }
   }
 ]
