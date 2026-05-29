@@ -1,259 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "MPC",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "Bayh Evan  (CIK 0001520135)",
-            "Marathon Petroleum Corp  (CIK 0001510295)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "COHEN JONATHAN Z  (CIK 0001168756)",
-            "Marathon Petroleum Corp  (CIK 0001510295)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "Al Khayyal Abdulaziz Fahd  (CIK 0001627197)",
-            "Marathon Petroleum Corp  (CIK 0001510295)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "SEMPLE FRANK M  (CIK 0001270065)",
-            "Marathon Petroleum Corp  (CIK 0001510295)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-04",
-          "filer": [
-            "SURMA JOHN P  (CIK 0001229767)",
-            "Marathon Petroleum Corp  (CIK 0001510295)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "MPC",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.23（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.23,
-      "pc_ratio_oi": 0.36,
-      "total_put_vol": 475,
-      "total_call_vol": 2057
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-06",
-          "filer": [
-            "Lutnick Brandon  (CIK 0002048880)",
-            "Cantor Fitzgerald Income Trust, Inc.  (CIK 0001666244)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "EXE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-07",
-          "filer": [
-            "Teunissen Marcel  (CIK 0001730935)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "0998.HK",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.2倍（5日平均比2.4倍）",
-    "data": {
-      "vol_ratio": 2.23
-    }
-  },
-  {
-    "timestamp": "2026-05-11 22:01",
-    "ticker": "1357.HK",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.7倍（5日平均比1.4倍）",
-    "data": {
-      "vol_ratio": 2.72
-    }
-  },
-  {
-    "timestamp": "2026-05-12 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-08",
-          "filer": [
-            "Douglas Gary A.  (CIK 0001861492)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-08",
-          "filer": [
-            "Campbell Steven K.  (CIK 0001955764)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-06",
-          "filer": [
-            "Cunningham Andrea Lee  (CIK 0001903152)",
-            "Trade Desk, Inc.  (CIK 0001671933)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-08",
-          "filer": [
-            "ANDERSON GERARD M  (CIK 0001167314)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-08",
-          "filer": [
-            "OAKLAND STEVEN  (CIK 0001251543)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-12 08:30",
-    "ticker": "ALL",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=2.34（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 2.34,
-      "pc_ratio_oi": 1.7,
-      "total_put_vol": 864,
-      "total_call_vol": 369
-    }
-  },
-  {
-    "timestamp": "2026-05-12 22:00",
-    "ticker": "EXE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-07",
-          "filer": [
-            "Teunissen Marcel  (CIK 0001730935)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-12 22:00",
-    "ticker": "MPC",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.34（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.34,
-      "pc_ratio_oi": 0.36,
-      "total_put_vol": 363,
-      "total_call_vol": 1078
-    }
-  },
-  {
-    "timestamp": "2026-05-12 22:00",
-    "ticker": "DELL",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.47（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.47,
-      "pc_ratio_oi": 1.03,
-      "total_put_vol": 17995,
-      "total_call_vol": 37933
-    }
-  },
-  {
-    "timestamp": "2026-05-12 22:00",
-    "ticker": "EXPE",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.52（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.52,
-      "pc_ratio_oi": 1.72,
-      "total_put_vol": 1702,
-      "total_call_vol": 1117
-    }
-  },
-  {
-    "timestamp": "2026-05-12 22:01",
-    "ticker": "600886.SS",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.3倍（5日平均比1.6倍）",
-    "data": {
-      "vol_ratio": 2.33
-    }
-  },
-  {
     "timestamp": "2026-05-12 22:01",
     "ticker": "CF",
     "type": "インサイダー取引報告",
@@ -4343,6 +4089,250 @@
       "pc_ratio_oi": 0.61,
       "total_put_vol": 1216,
       "total_call_vol": 2707
+    }
+  },
+  {
+    "timestamp": "2026-05-29 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Brinkman Joseph Robert  (CIK 0001887694)",
+            "CHART INDUSTRIES INC  (CIK 0000892553)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "BAGLIVO MARY  (CIK 0001403594)",
+            "HOST HOTELS & RESORTS, INC.  (CIK 0001070750)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Radakovich Lynn Vojvodich  (CIK 0001662205)",
+            "FORD MOTOR CO  (CIK 0000037996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Pritzker Jason  (CIK 0001603501)",
+            "Hyatt Hotels Corp  (CIK 0001468174)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-22",
+          "filer": [
+            "Howell Peyton R  (CIK 0001528056)",
+            "TANDEM DIABETES CARE INC  (CIK 0001438133)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-26",
+          "filer": [
+            "Raduenz Brian  (CIK 0002054312)",
+            "Karman Holdings Inc.  (CIK 0002040127)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-26",
+          "filer": [
+            "Sawhill Stephanie  (CIK 0002054244)",
+            "Karman Holdings Inc.  (CIK 0002040127)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-26",
+          "filer": [
+            "Beaudoin Jonathan  (CIK 0002054447)",
+            "Karman Holdings Inc.  (CIK 0002040127)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-26",
+          "filer": [
+            "Koblinski Anthony  (CIK 0002054426)",
+            "Karman Holdings Inc.  (CIK 0002040127)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-26",
+          "filer": [
+            "Twitty Stephen  (CIK 0002054316)",
+            "Karman Holdings Inc.  (CIK 0002040127)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=3.50（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 3.5,
+      "pc_ratio_oi": 1.2,
+      "total_put_vol": 1188,
+      "total_call_vol": 339
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:00",
+    "ticker": "STX",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=3.31（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 3.31,
+      "pc_ratio_oi": 2.1,
+      "total_put_vol": 10723,
+      "total_call_vol": 3243
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:00",
+    "ticker": "DELL",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高3.5倍（5日平均比2.7倍）",
+    "data": {
+      "vol_ratio": 3.48
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:00",
+    "ticker": "DELL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に2件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-05-27",
+          "filer": [
+            "DELL'OSSO DOMENIC J JR  (CIK 0001504988)",
+            "Transocean Ltd.  (CIK 0001451505)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-05-28",
+          "filer": [
+            "O'Hara David Mark  (CIK 0002125738)",
+            "CADIZ INC  (CIK 0000727273)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "1357.HK",
+    "type": "出来高異常（売り抜け疑い）",
+    "level": "HIGH",
+    "message": "出来高3.4倍増加・価格-3.33%下落（機関売り抜けの可能性）",
+    "data": {
+      "vol_ratio": 3.4,
+      "price_change": -3.33
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "000150.KS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高3.2倍（5日平均比3.2倍）",
+    "data": {
+      "vol_ratio": 3.16
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "055550.KS",
+    "type": "出来高異常（仕込み疑い）",
+    "level": "HIGH",
+    "message": "出来高3.4倍増加・価格変動+0.86%（機関仕込みの可能性）",
+    "data": {
+      "vol_ratio": 3.42,
+      "price_change": 0.86
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "0998.HK",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.3倍（5日平均比2.3倍）",
+    "data": {
+      "vol_ratio": 2.34
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "2618.HK",
+    "type": "出来高異常（仕込み疑い）",
+    "level": "HIGH",
+    "message": "出来高3.4倍増加・価格変動-0.46%（機関仕込みの可能性）",
+    "data": {
+      "vol_ratio": 3.35,
+      "price_change": -0.46
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.23（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.23,
+      "pc_ratio_oi": 0.58,
+      "total_put_vol": 701,
+      "total_call_vol": 2991
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=2.47（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 2.47,
+      "pc_ratio_oi": 0.8,
+      "total_put_vol": 3089,
+      "total_call_vol": 1252
     }
   }
 ]
