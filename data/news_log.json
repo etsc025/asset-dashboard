@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates by 75 basis points, the largest hike in nearly three decades.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced additional economic policies aimed at reducing inflation and stabilizing the economy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new green bond program to support sustainable finance",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union has initiated a new initiative to promote green bonds, contributing to the growth of sustainable finance.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to central bank actions."
-    }
-  },
-  {
     "timestamp": "2026-05-25 13:30",
     "data": {
       "breaking_news": [
@@ -8856,6 +8809,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures amid economic uncertainty"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘走高",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受利好财报和经济数据推动，美国主要股指开盘上涨。",
+          "affected_sectors": [
+            "金融业",
+            "科技业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "市场预期欧洲央行可能继续加息以控制通胀，对股市构成压力。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响市场流动性"
     }
   }
 ]
