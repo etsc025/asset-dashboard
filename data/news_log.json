@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Likely",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks meeting could lead to rate hikes, impacting global markets.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Europe's Economic Growth Slows Down",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Weak economic growth in Europe raises concerns about the global economy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's Stock Market Surges Amid Stimulus Measures",
-          "country": "CN",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's stock market surges following stimulus measures, boosting investor confidence.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting could lead to rate hikes"
-    }
-  },
-  {
     "timestamp": "2026-05-25 20:00",
     "data": {
       "breaking_news": [
@@ -8834,6 +8786,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, global markets watch closely."
+    }
+  },
+  {
+    "timestamp": "2026-05-30 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能加息以对抗通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟表示可能会提高利率来应对通胀问题。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场股市反弹，受美国降息影响",
+          "country": "EMEA",
+          "category": "股票",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "新兴市场股市因美国降息而小幅上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境趋紧，投资者需谨慎。"
     }
   }
 ]
