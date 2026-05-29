@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns continue to influence US treasury yields, rising despite recent interest rate hikes.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank signals more rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank suggests further interest rate increases to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields edge lower amid risk-off sentiment",
-          "country": "Global",
-          "category": "Market",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Bond yields decrease slightly as investors shift towards safer assets in a market characterized by risk aversion.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "Investors should remain cautious due to persistent inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-05-25 16:00",
     "data": {
       "breaking_news": [
@@ -8846,6 +8798,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks remain hawkish on inflation"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch due to sanctions",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European banks may struggle with cash flow issues following new sanctions.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces the reserve requirement ratio, easing liquidity constraints.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧，市场波动风险上升。"
     }
   }
 ]
