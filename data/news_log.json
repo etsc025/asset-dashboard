@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield touched a 2-week high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise in Q4: Bank of England forecast",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank predicts a rate hike in the fourth quarter, supporting economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy sees mixed signals amid pandemic recovery",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Growth indicators show uneven progress across member states, with some showing signs of improvement.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery faces challenges in Q4."
-    }
-  },
-  {
     "timestamp": "2026-05-25 07:30",
     "data": {
       "breaking_news": [
@@ -8830,6 +8785,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic indicators point towards continued recovery."
+    }
+  },
+  {
+    "timestamp": "2026-05-29 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU imposes additional sanctions on Russian entities in response to aggressive actions.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese manufacturing activity weakens, but not significantly.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could escalate tensions."
     }
   }
 ]
