@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，可能提振股市和房地产市场。",
-          "affected_sectors": [
-            "银行业",
-            "房地产业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率的上升反映了投资者对经济的信心增强。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市小幅下跌",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "受全球经济不确定性影响，欧洲主要股指出现下滑。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-05-25 14:00",
     "data": {
       "breaking_news": [
@@ -8856,6 +8808,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响市场流动性"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves first ETF for crypto assets",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved the first exchange-traded fund (ETF) for crypto assets, boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices rise amid OPEC+ supply cuts",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OPEC and its allies have announced a cut in crude oil production, leading to an increase in global oil prices.",
+          "affected_sectors": [
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank signals rate hike imminent",
+          "country": "EUROPE",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank (ECB) has signaled that interest rates are likely to rise soon, but no specific date has been announced.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "USSEC approval boosts Bitcoin prices"
     }
   }
 ]
