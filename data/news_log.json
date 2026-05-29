@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Bank Meeting Update",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "最新的全球央行会议更新影响有限，市场保持稳定。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Tech Stocks Surge as Earnings Reports Boost Confidence",
-          "country": "US",
-          "category": "科技行业",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国科技股因财报提振信心，市场情绪乐观。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Rise on OPEC+ Supply Cuts",
-          "country": "OIL",
-          "category": "能源",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "由于欧佩克+减产消息，油价小幅上涨，对市场影响中等。",
-          "affected_sectors": [
-            "能源"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技股因财报提振信心"
-    }
-  },
-  {
     "timestamp": "2026-05-25 15:00",
     "data": {
       "breaking_news": [
@@ -8841,6 +8796,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on interest rate expectations"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "EU",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from European banks' third quarter earnings reports.",
+          "affected_sectors": [
+            "Banking",
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK property market sees strong demand for second consecutive month",
+          "country": "UK",
+          "category": "RealEstate",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Strong buyer interest in UK properties continues, potentially indicating a recovery in the sector.",
+          "affected_sectors": [
+            "Construction",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom as inflation concerns mount."
     }
   }
 ]
