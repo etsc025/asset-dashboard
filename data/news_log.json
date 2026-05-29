@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data release",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as economic data points to improving economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut by BoE",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates in response to Brexit uncertainty.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global oil prices stabilize after sharp drop",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices remain stable following a recent decline.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts and economic data releases could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-25 06:30",
     "data": {
       "breaking_news": [
@@ -8827,6 +8779,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks considering interest rate hikes could lead to economic volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-29 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announced a significant rate hike, impacting financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China reduced the RRR, potentially boosting economic activity.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations could affect tech companies and privacy-focused startups.",
+          "affected_sectors": [
+            "Technology",
+            "Insurance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be impacted by US Fed rate hike"
     }
   }
 ]
