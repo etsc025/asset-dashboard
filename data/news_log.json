@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in over a decade.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "European Union",
-          "category": "Regulation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data privacy rules, potentially affecting tech companies and financial institutions.",
-          "affected_sectors": [
-            "Tech",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, aiming to boost lending and stimulate economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-25 01:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8729,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally amid positive economic signals"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to raise interest rates by 25bps",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB signals rate hike amid rising inflation, supporting Euro gains.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed after China's GDP growth miss",
+          "country": "Asia",
+          "category": "Equities Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's Q3 GDP growth below expectations weighs on Asian stocks, but regional central banks signal accommodative policies.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB signals rate hike amid rising inflation"
     }
   }
 ]
