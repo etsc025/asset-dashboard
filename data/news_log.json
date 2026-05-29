@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生正面影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对科技行业监管加强的担忧，美国科技股出现抛售。纳斯达克指数下跌1.5%，创下近几个月来的最大单日跌幅。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-05-25 21:30",
     "data": {
       "breaking_news": [
@@ -8843,6 +8809,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on rate cuts and yield increases"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低贷款利率，预计将提振经济和股市。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售，纳斯达克指数下滑",
+          "country": "美国",
+          "category": "市场情绪",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管压力，美国主要科技公司股价普遍下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示将调整利率政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "尽管市场预期强烈，但欧洲央行并未立即采取行动，维持当前利率水平。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市面临调整风险"
     }
   }
 ]
