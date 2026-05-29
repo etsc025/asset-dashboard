@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield hits 3.95%, up from 3.7% yesterday, reflecting market's growing concern over inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike amid rising unemployment",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK Bank of England hikes interest rates by 0.5%, citing concerns about rising unemployment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth slows to 3.9% in Q2, below expectations",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Despite slowdown, China's economy remains robust with strong manufacturing sector.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate hike could impact global financial markets"
-    }
-  },
-  {
     "timestamp": "2026-05-25 19:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8800,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国金融政策变动加大市场波动风险"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts to reduce inflation.",
+          "affected_sectors": [
+            "Finance Sector"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, global markets watch closely."
     }
   }
 ]
