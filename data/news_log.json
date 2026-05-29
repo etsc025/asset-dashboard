@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to support economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "BoE cuts key rate by 0.25%, signaling cautious stance on economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin hits all-time high amid stimulus news",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin reaches $61,000 as central banks consider more monetary easing.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks considering further stimulus measures"
-    }
-  },
-  {
     "timestamp": "2026-05-25 02:30",
     "data": {
       "breaking_news": [
@@ -8787,6 +8740,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策保持稳定，但中国动作引发市场关注"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates but warns of potential liquidity problems.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank eases monetary policy to support growth",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "RMB easing could boost exports and investment in China.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
