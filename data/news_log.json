@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face new capital requirements",
-          "country": "EU",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行面临新的资本要求，影响银行业稳定。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on strong earnings reports",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因强劲的财报报告而上涨。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲银行面临新的资本要求"
-    }
-  },
-  {
     "timestamp": "2026-05-25 00:30",
     "data": {
       "breaking_news": [
@@ -8773,6 +8728,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive yields higher in major markets."
+    }
+  },
+  {
+    "timestamp": "2026-05-29 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to persistent inflation concerns, US Treasury yields have risen, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "Europe",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Banks across Europe reported mixed financial performance for the third quarter, with some showing strong growth and others facing challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin falls below $30K amid regulatory concerns",
+          "country": "Global",
+          "category": "Technology & Finance",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Bitcoin's price has dropped below $30,000 due to growing regulatory scrutiny and investor uncertainty.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Regulatory uncertainties weigh on financial markets."
     }
   }
 ]
