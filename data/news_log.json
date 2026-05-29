@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hit a four-month high, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England lowered interest rates in response to economic pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "A reduction in the reserve requirement ratio is expected to boost lending and investment.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整风险加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-25 12:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8797,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行政策变动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-05-29 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95% amid rising inflation fears.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces tax cuts and increased spending to boost economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB suggests interest rates may rise in the fourth quarter, supporting euro gains.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to support economy"
     }
   }
 ]
