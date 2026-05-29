@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟央行暗示可能加息，但市场反应平淡。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil prices surge on OPEC+ supply cuts",
-          "country": "全球",
-          "category": "能源市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "OPEC+减产导致油价飙升。",
-          "affected_sectors": [
-            "石油行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧盟央行暗示可能加息"
-    }
-  },
-  {
     "timestamp": "2026-05-25 15:30",
     "data": {
       "breaking_news": [
@@ -8844,6 +8799,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as inflation concerns mount."
+    }
+  },
+  {
+    "timestamp": "2026-05-30 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank raises interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank hikes rate by 25 bps, signaling continued fight against inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stock market gains on Brexit optimism",
+          "country": "UK",
+          "category": "Stock Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Brexit uncertainty fades as UK stocks rise 1.5% in morning trade.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks remain hawkish on inflation"
     }
   }
 ]
