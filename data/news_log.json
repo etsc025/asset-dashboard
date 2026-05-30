@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged for now",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行决定暂时保持利率不变。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets mixed as China releases economic data",
-          "country": "Asia",
-          "category": "股票",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "亚洲股市表现参差不齐，中国发布经济数据。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-05-26 01:30",
     "data": {
       "breaking_news": [
@@ -8831,6 +8786,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率引发市场担忧"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 17:23",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has announced a significant interest rate hike, boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan to support businesses and individuals.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has reduced the reserve requirement ratio, potentially easing credit conditions.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の動向に注意が必要です。"
     }
   }
 ]
