@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和房地产市场信心。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国10年期国债收益率小幅上涨，对股市有一定压力但影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息政策提振股市信心"
-    }
-  },
-  {
     "timestamp": "2026-05-26 02:00",
     "data": {
       "breaking_news": [
@@ -8834,6 +8800,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-05-30 19:03",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts interest rates but warns of potential liquidity issues.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price drops to $29,500 after SEC ruling on derivatives.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rates cut could lead to liquidity issues"
     }
   }
 ]
