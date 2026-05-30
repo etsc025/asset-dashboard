@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Political Developments",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU has imposed additional economic sanctions on Russia, following its invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Financials"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-05-26 12:30",
     "data": {
       "breaking_news": [
@@ -8856,6 +8821,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市有望上涨"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后小幅上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "在强劲的非农就业报告公布后，美股小幅上涨，科技股继续引领市场走势。",
+          "affected_sectors": [
+            "金融服务业",
+            "信息技术"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济增长",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行正在评估是否采取更多措施来降低借贷成本，以支持经济复苏。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行为应对疫情继续推出宽松政策"
     }
   }
 ]
