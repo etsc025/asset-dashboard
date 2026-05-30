@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve announced a significant rate hike, likely impacting global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices surge due to geopolitical tensions",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Geopolitical events have pushed crude oil prices sharply higher, affecting transportation and energy sectors.",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to cut interest rates for the first time in 10 years",
-          "country": "Europe",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB's decision is seen as a response to economic challenges, with no clear market direction.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global oil prices surge due to geopolitical tensions"
-    }
-  },
-  {
     "timestamp": "2026-05-26 07:00",
     "data": {
       "breaking_news": [
@@ -8832,6 +8784,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global inflation concerns rise, prompting action from governments."
+    }
+  },
+  {
+    "timestamp": "2026-05-31 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USA: Fed announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU: ECB to consider aggressive rate hikes amid inflation concerns",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to take more drastic measures against rising prices.",
+          "affected_sectors": [
+            "Insurance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global: Oil prices surge on OPEC+ supply cuts",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "OPEC and its allies have reduced oil production, leading to a sharp increase in crude prices.",
+          "affected_sectors": [
+            "Oil & Gas",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の政策決定に市場が敏感に対応中"
     }
   }
 ]
