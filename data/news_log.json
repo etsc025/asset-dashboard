@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.64% as investors brace for further rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current interest rates, disappointing some market participants who expected a cut.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Treasury yields rise amid inflation concerns - US 10-year yield hits fresh high of 3.64%"
-    }
-  },
-  {
     "timestamp": "2026-05-26 10:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8812,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally amid inflation fears"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，引发市场乐观情绪",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于财报不佳和技术巨头的负面新闻，纳斯达克指数大幅下滑。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在政策会议上保持利率不变，但表示可能会在未来降息以刺激经济。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
