@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US 10-year Treasury yields hit a new high of 2.95% today.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy hits pause as Brexit uncertainty persists",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK GDP growth forecast for Q3 revised down to -0.1%, reflecting ongoing Brexit uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China cut the reserve requirement ratio to support economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit and inflation risks loom large"
-    }
-  },
-  {
     "timestamp": "2026-05-26 00:30",
     "data": {
       "breaking_news": [
@@ -8843,6 +8797,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike could lead to global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-05-30 14:17",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Interest Rates",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid stress tests",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Stress test results could impact EU bank solvency and liquidity.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets mixed on US dollar strength",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian stock indices due to US dollar gains.",
+          "affected_sectors": [
+            "Technology",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU banks stress tests could impact solvency and liquidity"
     }
   }
 ]
