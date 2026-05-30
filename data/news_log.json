@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has signaled a potential interest rate increase in the near future.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK stock market gains on Brexit progress",
-          "country": "UK",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Positive developments in Brexit negotiations have boosted UK stocks.",
-          "affected_sectors": [
-            "Finance",
-            "Stocks"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit progress brings mixed signals for markets."
-    }
-  },
-  {
     "timestamp": "2026-05-26 13:00",
     "data": {
       "breaking_news": [
@@ -8869,6 +8821,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行为应对疫情继续推出宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announces a significant rate hike, impacting the global financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth exceeds expectations",
+          "country": "CHINA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "China reports robust economic performance, but with some indicators pointing to potential risks.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK inflation rate hits 10%",
+          "country": "UK",
+          "category": "Inflation",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK's high inflation prompts further interest rate hikes from the Bank of England.",
+          "affected_sectors": [
+            "Energy",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be influenced by major central bank actions."
     }
   }
 ]
