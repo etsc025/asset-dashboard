@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to tighten monetary policy",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European Central Bank signals interest rate hikes to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on tech sector rebound",
-          "country": "中国",
-          "category": "Stocks",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Tech stocks lead China's main index higher after recent declines.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to tighten monetary policy, affecting global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-26 06:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8797,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to boost market optimism"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax cuts and spending increases aimed at stabilizing the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global inflation concerns rise, prompting action from governments."
     }
   }
 ]
