@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the near future, boosting economic sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government Policies",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan aimed at supporting businesses and individuals.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed to hike rates, UK announces fiscal stimulus"
-    }
-  },
-  {
     "timestamp": "2026-05-27 10:30",
     "data": {
       "breaking_news": [
@@ -8896,6 +8861,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike boosts market optimism"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance amid Brexit uncertainty",
+          "country": "Europe",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "German and French banks report mixed results, with UK-focused banks facing challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally on easing trade tensions",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Stocks in China, Japan, and South Korea rise as US-China talks progress.",
+          "affected_sectors": [
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainty weighs on European markets"
     }
   }
 ]
