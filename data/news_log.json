@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will strengthen data privacy and security measures.",
-          "affected_sectors": [
-            "Tech Companies",
-            "Data Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face antitrust investigation",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major Chinese tech companies are under scrutiny for potential anti-competitive practices, potentially leading to regulatory changes.",
-          "affected_sectors": [
-            "Tech Industry"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this year"
-    }
-  },
-  {
     "timestamp": "2026-05-27 08:00",
     "data": {
       "breaking_news": [
@@ -8893,6 +8846,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable with cautious optimism."
+    }
+  },
+  {
+    "timestamp": "2026-06-01 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，人民币汇率走强",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，人民币汇率显著上涨，市场预期乐观。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国主要股指开盘后出现大幅下跌，投资者情绪低迷。",
+          "affected_sectors": [
+            "金融",
+            "製造业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元兑美元汇率波动",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平不变，对市场影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息提振人民币，警惕外资流入风险"
     }
   }
 ]
