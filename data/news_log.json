@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness to raise rates, supporting euro gains.",
-          "affected_sectors": [
-            "Finance",
-            "Currency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks mixed on trade tensions",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance in Asian markets due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Stocks",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile with mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-05-27 12:00",
     "data": {
       "breaking_news": [
@@ -8931,6 +8883,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU regulators investigate crypto exchange for money laundering activities"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行考虑加息，市场保持观望态度。",
+          "affected_sectors": [
+            "货币"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市上涨，但需警惕通胀风险"
     }
   }
 ]
