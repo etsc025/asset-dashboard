@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q2 2023",
-          "country": "EU",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行第二季度表现参差不齐，整体保持稳定。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国央行下调存款准备金率，对市场影响有限。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-26 22:00",
     "data": {
       "breaking_news": [
@@ -8909,6 +8864,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, markets cautious"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 3.78%, reflecting concerns over persistent inflation.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates amid economic uncertainty",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank raised its main refinancing rate to 3.25%, signaling a continued fight against inflation.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge on supply concerns",
+          "country": "Global",
+          "category": "Commodities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Crude oil prices have increased significantly due to worries about potential disruptions in global supply chains.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation and geopolitical risks loom large, prompting further interest rate hikes."
     }
   }
 ]
