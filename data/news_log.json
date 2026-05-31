@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.25% for the first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Monetary Policy Committee cuts key rate by 0.25% but warns about potential liquidity problems.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets mixed as China data weakens",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic indicators in Asia, with weaker Chinese data affecting sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Banks warn of liquidity issues in UK"
-    }
-  },
-  {
     "timestamp": "2026-05-27 03:00",
     "data": {
       "breaking_news": [
@@ -8892,6 +8844,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US 10-year Treasury yields have surged, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) has signaled its intention to raise interest rates, signaling a move towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK property market sees mixed signals",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed economic data in the UK has led to conflicting views on the housing market, with some analysts predicting a slowdown while others see potential for growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom as inflation pressures persist"
     }
   }
 ]
