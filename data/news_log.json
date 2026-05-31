@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of job losses",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates but warns of potential job losses due to economic slowdown.",
-          "affected_sectors": [
-            "Finance",
-            "Employment"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU stocks edge lower as China's new virus variant worries persist",
-          "country": "EU",
-          "category": "Stock Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "EU stock indices show slight decline amid concerns over China's novel coronavirus variant.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate cut could lead to job losses"
-    }
-  },
-  {
     "timestamp": "2026-05-27 08:30",
     "data": {
       "breaking_news": [
@@ -8892,6 +8846,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息提振人民币，警惕外资流入风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，对股市构成利好消息",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，对股市构成利好消息。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%，对市场情绪产生负面影响。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元区股市波动不大",
+          "country": "欧洲",
+          "category": "经济政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持利率不变，但市场反应平淡，未对欧元区股市造成显著影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
