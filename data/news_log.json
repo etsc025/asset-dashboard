@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid rising interest rates",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues threaten European banks' operations as ECB tightens monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, markets cautious"
-    }
-  },
-  {
     "timestamp": "2026-05-27 11:00",
     "data": {
       "breaking_news": [
@@ -8907,6 +8874,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on European markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches investigation into US tech giants antitrust practices",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has initiated an investigation into potential antitrust issues with major US technology companies.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces fiscal stimulus package amid economic downturn",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan to support the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU investigation into US tech giants"
     }
   }
 ]
