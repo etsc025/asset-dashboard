@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting Announced",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The US Federal Reserve is set to announce its meeting schedule for the upcoming week.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Oil Prices Surge Amid Supply Concerns",
-          "country": "OIL",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Crude oil prices have risen sharply due to concerns over global supply issues.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Stock Market Reacts to US-China Trade Talks Update",
-          "country": "China, USA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US and China have released updates on their ongoing trade negotiations.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors should monitor oil prices closely."
-    }
-  },
-  {
     "timestamp": "2026-05-27 01:00",
     "data": {
       "breaking_news": [
@@ -8895,6 +8848,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile."
+    }
+  },
+  {
+    "timestamp": "2026-05-31 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank suggests potential interest rate increases in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks underperform amid profit-taking",
+          "country": "GLOBAL",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Tech sector stocks have declined due to investors' profit-taking after a strong run.",
+          "affected_sectors": [
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should remain cautious in volatile markets."
     }
   }
 ]
