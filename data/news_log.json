@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes amid economic recovery",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has signaled its readiness to raise interest rates, reflecting a growing belief in the region's economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHINA",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced its reserve requirement ratio, providing liquidity to the banking system.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and economic recovery concerns dominate global markets."
-    }
-  },
-  {
     "timestamp": "2026-05-26 15:00",
     "data": {
       "breaking_news": [
@@ -8857,6 +8809,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on Fed rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-05-31 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks see positive outlook amid ECB rate hike",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB's interest rate increase is expected to boost EU banking sector performance.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK economy growth forecast revised upward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OBR raises UK GDP growth projection for 2023.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB rate hike expected to boost EU banking sector"
     }
   }
 ]
