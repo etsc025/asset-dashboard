@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济增速放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变化",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者信心增强，有助于股市上涨。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响经济前景"
-    }
-  },
-  {
     "timestamp": "2026-05-27 06:00",
     "data": {
       "breaking_news": [
@@ -8879,6 +8846,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on Fed rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England cuts interest rates, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge up amid geopolitical tensions",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU bond yields show minor movement as tensions persist between major economies.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and yield movements keep markets alert"
     }
   }
 ]
