@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-26 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike of 75bps",
-          "country": "USA",
-          "category": "Central Bank Actions",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK: UK Treasury announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Government Actions",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a new fiscal stimulus package aimed at supporting the economy during the pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: EU announces carbon tax on imported goods",
-          "country": "EU",
-          "category": "Environmental Policies",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union has introduced a new carbon tax on imported goods to reduce greenhouse gas emissions.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates increase in USA, fiscal stimulus in UK"
-    }
-  },
-  {
     "timestamp": "2026-05-26 20:00",
     "data": {
       "breaking_news": [
@@ -8911,6 +8864,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as inflation concerns persist."
+    }
+  },
+  {
+    "timestamp": "2026-05-31 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will enhance data privacy and security.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing credit conditions.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策動向に注意が必要です。"
     }
   }
 ]
