@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils plans to boost economy with tax cuts and infrastructure spending.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Central Bank of China reduces reserves, signaling potential for lower borrowing costs.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府积极应对，经济前景乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-28 06:00",
     "data": {
       "breaking_news": [
@@ -8943,6 +8897,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic indicators point to continued growth"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "欧洲",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "第三季度欧洲银行表现参差不齐。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国央行下调存款准备金率，对市场影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
