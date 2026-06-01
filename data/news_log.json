@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响尚不明朗。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股反弹，纳斯达克指数创历史新高",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果、微软等科技巨头股价上涨带动，纳斯达克指数创下历史新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲债券市场波动加剧，意大利国债收益率上升",
-          "country": "欧洲",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受意大利政府债务问题影响，欧洲债券市场出现波动，但整体趋势仍为上行。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎乐观"
-    }
-  },
-  {
     "timestamp": "2026-05-28 01:30",
     "data": {
       "breaking_news": [
@@ -8942,6 +8897,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行保持观望态度"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government unveils plans to increase taxes and reduce public spending, aiming to curb rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "European Central Bank signals readiness for interest rate hikes, but market reaction is uncertain.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
