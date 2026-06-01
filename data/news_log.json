@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since May.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax cuts and public spending increases aimed at stabilizing the economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new climate initiative to reduce carbon emissions",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "EU announces ambitious plans to cut greenhouse gas emissions by 55% below 1990 levels by 2030.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK government's fiscal measures could boost economic recovery but risks persist."
-    }
-  },
-  {
     "timestamp": "2026-05-28 08:30",
     "data": {
       "breaking_news": [
@@ -8939,6 +8891,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and market volatility remain key risks."
+    }
+  },
+  {
+    "timestamp": "2026-06-02 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB suggests potential interest rate hikes but no immediate action announced.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as tech companies show signs of recovery.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場の動向に注意が必要です。"
     }
   }
 ]
