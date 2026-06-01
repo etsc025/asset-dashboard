@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a fresh high of 3.76% as investors brace for further rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates by 50bps",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB is set to announce a 50-basis point increase in its main refinancing rate, signaling continued monetary tightening.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices drop on OPEC+ supply boost",
-          "country": "GLOBAL",
-          "category": "Energy Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OPEC+ countries are expected to increase production, leading to a decline in global crude oil prices.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets rally as ECB signals rate hike"
-    }
-  },
-  {
     "timestamp": "2026-05-27 17:30",
     "data": {
       "breaking_news": [
@@ -8938,6 +8893,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步降息，提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市连续第三周上涨，纳斯达克指数创历史新高",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "连续上涨表明市场信心增强，投资者对经济前景持乐观态度。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管保持利率不变，但欧洲央行的信号表明未来可能采取宽松政策。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市继续上涨，经济复苏预期增强"
     }
   }
 ]
