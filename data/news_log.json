@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Interest Rates & Bonds",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.98% amid rising inflation concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to cut interest rates by 25bps",
-          "country": "EU",
-          "category": "Central Banks & Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB is expected to reduce its key rate by 0.25 percentage points, signaling a shift towards accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI falls below expectations",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The official manufacturing Purchasing Managers' Index (PMI) dropped to 49.2 in May, slightly below the expected level of 50.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-28 00:00",
     "data": {
       "breaking_news": [
@@ -8948,6 +8900,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures: spending cuts and tax hikes"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has announced additional spending plans to support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches investigation into Chinese tech companies",
+          "country": "EU",
+          "category": "Technology & Telecoms",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "European regulators are examining potential antitrust issues in China's tech sector.",
+          "affected_sectors": [
+            "Technology",
+            "Telecoms"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets remain volatile due to inflation and geopolitical risks."
     }
   }
 ]
