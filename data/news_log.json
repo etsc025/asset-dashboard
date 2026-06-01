@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，市场预期将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "因科技股重挫，纳斯达克指数创下新低，投资者情绪低迷。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-05-27 13:30",
     "data": {
       "breaking_news": [
@@ -8916,6 +8882,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国科技股抛售加剧，需谨慎投资"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.65% amid rising inflation fears.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates by 25bps",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is set to increase its key rate by 0.25 percentage points.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as technology shares recover from recent declines.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks are tightening monetary policies to curb inflation."
     }
   }
 ]
