@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布下调基准利率，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松货币政策",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否采取更多措施来刺激经济增长，这可能影响欧元区的债券市场和股市。",
-          "affected_sectors": [
-            "金融",
-            "债券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "USA",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳和监管担忧，美国科技巨头股价普遍下跌，投资者情绪低迷。",
-          "affected_sectors": [
-            "科技",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市面临回调风险"
-    }
-  },
-  {
     "timestamp": "2026-05-28 08:00",
     "data": {
       "breaking_news": [
@@ -8942,6 +8894,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank hints at rate hike, watch for further interest rate decisions."
+    }
+  },
+  {
+    "timestamp": "2026-06-02 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new financial regulations",
+          "country": "EU",
+          "category": "Regulation & Compliance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU financial regulations are set to take effect, affecting all member states.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market hits record high",
+          "country": "CHN",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have reached a new peak, driven by government stimulus measures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and market volatility remain key risks."
     }
   }
 ]
