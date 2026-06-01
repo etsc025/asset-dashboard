@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.65% as investors brace for higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound weakens against USD due to Brexit uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK Pound fell below $1.20 amid ongoing Brexit negotiations.",
-          "affected_sectors": [
-            "Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets mixed as China releases economic data",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese stocks rose slightly after positive GDP numbers were released, but other Asian indices declined.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainty weighs on UK Pound"
-    }
-  },
-  {
     "timestamp": "2026-05-28 07:30",
     "data": {
       "breaking_news": [
@@ -8942,6 +8897,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to central bank actions."
+    }
+  },
+  {
+    "timestamp": "2026-06-02 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggest interest rates may rise soon to combat inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stock market gains on Brexit progress",
+          "country": "UK",
+          "category": "Stock Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "UK stocks outperform due to positive developments in Brexit negotiations.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike, watch for further interest rate decisions."
     }
   }
 ]
