@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济和股市。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪调整",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率的上升可能影响到市场的风险偏好。",
-          "affected_sectors": [
-            "债券基金经理"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市因经济数据疲软而下跌",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "最新公布的经济数据显示，欧洲经济增长前景堪忧，导致股市下跌。",
-          "affected_sectors": [
-            "跨国公司投资者"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振经济预期"
-    }
-  },
-  {
     "timestamp": "2026-05-27 14:30",
     "data": {
       "breaking_news": [
@@ -8929,6 +8883,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global equities rally as US stocks hit record highs"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current interest rate levels in response to economic uncertainty.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed due to trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Markets in Asia show varied performance amid ongoing trade disputes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should remain cautious due to inflation risks."
     }
   }
 ]
