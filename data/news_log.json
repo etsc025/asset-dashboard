@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see positive outlook despite Brexit uncertainties",
-          "country": "EU",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Positive sentiment for European banks amid economic recovery and reduced Brexit risks.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets rally on US dollar weakness",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Asian stocks surge as the US dollar depreciates, boosting investor confidence.",
-          "affected_sectors": [
-            "Stocks",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-05-28 01:00",
     "data": {
       "breaking_news": [
@@ -8945,6 +8897,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global oil prices rise amid supply concerns"
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持利率不变，未采取进一步行动。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行降低存款准备金率，提振股市。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持观望态度"
     }
   }
 ]
