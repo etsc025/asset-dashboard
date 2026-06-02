@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut as economy struggles",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK has decided to cut its interest rates in an attempt to support the struggling economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economic growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The EU's economic growth forecast has been adjusted downwards, indicating potential risks.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts and economic forecasts highlight financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-28 17:30",
     "data": {
       "breaking_news": [
@@ -8932,6 +8885,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, ECB hints at rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high of 3.98% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise in Q4, Bank of England predicts",
+          "country": "UK",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's Monetary Policy Committee is expected to raise interest rates by 0.5% in the fourth quarter.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike, markets react",
+          "country": "EU",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank officials suggest a potential interest rate increase to curb inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on central bank signals"
     }
   }
 ]
