@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates to support the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank lowers reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese central bank reduces reserve requirements, easing liquidity constraints.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場今日風險情緒上升"
-    }
-  },
-  {
     "timestamp": "2026-05-28 16:30",
     "data": {
       "breaking_news": [
@@ -8949,6 +8901,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行保持一致，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting investors' cautious optimism.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Liquidity issues at major European banks could lead to funding problems.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy & Finance",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Central Bank of China reduces reserves, supporting liquidity in the market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks' actions could significantly impact global markets."
     }
   }
 ]
