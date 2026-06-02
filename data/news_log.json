@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场造成一定影响。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，投资者信心增强，推动股市上涨。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能加息，欧元承压",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧洲央行对近期经济数据表示满意，但暗示未来可能加息，导致欧元汇率下跌。",
-          "affected_sectors": [
-            "外汇市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-05-29 06:30",
     "data": {
       "breaking_news": [
@@ -8895,6 +8850,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, impacting the global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China announces stimulus package for economy",
+          "country": "CHN",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China has announced a new economic stimulus package to boost growth and stabilize the market.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected this year, China implements economic stimulus"
     }
   }
 ]
