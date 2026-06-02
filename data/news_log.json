@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK economy to grow faster than expected in Q2",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "UK GDP growth forecast revised up by Bank of England to 1.5% for second quarter.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank hikes interest rates amid inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB raises key rate by 0.25%, citing high inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally as ECB hikes rates"
-    }
-  },
-  {
     "timestamp": "2026-05-29 02:00",
     "data": {
       "breaking_news": [
@@ -8929,6 +8881,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed hikes rates, global financial markets may react"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns continue to push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK GDP growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK's GDP growth outlook has been downgraded, reflecting ongoing challenges in the economy.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin price surges on FTX bankruptcy news",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The sudden surge in Bitcoin prices is attributed to recent news about FTX's bankruptcy, raising concerns over the stability of the crypto market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "FOMC meeting on hold due to inflation pressures"
     }
   }
 ]
