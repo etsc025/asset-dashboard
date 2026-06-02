@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts aimed at stabilizing economy amid rising prices.",
-          "affected_sectors": [
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns drive yields higher in major markets."
-    }
-  },
-  {
     "timestamp": "2026-05-29 09:30",
     "data": {
       "breaking_news": [
@@ -8899,6 +8866,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行行动可能加剧通胀压力"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Yield Curve",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has decided not to change its current interest rate levels.",
+          "affected_sectors": [
+            "Finance Sector"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from Chinese economic reports have affected Asian stock markets.",
+          "affected_sectors": [
+            "Stocks"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with mixed signals."
     }
   }
 ]
