@@ -1,22 +1,20 @@
 {
-  "alert": true,
-  "level": "HIGH",
-  "reasons": [
-    "NVDA: 価格振動大: 2.8%振れ・6回転換"
-  ],
-  "timestamp": "2026-06-01 22:10",
+  "alert": false,
+  "level": "NORMAL",
+  "reasons": [],
+  "timestamp": "2026-06-02 22:10",
   "vix": {
-    "vix_current": 15.82,
-    "vix_change": 3.26,
+    "vix_current": 16.18,
+    "vix_change": 0.81,
     "level": "NORMAL",
-    "message": "VIX=15.8 (+3.3%) 正常範囲"
+    "message": "VIX=16.2 (+0.8%) 正常範囲"
   },
   "futures": {
-    "es_change": 0.0,
-    "nq_change": 0.0,
-    "spy_price": 756.48,
-    "es_price": 7608.25,
+    "es_change": -0.21,
+    "nq_change": -0.12,
+    "spy_price": 758.54,
+    "es_price": 7597.25,
     "level": "NORMAL",
-    "message": "先物正常: ES=+0.0% NQ=+0.0%"
+    "message": "先物正常: ES=-0.2% NQ=-0.1%"
   }
 }
