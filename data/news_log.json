@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year bond yield hits 3.95% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates for third time this year",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB raises rate by 0.75% to curb inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian currencies weaken against USD amid US dollar strength",
-          "country": "Asia",
-          "category": "Currencies",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Yen and won drop as USD strengthens, affecting Asian exports.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US yields rise amid inflation fears - ECB hikes interest rates"
-    }
-  },
-  {
     "timestamp": "2026-05-28 22:30",
     "data": {
       "breaking_news": [
@@ -8928,6 +8883,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on Fed rate hike announcement"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "New data suggests slower UK economic expansion than previously expected.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals potential interest rate increase, impacting currency markets.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth outlook uncertain due to inflation pressures"
     }
   }
 ]
