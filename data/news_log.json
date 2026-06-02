@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness to raise interest rates, bolstering euro and dampening risk appetite.",
-          "affected_sectors": [
-            "Finance",
-            "Currency"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields up in major economies"
-    }
-  },
-  {
     "timestamp": "2026-05-29 08:00",
     "data": {
       "breaking_news": [
@@ -8888,6 +8853,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融市場が上向きの兆しを示す"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank announces rate cut but market reaction is mixed.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stock markets rally on Brexit progress",
+          "country": "UK",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "UK stocks rise as the UK and EU agree to a trade deal.",
+          "affected_sectors": [
+            "Finance",
+            "Stocks"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European Central Bank cuts rates for economic stability"
     }
   }
 ]
