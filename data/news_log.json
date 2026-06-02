@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.95% as investors brace for higher interest rates to combat inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes rate by 75bps amid rising inflation",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key deposit rate by 75 basis points, the largest increase since 2011.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates rise to 4.25% amid Brexit uncertainty",
-          "country": "UK",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK Bank of England raises base rate by 0.25 percentage point, bringing it to 4.25%.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on central bank actions"
-    }
-  },
-  {
     "timestamp": "2026-05-29 05:30",
     "data": {
       "breaking_news": [
@@ -8904,6 +8859,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face new capital requirements",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New regulations to be implemented for European banks could affect lending practices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on US economic data release",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive US economic indicators boost Asian stock indices.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with potential risks."
     }
   }
 ]
