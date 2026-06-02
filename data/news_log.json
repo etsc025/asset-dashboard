@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates rise to historic high",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Bank of England hikes rate by 0.75%, highest in over a decade.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at more rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB signals further interest rate increases as inflation persists.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks tighten monetary policy to curb inflation"
-    }
-  },
-  {
     "timestamp": "2026-05-28 13:30",
     "data": {
       "breaking_news": [
@@ -8935,6 +8887,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic outlook remains uncertain with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-06-02 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，提振市场信心，对股市和房地产市场有利。",
+          "affected_sectors": [
+            "股票市场",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国科技巨头裁员计划公布",
+          "country": "美国",
+          "category": "经济新闻",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国科技巨头计划大规模裁员，可能影响就业市场和投资者情绪。",
+          "affected_sectors": [
+            "科技行业",
+            "就业市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议后宣布维持现有利率不变，对金融市场影响有限。",
+          "affected_sectors": [
+            "债券市场",
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国科技巨头裁员计划公布，需关注后续影响"
     }
   }
 ]
