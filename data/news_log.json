@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a one-month high amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be cut: Bank of England predicts economic slowdown",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank suggests cutting interest rates to support the economy as it forecasts a slowdown.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields edge lower amid economic recovery hopes",
-          "country": "EU",
-          "category": "Bond Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European government bond yields show little movement, reflecting cautious optimism about economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates to be cut: Bank of England predicts economic slowdown"
-    }
-  },
-  {
     "timestamp": "2026-05-29 06:00",
     "data": {
       "breaking_news": [
@@ -8906,6 +8861,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with potential risks."
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后小幅下跌，科技股领跌",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘后出现短暂回调。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
