@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-28 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield climbs above 3.5% amid ongoing concerns about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to hike rates, ECB president warns of recession risk",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to raise interest rates for the first time in nearly a decade.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks decline as China's regulatory crackdown intensifies",
-          "country": "China, Global",
-          "category": "Tech Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese regulators continue to tighten control over technology companies, leading to declines in global tech indices.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global tech stocks under pressure due to China's regulatory actions"
-    }
-  },
-  {
     "timestamp": "2026-05-28 18:30",
     "data": {
       "breaking_news": [
@@ -8930,6 +8885,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on central bank signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-02 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a two-month high, reflecting concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government will introduce measures to support businesses and households.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates for the first time in 10 years",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The move aims to boost economic growth but faces challenges from ongoing trade tensions.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政府行动支持经济，但贸易紧张局势影响前景"
     }
   }
 ]
