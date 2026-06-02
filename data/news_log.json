@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to persistent inflation concerns, US Treasury yields have risen, indicating a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q3 earnings",
-          "country": "Europe",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Banks across Europe reported mixed financial performance for the third quarter, with some showing strong growth and others facing challenges.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory concerns",
-          "country": "Global",
-          "category": "Technology & Finance",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Bitcoin's price has dropped below $30,000 due to growing regulatory scrutiny and investor uncertainty.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Regulatory uncertainties weigh on financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-29 10:00",
     "data": {
       "breaking_news": [
@@ -8911,6 +8866,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-06-03 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK has decided to cut interest rates in an attempt to support the struggling economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on favorable economic data",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have rallied as positive economic indicators were released.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行が金融政策を調整する可能性が高い"
     }
   }
 ]
