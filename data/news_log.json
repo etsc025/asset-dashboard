@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields edge higher amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields rise as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's interest rate cut is expected to support the economy but may lead to liquidity problems for banks.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirements, easing credit conditions",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese central bank has eased credit conditions by reducing reserve requirements.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場今日風險上升"
-    }
-  },
-  {
     "timestamp": "2026-05-29 00:30",
     "data": {
       "breaking_news": [
@@ -8928,6 +8880,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-06-02 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity risk",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts key rate by 0.25% but warns of potential liquidity issues.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed after China data release",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian equities following China's economic indicators release.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Bullish US Treasury yields signal potential for further rate hikes."
     }
   }
 ]
