@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，引发市场乐观情绪",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "经济数据",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，美元汇率上涨，可能对新兴市场货币造成压力。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-05-30 02:30",
     "data": {
       "breaking_news": [
@@ -8866,6 +8832,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global inflation concerns rise, markets cautiously optimistic."
+    }
+  },
+  {
+    "timestamp": "2026-06-03 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国10年期国债收益率小幅上涨，对股市影响有限。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率不变，市场反应平淡。",
+          "affected_sectors": [
+            "能源行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但波动性增加"
     }
   }
 ]
