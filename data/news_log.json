@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.95% amid rising inflation fears.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces tax cuts and increased spending to boost economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank hints at rate hike in Q4",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB suggests interest rates may rise in the fourth quarter, supporting euro gains.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to support economy"
-    }
-  },
-  {
     "timestamp": "2026-05-29 22:00",
     "data": {
       "breaking_news": [
@@ -8886,6 +8840,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-06-03 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's price surges as central banks consider interest rate hikes.",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US economic indicators suggest potential interest rate hikes, impacting Bitcoin prices positively.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns.",
+          "country": "GLOBAL",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising bond yields are seen as a negative for equities and commodities.",
+          "affected_sectors": [
+            "Finance",
+            "Energy",
+            "Commodities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central banks to meet next week amid economic uncertainty.",
+          "country": "GLOBAL",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Central bank meetings are expected to provide insights into monetary policy decisions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic uncertainty loom large."
     }
   }
 ]
