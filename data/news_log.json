@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 17:23",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has announced a significant interest rate hike, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan to support businesses and individuals.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank has reduced the reserve requirement ratio, potentially easing credit conditions.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-30 19:03",
     "data": {
       "breaking_news": [
@@ -8890,6 +8842,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed raises interest rates again",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve announced another increase in the federal funds rate.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government unveiled a new plan to boost economic activity.",
+          "affected_sectors": [
+            "Finance",
+            "Industry"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's People's Bank of China cut the reserve requirement ratio, easing liquidity conditions.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政策動向により市場が揺れ動き中"
     }
   }
 ]
