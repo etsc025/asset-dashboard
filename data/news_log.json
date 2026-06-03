@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 14:17",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Interest Rates",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch amid stress tests",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Stress test results could impact EU bank solvency and liquidity.",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets mixed on US dollar strength",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across Asian stock indices due to US dollar gains.",
-          "affected_sectors": [
-            "Technology",
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU banks stress tests could impact solvency and liquidity"
-    }
-  },
-  {
     "timestamp": "2026-05-30 15:30",
     "data": {
       "breaking_news": [
@@ -8874,6 +8828,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧洲银行面临流动性压力"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's GDP growth forecast revised downward",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK economy expected to grow less than previously thought, dampening investor sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin price surges on FTX bankruptcy news",
+          "country": "USA",
+          "category": "Cryptocurrencies",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "FTX failure boosts Bitcoin as investors seek safe havens.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "英国经济预期增长放缓，投资者情绪受挫"
     }
   }
 ]
