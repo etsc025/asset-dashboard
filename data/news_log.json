@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 13:20",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Central Bank Actions",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, the largest hike in nearly three decades.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy growth forecast revised downward",
-          "country": "Europe",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Commission has adjusted its economic outlook for 2023, predicting slower growth compared to earlier projections.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI falls below 50",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The purchasing managers' index for China has dropped below the neutral level of 50, indicating a slowdown in economic activity.",
-          "affected_sectors": [
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike could lead to global financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-05-30 14:17",
     "data": {
       "breaking_news": [
@@ -8874,6 +8829,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on UK stocks"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity squeeze amid stress tests",
+          "country": "EU",
+          "category": "银行业务",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Stress tests on European banks are expected to reveal potential liquidity issues.",
+          "affected_sectors": [
+            "银行业务"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally as China's PMI exceeds expectations",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's manufacturing activity index exceeded forecasts, boosting Asian equities.",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲银行面临流动性压力"
     }
   }
 ]
