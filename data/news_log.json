@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "China",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，投资者担忧经济增长放缓。",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国10年期国债收益率小幅上升，对股市影响有限。",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率引发市场担忧"
-    }
-  },
-  {
     "timestamp": "2026-05-30 17:23",
     "data": {
       "breaking_news": [
@@ -8875,6 +8842,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "英国经济预期增长放缓，投资者情绪受挫"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic optimism",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen due to growing economic optimism.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank has cut interest rates, signaling a potential slowdown in economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步宽松政策"
     }
   }
 ]
