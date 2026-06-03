@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have decided to impose additional economic sanctions on Russia.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
-    }
-  },
-  {
     "timestamp": "2026-05-30 20:30",
     "data": {
       "breaking_news": [
@@ -8883,6 +8848,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动将影响市场走向"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "China's central bank cuts reserve requirements for banks",
+          "country": "中国",
+          "category": "中央銀行政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国の中央銀行が銀行の預金準備率を引き下げ、金融環境の改善への期待高まる。",
+          "affected_sectors": [
+            "銀行業"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "アメリカ",
+          "category": "政府関連",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国債利回り上昇はインフレ懸念から、長期金利の上昇を示唆。",
+          "affected_sectors": [
+            "金融市場"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "地政学リスク",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "EUがロシアに対する新たな制裁措置を発表、ローマンとの緊張関係の継続への警戒感。",
+          "affected_sectors": [
+            "エネルギー業界"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU's sanctions on Russia intensify tensions in the region."
     }
   }
 ]
