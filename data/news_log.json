@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks to meet on interest rates",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank may keep interest rates unchanged at its meeting today.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
-          "country": "Global",
-          "category": "Technology & Crypto",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin drops to $29,500 as investors remain cautious about regulatory risks.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central banks meeting today"
-    }
-  },
-  {
     "timestamp": "2026-05-29 19:00",
     "data": {
       "breaking_news": [
@@ -8884,6 +8839,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.98%, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB is expected to announce a rate hike, signaling tighter monetary policy amid economic growth concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as tech firms see a recovery, bolstered by government support measures.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行紧缩政策预期升温"
     }
   }
 ]
