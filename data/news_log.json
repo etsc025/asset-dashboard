@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank has announced a significant interest rate increase.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU financial markets react to Brexit uncertainty",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Financial markets in the EU are showing signs of volatility due to Brexit uncertainties.",
-          "affected_sectors": [
-            "Insurance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The Chinese central bank has reduced the required reserves for banks, indicating a potential easing of monetary policy.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainties continue to affect EU financial markets."
-    }
-  },
-  {
     "timestamp": "2026-05-30 20:00",
     "data": {
       "breaking_news": [
@@ -8886,6 +8838,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could lead to geopolitical instability."
+    }
+  },
+  {
+    "timestamp": "2026-06-04 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yields higher, potentially indicating a stronger economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost consumer spending",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's decision to cut interest rates aims to stimulate economic growth and reduce unemployment.",
+          "affected_sectors": [
+            "Consumer Goods"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirements for banks",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "This move is expected to ease credit conditions and boost lending, but has limited impact on the overall market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动将影响市场走向"
     }
   }
 ]
