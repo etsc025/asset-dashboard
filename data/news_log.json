@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in 22 years.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced a series of economic stimulus packages aimed at boosting the country's recovery.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on rate hike announcement"
-    }
-  },
-  {
     "timestamp": "2026-05-30 03:00",
     "data": {
       "breaking_news": [
@@ -8878,6 +8843,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但波动性增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-03 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国中央銀行が人民元の為替レートを調整",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国中央銀行が人民元の為替レートを調整、市場に中立的な影響",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国債利回り上昇、金価格下落",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国債利回り上昇による金価格下落、市場のリスクオフ",
+          "affected_sectors": [
+            "金"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "米国債利回り上昇で金価格下落"
     }
   }
 ]
