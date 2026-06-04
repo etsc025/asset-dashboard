@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in December",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve announced a significant increase in interest rates, setting the stage for further tightening.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward to 4.0% in Q3",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The latest economic data suggests a slowdown, but the government is expected to implement measures to stabilize the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK's Q3 GDP growth forecast revised upward to 1.5%",
-          "country": "英国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK economy is showing signs of recovery, with positive indicators pointing towards a stronger performance.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-31 05:30",
     "data": {
       "breaking_news": [
@@ -8876,6 +8829,64 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振经济增长预期"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市因财报季业绩强劲而上涨",
+          "country": "欧洲",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家欧洲公司发布强劲财报，推动股市上扬。",
+          "affected_sectors": [
+            "科技股",
+            "消费股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致投资者转向避险资产，美元汇率上涨。",
+          "affected_sectors": [
+            "黄金"
+          ]
+        },
+        {
+          "title": "日本央行维持货币政策不变",
+          "country": "日本",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "日本央行维持当前的宽松政策不变，市场反应平淡。",
+          "affected_sectors": [
+            "日元"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升，美元走强"
     }
   }
 ]
