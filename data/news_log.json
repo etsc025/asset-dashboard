@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes in Q4",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has signaled a potential interest rate hike later this year.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank hints at Q4 rate hikes"
-    }
-  },
-  {
     "timestamp": "2026-05-31 22:00",
     "data": {
       "breaking_news": [
@@ -8849,6 +8814,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and economic uncertainties loom."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股拖累，美股三大指数均下跌超过1%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议结束后，未改变关键利率和量化宽松计划。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市开盘前遭遇抛售潮"
     }
   }
 ]
