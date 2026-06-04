@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将有更多宽松政策出台。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后出现波动，科技股领跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股表现不佳影响，美股开盘后出现下跌趋势。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-05-31 18:30",
     "data": {
       "breaking_news": [
@@ -8848,6 +8815,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts may boost economy but inflation concerns persist."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Bond Yields Rise as Fed Policy Uncertainty Increases",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury bond yields have risen amid increased uncertainty surrounding Federal Reserve policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Economy Reports Mixed Results in Q3",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK economy showed mixed results in the third quarter, with both positive and negative indicators.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Stock Market Slides as US-China Trade Tensions Escalate",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Despite recent declines, China's stock market is expected to bounce back due to ongoing trade negotiations.",
+          "affected_sectors": [
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury bond yields rise amid Fed policy uncertainty"
     }
   }
 ]
