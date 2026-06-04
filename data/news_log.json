@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股抛售影响，美股开盘前跌幅超过2%。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持现有利率水平，市场反应平淡。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市波动加剧，投资者需谨慎。"
-    }
-  },
-  {
     "timestamp": "2026-05-31 03:30",
     "data": {
       "breaking_news": [
@@ -8898,6 +8852,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains support from major exchange, set for further rally",
+          "country": "USA",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US cryptocurrency exchange supports Bitcoin's price, indicating potential for continued rise.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields climb amid economic recovery concerns",
+          "country": "UK",
+          "category": "Bond Markets",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising bond yields reflect growing worries about economic recovery from the pandemic.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major exchange backs Bitcoin, could drive further gains."
     }
   }
 ]
