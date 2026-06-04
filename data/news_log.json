@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax cuts and spending increases aimed at stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global inflation concerns rise, prompting action from governments."
-    }
-  },
-  {
     "timestamp": "2026-05-31 00:30",
     "data": {
       "breaking_news": [
@@ -8904,6 +8869,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets rally on positive economic indicators"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid stress tests",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Stress test results could lead to capital requirements and impact bank valuations.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European banks under stress tests"
     }
   }
 ]
