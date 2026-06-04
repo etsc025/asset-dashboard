@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国股市开盘后继续上涨，主要由科技股推动。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示可能进一步降低利率以支持经济增长。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向将影响全球金融市场"
-    }
-  },
-  {
     "timestamp": "2026-05-31 21:30",
     "data": {
       "breaking_news": [
@@ -8846,6 +8801,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets edge higher on dovish central bank signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank officials expressed cautious optimism about potential interest rate hikes.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed after US earnings season",
+          "country": "Global",
+          "category": "Equities Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Stock indices have fluctuated following the release of US company earnings reports.",
+          "affected_sectors": [
+            "Finance",
+            "Investment"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic uncertainties loom."
     }
   }
 ]
