@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响股市和债市表现。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国10年期国债收益率上升至3.25%",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国十年期国债收益率突破关键水平，可能提振股市和风险资产表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行会议后声明表明将继续保持当前的低利率政策，对市场影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率"
-    }
-  },
-  {
     "timestamp": "2026-05-31 22:30",
     "data": {
       "breaking_news": [
@@ -8860,6 +8814,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions against Russia, potentially affecting energy and financial markets.",
+          "affected_sectors": [
+            "Energy",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth forecast revised upward",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Chinese government has adjusted its economic growth projection for the current year, indicating a stronger outlook.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策動向に注目"
     }
   }
 ]
