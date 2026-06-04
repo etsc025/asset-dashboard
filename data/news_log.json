@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new financial regulations to curb crypto risks",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union introduces measures to regulate cryptocurrencies and prevent market manipulation.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed as China's PMI hits 50.1",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance in Asian markets due to China's manufacturing activity index remaining stable.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU financial regulations aimed at crypto market"
-    }
-  },
-  {
     "timestamp": "2026-05-31 13:30",
     "data": {
       "breaking_news": [
@@ -8850,6 +8803,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield climbed to 3.25%, reflecting investors' growing concern over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank hints at rate hike",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) signaled a potential interest rate increase, signaling tighter monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge on supply concerns",
+          "country": "Global",
+          "category": "Energy Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Crude oil prices jumped 5% as fears of reduced global crude supplies grew.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and geopolitical risks loom"
     }
   }
 ]
