@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will enhance data privacy and security.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing credit conditions.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-05-31 15:30",
     "data": {
       "breaking_news": [
@@ -8846,6 +8800,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures amid economic uncertainty"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率小幅上升，市场反应平淡。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率：股市可能承压"
     }
   }
 ]
