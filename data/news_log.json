@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR)",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the RRR, providing more liquidity to banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy report shows mixed results",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU economy reported mixed results with growth in some sectors and challenges in others.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to economic instability."
-    }
-  },
-  {
     "timestamp": "2026-05-30 22:30",
     "data": {
       "breaking_news": [
@@ -8901,6 +8855,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策が経済活動に影響を与える可能性がある。"
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, signaling a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for security breaches",
+          "country": "EU",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union's financial watchdogs are investigating a major cryptocurrency exchange suspected of failing to protect user funds.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PM announces fiscal stimulus package amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Prime Minister Boris Johnson has unveiled a new fiscal stimulus plan aimed at bolstering the UK economy following recent market downturns.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Fiscal stimulus and regulatory actions could impact financial markets"
     }
   }
 ]
