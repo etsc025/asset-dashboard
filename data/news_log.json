@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 3.78%, reflecting concerns over persistent inflation.",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates amid economic uncertainty",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank raised its main refinancing rate to 3.25%, signaling a continued fight against inflation.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices surge on supply concerns",
-          "country": "Global",
-          "category": "Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Crude oil prices have increased significantly due to worries about potential disruptions in global supply chains.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation and geopolitical risks loom large, prompting further interest rate hikes."
-    }
-  },
-  {
     "timestamp": "2026-05-31 17:30",
     "data": {
       "breaking_news": [
@@ -8845,6 +8800,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需关注地缘政治风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank has decided to reduce interest rates in an attempt to stabilize the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed on tech sector news",
+          "country": "Global",
+          "category": "Market",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across major global stock indices with some gains and losses in tech sectors.",
+          "affected_sectors": [
+            "Stocks",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts may boost economy but inflation concerns persist."
     }
   }
 ]
