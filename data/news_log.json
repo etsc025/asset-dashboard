@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces interest rate hike",
-          "country": "USA",
-          "category": "Central Bank Actions",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has increased the federal funds rate by 0.75% in a move seen as tightening monetary policy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to consider interest rate hike",
-          "country": "EU",
-          "category": "Central Bank Actions",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to review its interest rate decisions in light of inflation concerns.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, markets cautious"
-    }
-  },
-  {
     "timestamp": "2026-05-31 17:00",
     "data": {
       "breaking_news": [
@@ -8831,6 +8798,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Chinese authorities have eased regulations, boosting Bitcoin prices."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将有更多宽松政策出台。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市行情",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果和微软等科技巨头强劲财报推动，美股三大指数集体高开。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多措施应对经济放缓，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需关注地缘政治风险"
     }
   }
 ]
