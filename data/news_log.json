@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-05-31 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank cuts interest rates, aiming to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market hits record high",
-          "country": "中国",
-          "category": "Stocks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's major stock indices reach new all-time highs amid government stimulus measures.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策利好提振市场，但通胀风险犹存。"
-    }
-  },
-  {
     "timestamp": "2026-05-31 23:30",
     "data": {
       "breaking_news": [
@@ -8863,6 +8815,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动作影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股市行情",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受全球经济担忧影响，美股开盘后大幅下挫。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧盟",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率水平，市场反应平淡。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
