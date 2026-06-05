@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank cuts interest rates in response to economic pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on policy support",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's major indices rise as the government announces new stimulus measures.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行同步降息，提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-01 13:00",
     "data": {
       "breaking_news": [
@@ -8835,6 +8787,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to rising inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yield increases.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance amid Brexit uncertainty",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Performance of European banks varies, reflecting Brexit uncertainties.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally as oil prices stabilize",
+          "country": "Asia",
+          "category": "Energy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Stabilization in oil prices boosts Asian stock markets.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainty weighs on European banks"
     }
   }
 ]
