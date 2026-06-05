@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息，人民币汇率走强",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，人民币汇率显著上涨，市场乐观预期增强。",
-          "affected_sectors": [
-            "金融服务业",
-            "出口导向型企业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮，纳斯达克指数下跌3%",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市开盘即遭遇抛售，纳斯达克指数大幅下跌3%，投资者情绪受挫。",
-          "affected_sectors": [
-            "科技股",
-            "金融服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上保持利率不变，市场对这一决定反应较为平静。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息提振人民币汇率"
-    }
-  },
-  {
     "timestamp": "2026-06-01 04:30",
     "data": {
       "breaking_news": [
@@ -8858,6 +8810,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市开盘，投资者需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率的上升引起市场关注，但未对整体市场造成重大影响。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
