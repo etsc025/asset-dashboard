@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches investigation into US tech giants antitrust practices",
-          "country": "EU",
-          "category": "Tech",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU has initiated an investigation into potential antitrust issues with major US technology companies.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces fiscal stimulus package amid economic downturn",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan to support the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU investigation into US tech giants"
-    }
-  },
-  {
     "timestamp": "2026-06-01 06:30",
     "data": {
       "breaking_news": [
@@ -8846,6 +8801,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，提振市场信心。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股开盘前遭遇抛售，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振信心"
     }
   }
 ]
