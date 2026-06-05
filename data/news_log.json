@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.65% amid rising inflation fears.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates by 25bps",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is set to increase its key rate by 0.25 percentage points.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on tech sector rebound",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as technology shares recover from recent declines.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks are tightening monetary policies to curb inflation."
-    }
-  },
-  {
     "timestamp": "2026-06-01 09:30",
     "data": {
       "breaking_news": [
@@ -8847,6 +8802,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rallied on news of interest rate hikes and fiscal measures."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预计将进一步刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现波动，科技股领跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股下跌影响，美股开盘后表现不佳。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑在下一次会议上加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管面临经济不确定性，但欧洲央行可能采取紧缩政策来控制通胀。",
+          "affected_sectors": [
+            "银行业",
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
