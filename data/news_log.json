@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，对股市构成利好消息",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，对股市构成利好消息。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%",
-          "country": "美国",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国科技股遭遇抛售潮，纳斯达克指数下跌3%，对市场情绪产生负面影响。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，欧元区股市波动不大",
-          "country": "欧洲",
-          "category": "经济政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，但市场反应平淡，未对欧元区股市造成显著影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-06-01 04:00",
     "data": {
       "breaking_news": [
@@ -8858,6 +8813,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调金融机构存款准备金率0.25个百分点",
+          "country": "中国",
+          "category": "货币政策调整",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低存款准备金率，市场预期将释放更多流动性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前，科技股遭遇抛售",
+          "country": "美国",
+          "category": "股票市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "在财报发布前，科技股表现不佳，投资者对盈利预期持谨慎态度。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行将公布利率决议，市场关注加息前景",
+          "country": "欧洲",
+          "category": "货币政策调整",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行即将宣布利率决定，市场预计可能保持不变，但对加息的预期仍存。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市开盘，投资者需密切关注"
     }
   }
 ]
