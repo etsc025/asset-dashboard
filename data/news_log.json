@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, indicating a strong stance against inflation.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The EU has imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike boosts market optimism"
-    }
-  },
-  {
     "timestamp": "2026-06-01 05:30",
     "data": {
       "breaking_news": [
@@ -8832,6 +8798,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国国债收益率上升，股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘即出现大幅下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管维持现有利率水平，欧洲央行表示如果需要将进一步降低利率以刺激经济增长。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市波动加剧，需谨慎投资"
     }
   }
 ]
