@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields drop to new lows, raising worries about economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see positive earnings despite Brexit uncertainty",
-          "country": "Europe",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive earnings reports from European banks offset Brexit uncertainties.",
-          "affected_sectors": [
-            "Banking",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainties weigh on European markets."
-    }
-  },
-  {
     "timestamp": "2026-06-01 17:00",
     "data": {
       "breaking_news": [
@@ -8803,6 +8768,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the coming months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan to boost economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU economy report shows mixed results",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The EU's latest economic data indicates some improvement but remains below pre-pandemic levels.",
+          "affected_sectors": [
+            "Finance",
+            "Agriculture"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed signals from major economies."
     }
   }
 ]
