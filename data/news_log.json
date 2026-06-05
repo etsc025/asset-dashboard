@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current interest rate levels in response to economic uncertainty.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed due to trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Markets in Asia show varied performance amid ongoing trade disputes.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors should remain cautious due to inflation risks."
-    }
-  },
-  {
     "timestamp": "2026-06-01 10:30",
     "data": {
       "breaking_news": [
@@ -8849,6 +8801,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Federal Reserve's interest rate hike could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK's Bank of England raises base rate by 0.5% as expected, aiming to curb rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirements",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Beijing reduces banks' reserve ratio, easing liquidity in the market.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on rate hikes and economic data"
     }
   }
 ]
