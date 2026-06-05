@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve announced a significant interest rate hike, likely impacting global financial markets.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will affect companies handling personal data, potentially requiring significant changes in business practices.",
-          "affected_sectors": [
-            "Technology",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face antitrust investigation",
-          "country": "China",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major Chinese tech firms are under scrutiny for potential anti-competitive practices, likely leading to regulatory changes.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to central bank actions."
-    }
-  },
-  {
     "timestamp": "2026-06-01 00:30",
     "data": {
       "breaking_news": [
@@ -8864,6 +8817,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and economic recovery signals provide support to markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has decided not to change its interest rate policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits 50.3, above the threshold of expansion and contraction",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Purchasing Managers' Index indicates China's economy is expanding.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with potential risks."
     }
   }
 ]
