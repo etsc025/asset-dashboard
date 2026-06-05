@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data privacy requirements for all member states.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face new antitrust investigations",
-          "country": "CHN",
-          "category": "Market Regulation",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major Chinese tech companies are under scrutiny from regulators, potentially impacting their market positions.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this year"
-    }
-  },
-  {
     "timestamp": "2026-06-01 02:00",
     "data": {
       "breaking_news": [
@@ -8869,6 +8823,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes could lead to higher inflation."
+    }
+  },
+  {
+    "timestamp": "2026-06-05 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European Central Bank suggests potential interest rate increases in response to rising economic pressures.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields edge up",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Globally, bond yields show minor upward movement without significant market reaction.",
+          "affected_sectors": [
+            "Finance",
+            "Investment"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with growing economic uncertainties."
     }
   }
 ]
