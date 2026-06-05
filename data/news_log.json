@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to increase interest rates in response to rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices rise due to supply concerns",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "OPEC+ fails to reach agreement on production cuts, pushing up crude oil prices.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global oil prices rise amid supply concerns"
-    }
-  },
-  {
     "timestamp": "2026-06-01 20:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8768,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB hints at December rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) has signaled its intention to raise interest rates, setting the stage for further monetary tightening.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices edge up amid geopolitical tensions",
+          "country": "GLOBAL",
+          "category": "Energy Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Oil prices have seen a slight increase due to ongoing geopolitical tensions, but the market remains cautious and stable.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom as inflation pressures persist."
     }
   }
 ]
