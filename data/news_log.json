@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续第三周上涨，纳斯达克指数创历史新高",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "连续上涨表明市场信心增强，投资者对经济前景持乐观态度。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变，但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持利率不变，但欧洲央行的信号表明未来可能采取宽松政策。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市继续上涨，经济复苏预期增强"
-    }
-  },
-  {
     "timestamp": "2026-06-01 13:30",
     "data": {
       "breaking_news": [
@@ -8834,6 +8786,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on European banks"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "Europe",
+          "category": "Financials",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed results from European banks for the third quarter of 2023.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China reduces reserve requirements, signaling potential monetary easing.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整风险加剧"
     }
   }
 ]
