@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will require companies to better protect user data, potentially impacting tech and financial sectors.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese central bank has reduced the reserve requirement ratio, providing more liquidity to banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場今日風險增加"
-    }
-  },
-  {
     "timestamp": "2026-06-01 08:00",
     "data": {
       "breaking_news": [
@@ -8847,6 +8801,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，提振股市信心",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策以刺激经济增长。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升反映了市场的乐观情绪和对经济复苏的信心，但同时也增加了投资者的避险需求。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步缩减购债规模",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行可能会在下次会议上讨论是否调整其量化宽松政策，这可能影响欧元区的经济复苏前景。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
     }
   }
 ]
