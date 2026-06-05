@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，利好股市",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场反应积极，预计对股市有利。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股遭遇抛售，纳斯达克指数下跌1.5%",
-          "country": "美国",
-          "category": "股票市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳和监管压力，美国科技股集体下跌，纳斯达克指数跌幅超过预期。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，欧元区经济前景不明朗",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上保持利率不变，但对欧元区经济增长的不确定性表示担忧。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技股抛售加剧，需谨慎投资"
-    }
-  },
-  {
     "timestamp": "2026-06-01 09:00",
     "data": {
       "breaking_news": [
@@ -8846,6 +8801,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-05 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced new fiscal measures aimed at supporting the economy and reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut its reserve requirement ratio, indicating a potential easing in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rallied on news of interest rate hikes and fiscal measures."
     }
   }
 ]
