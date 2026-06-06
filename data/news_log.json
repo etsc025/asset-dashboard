@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济增长和企业信心。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "在强劲的非农就业数据公布后，美股三大指数均录得正收益。科技板块继续引领市场走势。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在未来几个月内加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管近期经济数据表现强劲，但欧洲央行仍表示未来几个月可能不会加息以保持宽松政策。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-02 00:00",
     "data": {
       "breaking_news": [
@@ -8798,6 +8752,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield increases keep markets volatile."
+    }
+  },
+  {
+    "timestamp": "2026-06-06 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces job cuts in response to Brexit fallout",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "UK government announces 10,000 job cuts as Brexit continues to impact the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank lowers interest rates",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces reserve requirement ratio, easing monetary conditions.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces job cuts in response to Brexit fallout"
     }
   }
 ]
