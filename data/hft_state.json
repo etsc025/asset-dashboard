@@ -1,23 +1,23 @@
 {
   "alert": true,
-  "level": "HIGH",
+  "level": "CRITICAL",
   "reasons": [
-    "先物下落: ES=-0.7% NQ=-1.4%（注意）",
-    "NVDA: 価格振動大: 2.4%振れ・9回転換"
+    "VIX=21.5 (+39.7%) 極度の恐怖状態・全取引停止推奨",
+    "先物急落: ES=-2.6% NQ=-4.8%（現物への波及リスク高）"
   ],
-  "timestamp": "2026-06-05 22:10",
+  "timestamp": "2026-06-06 22:10",
   "vix": {
-    "vix_current": 15.85,
-    "vix_change": 2.92,
-    "level": "NORMAL",
-    "message": "VIX=15.9 (+2.9%) 正常範囲"
+    "vix_current": 21.51,
+    "vix_change": 39.68,
+    "level": "CRITICAL",
+    "message": "VIX=21.5 (+39.7%) 極度の恐怖状態・全取引停止推奨"
   },
   "futures": {
-    "es_change": -0.68,
-    "nq_change": -1.41,
-    "spy_price": 757.09,
-    "es_price": 7549.0,
-    "level": "HIGH",
-    "message": "先物下落: ES=-0.7% NQ=-1.4%（注意）"
+    "es_change": -2.64,
+    "nq_change": -4.79,
+    "spy_price": 737.55,
+    "es_price": 7400.5,
+    "level": "CRITICAL",
+    "message": "先物急落: ES=-2.6% NQ=-4.8%（現物への波及リスク高）"
   }
 }
