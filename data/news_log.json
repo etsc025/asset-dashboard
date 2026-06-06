@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3",
-          "country": "欧洲",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "第三季度欧洲银行表现参差不齐。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国央行下调存款准备金率，对市场影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-02 02:30",
     "data": {
       "breaking_news": [
@@ -8789,6 +8744,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "China's PMI below 50 points to slowing economy."
+    }
+  },
+  {
+    "timestamp": "2026-06-06 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to announce rate hike, boosting euro strength.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks underperforming amid regulatory concerns",
+          "country": "Global",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Investors are cautious about new regulations affecting tech companies.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank to raise interest rates, strengthening euro"
     }
   }
 ]
