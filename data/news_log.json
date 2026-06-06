@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid coronavirus pandemic",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US 10-year Treasury yield hits record low of 0.648% as investors seek safe-haven assets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new lockdown measures amid rising coronavirus cases",
-          "country": "UK",
-          "category": "Health & Economics",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK government implements stricter lockdown measures to curb virus spread, boosting healthcare sector.",
-          "affected_sectors": [
-            "Healthcare"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new lockdown measures"
-    }
-  },
-  {
     "timestamp": "2026-06-02 01:00",
     "data": {
       "breaking_news": [
@@ -8789,6 +8756,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "中央銀行政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国の中央銀行が預金準備率を引き下げる決定により、市場はリスクオン姿勢へと傾きつつある。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Fed to hike interest rates again this year",
+          "country": "アメリカ",
+          "category": "利上げ",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国連邦準備制度（Fed）は今年も利上げを予定しており、市場のリスクオン姿勢に拍車をかけている。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国の中央銀行の政策決定によりリスクオン傾向が強まる"
     }
   }
 ]
