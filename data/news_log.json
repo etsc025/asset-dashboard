@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year bond yield above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity issues",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts rate by 0.25% but warns of potential liquidity problems.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian currencies under pressure amid US dollar strength",
-          "country": "Asia",
-          "category": "Currencies",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Yen and won weaken against USD, affecting regional markets.",
-          "affected_sectors": [
-            "Finance",
-            "Trade"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Banks warn of liquidity issues in UK"
-    }
-  },
-  {
     "timestamp": "2026-06-02 18:00",
     "data": {
       "breaking_news": [
@@ -8759,6 +8712,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions and economic data releases continue to shape market movements."
+    }
+  },
+  {
+    "timestamp": "2026-06-07 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技巨头财报公布良好",
+          "country": "アメリカ",
+          "category": "企业财报",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "苹果、亚马逊等科技公司发布强劲财报，推动美股整体上涨。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市因地缘政治风险下跌",
+          "country": "ヨーロッパ",
+          "category": "市场波动",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对乌克兰局势的担忧，欧洲主要股指普遍下滑。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行行动将影响全球经济"
     }
   }
 ]
