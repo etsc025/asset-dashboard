@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in nearly three decades.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced additional economic stimulus measures aimed at stabilizing the economy and supporting businesses.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHINA",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global markets rally on Fed rate hike announcement"
-    }
-  },
-  {
     "timestamp": "2026-06-02 19:00",
     "data": {
       "breaking_news": [
@@ -8762,6 +8716,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "国际贸易紧张局势持续影响全球金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-06-07 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，市场反应积极。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前意外下跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "在开盘前，美股遭遇抛售，投资者情绪受到打击。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率水平，未有重大变动。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策利好金融市场"
     }
   }
 ]
