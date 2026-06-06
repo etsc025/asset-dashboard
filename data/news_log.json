@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic optimism",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.65%, reflecting growing economic optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures for inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government announced new fiscal measures aimed at reducing inflation, boosting investor confidence.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic indicators point to continued growth"
-    }
-  },
-  {
     "timestamp": "2026-06-02 02:00",
     "data": {
       "breaking_news": [
@@ -8776,6 +8741,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year, supporting economy."
+    }
+  },
+  {
+    "timestamp": "2026-06-06 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current rate unchanged, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI falls below 50",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Chinese manufacturing activity weakens, indicating a slowdown in economic growth.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "China's PMI below 50 points to slowing economy."
     }
   }
 ]
