@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, Treasury yields have risen amid concerns over persistent inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy shows mixed performance in Q3",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's third-quarter GDP growth was reported to be below expectations but not as bad as feared.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China announces stimulus package for property market",
-          "country": "中国",
-          "category": "Real Estate",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China has introduced a new stimulus package aimed at stabilizing the real estate sector.",
-          "affected_sectors": [
-            "Finance",
-            "Construction"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整不确定性增加"
-    }
-  },
-  {
     "timestamp": "2026-06-02 00:30",
     "data": {
       "breaking_news": [
@@ -8800,6 +8754,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces job cuts in response to Brexit fallout"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the upcoming meetings.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU member states have agreed to impose additional economic sanctions against Russia.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
     }
   }
 ]
