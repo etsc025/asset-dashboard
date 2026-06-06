@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市开盘前遭遇抛售潮，科技股领跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振信心"
-    }
-  },
-  {
     "timestamp": "2026-06-02 08:30",
     "data": {
       "breaking_news": [
@@ -8781,6 +8748,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns intensify, prompting yield increases in key markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-06 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid growing inflationary pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates next month",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to increase interest rates in the upcoming month.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank's rate hike next month could impact global financial markets."
     }
   }
 ]
