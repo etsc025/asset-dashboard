@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，提振市场信心，对股市和房地产市场有利。",
-          "affected_sectors": [
-            "股票市场",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技巨头裁员计划公布",
-          "country": "美国",
-          "category": "经济新闻",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国科技巨头计划大规模裁员，可能影响就业市场和投资者情绪。",
-          "affected_sectors": [
-            "科技行业",
-            "就业市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行会议后宣布维持现有利率不变，对金融市场影响有限。",
-          "affected_sectors": [
-            "债券市场",
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技巨头裁员计划公布，需关注后续影响"
-    }
-  },
-  {
     "timestamp": "2026-06-02 11:00",
     "data": {
       "breaking_news": [
@@ -8759,6 +8711,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期升温"
+    }
+  },
+  {
+    "timestamp": "2026-06-06 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府采取措施刺激经济增长，市场反应积极。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前大幅下跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘即遭遇抛售。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "市场预期已充分消化此消息，对股市影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济信心"
     }
   }
 ]
