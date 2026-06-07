@@ -2,22 +2,14 @@
   "alert": true,
   "level": "CRITICAL",
   "reasons": [
-    "VIX=21.5 (+39.7%) 極度の恐怖状態・全取引停止推奨",
-    "先物急落: ES=-2.6% NQ=-4.8%（現物への波及リスク高）"
+    "VIX=21.5 (+39.7%) 極度の恐怖状態・全取引停止推奨"
   ],
-  "timestamp": "2026-06-06 22:10",
+  "timestamp": "2026-06-07 22:10",
   "vix": {
     "vix_current": 21.51,
     "vix_change": 39.68,
     "level": "CRITICAL",
     "message": "VIX=21.5 (+39.7%) 極度の恐怖状態・全取引停止推奨"
   },
-  "futures": {
-    "es_change": -2.64,
-    "nq_change": -4.79,
-    "spy_price": 737.55,
-    "es_price": 7400.5,
-    "level": "CRITICAL",
-    "message": "先物急落: ES=-2.6% NQ=-4.8%（現物への波及リスク高）"
-  }
+  "futures": null
 }
