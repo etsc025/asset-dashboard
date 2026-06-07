@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Announce Interest Rate Hike Tomorrow",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布明天将加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Implement New Capital Requirements for Banks",
-          "country": "EU",
-          "category": "金融监管",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟将对银行实施新的资本要求，影响范围广泛。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动"
-    }
-  },
-  {
     "timestamp": "2026-06-03 13:30",
     "data": {
       "breaking_news": [
@@ -8769,6 +8735,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行行动引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting concerns about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK has decided to cut interest rates in an attempt to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank maintains status quo on monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The EU's main central bank has decided to maintain its current monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持一致，市场风险偏好提升"
     }
   }
 ]
