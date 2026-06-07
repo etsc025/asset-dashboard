@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have climbed above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes amid economic recovery",
-          "country": "Europe",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank policymakers are discussing potential interest rate increases to manage inflation as the region's economy shows signs of robust growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks under pressure amid regulatory scrutiny",
-          "country": "Global",
-          "category": "Tech Sector",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Regulatory bodies in several countries have issued new guidelines affecting major tech companies, leading to a decline in stock prices.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global regulators intensify scrutiny on tech sector stocks"
-    }
-  },
-  {
     "timestamp": "2026-06-03 08:30",
     "data": {
       "breaking_news": [
@@ -8782,6 +8737,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "China's economic growth forecast revised, market cautious"
+    }
+  },
+  {
+    "timestamp": "2026-06-07 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，预期将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不及预期，美国主要科技公司股价普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行在议息会议上决定保持当前的利率水平不变，对市场影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息预期提振股市"
     }
   }
 ]
