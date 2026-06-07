@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves first crypto ETF",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin's market sentiment.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid US economic data release",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "US economic indicators have shown strong growth, prompting a rise in global bond yields and increasing investor confidence.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global bond yields rising, watch for potential market correction."
-    }
-  },
-  {
     "timestamp": "2026-06-03 06:00",
     "data": {
       "breaking_news": [
@@ -8769,6 +8736,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by the US Federal Reserve"
+    }
+  },
+  {
+    "timestamp": "2026-06-07 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has decided to raise interest rates, indicating a potential economic slowdown.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK publishes Q3 GDP growth report",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's Q3 GDP growth is expected to be positive but not as strong as anticipated.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China releases PMI data for November",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "November's China's Purchasing Managers' Index (PMI) is stable, indicating a steady manufacturing sector.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain cautiously optimistic."
     }
   }
 ]
