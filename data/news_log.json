@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国：中央銀行が利上げを延期、株価上昇",
-          "country": "中国",
-          "category": "中央銀行政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国の中央銀行は、今年の利上げを延期することで市場を平静に保とうとしている。これにより、株価は上昇している。",
-          "affected_sectors": [
-            "金融",
-            "証券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "アメリカ：新規失業申請数減少、雇用者信頼度向上",
-          "country": "アメリカ",
-          "category": "雇用統計",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "最新の雇用統計によると、アメリカの新規失業申請数が減少し、雇用者の信頼感が高まっている。これにより、株価は上昇している。",
-          "affected_sectors": [
-            "金融",
-            "証券"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国中央銀行利上げ延期で株価上昇"
-    }
-  },
-  {
     "timestamp": "2026-06-03 21:30",
     "data": {
       "breaking_news": [
@@ -8741,6 +8706,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "US Treasury yields fell to a new record low, reflecting growing economic worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to increase budget spending for green initiatives",
+          "country": "EU",
+          "category": "Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The EU plans to boost its budget by 10% for environmental projects, signaling a shift towards sustainability.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU's green initiative boosts market optimism"
     }
   }
 ]
