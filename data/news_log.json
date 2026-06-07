@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, affecting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates in response to economic pressures.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank maintains status quo on monetary policy",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank keeps interest rates unchanged, no immediate impact.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but inflation concerns persist."
-    }
-  },
-  {
     "timestamp": "2026-06-03 11:00",
     "data": {
       "breaking_news": [
@@ -8786,6 +8738,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK fiscal measures could boost economy but risks remain."
+    }
+  },
+  {
+    "timestamp": "2026-06-07 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国の中央銀行が人民元の為替レートを調整",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国の中央銀行が人民元の為替レートを調整、市場は静観する展開",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国債利回りが上昇し、金価格下落",
+          "country": "アメリカ",
+          "category": "債券市場",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国債利回りの上昇により金価格が下落、投資家はリスク回避姿勢を強める",
+          "affected_sectors": [
+            "金"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国債利回りの上昇で市場警戒"
     }
   }
 ]
