@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears intensify",
-          "country": "USA",
-          "category": "Yield Curve",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided not to change its current interest rate levels.",
-          "affected_sectors": [
-            "Finance Sector"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed as China releases economic data",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from Chinese economic reports have affected Asian stock markets.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-06-03 07:00",
     "data": {
       "breaking_news": [
@@ -8782,6 +8737,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-06-07 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global inflation rate hits 8.1% in Q4 2022",
+          "country": "全球",
+          "category": "经济数据",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "四季度全球通胀率升至8.1%，创历史新高，投资者担忧加剧。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement new carbon tax on January 1, 2023",
+          "country": "EU",
+          "category": "环保政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟将于2023年1月1日实施新的碳税，对经济产生影响。",
+          "affected_sectors": [
+            "能源行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球通胀压力持续上升"
     }
   }
 ]
