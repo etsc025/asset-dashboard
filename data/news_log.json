@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US central bank is set to increase interest rates, potentially impacting global financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European Union imposes additional economic sanctions on Russia, likely to affect energy and commodity prices.",
-          "affected_sectors": [
-            "Energy",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese government adjusts its economic outlook, potentially influencing domestic and international investments.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-03 19:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8721,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市开盘前出现调整风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 05:52",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "米国経済成長率上方修正",
+          "country": "アメリカ",
+          "category": "経済指標",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "米国経済成長率が予想以上に上方修正された。",
+          "affected_sectors": [
+            "金融",
+            "株式"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EUと中国の貿易協定",
+          "country": "EUと中国",
+          "category": "貿易",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EUと中国が新たな貿易協定を結んだ。",
+          "affected_sectors": [
+            "貿易",
+            "経済"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国経済成長率上方修正"
     }
   }
 ]
