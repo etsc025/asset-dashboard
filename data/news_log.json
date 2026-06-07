@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK's GDP growth forecast revised downwards",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK's economic outlook is facing challenges as the government announces a new round of austerity measures.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The cryptocurrency market is experiencing volatility due to ongoing regulatory scrutiny.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Governments worldwide are implementing fiscal measures to stabilize economies."
-    }
-  },
-  {
     "timestamp": "2026-06-03 20:00",
     "data": {
       "breaking_news": [
@@ -8756,6 +8708,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields higher, markets cautiously optimistic."
+    }
+  },
+  {
+    "timestamp": "2026-06-08 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，预期将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行上调关键利率至历史高位",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "为了应对通胀压力，欧洲央行宣布将主要再融资利率提高0.5个百分点至17年来的最高水平。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市遭遇连续下跌，投资者情绪低迷",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于科技股持续走低，纳斯达克综合指数创下自2022年1月以来的最大单日跌幅。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_OFF",
+      "top_alert": "欧洲央行加息将增加全球市场波动性"
     }
   }
 ]
