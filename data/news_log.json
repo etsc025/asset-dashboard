@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin's price surges as central banks consider interest rate hikes.",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US economic indicators suggest potential interest rate hikes, impacting Bitcoin prices positively.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid inflation concerns.",
-          "country": "GLOBAL",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Rising bond yields are seen as a negative for equities and commodities.",
-          "affected_sectors": [
-            "Finance",
-            "Energy",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Central banks to meet next week amid economic uncertainty.",
-          "country": "GLOBAL",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central bank meetings are expected to provide insights into monetary policy decisions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and economic uncertainty loom large."
-    }
-  },
-  {
     "timestamp": "2026-06-03 17:30",
     "data": {
       "breaking_news": [
@@ -8757,6 +8710,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将在下月的会议上将利率上调75个基点，引发市场关注。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws in 2023",
+          "country": "欧洲联盟",
+          "category": "法规变化",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟将在2023年实施更严格的个人数据保护法律，预计将对科技行业产生影响。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge as OPEC+ announces supply cuts",
+          "country": "世界",
+          "category": "商品价格波动",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+宣布减产消息导致石油价格上涨，市场担忧供应紧张。",
+          "affected_sectors": [
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统将上调利率"
     }
   }
 ]
