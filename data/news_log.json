@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后小幅下跌，科技股领跌",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘后出现短暂回调。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-06-03 03:00",
     "data": {
       "breaking_news": [
@@ -8759,6 +8725,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "The EU's investigation into US tech giants could lead to significant regulatory changes."
+    }
+  },
+  {
+    "timestamp": "2026-06-07 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均表现积极。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季强劲表现而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指连续多日上涨，得益于多家大型公司发布的强劲财报。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "欧洲央行表示，尽管当前经济状况良好，但仍需谨慎评估未来加息的可能性。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
