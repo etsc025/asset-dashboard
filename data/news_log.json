@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Eurozone's ECB raises key rate by 0.5%, citing inflation risks.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy report shows mixed results",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK GDP growth slightly below expectations, retail sales rise.",
-          "affected_sectors": [
-            "Retail",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global inflation concerns intensify"
-    }
-  },
-  {
     "timestamp": "2026-06-03 12:30",
     "data": {
       "breaking_news": [
@@ -8772,6 +8724,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-07 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘即遭遇抛售，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振市场信心"
     }
   }
 ]
