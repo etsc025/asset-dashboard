@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK's GDP growth forecast revised downward",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK economy expected to grow less than previously thought, dampening investor sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin price surges on FTX bankruptcy news",
-          "country": "USA",
-          "category": "Cryptocurrencies",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "FTX failure boosts Bitcoin as investors seek safe havens.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "英国经济预期增长放缓，投资者情绪受挫"
-    }
-  },
-  {
     "timestamp": "2026-06-04 06:00",
     "data": {
       "breaking_news": [
@@ -8762,6 +8715,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces tax cuts and public spending increases to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The ECB suggests a potential interest rate increase, signaling tighter monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK government's fiscal measures could boost economy but risks inflation"
     }
   }
 ]
