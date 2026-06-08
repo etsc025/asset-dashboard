@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity squeeze amid stress tests",
-          "country": "EU",
-          "category": "银行业务",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Stress tests on European banks are expected to reveal potential liquidity issues.",
-          "affected_sectors": [
-            "银行业务"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally as China's PMI exceeds expectations",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's manufacturing activity index exceeded forecasts, boosting Asian equities.",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲银行面临流动性压力"
-    }
-  },
-  {
     "timestamp": "2026-06-04 05:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8729,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks meeting today could set the tone for global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-09 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者担忧通胀风险",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，引发对通胀的担忧，影响市场情绪。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
