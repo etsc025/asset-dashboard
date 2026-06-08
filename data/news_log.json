@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields edge up as ECB signals rate hikes",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟债券收益率小幅上升，因欧洲央行暗示将加息。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK house prices fall amid Brexit uncertainty",
-          "country": "英国",
-          "category": "房地产",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "英国房价下跌，受脱欧不确定性影响。",
-          "affected_sectors": [
-            "房地产"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-04 09:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8723,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Fed hikes set to impact global financial markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股开盘前遭遇抛售，科技股领跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行考虑加息，缓解市场对经济衰退的担忧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市开盘前遭遇抛售潮"
     }
   }
 ]
