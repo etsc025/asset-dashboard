@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike amid rising prices",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England has raised the base rate by 0.25%, signaling continued efforts to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU warns on rising energy prices",
-          "country": "EU",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "EU leaders stress the need for increased investment in renewable energy sources amid soaring oil and gas prices.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, investors cautious"
-    }
-  },
-  {
     "timestamp": "2026-06-04 01:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8720,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策可能对全球股市产生积极影响"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face capital adequacy review",
+          "country": "Europe",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU regulators will assess the capital strength of major European banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces reserves to support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks adjusting monetary policies"
     }
   }
 ]
