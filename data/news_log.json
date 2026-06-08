@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行が人民元の為替レートを調整、市場に中立的な影響",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国債利回り上昇、金価格下落",
-          "country": "アメリカ",
-          "category": "利率動向",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回り上昇による金価格下落、市場のリスクオフ",
-          "affected_sectors": [
-            "金"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "米国債利回り上昇で金価格下落"
-    }
-  },
-  {
     "timestamp": "2026-06-03 23:30",
     "data": {
       "breaking_news": [
@@ -8755,6 +8722,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新規財政措置によりインフレ率を抑えるため、英国が新たな政策を発表"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as SEC approves Bitcoin ETF",
+          "country": "USA",
+          "category": "Financial Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Securities and Exchange Commission (SEC) has approved the first Bitcoin ETF, boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising global bond yields reflect investors' growing concern over rising inflation rates.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central banks consider rate hikes to curb inflation",
+          "country": "GLOBAL",
+          "category": "Financial Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH DEPENDENT ON INFLATION DEVELOPMENTS",
+          "summary": "Central banks are considering interest rate increases to combat inflation, which could impact global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise amid inflation concerns"
     }
   }
 ]
