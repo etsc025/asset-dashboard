@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前出现波动",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国主要股指在开盘前小幅波动，投资者情绪谨慎。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持当前利率水平不变，市场反应平淡。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-06-04 01:30",
     "data": {
       "breaking_news": [
@@ -8765,6 +8717,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks adjusting monetary policies"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound weakens against USD amid Brexit uncertainty",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Brexit negotiations continue to weigh on UK currency markets, with GBP/USD below 1.20.",
+          "affected_sectors": [
+            "Finance",
+            "Trade"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Central Bank of China reduces reserve requirements to boost lending and economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit negotiations continue, Pound weakens against USD"
     }
   }
 ]
