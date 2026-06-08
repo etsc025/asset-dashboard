@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike of 75bps",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase since 1994.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to announce rate hike",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to raise interest rates, potentially affecting the Eurozone economy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global: Oil prices surge amid geopolitical tensions",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Oil prices have risen sharply due to increased geopolitical risks in key oil-producing regions.",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and geopolitical tensions could lead to market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-04 14:00",
     "data": {
       "breaking_news": [
@@ -8779,6 +8731,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to consider rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场乐观反应",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布将降低贷款利率，提振市场信心，预计今日股市上涨。",
+          "affected_sectors": [
+            "银行业",
+            "资本市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，对股市和房地产市场造成压力，但影响有限。",
+          "affected_sectors": [
+            "房地产市场",
+            "资本市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策，市场关注点转移",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行可能采取更多措施以应对经济挑战，但具体细节尚未公布。",
+          "affected_sectors": [
+            "银行业",
+            "资本市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策变动影响金融市场"
     }
   }
 ]
