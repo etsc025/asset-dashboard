@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.95% as investors brace for higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to raise rates by 25bps",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB's decision could impact eurozone economy and financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB to raise rates, US Treasury yields rise"
-    }
-  },
-  {
     "timestamp": "2026-06-04 04:00",
     "data": {
       "breaking_news": [
@@ -8771,6 +8738,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "米国債利回り上昇、金価格下落のリスク"
+    }
+  },
+  {
+    "timestamp": "2026-06-08 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，人民币承压",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响人民币汇率和股市表现。",
+          "affected_sectors": [
+            "金融",
+            "贸易"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，美元指数上涨，对新兴市场造成压力。",
+          "affected_sectors": [
+            "全球股市",
+            "新兴市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行动作引发人民币汇率波动风险"
     }
   }
 ]
