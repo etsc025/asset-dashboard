@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Rise as Inflation Concerns Persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose to 3.85%, reflecting ongoing concerns about inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank Maintains Interest Rates at Record Low",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank kept its interest rates unchanged, maintaining them at record lows to support the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Stock Market Slips as Brexit Uncertainty Persists",
-          "country": "UK",
-          "category": "Stock Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK stock market fell slightly due to lingering Brexit uncertainties, but showed signs of stabilizing.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainty weighs on UK stocks"
-    }
-  },
-  {
     "timestamp": "2026-06-04 05:00",
     "data": {
       "breaking_news": [
@@ -8773,6 +8728,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-08 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Rate Hikes Expected",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting the USD and global markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Stocks Close Higher Amid Positive Earnings Reports",
+          "country": "EUROPE",
+          "category": "Stock Market",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive earnings reports from major European companies have pushed stock indices higher in recent sessions.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian Markets Mixed After China's PMI Data Released",
+          "country": "ASIA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed economic data from China has led to a range-bound performance in Asian markets.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks meeting today could set the tone for global financial markets."
     }
   }
 ]
