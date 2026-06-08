@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, raising worries about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England raises the base rate to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate hike could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-04 02:30",
     "data": {
       "breaking_news": [
@@ -8777,6 +8742,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation fears persist, markets cautious."
+    }
+  },
+  {
+    "timestamp": "2026-06-08 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布将贷款基准利率下调0.25个百分点，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受多家大型科技公司业绩超出预期影响，美股今日普遍上扬。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管如此，欧洲央行仍表示将在未来几个月内密切关注通胀数据，决定是否采取行动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行政策变动风险增加"
     }
   }
 ]
