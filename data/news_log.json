@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid stress tests",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Stress test results could lead to capital requirements and impact bank valuations.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "European banks under stress tests"
-    }
-  },
-  {
     "timestamp": "2026-06-04 12:30",
     "data": {
       "breaking_news": [
@@ -8761,6 +8728,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要经济体政策调整带来不确定性"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布将降低贷款利率，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌2.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管压力，美国主要科技公司股价普遍下滑，纳斯达克指数跌幅超过2.5%。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在年底前加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管有迹象显示欧元区经济复苏，但欧洲央行仍有可能在年底采取行动提高利率来应对高企的通货膨胀率。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
