@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed raises interest rates again",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve announced another increase in the federal funds rate.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government unveiled a new plan to boost economic activity.",
-          "affected_sectors": [
-            "Finance",
-            "Industry"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's People's Bank of China cut the reserve requirement ratio, easing liquidity conditions.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策動向により市場が揺れ動き中"
-    }
-  },
-  {
     "timestamp": "2026-06-04 07:00",
     "data": {
       "breaking_news": [
@@ -8760,6 +8714,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，共同应对通胀压力"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，利好股市和房地产市场",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预计将提振股市和房地产市场表现。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，对科技股构成压力",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率的上升可能抑制科技股的表现，投资者需关注相关风险。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示未来加息可能性增加",
+          "country": "欧盟成员国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH未知",
+          "summary": "欧洲央行暗示未来可能采取更紧缩的货币政策，对股市和债券市场产生影响。",
+          "affected_sectors": [
+            "金融",
+            "债券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，请密切关注"
     }
   }
 ]
