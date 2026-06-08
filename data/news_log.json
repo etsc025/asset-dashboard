@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic optimism",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen due to growing economic optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China's central bank has cut interest rates, signaling a potential slowdown in economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行同步宽松政策"
-    }
-  },
-  {
     "timestamp": "2026-06-04 06:30",
     "data": {
       "breaking_news": [
@@ -8761,6 +8713,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK government's fiscal measures could boost economy but risks inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces interest rate hike for the fourth time this year",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises rates to combat rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI falls below 50 in May, signaling slowdown",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "China's manufacturing sector growth slows down in May.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，共同应对通胀压力"
     }
   }
 ]
