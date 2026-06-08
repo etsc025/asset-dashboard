@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, potentially indicating a stronger economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost consumer spending",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's decision to cut interest rates aims to stimulate economic growth and reduce unemployment.",
-          "affected_sectors": [
-            "Consumer Goods"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirements for banks",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "This move is expected to ease credit conditions and boost lending, but has limited impact on the overall market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动将影响市场走向"
-    }
-  },
-  {
     "timestamp": "2026-06-04 08:00",
     "data": {
       "breaking_news": [
@@ -8763,6 +8718,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策，股市上涨"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new financial regulations",
+          "country": "EU",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union introduces stricter financial rules to combat money laundering.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains momentum",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise on hopes of economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU launches new financial regulations"
     }
   }
 ]
