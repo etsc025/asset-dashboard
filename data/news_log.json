@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.25% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank (ECB) hinted at a potential interest rate hike, signaling tighter monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices rise on supply concerns",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Oil prices climbed as fears of reduced global crude supplies grew amid geopolitical tensions.",
-          "affected_sectors": [
-            "Oil & Gas",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and supply concerns weigh on markets."
-    }
-  },
-  {
     "timestamp": "2026-06-04 03:30",
     "data": {
       "breaking_news": [
@@ -8785,6 +8737,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-06-08 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国中央銀行が人民元レートを微減",
+          "country": "中国",
+          "category": "政策決定",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国中央銀行が人民元レートを微減。市場は落ち着く兆し。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "米国債利回り上昇、金価格下落",
+          "country": "アメリカ",
+          "category": "市場動向",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国債利回り上昇で金価格が下落。投資家のリスク選択に影響。",
+          "affected_sectors": [
+            "金",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "米国債利回り上昇、金価格下落のリスク"
     }
   }
 ]
