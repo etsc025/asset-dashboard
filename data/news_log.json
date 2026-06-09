@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank keeps interest rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided not to change its interest rate policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI hits 50.3, above the threshold of expansion and contraction",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Purchasing Managers' Index indicates China's economy is expanding.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with potential risks."
-    }
-  },
-  {
     "timestamp": "2026-06-05 11:30",
     "data": {
       "breaking_news": [
@@ -8732,6 +8687,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike imminent, tech stocks rally"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市连续两天上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指连续两天上涨，投资者情绪乐观。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率：警惕潜在的经济影响"
     }
   }
 ]
