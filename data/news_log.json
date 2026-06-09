@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Interest Rates & Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased, signaling a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures amid economic uncertainty",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has unveiled plans to boost the economy, but these measures are expected to add to existing financial market volatility.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches investigation into tech giants' antitrust practices",
-          "country": "EU",
-          "category": "Regulatory Developments",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Commission has initiated an inquiry into potential anticompetitive behavior by major technology companies, which could impact market dynamics.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation and regulatory concerns."
-    }
-  },
-  {
     "timestamp": "2026-06-05 02:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8730,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, investors cautious."
+    }
+  },
+  {
+    "timestamp": "2026-06-09 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current interest rates at 0%, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions could impact global financial markets."
     }
   }
 ]
