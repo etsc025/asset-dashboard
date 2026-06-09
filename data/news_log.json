@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业信心。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股下跌影响，美股开盘前出现抛售潮。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以对抗通胀压力",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "尽管面临经济放缓风险，欧洲央行仍可能采取更多紧缩措施来控制通胀。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振经济增长预期"
-    }
-  },
-  {
     "timestamp": "2026-06-04 17:00",
     "data": {
       "breaking_news": [
@@ -8787,6 +8740,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，投资者需谨慎。"
+    }
+  },
+  {
+    "timestamp": "2026-06-09 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, potentially impacting economic policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank may review interest rates after strong GDP growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed today",
+          "country": "global",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "US stocks rise, while European and Asian indices show gains and losses.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets mixed today: US up, Europe down."
     }
   }
 ]
