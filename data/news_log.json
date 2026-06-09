@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对市场情绪影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，刺激股票市场反弹。",
-          "affected_sectors": [
-            "金融业",
-            "房地产业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布降息，欧元区股市上涨",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行降息预期推动股市上扬。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动作影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-06-05 10:00",
     "data": {
       "breaking_news": [
@@ -8751,6 +8704,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainties weigh on European banks"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin Price Soars as Central Banks Consider Interest Rate Hikes",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are considering interest rate hikes, causing Bitcoin price to soar.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Launches Investigation into Apple's Data Practices",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has launched an investigation into Apple’s data practices, potentially affecting the tech sector.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China Tightens Credit Lending Standards Amid Economic Concerns",
+          "country": "China",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China tightens credit lending standards amid economic concerns, supporting stock markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks considering interest rate hikes"
     }
   }
 ]
