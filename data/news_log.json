@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions against Russia, potentially affecting energy and financial markets.",
-          "affected_sectors": [
-            "Energy",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised upward",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Chinese government has adjusted its economic growth projection for the current year, indicating a stronger outlook.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策動向に注目"
-    }
-  },
-  {
     "timestamp": "2026-06-05 09:30",
     "data": {
       "breaking_news": [
@@ -8750,6 +8703,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市开盘前出现技术性抛售"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance amid Brexit uncertainty",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Performance of European banks varies with some experiencing losses due to Brexit uncertainties.",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally as China's economic data improves",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's positive economic indicators have boosted Asian equity markets.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainties weigh on European banks"
     }
   }
 ]
