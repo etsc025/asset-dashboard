@@ -1,63 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市因财报季业绩强劲而上涨",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家欧洲公司发布强劲财报，推动股市上扬。",
-          "affected_sectors": [
-            "科技股",
-            "消费股"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致投资者转向避险资产，美元汇率上涨。",
-          "affected_sectors": [
-            "黄金"
-          ]
-        },
-        {
-          "title": "日本央行维持货币政策不变",
-          "country": "日本",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "日本央行维持当前的宽松政策不变，市场反应平淡。",
-          "affected_sectors": [
-            "日元"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，美元走强"
-    }
-  },
-  {
     "timestamp": "2026-06-04 17:30",
     "data": {
       "breaking_news": [
@@ -8788,6 +8730,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets mixed today: US up, Europe down."
+    }
+  },
+  {
+    "timestamp": "2026-06-09 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Government introduces tax hikes and spending cuts to address rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns intensify, markets rally."
     }
   }
 ]
