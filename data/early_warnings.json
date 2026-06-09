@@ -1,68 +1,6 @@
 [
   {
     "timestamp": "2026-05-24 22:00",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-19",
-          "filer": [
-            "CANTOR FITZGERALD, L. P.  (CIK 0001024896)",
-            "CF GROUP MANAGEMENT INC  (CIK 0001251145)",
-            "Lutnick Brandon  (CIK 0002048880)",
-            "Cantor EP Holdings III, LLC  (CIK 0002034272)",
-            "Cantor Equity Partners III, Inc.  (CIK 0002034268)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-22",
-          "filer": [
-            "HOEWELER ROBERT E  (CIK 0001008291)",
-            "CF BANKSHARES INC.  (CIK 0001070680)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-24 22:00",
-    "ticker": "CF",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.34（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.34,
-      "pc_ratio_oi": 0.64,
-      "total_put_vol": 1099,
-      "total_call_vol": 3205
-    }
-  },
-  {
-    "timestamp": "2026-05-24 22:00",
-    "ticker": "AKAM",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-20",
-          "filer": [
-            "HESSE DANIEL  (CIK 0001234998)",
-            "AKAMAI TECHNOLOGIES INC  (CIK 0001086222)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-24 22:00",
     "ticker": "AKAM",
     "type": "Put/Call比率異常（下落警戒）",
     "level": "HIGH",
@@ -4289,6 +4227,121 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-06-09 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-02",
+          "filer": [
+            "Kawaguchi Masao  (CIK 0002122571)",
+            "HONDA MOTOR CO LTD  (CIK 0000715153)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-02",
+          "filer": [
+            "Schutt Aaron Michael  (CIK 0001761053)",
+            "NORTHRIM BANCORP INC  (CIK 0001163370)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-02",
+          "filer": [
+            "Cox Andrew  (CIK 0002070719)",
+            "FORRESTER RESEARCH, INC.  (CIK 0001023313)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-02",
+          "filer": [
+            "Alvarez-Demalde Francisco  (CIK 0002104075)",
+            "Globant S.A.  (CIK 0001557860)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-02",
+          "filer": [
+            "Smith LeAnn B  (CIK 0001955547)",
+            "MCKESSON CORP  (CIK 0000927653)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-09 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-05",
+          "filer": [
+            "Rex Anne G  (CIK 0001538751)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-03",
+          "filer": [
+            "Muller Frank L.  (CIK 0001807551)",
+            "California BanCorp \\ CA  (CIK 0001795815)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Kumar Neil  (CIK 0001742485)",
+            "BridgeBio Pharma, Inc.  (CIK 0001743881)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-03",
+          "filer": [
+            "Mcconnell Jill G.  (CIK 0001979544)",
+            "Fortrea Holdings Inc.  (CIK 0001965040)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-03",
+          "filer": [
+            "Morais Mark A.  (CIK 0001980205)",
+            "Fortrea Holdings Inc.  (CIK 0001965040)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-09 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.46（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.46,
+      "pc_ratio_oi": 1.39,
+      "total_put_vol": 397,
+      "total_call_vol": 866
     }
   }
 ]
