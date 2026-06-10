@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低存款准备金率，利好股市和债市",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低存款准备金率，利好股市和债市。",
-          "affected_sectors": [
-            "金融服务业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，市场波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，市场波动加剧，但整体仍处于可控范围内。",
-          "affected_sectors": [
-            "金融服务业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，欧元区股市小幅下跌",
-          "country": "欧洲",
-          "category": "货币政策与金融市场动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，但市场对经济复苏的预期有所下降。",
-          "affected_sectors": [
-            "金融服务业",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市面临波动风险"
-    }
-  },
-  {
     "timestamp": "2026-06-06 15:30",
     "data": {
       "breaking_news": [
@@ -8744,6 +8696,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with mixed signals."
+    }
+  },
+  {
+    "timestamp": "2026-06-11 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, a significant move in monetary tightening.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is introducing new regulations aimed at enhancing data privacy and security.",
+          "affected_sectors": [
+            "Technology",
+            "Insurance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike by the US Fed to 3.75-4%"
     }
   }
 ]
