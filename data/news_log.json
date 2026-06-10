@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new fiscal measures aimed at supporting the economy and reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut its reserve requirement ratio, indicating a potential easing in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rallied on news of interest rate hikes and fiscal measures."
-    }
-  },
-  {
     "timestamp": "2026-06-05 20:00",
     "data": {
       "breaking_news": [
@@ -8739,6 +8693,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指连续多日上涨，得益于公司业绩普遍超出预期。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松货币政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行表示将密切关注经济数据，并可能采取更多措施来刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市因财报季表现强劲而上涨"
     }
   }
 ]
