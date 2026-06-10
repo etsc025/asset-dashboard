@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates hike to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "UK's Bank of England raises base rate by 0.5% as expected, aiming to curb rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirements",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Beijing reduces banks' reserve ratio, easing liquidity in the market.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on rate hikes and economic data"
-    }
-  },
-  {
     "timestamp": "2026-06-05 22:30",
     "data": {
       "breaking_news": [
@@ -8741,6 +8693,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行利率决议临近，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic optimism",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing economic optimism.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces additional measures to support economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU sets ambitious climate goals for 2050",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "European Union commits to carbon neutrality by 2050, but faces challenges.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package for economic support"
     }
   }
 ]
