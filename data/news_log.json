@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank (ECB) has signaled its intention to raise interest rates, setting the stage for further monetary tightening.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices edge up amid geopolitical tensions",
-          "country": "GLOBAL",
-          "category": "Energy Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices have seen a slight increase due to ongoing geopolitical tensions, but the market remains cautious and stable.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as inflation pressures persist."
-    }
-  },
-  {
     "timestamp": "2026-06-06 09:00",
     "data": {
       "breaking_news": [
@@ -8746,6 +8701,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on ECB hints of rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the upcoming meetings.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia following its invasion of Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
     }
   }
 ]
