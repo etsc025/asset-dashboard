@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank cuts interest rates, aiming to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global stock markets mixed due to mixed signals",
-          "country": "Global",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Stock indices in various countries show varying performance as investors remain cautious.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts and yield increases keep markets volatile."
-    }
-  },
-  {
     "timestamp": "2026-06-06 11:30",
     "data": {
       "breaking_news": [
@@ -8751,6 +8705,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, global markets under pressure."
+    }
+  },
+  {
+    "timestamp": "2026-06-11 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率继续攀升，对股市影响中等。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，市场波动风险增加"
     }
   }
 ]
