@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the upcoming meetings.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU member states have agreed to impose additional economic sanctions against Russia.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-06-06 12:30",
     "data": {
       "breaking_news": [
@@ -8738,6 +8703,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank cut interest rates: ECB"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，引发市场波动",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，导致股市下跌和人民币汇率走低。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者信心受挫",
+          "country": "美国",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率的上升引发了市场对经济增长放缓的担忧，导致股市下跌。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行调整可能加剧全球金融市场波动"
     }
   }
 ]
