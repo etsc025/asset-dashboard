@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘前大幅下跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行在政策会议上保持利率不变，市场反应平缓。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技股面临压力"
-    }
-  },
-  {
     "timestamp": "2026-06-06 15:00",
     "data": {
       "breaking_news": [
@@ -8743,6 +8698,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q2 earnings",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance from major European banks could impact market sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates to remain unchanged for now",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "UK's Monetary Policy Committee keeps interest rate at 1.75% as expected.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with mixed signals."
     }
   }
 ]
