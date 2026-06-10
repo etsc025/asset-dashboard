@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields rose to a new high of 3.87%, reflecting ongoing concerns about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut as economy weakens",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Bank of England has cut its key interest rate to 1.5%, signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, easing liquidity in the banking system.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-05 18:30",
     "data": {
       "breaking_news": [
@@ -8738,6 +8692,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市因财报季表现强劲而上涨"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high of 3.98% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid stress tests",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Major European banks are facing a liquidity squeeze ahead of upcoming stress tests, raising concerns about their financial health.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin falls below $30K amid regulatory uncertainty",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price drops to $29,850 as investors remain cautious due to ongoing regulatory scrutiny.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major European banks facing liquidity issues ahead of stress tests"
     }
   }
 ]
