@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，刺激经济增长",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布将贷款基准利率下调0.25个百分点，以促进经济复苏。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受财报季强劲业绩和全球经济增长预期影响，美股三大指数今日开盘普遍上涨。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，但暗示可能进一步降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管如此，欧洲央行仍决定将主要再融资操作利率保持在0.25%不变。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球经济增长预期增强"
-    }
-  },
-  {
     "timestamp": "2026-06-06 03:30",
     "data": {
       "breaking_news": [
@@ -8717,6 +8670,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank's comments suggest interest rates may rise soon, boosting financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns and rate hikes loom, watch for further developments."
     }
   }
 ]
