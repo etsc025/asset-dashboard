@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, raising worries about rising interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces job cuts in response to Brexit fallout",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK government announces 10,000 job cuts as Brexit continues to impact the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank lowers interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China reduces reserve requirement ratio, easing monetary conditions.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces job cuts in response to Brexit fallout"
-    }
-  },
-  {
     "timestamp": "2026-06-06 12:00",
     "data": {
       "breaking_news": [
@@ -8738,6 +8690,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to reduce interest rates in response to economic slowdown.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks underperforming",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Tech sector indices have been declining due to regulatory pressures and market uncertainty.",
+          "affected_sectors": [
+            "Technology",
+            "Financials"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank cut interest rates: ECB"
     }
   }
 ]
