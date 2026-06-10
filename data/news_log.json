@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase interest rates for the third time this year, raising them by 75 basis points.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to hike rates by 25bps",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to raise interest rates for the first time this year, increasing them by 25 basis points.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Chinese government has adjusted its economic growth projection for the current quarter, expecting a slower pace than previously anticipated.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and GDP revisions influencing global financial markets"
-    }
-  },
-  {
     "timestamp": "2026-06-06 04:00",
     "data": {
       "breaking_news": [
@@ -8703,6 +8658,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns and rate hikes loom, watch for further developments."
+    }
+  },
+  {
+    "timestamp": "2026-06-10 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic uncertainty",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US Treasury yields drop to new lows, signaling potential further rate cuts.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package for pandemic recovery",
+          "country": "UK",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces £50 billion economic support plan.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU to extend lockdown measures in response to second wave of virus",
+          "country": "EU",
+          "category": "Healthcare",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "EU nations consider extending current restrictions until end of March.",
+          "affected_sectors": [
+            "Travel, Hospitality"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces fiscal stimulus package for pandemic recovery"
     }
   }
 ]
