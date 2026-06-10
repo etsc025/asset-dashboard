@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Announce Interest Rate Hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce a rate hike, potentially impacting the global financial markets.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Implement New Tax on Digital Services",
-          "country": "EU",
-          "category": "Tax Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union is set to introduce a new tax on digital services, expected to affect tech and e-commerce sectors.",
-          "affected_sectors": [
-            "Tech",
-            "E-Commerce"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK to Reduce Unemployment Benefits",
-          "country": "UK",
-          "category": "Labor Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government plans to reduce unemployment benefits, which could stimulate economic growth.",
-          "affected_sectors": [
-            "Economy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected today"
-    }
-  },
-  {
     "timestamp": "2026-06-06 02:00",
     "data": {
       "breaking_news": [
@@ -8717,6 +8669,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets to remain volatile due to uncertain economic conditions."
+    }
+  },
+  {
+    "timestamp": "2026-06-10 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange Binance",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union authorities are probing Binance's compliance with anti-money laundering laws.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates unchanged despite rising inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England kept its key rate at 1.25% as expected, amid concerns over the UK's economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Regulators intensify scrutiny on financial sectors."
     }
   }
 ]
