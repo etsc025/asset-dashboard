@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support businesses",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced additional financial support for businesses amid economic challenges.",
-          "affected_sectors": [
-            "Business",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this year, supporting economy."
-    }
-  },
-  {
     "timestamp": "2026-06-06 13:30",
     "data": {
       "breaking_news": [
@@ -8748,6 +8713,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as inflation pressures persist."
+    }
+  },
+  {
+    "timestamp": "2026-06-11 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技巨头财报超预期增长",
+          "country": "アメリカ",
+          "category": "企业财报",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "苹果公司公布季度收入超出分析师预测的20%，推动股价上涨。",
+          "affected_sectors": [
+            "科技",
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市因经济数据疲软而下跌",
+          "country": "EUROPEAN UNION",
+          "category": "经济数据",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧元区制造业PMI低于预期，导致股市普遍走低。",
+          "affected_sectors": [
+            "金融",
+            "製造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行将召开会议讨论货币政策"
     }
   }
 ]
