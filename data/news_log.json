@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, a significant move in its ongoing fight against inflation.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union is set to introduce new regulations aimed at enhancing data privacy and security, potentially impacting tech companies.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio for banks, indicating a supportive stance towards economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-05 18:00",
     "data": {
       "breaking_news": [
@@ -8735,6 +8690,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-10 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家大型公司发布良好财报，推动美股走高。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在2023年首次加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "市场对此消息反应平淡，因预期已计入。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市因财报季表现强劲而上涨"
     }
   }
 ]
