@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current rate unchanged, signaling no immediate changes in monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI falls below 50",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Chinese manufacturing activity weakens, indicating a slowdown in economic growth.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "China's PMI below 50 points to slowing economy."
-    }
-  },
-  {
     "timestamp": "2026-06-06 14:00",
     "data": {
       "breaking_news": [
@@ -8761,6 +8713,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行将召开会议讨论货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its accommodative stance despite economic recovery.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's PMI hits 50.3, above expectations",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese manufacturing sector expands for third consecutive month.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally as US yields rise"
     }
   }
 ]
