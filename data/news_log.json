@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to raise interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions against Russia.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "China's 2023 GDP growth forecast is now expected to be lower than previously predicted.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
-    }
-  },
-  {
     "timestamp": "2026-06-07 00:30",
     "data": {
       "breaking_news": [
@@ -8758,6 +8712,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit uncertainty weighs on European stocks"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's price surges as China lifts restrictions on crypto trading",
+          "country": "China",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese authorities have eased regulations, boosting Bitcoin prices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "US Fed to raise interest rates by 0.25 pct next week",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The move is expected to curb inflation but could slow economic growth.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches probe into US tech giants antitrust practices",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Investigation aims to ensure fair competition in the digital market.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike next week could impact global economy"
     }
   }
 ]
