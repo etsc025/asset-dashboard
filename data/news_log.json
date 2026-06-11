@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上涨，对股市和债市产生一定影响。",
-          "affected_sectors": [
-            "债券市场",
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率"
-    }
-  },
-  {
     "timestamp": "2026-06-06 23:00",
     "data": {
       "breaking_news": [
@@ -8760,6 +8726,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行可能在7月采取行动"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Government Bonds",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank suggests potential interest rate hikes to curb inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates may rise, consider hedging investments."
     }
   }
 ]
