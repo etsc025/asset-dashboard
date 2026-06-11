@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid geopolitical tensions",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.57% as investors remain cautious in the face of geopolitical risks.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation rate rises to 9%",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK's official CPI data shows a significant increase, prompting further interest rate hikes by the Bank of England.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI falls below 50",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Chinese manufacturing activity contracted in May, but at a slower pace than expected.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Trade"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to geopolitical risks."
-    }
-  },
-  {
     "timestamp": "2026-06-06 23:30",
     "data": {
       "breaking_news": [
@@ -8759,6 +8711,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates may rise, consider hedging investments."
+    }
+  },
+  {
+    "timestamp": "2026-06-11 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将再次加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低了存款准备金率，旨在促进经济增长和降低融资成本。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK inflation rate hits 10% in September",
+          "country": "英国",
+          "category": "经济数据",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "英国9月消费者价格指数(CPI)达到10%，创历史新高，市场对货币政策收紧的预期增强。",
+          "affected_sectors": [
+            "能源行业",
+            "零售业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，金融市场波动加剧"
     }
   }
 ]
