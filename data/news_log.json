@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，可能影响股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-06-06 21:30",
     "data": {
       "breaking_news": [
@@ -8748,6 +8714,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global inflation rate hits 8.1% in Q4 2022"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the near future, boosting economic sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will tighten data privacy rules, potentially impacting tech and financial sectors.",
+          "affected_sectors": [
+            "Tech",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，经济前景乐观"
     }
   }
 ]
