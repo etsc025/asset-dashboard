@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have climbed higher.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan to support businesses and individuals.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches investigation into US tech giants antitrust practices",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to growing concerns about anticompetitive behavior, the EU has initiated an investigation into major US tech companies.",
-          "affected_sectors": [
-            "Tech",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "The EU's investigation into US tech giants could lead to significant regulatory changes."
-    }
-  },
-  {
     "timestamp": "2026-06-07 12:30",
     "data": {
       "breaking_news": [
@@ -8729,6 +8681,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，投资者担忧通胀加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks report mixed results for Q3 2023",
+          "country": "欧洲",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "多家欧洲银行发布第三季度业绩报告，结果参差不齐。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian tech stocks rally as China's tech sector gains momentum",
+          "country": "亚洲",
+          "category": "科技",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于中国科技行业势头强劲，亚洲科技股上涨。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
