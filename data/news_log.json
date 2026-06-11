@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.26%, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB announces no change in interest rates, maintaining current levels at 0.25% for the fourth quarter.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed after China's PMI data",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance in Asian markets following weaker-than-expected Chinese manufacturing activity index (PMI).",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions and economic data releases continue to shape market movements."
-    }
-  },
-  {
     "timestamp": "2026-06-07 04:00",
     "data": {
       "breaking_news": [
@@ -8746,6 +8701,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central Bank Rates Hike Expected Tomorrow - Potential Market Volatility"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals readiness to raise interest rates, supporting euro gains.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation and monetary policy remain key focus for markets."
     }
   }
 ]
