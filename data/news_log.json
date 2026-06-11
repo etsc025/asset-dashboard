@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key rate by 0.75% amid rising prices.",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，应对通胀压力"
-    }
-  },
-  {
     "timestamp": "2026-06-06 18:30",
     "data": {
       "breaking_news": [
@@ -8717,6 +8684,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧，请密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged this week",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行本周将保持利率不变。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks mixed as China's PMI hits 50.1",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "亚洲股市表现参差不齐，中国PMI为50.1。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持利率不变"
     }
   }
 ]
