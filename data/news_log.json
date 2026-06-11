@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's central bank has just announced an interest rate hike, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government Policies",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has introduced a new economic support plan to boost the market and stabilize the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHN",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the required reserves for banks, aiming to support small and medium-sized enterprises.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike announced by USA Federal Reserve"
-    }
-  },
-  {
     "timestamp": "2026-06-06 22:30",
     "data": {
       "breaking_news": [
@@ -8762,6 +8715,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, investors cautious"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策的进一步紧缩。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在7月加息",
+          "country": "EUROPE",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "消息人士称，欧洲央行正在讨论可能在下个月加息。这可能会对欧元区债券市场产生影响。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "中国股市反弹",
+          "country": "CHINA",
+          "category": "股票",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受政策支持和经济数据改善的推动，中国股市出现反弹。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行可能在7月采取行动"
     }
   }
 ]
