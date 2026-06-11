@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府采取措施刺激经济增长，市场反应积极。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘即遭遇抛售。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "市场预期已充分消化此消息，对股市影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振经济信心"
-    }
-  },
-  {
     "timestamp": "2026-06-06 22:00",
     "data": {
       "breaking_news": [
@@ -8760,6 +8714,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，经济前景乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-11 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has signaled a potential interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed following US data release",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian stock markets after US economic reports were released.",
+          "affected_sectors": [
+            "Finance",
+            "Stocks"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, investors cautious"
     }
   }
 ]
