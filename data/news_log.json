@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to consider rate hike",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟央行考虑加息，市场观望中。",
-          "affected_sectors": [
-            "金融",
-            "能源"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎"
-    }
-  },
-  {
     "timestamp": "2026-06-07 07:00",
     "data": {
       "breaking_news": [
@@ -8705,6 +8671,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to 4.25%"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's central bank has announced a rate hike, indicating an aggressive stance on controlling inflation.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK government cuts corporate tax rate",
+          "country": "UK",
+          "category": "Economic Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has reduced the corporate tax rate to stimulate economic growth.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank lowers reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has lowered its reserve requirement ratio, providing more liquidity to the market.",
+          "affected_sectors": [
+            "Real Estate",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Rate hikes and tax cuts are key factors affecting global markets."
     }
   }
 ]
