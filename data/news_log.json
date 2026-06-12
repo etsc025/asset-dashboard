@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振市场信心。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘即遭遇抛售，投资者情绪低迷。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-07 23:30",
     "data": {
       "breaking_news": [
@@ -8694,6 +8660,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响经济前景"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this fiscal year.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new financial regulations",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union has announced the launch of a new set of financial regulations to enhance market stability.",
+          "affected_sectors": [
+            "Finance Industry"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on positive economic data",
+          "country": "Asia",
+          "category": "Economic Data",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Positive economic indicators in Asia have boosted stock markets across the region.",
+          "affected_sectors": [
+            "Stock Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and new regulations pose risks to financial stability."
     }
   }
 ]
