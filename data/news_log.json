@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均表现积极。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季强劲表现而上涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国主要股指连续多日上涨，得益于多家大型公司发布的强劲财报。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行表示，尽管当前经济状况良好，但仍需谨慎评估未来加息的可能性。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-07 13:00",
     "data": {
       "breaking_news": [
@@ -8726,6 +8680,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.25% for the first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "British government introduces tax hikes and spending cuts aimed at reducing inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, prompting yield increases in major economies."
     }
   }
 ]
