@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government unveils plans to increase taxes and cut public spending to control rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の新規財政措置によりインフレ率を抑えるため、英国が新たな政策を発表"
-    }
-  },
-  {
     "timestamp": "2026-06-08 09:30",
     "data": {
       "breaking_news": [
@@ -8726,6 +8691,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to cut interest rates - potential impact on global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement carbon tax on imported goods",
+          "country": "EU",
+          "category": "Environmental Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union plans to introduce a carbon tax on all imported goods from non-EU countries.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHINA",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio for banks, aiming to boost lending and economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economy faces challenges but financial markets remain resilient."
     }
   }
 ]
