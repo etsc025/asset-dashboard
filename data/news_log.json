@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK has decided to cut interest rates, aiming to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global oil prices fall due to oversupply concerns",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Despite oversupply fears, global oil prices have dropped as demand remains strong.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates cut to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-07 23:00",
     "data": {
       "breaking_news": [
@@ -8697,6 +8649,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股反弹",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受利好财报和乐观经济数据影响，美股科技板块表现强劲。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响经济前景"
     }
   }
 ]
