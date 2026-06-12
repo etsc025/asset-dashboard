@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场反应积极，预计将进一步刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前，科技股遭遇抛售",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "在财报公布后，美国科技股遭遇抛售，投资者对市场前景感到担忧。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以抑制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示将考虑进一步加息，以对抗持续的高通胀压力。",
-          "affected_sectors": [
-            "银行业",
-            "能源行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-06-08 03:30",
     "data": {
       "breaking_news": [
@@ -8726,6 +8679,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should monitor inflation and economic uncertainty closely."
+    }
+  },
+  {
+    "timestamp": "2026-06-12 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，推动股市上涨。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲主要股市开盘下跌，投资者情绪谨慎",
+          "country": "欧洲",
+          "category": "股票市场表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受全球经济不确定性影响，欧洲主要股市开盘普遍下跌，投资者情绪较为谨慎。",
+          "affected_sectors": [
+            "银行",
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "债券市场和货币市场表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH交替出现",
+          "summary": "美国国债收益率上升导致股市波动，但对美元汇率产生正面影响。",
+          "affected_sectors": [
+            "银行",
+            "能源"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
