@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen, reflecting concerns about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK has decided to cut interest rates in an attempt to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank maintains status quo on monetary policy",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The EU's main central bank has decided to maintain its current monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行保持一致，市场风险偏好提升"
-    }
-  },
-  {
     "timestamp": "2026-06-08 00:30",
     "data": {
       "breaking_news": [
@@ -8705,6 +8659,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，股市上涨预期增强",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场对股市上涨的预期增强。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "宏观经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，美元走强，影响全球金融市场。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "经济政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变，市场反应较为平淡。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
