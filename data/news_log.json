@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has decided to raise interest rates, indicating a potential economic slowdown.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK publishes Q3 GDP growth report",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's Q3 GDP growth is expected to be positive but not as strong as anticipated.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China releases PMI data for November",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "November's China's Purchasing Managers' Index (PMI) is stable, indicating a steady manufacturing sector.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain cautiously optimistic."
-    }
-  },
-  {
     "timestamp": "2026-06-07 15:30",
     "data": {
       "breaking_news": [
@@ -8715,6 +8670,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic risks rise amid inflation and geopolitical tensions."
+    }
+  },
+  {
+    "timestamp": "2026-06-12 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to reduce interest rates in response to economic slowdown.",
+          "affected_sectors": [
+            "Monetary Policy",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally on strong earnings reports",
+          "country": "全球",
+          "category": "股市",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major global tech companies report robust Q4 earnings, boosting stock markets.",
+          "affected_sectors": [
+            "Tech Sector",
+            "Stock Market"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行将降低利率以应对经济放缓"
     }
   }
 ]
