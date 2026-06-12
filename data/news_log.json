@@ -1,37 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国：新規感染者数が減少",
-          "country": "中国",
-          "category": "健康・医療",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国の新規感染者数が減少傾向にあります。",
-          "affected_sectors": [],
-          "action_needed": false
-        },
-        {
-          "title": "アメリカ：Fed議事録発表、利上げ観測高まる",
-          "country": "アメリカ",
-          "category": "経済・金融",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "アメリカのFED議事録が発表され、利上げ観測が高まっています。",
-          "affected_sectors": [
-            "銀行業",
-            "不動産"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "アメリカのFED議事録発表で市場に影響"
-    }
-  },
-  {
     "timestamp": "2026-06-08 02:30",
     "data": {
       "breaking_news": [
@@ -8714,6 +8682,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融市場が上向きの兆しを示す"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响股市和债市表现。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率小幅上升，对股市有一定压力但未引发大规模波动。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率不变，市场反应平静，无明显方向性影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行动作可能加剧全球金融市场波动"
     }
   }
 ]
