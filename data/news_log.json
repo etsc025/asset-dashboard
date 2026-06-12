@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国の中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国の中央銀行が人民元の為替レートを調整、市場は静観する展開",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国債利回りが上昇し、金価格下落",
-          "country": "アメリカ",
-          "category": "債券市場",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回りの上昇により金価格が下落、投資家はリスク回避姿勢を強める",
-          "affected_sectors": [
-            "金"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国債利回りの上昇で市場警戒"
-    }
-  },
-  {
     "timestamp": "2026-06-07 22:00",
     "data": {
       "breaking_news": [
@@ -8698,6 +8665,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响金融市场"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指开盘走高，科技板块表现尤为突出。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率风险增加"
     }
   }
 ]
