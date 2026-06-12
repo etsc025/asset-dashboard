@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "BoE cuts rate by 25bps, aiming to support economic recovery from pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank raises interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "RMB strengthens against USD amid rate hike, affecting global trade flows.",
-          "affected_sectors": [
-            "Trade"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-08 00:00",
     "data": {
       "breaking_news": [
@@ -8705,6 +8659,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and new regulations pose risks to financial stability."
+    }
+  },
+  {
+    "timestamp": "2026-06-12 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, impacting the global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will enhance data privacy and security but may slow down digital innovation in Europe.",
+          "affected_sectors": [
+            "Tech",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's tech giants face antitrust investigation",
+          "country": "China",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major Chinese internet companies are under scrutiny for potential anti-competitive practices, potentially affecting their market positions.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected to boost economy"
     }
   }
 ]
