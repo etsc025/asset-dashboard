@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hit a two-month high, reflecting worries about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK PMI falls below expectations",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "UK Manufacturing Purchasing Managers' Index (PMI) dropped to 48.5, below the expected level of 49.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI hits record high",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese Manufacturing Purchasing Managers' Index (PMI) reached a new peak, indicating strong economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行会议临近，市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-08 01:30",
     "data": {
       "breaking_news": [
@@ -8714,6 +8667,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation and economic recovery uncertainties."
+    }
+  },
+  {
+    "timestamp": "2026-06-12 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to extend pandemic support measures",
+          "country": "EU",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union extends existing economic support packages for businesses and individuals affected by the pandemic.",
+          "affected_sectors": [
+            "Business",
+            "Healthcare"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK interest rates unchanged amid Brexit uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank maintains its interest rate at 0.1%, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic recovery faces challenges due to inflation and Brexit uncertainties."
     }
   }
 ]
