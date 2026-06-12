@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Pound weakens against USD amid Brexit uncertainty",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Brexit negotiations continue to weigh on UK currency markets, with GBP/USD below 1.20.",
-          "affected_sectors": [
-            "Finance",
-            "Trade"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central Bank of China reduces reserve requirements to boost lending and economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit negotiations continue, Pound weakens against USD"
-    }
-  },
-  {
     "timestamp": "2026-06-08 20:30",
     "data": {
       "breaking_news": [
@@ -8738,6 +8690,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks consider rate hikes to curb inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank's comments suggest interest rates may rise soon, boosting euro against major currencies.",
+          "affected_sectors": [
+            "Finance",
+            "Currency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK stock market gains on Brexit optimism",
+          "country": "UK",
+          "category": "Stock Market",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Positive sentiment around Brexit negotiations pushes UK stocks higher, though concerns remain.",
+          "affected_sectors": [
+            "Finance",
+            "Stocks"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike"
     }
   }
 ]
