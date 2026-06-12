@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将进一步刺激经济增长。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受国际贸易紧张局势影响，美股开盘前出现抛售行情。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "国际贸易紧张局势可能加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-08 03:00",
     "data": {
       "breaking_news": [
@@ -8728,6 +8693,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行动作可能加剧全球金融市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-12 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The yield on 10-year US Treasuries has risen, reflecting investors' growing concern over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "Europe",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "While some European banks reported strong profits, others faced challenges due to economic uncertainties.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should monitor inflation and economic uncertainty closely."
     }
   }
 ]
