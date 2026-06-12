@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "US Treasury yields fell to a new record low, reflecting growing economic worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a new fiscal stimulus package aimed at boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to increase budget spending for green initiatives",
-          "country": "EU",
-          "category": "Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The EU plans to boost its budget by 10% for environmental projects, signaling a shift towards sustainability.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU's green initiative boosts market optimism"
-    }
-  },
-  {
     "timestamp": "2026-06-08 08:30",
     "data": {
       "breaking_news": [
@@ -8728,6 +8681,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to geopolitical risks."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95%, up from 2.8% last week.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates for the first time in two years",
+          "country": "中国",
+          "category": "Interest Rates",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China cut the reserve requirement ratio (RRR) by 0.25 percentage points.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged amid inflation concerns",
+          "country": "EU",
+          "category": "Interest Rates",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current interest rate at 1.75% as expected.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧"
     }
   }
 ]
