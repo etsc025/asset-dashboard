@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，预期将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行上调关键利率至历史高位",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "为了应对通胀压力，欧洲央行宣布将主要再融资利率提高0.5个百分点至17年来的最高水平。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市遭遇连续下跌，投资者情绪低迷",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于科技股持续走低，纳斯达克综合指数创下自2022年1月以来的最大单日跌幅。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "欧洲央行加息将增加全球市场波动性"
-    }
-  },
-  {
     "timestamp": "2026-06-08 07:00",
     "data": {
       "breaking_news": [
@@ -8727,6 +8681,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should remain cautious with volatile markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in nearly a year.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government unveils plans to increase corporation tax and cut public spending.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns rise, prompting yield increases in major economies."
     }
   }
 ]
