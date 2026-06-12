@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK's GDP growth outlook cut to 1.2% from 1.5% due to Brexit uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB keeps key rate unchanged at 0.25%, signaling no change in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields higher, markets cautiously optimistic."
-    }
-  },
-  {
     "timestamp": "2026-06-08 06:30",
     "data": {
       "breaking_news": [
@@ -8729,6 +8682,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike expected from US Federal Reserve"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has maintained its current interest rate levels.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Equities Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian equities markets due to conflicting economic signals from China.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should remain cautious with volatile markets."
     }
   }
 ]
