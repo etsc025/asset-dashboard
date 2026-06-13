@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to hike rates, ECB president warns of recession",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB's hawkish stance could lead to a 50bps rate hike in September.",
-          "affected_sectors": [
-            "Finance",
-            "Agriculture"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks surge on strong earnings reports",
-          "country": "Global",
-          "category": "Tech",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Major tech firms report robust Q2 profits, boosting market sentiment.",
-          "affected_sectors": [
-            "Technology",
-            "Financials"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB to hike rates in September, ECB president warns of recession"
-    }
-  },
-  {
     "timestamp": "2026-06-09 14:00",
     "data": {
       "breaking_news": [
@@ -8790,6 +8742,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks hinting at rate hikes could lead to volatility."
+    }
+  },
+  {
+    "timestamp": "2026-06-14 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, impacting economic sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound weakens on Brexit uncertainty",
+          "country": "UK",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Brexit negotiations continue to weigh on UK currency markets.",
+          "affected_sectors": [
+            "Financial Services",
+            "Trade"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit developments could impact global financial markets."
     }
   }
 ]
