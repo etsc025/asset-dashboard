@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, providing more liquidity to financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "英国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "The UK's economic growth outlook for 2023 has been adjusted downwards by the Office for National Statistics.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場緊張感高まり"
-    }
-  },
-  {
     "timestamp": "2026-06-09 16:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8730,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国国债收益率上升，股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Key Dates Announced",
+          "country": "USA",
+          "category": "Central Banking",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Key dates for major central bank meetings have been announced, potentially impacting monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Stock Market Reacts to US-China Trade Talks",
+          "country": "China",
+          "category": "Trade Relations",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "US and China agree on key trade issues, boosting market sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Interest Rates Rise: Impact Analysis Required",
+          "country": "Worldwide",
+          "category": "Interest Rates",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Rising interest rates could affect borrowing costs and investment decisions globally.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks' monetary policy changes may impact financial markets."
     }
   }
 ]
