@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils £50 billion stimulus plan to boost economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU sets ambitious climate targets for 2030",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union proposes new carbon emission reduction goals, aiming to be net-zero by 2050.",
-          "affected_sectors": [
-            "Finance",
-            "Environmental"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces fiscal stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-06-09 06:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8720,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，需警惕经济放缓风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England cuts interest rates by 0.25% to boost economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices rise as OPEC+ announces supply cut",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ reduces crude oil production by 2 million barrels per day to stabilize global markets.",
+          "affected_sectors": [
+            "Oil and Gas"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and supply cuts signal economic support"
     }
   }
 ]
