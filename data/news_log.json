@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季开始而波动加剧",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国股市在财报季开始后波动加剧，投资者情绪谨慎。",
-          "affected_sectors": [
-            "金融业",
-            "科技业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息以应对经济增长放缓。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市波动加剧，投资者需谨慎。"
-    }
-  },
-  {
     "timestamp": "2026-06-09 11:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8719,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic recovery remains uncertain due to inflation pressures."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the second time this year, signaling a tightening of monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Political Developments",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth rate slows down slightly",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China reported a slight slowdown in its Gross Domestic Product growth rate for the second quarter of 2023.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致加息预期增强"
     }
   }
 ]
