@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, signaling potential interest rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new financial regulation initiative",
-          "country": "EU",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union initiates a new set of regulations aimed at enhancing market transparency and stability.",
-          "affected_sectors": [
-            "Insurance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global bond yields edge lower amid easing inflation fears",
-          "country": "Global",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "As inflation concerns ease, global bond yields are marginally lower but remain stable.",
-          "affected_sectors": [
-            "Investment Management"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU launches new financial regulation initiative"
-    }
-  },
-  {
     "timestamp": "2026-06-09 10:30",
     "data": {
       "breaking_news": [
@@ -8763,6 +8717,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with increased volatility."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks consider rate hikes amid inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European policymakers discuss potential interest rate increases to curb rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy sees mixed signals from Brexit negotiations",
+          "country": "UK",
+          "category": "Politics/Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Negotiations continue with no clear outcome yet, affecting financial markets uncertainty.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic recovery remains uncertain due to inflation pressures."
     }
   }
 ]
