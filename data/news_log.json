@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Expected",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting the USD and global markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Stocks Close Higher Amid Positive Earnings Reports",
-          "country": "EUROPE",
-          "category": "Stock Market",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive earnings reports from major European companies have pushed stock indices higher in recent sessions.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian Markets Mixed After China's PMI Data Released",
-          "country": "ASIA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic data from China has led to a range-bound performance in Asian markets.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting today could set the tone for global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-09 00:00",
     "data": {
       "breaking_news": [
@@ -8759,6 +8713,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike expected by BOE",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of England is widely expected to raise interest rates, following US Fed's recent move.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economic growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "ECB warns EU economy may face slower growth due to global uncertainties.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yields above 3.5% for first time in months."
     }
   }
 ]
