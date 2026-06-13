@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high of 3.96% as investors brace for higher interest rates to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government unveils a package of economic support measures aimed at stabilizing the country's struggling economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU warns of recession risk amid pandemic recovery challenges",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The EU Commission raises its forecast for a potential economic downturn in the near future, citing ongoing supply chain disruptions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Agriculture"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-09 07:30",
     "data": {
       "breaking_news": [
@@ -8767,6 +8719,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, global financial markets may react"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to announce rate hikes in the near future, signaling a shift towards tighter monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices surge on supply concerns",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Oil prices have surged due to worries over global crude supply disruptions.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and inflation fears loom, markets remain volatile."
     }
   }
 ]
