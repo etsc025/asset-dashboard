@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，人民币承压",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响人民币汇率和股市表现。",
-          "affected_sectors": [
-            "金融",
-            "贸易"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "利率与货币",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，美元指数上涨，对新兴市场造成压力。",
-          "affected_sectors": [
-            "全球股市",
-            "新兴市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行动作引发人民币汇率波动风险"
-    }
-  },
-  {
     "timestamp": "2026-06-08 23:00",
     "data": {
       "breaking_news": [
@@ -8752,6 +8717,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have increased by 25 basis points in the past hour.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank hints at rate hikes",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has signaled a potential for interest rate increases, signaling tighter monetary conditions in the near future.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed after strong earnings reports",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "While some sectors have seen gains following positive quarterly results, overall market sentiment remains cautious.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU Central Bank hints at rate hikes - watch for further developments."
     }
   }
 ]
