@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国中央銀行が人民元レートを微減",
-          "country": "中国",
-          "category": "政策決定",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行が人民元レートを微減。市場は落ち着く兆し。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "米国債利回り上昇、金価格下落",
-          "country": "アメリカ",
-          "category": "市場動向",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国債利回り上昇で金価格が下落。投資家のリスク選択に影響。",
-          "affected_sectors": [
-            "金",
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国債利回り上昇、金価格下落のリスク"
-    }
-  },
-  {
     "timestamp": "2026-06-08 22:30",
     "data": {
       "breaking_news": [
@@ -8739,6 +8705,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to consider rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均出现上涨。",
+          "affected_sectors": [
+            "银行业",
+            "资本市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘下跌，科技股领跌",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股重挫影响，纳斯达克指数开盘即下跌逾1%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以对抗通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示正在考虑进一步加息，以应对持续的高通胀压力。这可能对欧元区经济产生影响。",
+          "affected_sectors": [
+            "银行业",
+            "能源行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
