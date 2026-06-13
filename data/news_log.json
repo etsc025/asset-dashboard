@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者担忧通胀风险",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升，引发对通胀的担忧，影响市场情绪。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-09 00:30",
     "data": {
       "breaking_news": [
@@ -8761,6 +8728,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields above 3.5% for first time in months."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have risen by over 25bps in the past hour.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see positive earnings outlook amid economic recovery",
+          "country": "Europe",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Major European banking firms are expected to report strong Q4 earnings, bolstered by the region's ongoing economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates for second time in two weeks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio and lending rate, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行为刺激经济连续调整政策"
     }
   }
 ]
