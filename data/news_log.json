@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，利好股市和房地产市场",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将提振股市和房地产市场表现。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，对科技股构成压力",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率的上升可能抑制科技股的表现，投资者需关注相关风险。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示未来加息可能性增加",
-          "country": "欧盟成员国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH/BEARISH未知",
-          "summary": "欧洲央行暗示未来可能采取更紧缩的货币政策，对股市和债券市场产生影响。",
-          "affected_sectors": [
-            "金融",
-            "债券"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，请密切关注"
-    }
-  },
-  {
     "timestamp": "2026-06-09 02:30",
     "data": {
       "breaking_news": [
@@ -8770,6 +8723,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes could lead to higher borrowing costs."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation worries persist",
+          "country": "USA",
+          "category": "Yield Curve",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid persistent concerns over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike next week",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank is expected to discuss a potential interest rate hike in the coming weeks.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank has reduced its reserve requirement ratio, easing liquidity conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with potential volatility ahead."
     }
   }
 ]
