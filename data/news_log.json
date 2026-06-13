@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美股开盘前遭遇抛售，科技股领跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行考虑加息，缓解市场对经济衰退的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-06-09 04:30",
     "data": {
       "breaking_news": [
@@ -8769,6 +8724,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation pressures."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals rate hike, impacting global financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank to raise interest rates: significant impact on global economy."
     }
   }
 ]
