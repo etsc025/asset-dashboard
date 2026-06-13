@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates at record low",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its negative deposit rate and stimulus measures in response to economic uncertainty.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Beijing aims to boost lending and stimulate the economy by reducing banks' cash reserves.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行维持宽松政策，股市上涨"
-    }
-  },
-  {
     "timestamp": "2026-06-09 03:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8720,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with potential volatility ahead."
+    }
+  },
+  {
+    "timestamp": "2026-06-13 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this fiscal year.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Risks",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU imposes new sanctions targeting Russian energy sector and financial institutions.",
+          "affected_sectors": [
+            "Energy",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China reduces the reserve requirement ratio, easing liquidity in financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU announces new sanctions on Russia affecting energy and financial sectors."
     }
   }
 ]
