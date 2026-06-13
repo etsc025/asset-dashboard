@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场乐观反应",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布将降低贷款利率，提振市场信心，预计今日股市上涨。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对股市和房地产市场造成压力，但影响有限。",
-          "affected_sectors": [
-            "房地产市场",
-            "资本市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策，市场关注点转移",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行可能采取更多措施以应对经济挑战，但具体细节尚未公布。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体政策变动影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-06-09 08:30",
     "data": {
       "breaking_news": [
@@ -8767,6 +8719,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "European Central Bank considering rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75bps in July meeting",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase the federal funds rate by 75 basis points at its upcoming July meeting, a significant move that could impact global financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced additional fiscal measures aimed at reducing inflation, including tax hikes and spending cuts.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, providing liquidity to banks and potentially easing credit conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to central bank actions."
     }
   }
 ]
