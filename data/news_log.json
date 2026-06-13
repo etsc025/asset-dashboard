@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces tax cuts and public spending increases to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank hints at rate hike in Q4",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The ECB suggests a potential interest rate increase, signaling tighter monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK government's fiscal measures could boost economy but risks inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-09 01:30",
     "data": {
       "breaking_news": [
@@ -8773,6 +8727,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行为刺激经济连续调整政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, markets rally",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting stock markets.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will tighten privacy rules but are expected to have minimal economic impact.",
+          "affected_sectors": [
+            "Tech Companies"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Chinese authorities cut the reserve requirement ratio, easing liquidity in banks but with little immediate effect on markets.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，市场信心增强"
     }
   }
 ]
