@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces interest rate hike for the fourth time this year",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Bank of England raises rates to combat rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI falls below 50 in May, signaling slowdown",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "China's manufacturing sector growth slows down in May.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致行动，共同应对通胀压力"
-    }
-  },
-  {
     "timestamp": "2026-06-09 02:00",
     "data": {
       "breaking_news": [
@@ -8772,6 +8725,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has announced a significant interest rate hike, signaling a shift towards tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for security issues",
+          "country": "EU",
+          "category": "Financial Regulations",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union's financial watchdogs are investigating a major crypto exchange over potential security breaches.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new tax on carbon emissions",
+          "country": "UK",
+          "category": "Environmental Policies",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced a new tax on carbon emissions to reduce environmental impact.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes could lead to higher borrowing costs."
     }
   }
 ]
