@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布将贷款基准利率下调0.25个百分点，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季表现强劲而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受多家大型科技公司业绩超出预期影响，美股今日普遍上扬。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管如此，欧洲央行仍表示将在未来几个月内密切关注通胀数据，决定是否采取行动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行政策变动风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-08 21:30",
     "data": {
       "breaking_news": [
@@ -8736,6 +8690,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步行动，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-13 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预期将推动经济增长和企业融资成本下降。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后遭遇抛售潮，科技股领跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受经济数据不佳影响，美股开盘即出现抛售，科技股表现尤为低迷。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在下一次会议上加息以应对通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行正在评估是否在下次会议中采取行动，以应对持续的高通胀。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
