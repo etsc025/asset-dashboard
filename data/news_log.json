@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Announce Interest Rate Hike Today",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce a rate hike today, potentially impacting the global financial markets.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Budget Announced: Boosting Infrastructure Spending",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced significant infrastructure spending in its budget, expected to boost economic growth.",
-          "affected_sectors": [
-            "Infrastructure",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP Growth Forecasted at 6.5% for Q4",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese government has forecasted a steady 6.5% growth rate for the fourth quarter of this year.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行利率决议临近，市场波动风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-10 15:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8768,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on rate hike signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russian energy sector",
+          "country": "EU",
+          "category": "政治经济",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟对俄罗斯能源行业实施新制裁，可能影响欧洲能源价格和市场信心。",
+          "affected_sectors": [
+            "石油天然气行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行降低存款准备金率，旨在刺激经济增长，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国加息可能引发全球市场波动"
     }
   }
 ]
