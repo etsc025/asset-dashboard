@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续两天上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国主要股指连续两天上涨，投资者情绪乐观。",
-          "affected_sectors": [
-            "金融服务业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率：警惕潜在的经济影响"
-    }
-  },
-  {
     "timestamp": "2026-06-10 06:00",
     "data": {
       "breaking_news": [
@@ -8831,6 +8798,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive financial markets higher"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation worries mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have climbed above 3.25% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirements ratio (RRR)",
+          "country": "中国",
+          "category": "Banking & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut its RRR for the second time this year, aiming to boost liquidity and support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike in September",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB policymakers have signaled a possible interest rate hike in September, citing strong inflation pressures.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策转向，市场需密切关注"
     }
   }
 ]
