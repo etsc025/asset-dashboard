@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金融政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行が人民元の為替レートを調整、市場に影響を与える可能性がある。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債利回り上昇、金価格下落",
-          "country": "アメリカ",
-          "category": "財政金融",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回りの上昇により金価格が下落する可能性がある。",
-          "affected_sectors": [
-            "金属"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国債利回り上昇、市場動向に注意"
-    }
-  },
-  {
     "timestamp": "2026-06-10 04:30",
     "data": {
       "breaking_news": [
@@ -8816,6 +8783,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振经济和企业信心。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，美股在开盘前出现抛售。",
+          "affected_sectors": [
+            "金融服务业",
+            "零售业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能进一步加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管有迹象显示欧元区经济放缓，但欧洲央行仍可能继续加息。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振市场信心"
     }
   }
 ]
