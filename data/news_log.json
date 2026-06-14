@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new financial regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU financial regulations are set to take effect, potentially affecting banks and insurance companies.",
-          "affected_sectors": [
-            "Finance",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Positive earnings reports from major Asian companies have led to a surge in stock prices across the region.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and regulatory changes pose risks to financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-09 22:00",
     "data": {
       "breaking_news": [
@@ -8829,6 +8782,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市小幅上涨，但风险资产波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Tighten Monetary Policy",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to tighten monetary policy, potentially impacting markets.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Europe's GDP Growth Forecast Revised Downward",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Revised forecast suggests slower economic growth in Europe, affecting financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Retail Sales Up 5.8% Year-on-Year",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Moderate increase in retail sales highlights economic resilience.",
+          "affected_sectors": [
+            "Retail",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to tighten policy, potential market volatility."
     }
   }
 ]
