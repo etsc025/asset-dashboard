@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have decided to impose additional economic sanctions on Russia in response to its actions.",
-          "affected_sectors": [
-            "Energy",
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, providing more liquidity to the market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
-    }
-  },
-  {
     "timestamp": "2026-06-09 20:30",
     "data": {
       "breaking_news": [
@@ -8799,6 +8753,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政策变动加大市场波动风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The yield on US 10-year Treasuries rose to 3.95%, reflecting investors' growing concern over high inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank (ECB) suggested it might raise interest rates soon, signaling a shift towards a more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices fall on OPEC+ supply increase",
+          "country": "Global",
+          "category": "Energy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "OPEC+ announced an increase in oil production, leading to a decline in global crude oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hikes - ECB"
     }
   }
 ]
