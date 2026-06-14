@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economic recovery",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new tax cuts and spending increases to support the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches stimulus package for struggling economies",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "The EU is launching a $1 trillion stimulus package aimed at stabilizing member states in economic distress.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets to remain volatile due to uncertain economic conditions."
-    }
-  },
-  {
     "timestamp": "2026-06-10 18:30",
     "data": {
       "breaking_news": [
@@ -8836,6 +8788,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK's fiscal stimulus could boost economy but risks inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed earnings outlook amid economic uncertainty",
+          "country": "EU",
+          "category": "银行业",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行面临经济不确定性的影响，盈利前景出现分歧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stocks edge lower as China's PMI data disappoints",
+          "country": "Asia",
+          "category": "股市",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "亚洲股市小幅下跌，因中国PMI数据表现不及预期。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持谨慎"
     }
   }
 ]
