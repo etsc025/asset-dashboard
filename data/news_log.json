@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期未来将有更多宽松措施出台。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受国际贸易紧张局势影响，美股开盘后出现大幅下跌。",
-          "affected_sectors": [
-            "科技股",
-            "金融股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管维持利率不变，但欧洲央行行长表示未来可能会采取更多宽松措施。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "国际贸易紧张局势可能加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-10 17:00",
     "data": {
       "breaking_news": [
@@ -8811,6 +8763,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom, watch for market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-06-15 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季强劲表现而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家大型科技公司发布良好财报，提振了整体市场情绪。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲债券收益率上升，对经济增长担忧增加",
+          "country": "欧洲",
+          "category": "利率与经济",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "由于经济增长放缓的预期，欧洲债券收益率上升。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕经济增长不确定性"
     }
   }
 ]
