@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国中央銀行が人民元の為替レートを調整",
-          "country": "中国",
-          "category": "金利・為替",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国中央銀行が人民元の為替レートを調整、市場は落ち着く兆し",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国債利回り上昇、金価格下落",
-          "country": "アメリカ",
-          "category": "金利",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "米国債利回りの上昇が金価格を下押し、市場は警戒感を強め",
-          "affected_sectors": [
-            "金属"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "米国債利回りの変動に注意"
-    }
-  },
-  {
     "timestamp": "2026-06-10 07:30",
     "data": {
       "breaking_news": [
@@ -8828,6 +8795,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国联邦储备加息预期增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-14 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，市场反应积极。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前大幅下跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘后迅速下挫。",
+          "affected_sectors": [
+            "科技业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振市场信心"
     }
   }
 ]
