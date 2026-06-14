@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.25% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government announced additional spending cuts and tax increases to reduce inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China's central bank reduced the reserve requirement ratio, easing liquidity in the financial system.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-10 13:30",
     "data": {
       "breaking_news": [
@@ -8825,6 +8779,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，警惕股市回调风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the near future, boosting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU will introduce new regulations aimed at improving data privacy and security.",
+          "affected_sectors": [
+            "Tech Companies",
+            "Data Protection Agencies"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's tech giants face antitrust investigation",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "Major Chinese tech companies are under scrutiny for potential anti-competitive practices.",
+          "affected_sectors": [
+            "Tech Industry",
+            "Investors"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策動向に注意が必要です。"
     }
   }
 ]
