@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic optimism",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing economic optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to support economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU sets ambitious climate goals for 2050",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union commits to carbon neutrality by 2050, but faces challenges.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package for economic support"
-    }
-  },
-  {
     "timestamp": "2026-06-10 15:30",
     "data": {
       "breaking_news": [
@@ -8814,6 +8766,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国加息可能引发全球市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in nearly three decades.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package aimed at supporting the economy during the pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio, providing more liquidity to banks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on Fed rate hike optimism"
     }
   }
 ]
