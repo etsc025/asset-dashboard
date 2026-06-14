@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high of 3.98% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid stress tests",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Major European banks are facing a liquidity squeeze ahead of upcoming stress tests, raising concerns about their financial health.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory uncertainty",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price drops to $29,850 as investors remain cautious due to ongoing regulatory scrutiny.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major European banks facing liquidity issues ahead of stress tests"
-    }
-  },
-  {
     "timestamp": "2026-06-10 13:00",
     "data": {
       "breaking_news": [
@@ -8838,6 +8792,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to tackle inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市回调。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国10年期国债收益率上升至3%以上",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国10年期国债收益率突破3%，市场情绪乐观，可能刺激股市上行。",
+          "affected_sectors": [
+            "金融业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，警惕股市回调风险"
     }
   }
 ]
