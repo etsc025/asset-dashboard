@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new financial regulations to curb crypto risks",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government introduces stricter rules on cryptocurrencies and stablecoins.",
-          "affected_sectors": [
-            "FinTech",
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed as China releases economic data",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed reaction from Asian investors to Chinese GDP growth forecast.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Treasury yields rise above 3.5% for first time since March."
-    }
-  },
-  {
     "timestamp": "2026-06-11 14:00",
     "data": {
       "breaking_news": [
@@ -8790,6 +8742,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, impacting economic sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to consider rate hike",
+          "country": "EU",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank may review interest rates in response to inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Japan's Nikkei falls on trade tensions",
+          "country": "日本",
+          "category": "Economy & Finance",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Trade disputes weigh on Japanese stocks, particularly the Nikkei index.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets remain volatile due to mixed economic signals."
     }
   }
 ]
