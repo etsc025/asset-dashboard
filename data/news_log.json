@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q2 earnings",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance from major European banks could impact market sentiment.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates to remain unchanged for now",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "UK's Monetary Policy Committee keeps interest rate at 1.75% as expected.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain stable but with mixed signals."
-    }
-  },
-  {
     "timestamp": "2026-06-11 08:30",
     "data": {
       "breaking_news": [
@@ -8762,6 +8716,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の動向に注目"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield rises to 3.65% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q2",
+          "country": "EU",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed earnings reports from major European banks highlight the sector's ongoing challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin falls below $30,000 amid regulatory pressure",
+          "country": "Global",
+          "category": "Cryptocurrency Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price drops to $29,500 as investors remain cautious.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Regulatory pressures intensify in crypto markets."
     }
   }
 ]
