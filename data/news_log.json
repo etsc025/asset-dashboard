@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "As US inflation rises, 10-year Treasury yields hit a new high of 3.95%.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be raised by Bank of England",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank is expected to raise interest rates, signaling a shift towards tightening monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after China PMI data release",
-          "country": "China",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Chinese manufacturing activity expanded in July but at a slower pace than expected, leading to varied market reactions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as inflation pressures persist."
-    }
-  },
-  {
     "timestamp": "2026-06-11 06:30",
     "data": {
       "breaking_news": [
@@ -8758,6 +8713,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on central bank actions"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise, Bank of England predicts",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of England hints at rate hike as inflation remains stubbornly high.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates to rise, markets cautious"
     }
   }
 ]
