@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike in the upcoming meetings.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia following its invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-06-11 02:00",
     "data": {
       "breaking_news": [
@@ -8788,6 +8754,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将再次在今年加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank extends pandemic emergency purchase program",
+          "country": "EU",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行延长了其在疫情期间的紧急购买计划，以支持经济增长。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio for banks",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低了对银行的存款准备金率，旨在刺激信贷增长。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎乐观"
     }
   }
 ]
