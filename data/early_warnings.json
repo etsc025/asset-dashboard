@@ -1,121 +1,5 @@
 [
   {
-    "timestamp": "2026-05-29 22:00",
-    "ticker": "STX",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=3.31（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 3.31,
-      "pc_ratio_oi": 2.1,
-      "total_put_vol": 10723,
-      "total_call_vol": 3243
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:00",
-    "ticker": "DELL",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高3.5倍（5日平均比2.7倍）",
-    "data": {
-      "vol_ratio": 3.48
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:00",
-    "ticker": "DELL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-05-27",
-          "filer": [
-            "DELL'OSSO DOMENIC J JR  (CIK 0001504988)",
-            "Transocean Ltd.  (CIK 0001451505)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-05-28",
-          "filer": [
-            "O'Hara David Mark  (CIK 0002125738)",
-            "CADIZ INC  (CIK 0000727273)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "1357.HK",
-    "type": "出来高異常（売り抜け疑い）",
-    "level": "HIGH",
-    "message": "出来高3.4倍増加・価格-3.33%下落（機関売り抜けの可能性）",
-    "data": {
-      "vol_ratio": 3.4,
-      "price_change": -3.33
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "000150.KS",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高3.2倍（5日平均比3.2倍）",
-    "data": {
-      "vol_ratio": 3.16
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "055550.KS",
-    "type": "出来高異常（仕込み疑い）",
-    "level": "HIGH",
-    "message": "出来高3.4倍増加・価格変動+0.86%（機関仕込みの可能性）",
-    "data": {
-      "vol_ratio": 3.42,
-      "price_change": 0.86
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "0998.HK",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.3倍（5日平均比2.3倍）",
-    "data": {
-      "vol_ratio": 2.34
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "2618.HK",
-    "type": "出来高異常（仕込み疑い）",
-    "level": "HIGH",
-    "message": "出来高3.4倍増加・価格変動-0.46%（機関仕込みの可能性）",
-    "data": {
-      "vol_ratio": 3.35,
-      "price_change": -0.46
-    }
-  },
-  {
-    "timestamp": "2026-05-29 22:01",
-    "ticker": "MPC",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.23（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.23,
-      "pc_ratio_oi": 0.58,
-      "total_put_vol": 701,
-      "total_call_vol": 2991
-    }
-  },
-  {
     "timestamp": "2026-05-29 22:01",
     "ticker": "AKAM",
     "type": "Put/Call比率異常（下落警戒）",
@@ -4598,6 +4482,240 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-06-15 08:30",
+    "ticker": "--market",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Saba Capital Management, L.P.  (CIK 0001510281)",
+            "HIGHLAND OPPORTUNITIES & INCOME FUND  (CIK 0001710680)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "LINEBARGER NORMAN THOMAS  (CIK 0001238892)",
+            "INNIO N.V.  (CIK 0002109150)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "LIEBERMAN GERALD M  (CIK 0001234346)",
+            "TEVA PHARMACEUTICAL INDUSTRIES LTD  (CIK 0000818686)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Jelinek Richard M  (CIK 0001707429)",
+            "Evolent Health, Inc.  (CIK 0001628908)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Santos Edwin J  (CIK 0001548238)",
+            "Flywire Corp  (CIK 0001580560)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:00",
+    "ticker": "STX",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-11",
+          "filer": [
+            "Romano Gianluca  (CIK 0001764650)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-11",
+          "filer": [
+            "Chong Kian Fatt  (CIK 0001987421)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-11",
+          "filer": [
+            "MOSLEY WILLIAM D  (CIK 0001388390)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-11",
+          "filer": [
+            "Morris John Christopher  (CIK 0001988271)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-11",
+          "filer": [
+            "Teh Ban Seng  (CIK 0001801425)",
+            "Seagate Technology Holdings plc  (CIK 0001137789)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:00",
+    "ticker": "000720.KS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.1倍（5日平均比2.6倍）",
+    "data": {
+      "vol_ratio": 2.07
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:00",
+    "ticker": "MU",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.60（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.6,
+      "pc_ratio_oi": 1.58,
+      "total_put_vol": 216873,
+      "total_call_vol": 135764
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:00",
+    "ticker": "DOW",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=3.51（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 3.51,
+      "pc_ratio_oi": 1.28,
+      "total_put_vol": 5982,
+      "total_call_vol": 1705
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:01",
+    "ticker": "EXE",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "JOHNSON S P IV  (CIK 0001044584)",
+            "EXPAND ENERGY Corp  (CIK 0000895126)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Konar Shameek  (CIK 0001465302)",
+            "EXPAND ENERGY Corp  (CIK 0000895126)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Kehr Catherine A  (CIK 0001525244)",
+            "EXPAND ENERGY Corp  (CIK 0000895126)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Duster Benjamin  (CIK 0001313071)",
+            "EXPAND ENERGY Corp  (CIK 0000895126)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Steck Brian  (CIK 0001705186)",
+            "EXPAND ENERGY Corp  (CIK 0000895126)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:01",
+    "ticker": "EXE",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=3.55（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 3.55,
+      "pc_ratio_oi": 2.12,
+      "total_put_vol": 1069,
+      "total_call_vol": 301
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:01",
+    "ticker": "MPC",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-08",
+          "filer": [
+            "Henschen Michael A II  (CIK 0002069536)",
+            "Marathon Petroleum Corp  (CIK 0001510295)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.29（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.29,
+      "pc_ratio_oi": 0.59,
+      "total_put_vol": 616,
+      "total_call_vol": 2133
     }
   }
 ]
