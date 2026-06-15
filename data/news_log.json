@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-10 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank's comments suggest interest rates may rise soon, boosting financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns and rate hikes loom, watch for further developments."
-    }
-  },
-  {
     "timestamp": "2026-06-10 20:00",
     "data": {
       "breaking_news": [
@@ -8829,6 +8796,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步调整政策，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin SV and Bitcoin Gold Merge Proposal Approved by Community",
+          "country": "Canada",
+          "category": "Blockchain",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Canadian regulators approve the merge proposal of two major blockchain projects, boosting investor confidence.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "US Treasury Yield Curve Inverts Again",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The inversion of US 2-year and 10-year yield curve signals potential economic downturn.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PM Johnson to Request EU Extension on Brexit Negotiations",
+          "country": "United Kingdom",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "British Prime Minister requests extension of Brexit negotiations, aiming for a smoother transition.",
+          "affected_sectors": [
+            "Trade"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Treasury yield curve inversion raises economic concerns"
     }
   }
 ]
