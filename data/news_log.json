@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "市场情绪",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济放缓的担忧，美股开盘前出现抛售，标普500指数下跌1.2%。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "尽管经济数据疲软，欧洲央行决定保持当前的利率水平不变。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-11 12:30",
     "data": {
       "breaking_news": [
@@ -8775,6 +8729,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and fiscal measures could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-16 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high of 3.49% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB's president suggests a potential interest rate hike in the near future to combat inflation.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed post-FOMC",
+          "country": "Asia",
+          "category": "Equities",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Japan and Hong Kong stocks rise while China's market declines after FOMC announcement.",
+          "affected_sectors": [
+            "Retail"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks are expected to take more actions to control inflation."
     }
   }
 ]
