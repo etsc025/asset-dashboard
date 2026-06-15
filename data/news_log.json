@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对市场情绪影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股反弹，纳斯达克指数创历史新高",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "受苹果、微软等科技巨头带动，纳斯达克指数创下历史新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息两次以上",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示将采取更积极的货币紧缩措施，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技股反弹，纳斯达克指数创历史新高"
-    }
-  },
-  {
     "timestamp": "2026-06-11 03:30",
     "data": {
       "breaking_news": [
@@ -8787,6 +8742,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yield increases, signaling potential for further interest rate hikes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank maintains status quo on interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB keeps its current stance on interest rates, leaving markets in a state of cautious optimism.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "CHN",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The move is aimed at stimulating economic growth and liquidity, but its impact remains uncertain.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions keep markets in a cautious state."
     }
   }
 ]
