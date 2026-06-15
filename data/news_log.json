@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a rate hike, indicating a tightening of monetary policy.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank has maintained its current interest rate levels, keeping the market in a state of stability.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHN",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, signaling a potential boost to economic growth.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Rate hikes and cuts in different regions could lead to market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-11 11:00",
     "data": {
       "breaking_news": [
@@ -8776,6 +8728,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike likely ahead"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains its current interest rate levels, signaling no immediate monetary policy changes.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on tech sector rally",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as tech companies outperform expectations.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行保持一致，市场风险偏好上升"
     }
   }
 ]
