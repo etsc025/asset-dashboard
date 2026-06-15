@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged this week",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行本周将保持利率不变。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stocks mixed as China's PMI hits 50.1",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "亚洲股市表现参差不齐，中国PMI为50.1。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行维持利率不变"
-    }
-  },
-  {
     "timestamp": "2026-06-11 12:00",
     "data": {
       "breaking_news": [
@@ -8774,6 +8729,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to raise interest rates, impacting global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-16 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced new tax and spending plans to boost economic growth.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches green bond program",
+          "country": "EU",
+          "category": "Sustainability Initiatives",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has launched a new initiative to issue green bonds, aiming to increase investment in sustainable projects.",
+          "affected_sectors": [
+            "Finance",
+            "Sustainability"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and fiscal measures could impact global financial markets."
     }
   }
 ]
