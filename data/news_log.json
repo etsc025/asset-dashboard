@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受业绩不佳影响，美国主要科技公司股价集体下跌，投资者情绪转淡。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-11 10:00",
     "data": {
       "breaking_news": [
@@ -8760,6 +8727,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting yield increases in major economies."
+    }
+  },
+  {
+    "timestamp": "2026-06-15 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year bond yield above 3.25% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid rising interest rates",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European banks struggle to meet higher deposit requirements, risking financial stability.",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK property market sees mixed results in Q3",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed economic indicators impact UK housing market, sales remain steady.",
+          "affected_sectors": [
+            "Real Estate",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates rise threaten financial stability"
     }
   }
 ]
