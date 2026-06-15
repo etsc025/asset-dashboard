@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a two-month high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches probe into Chinese tech giant's data practices",
-          "country": "EU",
-          "category": "Tech",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Commission initiates an investigation into the data handling practices of a major Chinese technology company.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy sees mixed signals in Q3 GDP report",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's third-quarter Gross Domestic Product (GDP) growth was revised down slightly, but still positive.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting scheduled for tomorrow"
-    }
-  },
-  {
     "timestamp": "2026-06-11 03:00",
     "data": {
       "breaking_news": [
@@ -8801,6 +8753,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-15 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市触及历史新高",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指连续上涨，投资者情绪乐观。",
+          "affected_sectors": [
+            "金融业",
+            "科技业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率风险增加"
     }
   }
 ]
