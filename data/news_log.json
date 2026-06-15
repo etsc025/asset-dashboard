@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase the federal funds rate by 75 basis points, a significant move in monetary tightening.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Union is introducing new regulations aimed at enhancing data privacy and security.",
-          "affected_sectors": [
-            "Technology",
-            "Insurance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike by the US Fed to 3.75-4%"
-    }
-  },
-  {
     "timestamp": "2026-06-11 09:00",
     "data": {
       "breaking_news": [
@@ -8761,6 +8726,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Regulatory pressures intensify in crypto markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-15 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as central banks consider interest rate hikes",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US central bank considerations on interest rates could impact Bitcoin prices, with some analysts predicting a surge.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed as China reports better-than-expected economic data",
+          "country": "China",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese economy data outperforms expectations, but global stocks remain volatile.",
+          "affected_sectors": [
+            "Stocks"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices rise on OPEC+ supply cuts",
+          "country": "OPEC",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ announces production cuts, supporting oil price stability and growth.",
+          "affected_sectors": [
+            "Oil & Gas"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets mixed due to conflicting signals"
     }
   }
 ]
