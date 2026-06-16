@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve raises interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to raise rates by 25bps for first time since 2011",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has announced a 25 basis point increase in interest rates, the first such move in over a decade.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost lending",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the RRR, aiming to increase liquidity and support economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の動向に注意が必要です"
-    }
-  },
-  {
     "timestamp": "2026-06-12 03:00",
     "data": {
       "breaking_news": [
@@ -8801,6 +8756,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks may ease monetary policy to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to Announce Interest Rate Decision",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce a rate hike, potentially impacting the global economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economic Growth Forecast Revised Downward",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU's economic growth forecast for 2023 has been revised downward, affecting financial markets.",
+          "affected_sectors": [
+            "Finance",
+            "Agriculture"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin Price Surges on Positive Crypto Regulations",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive regulatory developments in crypto have boosted Bitcoin prices globally.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU economic growth revised down"
     }
   }
 ]
