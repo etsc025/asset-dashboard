@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a three-month high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government introduces tax hikes and spending cuts aimed at stabilizing the economy.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts interest rates for second time this year",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China reduces benchmark lending rates, signaling potential economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-12 13:30",
     "data": {
       "breaking_news": [
@@ -8822,6 +8775,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks considering interest rate hikes"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, impacting economic sentiment.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces tax cuts and spending increases to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Central Bank of China reduces reserves, signaling potential for monetary easing.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
     }
   }
 ]
