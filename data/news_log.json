@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.96%, up from 2.98% last week.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current interest rate at 4.0%, as expected by market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Goldman Sachs raises earnings forecast",
-          "country": "USA",
-          "category": "Economic Reports",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "S&P Global Ratings upgrades Goldman Sachs to 'BBB' with a stable outlook.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to rising inflation and interest rate hikes."
-    }
-  },
-  {
     "timestamp": "2026-06-12 07:30",
     "data": {
       "breaking_news": [
@@ -8813,6 +8768,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks are tightening monetary policies to curb inflation."
+    }
+  },
+  {
+    "timestamp": "2026-06-16 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have climbed above 3.25% for the first time since April.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut as economy struggles with Brexit fallout",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England has cut its base rate to 0.1% in a bid to boost the UK economy, which is grappling with post-Brexit challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the RRR for banks, aiming to inject more liquidity into the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整引发市场波动"
     }
   }
 ]
