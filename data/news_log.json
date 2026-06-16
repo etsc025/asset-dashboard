@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals readiness to raise interest rates, supporting euro gains.",
-          "affected_sectors": [
-            "Finance",
-            "Currency"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation and monetary policy remain key focus for markets."
-    }
-  },
-  {
     "timestamp": "2026-06-11 22:00",
     "data": {
       "breaking_news": [
@@ -8788,6 +8753,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Europe's banking sector faces liquidity crunch",
+          "country": "欧洲",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧洲银行业面临流动性紧缩问题。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低存款准备金率，影响有限。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
