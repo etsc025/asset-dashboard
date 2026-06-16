@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates steady",
-          "country": "EU",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its accommodative stance despite economic recovery.",
-          "affected_sectors": [
-            "Banking Sector"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Lower rates signal potential for further stimulus in China.",
-          "affected_sectors": [
-            "Stock Market"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation and economic recovery uncertainties."
-    }
-  },
-  {
     "timestamp": "2026-06-12 21:00",
     "data": {
       "breaking_news": [
@@ -8833,6 +8788,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎态度"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yield hits 3.95%, up from 2.95% a month ago.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of higher inflation",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK Bank cuts base rate by 0.25% to 1.75%, citing inflation concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio, easing liquidity",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese central bank lowers RRR by 0.5 percentage points.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策分化加剧"
     }
   }
 ]
