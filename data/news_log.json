@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后出现反弹，科技股领涨",
-          "country": "美国",
-          "category": "股市表现",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受苹果公司业绩强劲影响，美股三大指数均有所上涨。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期带动市场乐观情绪"
-    }
-  },
-  {
     "timestamp": "2026-06-12 14:30",
     "data": {
       "breaking_news": [
@@ -8826,6 +8792,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Stock Markets React Positively to Economic Data"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to increase interest rates, signaling a shift towards tighter monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed after China's PMI data",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from China’s manufacturing activity index have led to a range-bound performance in global equity markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks may tighten monetary policy, affecting financial markets."
     }
   }
 ]
