@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能对股市产生负面影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，可能提振股市和风险资产表现。",
-          "affected_sectors": [
-            "金融",
-            "リート"
-          ],
-          "top_alert": "中国央行上调存款准备金率"
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率"
-    }
-  },
-  {
     "timestamp": "2026-06-12 11:00",
     "data": {
       "breaking_news": [
@@ -8821,6 +8787,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation and interest rate uncertainties."
+    }
+  },
+  {
+    "timestamp": "2026-06-16 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Stock Markets React to US Economic Data Release",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US economic data released today showed strong growth, boosting stock markets worldwide.",
+          "affected_sectors": [
+            "Stocks"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central Bank Meeting Announced: ECB Considering Rate Hike",
+          "country": "EUROPE",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to announce a meeting focusing on potential interest rate hikes.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Surge Amid OPEC+ Production Cuts",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC and its allies have announced production cuts, leading to a significant increase in oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US economic data boosts global markets"
     }
   }
 ]
