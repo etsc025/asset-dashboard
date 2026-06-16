@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应敏感，可能影响股市和债市。",
-          "affected_sectors": [
-            "银行业",
-            "金融市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股反弹，FAANG指数上涨2.5%",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "在一系列负面消息后，FAANG（脸书、亚马逊、苹果、Netflix和谷歌母公司Alphabet）科技巨头股价集体上扬。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，市场需警惕"
-    }
-  },
-  {
     "timestamp": "2026-06-11 20:30",
     "data": {
       "breaking_news": [
@@ -8776,6 +8742,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push yields higher across major markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-16 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受苹果、微软等科技巨头财报强劲影响，美股三大指数均录得小幅上涨。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧盟",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行正在评估是否采取更多措施来应对当前的经济挑战，包括可能的进一步降息。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
     }
   }
 ]
