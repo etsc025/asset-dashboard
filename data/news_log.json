@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Stock Market Rally Drives Positive Sentiment",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US stock markets rallied sharply today, driven by strong corporate earnings reports.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Central Bank Rates Hike Expected Tomorrow",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank is expected to raise interest rates tomorrow, affecting mortgage and loan markets.",
-          "affected_sectors": [
-            "Banking",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Economic Growth Forecast Revised Downward",
-          "country": "China",
-          "category": "Finance",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "China's economic growth forecast for the year has been revised downward due to global trade tensions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Export-Import"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central Bank Rates Hike Expected Tomorrow - Potential Market Volatility"
-    }
-  },
-  {
     "timestamp": "2026-06-11 21:30",
     "data": {
       "breaking_news": [
@@ -8789,6 +8742,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振经济预期"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前大幅下跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘前大幅下跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持利率不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振信心"
     }
   }
 ]
