@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Eurozone bond markets rally as ECB hints at rate hike",
-          "country": "EUROZONE",
-          "category": "Bond Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB's dovish tone is offset by growing expectations of a rate hike.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks dip on profit warnings",
-          "country": "GLOBAL",
-          "category": "Equities",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Major tech firms like Apple and Microsoft report disappointing quarterly earnings.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB hints at rate hike, watch for confirmation"
-    }
-  },
-  {
     "timestamp": "2026-06-12 07:00",
     "data": {
       "breaking_news": [
@@ -8810,6 +8765,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat recession"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Financials",
+            "Treasury Securities"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to announce rate hike, supporting Euro strength and reducing inflation.",
+          "affected_sectors": [
+            "Eurozone Economy",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on stimulus news",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as government announces new economic stimulus measures.",
+          "affected_sectors": [
+            "Agriculture",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks are tightening monetary policies to curb inflation."
     }
   }
 ]
