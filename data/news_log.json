@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升可能影响投资者情绪，但对整体经济影响有限。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市因地缘政治风险下跌",
-          "country": "欧洲",
-          "category": "市场波动",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "由于地缘政治紧张局势加剧，欧洲主要股指大幅下挫。",
-          "affected_sectors": [
-            "金融",
-            "原材料"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升可能引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-12 02:30",
     "data": {
       "breaking_news": [
@@ -8800,6 +8753,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rises to 3.65%, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England cuts the base rate to 1.75%, signaling potential further easing.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks rally on strong earnings reports",
+          "country": "Global",
+          "category": "Tech",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major tech companies report robust Q4 profits, boosting investor confidence.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks may ease monetary policy to combat inflation"
     }
   }
 ]
