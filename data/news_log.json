@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
-          "country": "USA",
-          "category": "Finance",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "US Treasury yields fell to a new record low as the economy continues its recovery from the pandemic.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces stimulus package to boost economic growth",
-          "country": "UK",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced a £10 billion stimulus plan aimed at boosting economic recovery from the pandemic.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has cut its reserve requirement ratio, aiming to increase liquidity and support economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府积极出台经济刺激措施，市场情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-12 06:30",
     "data": {
       "breaking_news": [
@@ -8807,6 +8762,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike boosts risk appetite"
+    }
+  },
+  {
+    "timestamp": "2026-06-16 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat recession",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces additional economic support packages aimed at mitigating the effects of a potential recession.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economy data shows mixed results",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from EU economies, with some regions showing positive growth while others remain cautious.",
+          "affected_sectors": [
+            "Finance",
+            "Agriculture"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat recession"
     }
   }
 ]
