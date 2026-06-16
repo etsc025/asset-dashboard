@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国主要股指开盘走高，科技板块表现尤为突出。",
-          "affected_sectors": [
-            "金融服务业",
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-12 17:30",
     "data": {
       "breaking_news": [
@@ -8839,6 +8805,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Fiscal stimulus and yield increases support market optimism"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，可能提振股市和楼市。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因业绩不佳和监管压力，美国科技股普遍下跌。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策可能提振股市"
     }
   }
 ]
