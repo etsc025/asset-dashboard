@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to extend pandemic support measures",
-          "country": "EU",
-          "category": "Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union extends existing economic support packages for businesses and individuals affected by the pandemic.",
-          "affected_sectors": [
-            "Business",
-            "Healthcare"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates unchanged amid Brexit uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank maintains its interest rate at 0.1%, signaling no immediate changes in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery faces challenges due to inflation and Brexit uncertainties."
-    }
-  },
-  {
     "timestamp": "2026-06-12 22:00",
     "data": {
       "breaking_news": [
@@ -8834,6 +8788,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic data release",
+          "country": "USA",
+          "category": "经济数据发布",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因经济数据显示强劲增长前景。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch",
+          "country": "EU",
+          "category": "银行流动性紧张",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧洲主要银行面临资金流动性短缺问题，可能影响信贷市场和消费者信心。",
+          "affected_sectors": [
+            "银行业",
+            "金融市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets rally on positive earnings reports",
+          "country": "亚洲",
+          "category": "企业财报发布",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "亚洲股市因强劲的公司业绩报告而上涨，提振市场情绪。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲银行流动性紧张风险增加"
     }
   }
 ]
