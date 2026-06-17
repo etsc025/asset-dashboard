@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as SEC approves first crypto ETF",
-          "country": "USA",
-          "category": "Financial Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Securities and Exchange Commission (SEC) has approved the first US crypto exchange-traded fund (ETF), boosting Bitcoin's market sentiment.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global bond yields rise amid inflation concerns",
-          "country": "GLOBAL",
-          "category": "Financial Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Rising global bond yields reflect growing investor worries about rising inflation, potentially impacting economic growth.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Central banks consider rate hikes to curb inflation",
-          "country": "GLOBAL",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Major central banks are considering interest rate hikes to combat high inflation rates, which could dampen economic growth.",
-          "affected_sectors": [
-            "Bond Market",
-            "Equities"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks consider rate hikes to curb inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-13 08:30",
     "data": {
       "breaking_news": [
@@ -8843,6 +8797,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Fiscal stimulus expected to boost economies"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前大跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股开盘即下跌超过1%。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，股市反应强烈"
     }
   }
 ]
