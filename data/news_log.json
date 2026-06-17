@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变化",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者信心增强，利好股市和债券市场。",
-          "affected_sectors": [
-            "金融业",
-            "房地产行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，需警惕经济放缓风险"
-    }
-  },
-  {
     "timestamp": "2026-06-13 18:30",
     "data": {
       "breaking_news": [
@@ -8825,6 +8779,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could disrupt global trade and financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-18 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调存款准备金率至8.4%",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布下调存款准备金率，提振市场信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股重挫影响，美股开盘即遭遇抛售，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降准提振信心"
     }
   }
 ]
