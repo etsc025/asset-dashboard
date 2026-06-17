@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to cut interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank is expected to reduce interest rates in response to economic slowdown.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on favorable policy signals",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as government announces supportive measures for the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to cut interest rates - potential impact on global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-13 05:30",
     "data": {
       "breaking_news": [
@@ -8829,6 +8784,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to rising inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The UK's economic outlook has been revised downwards by analysts, citing Brexit uncertainties.",
+          "affected_sectors": [
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank is expected to announce a rate cut in the coming weeks.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit uncertainties persist, caution advised."
     }
   }
 ]
