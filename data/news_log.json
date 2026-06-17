@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks to boost liquidity amid economic uncertainty",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank (ECB) is expected to increase liquidity measures in response to economic uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global equity markets mixed after tech sector earnings",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across major stock indices as technology sector reports vary.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central banks to boost liquidity amid economic uncertainties"
-    }
-  },
-  {
     "timestamp": "2026-06-13 01:00",
     "data": {
       "breaking_news": [
@@ -8842,6 +8795,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to raise interest rates for the second time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The EU has imposed additional sanctions on Russian entities and individuals to further pressure the country's economy.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China launches new stimulus package",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China has announced a new economic stimulus package aimed at boosting domestic demand and growth.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場今日風險升高"
     }
   }
 ]
