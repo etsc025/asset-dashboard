@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank's comments suggest interest rates may rise soon, boosting euro against major currencies.",
-          "affected_sectors": [
-            "Finance",
-            "Currency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK stock market gains on Brexit optimism",
-          "country": "UK",
-          "category": "Stock Market",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "Positive sentiment around Brexit negotiations pushes UK stocks higher, though concerns remain.",
-          "affected_sectors": [
-            "Finance",
-            "Stocks"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank hints at rate hike"
-    }
-  },
-  {
     "timestamp": "2026-06-13 09:00",
     "data": {
       "breaking_news": [
@@ -8830,6 +8783,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，股市反应强烈"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to hike rates by 25bps next week",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank announced plans to increase interest rates by 25 basis points in the upcoming meeting.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes could lead to economic slowdown."
     }
   }
 ]
