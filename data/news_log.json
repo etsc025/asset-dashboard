@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to announce rate hikes in the near future, signaling a shift towards tighter monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices surge on supply concerns",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Oil prices have surged due to worries over global crude supply disruptions.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and inflation fears loom, markets remain volatile."
-    }
-  },
-  {
     "timestamp": "2026-06-13 20:30",
     "data": {
       "breaking_news": [
@@ -8810,6 +8762,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase the federal funds rate by 75 basis points in its upcoming meeting.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is planning to introduce new regulations aimed at enhancing data privacy and security.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices rise due to geopolitical tensions",
+          "country": "Global",
+          "category": "Energy Prices",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical conflicts have led to a surge in oil prices, affecting global energy markets.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and geopolitical tensions could lead to market volatility."
     }
   }
 ]
