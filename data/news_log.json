@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates hike expected by BOE",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England is widely expected to raise interest rates, following US Fed's recent move.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economic growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "ECB warns EU economy may face slower growth due to global uncertainties.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Treasury yields above 3.5% for first time in months."
-    }
-  },
-  {
     "timestamp": "2026-06-13 13:30",
     "data": {
       "breaking_news": [
@@ -8806,6 +8758,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，股市下跌"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to raise interest rates, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economy Growth Forecast Revised Downward",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU economy growth forecast has been revised downward due to geopolitical risks.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin Hits All-Time High Amidst Market Sentiment Shift",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin price reaches an all-time high, reflecting a shift in market sentiment towards risk-on.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks to raise rates: Potential for global economic volatility"
     }
   }
 ]
