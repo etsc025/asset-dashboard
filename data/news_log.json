@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have increased by 25 basis points in the past hour.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank hints at rate hikes",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has signaled a potential for interest rate increases, signaling tighter monetary conditions in the near future.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after strong earnings reports",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "While some sectors have seen gains following positive quarterly results, overall market sentiment remains cautious.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU Central Bank hints at rate hikes - watch for further developments."
-    }
-  },
-  {
     "timestamp": "2026-06-13 12:30",
     "data": {
       "breaking_news": [
@@ -8817,6 +8772,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-06-17 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "FAANG指数领涨市场，提振了投资者信心。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示未来可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "尽管保持利率不变，但欧洲央行表示可能会在未来采取进一步宽松措施以支持经济。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，投资者情绪乐观"
     }
   }
 ]
