@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q3 earnings",
-          "country": "EU",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行第三季度财报显示喜忧参半。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR)",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国央行下调了存款准备金率，但市场反应平平。",
-          "affected_sectors": [
-            "货币供应量"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球股市上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-13 13:00",
     "data": {
       "breaking_news": [
@@ -8818,6 +8773,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，引发市场波动",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，导致股市下跌和人民币贬值压力增加。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升推动美元汇率上涨，对新兴市场造成冲击。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，股市下跌"
     }
   }
 ]
