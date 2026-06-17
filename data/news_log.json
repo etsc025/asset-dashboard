@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond/Yield",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.95%, up from 2.8% last week.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates for the first time in two years",
-          "country": "中国",
-          "category": "Interest Rates",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China cut the reserve requirement ratio (RRR) by 0.25 percentage points.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank keeps interest rates unchanged amid inflation concerns",
-          "country": "EU",
-          "category": "Interest Rates",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current interest rate at 1.75% as expected.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-13 05:00",
     "data": {
       "breaking_news": [
@@ -8830,6 +8782,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting fiscal measures in major economies."
+    }
+  },
+  {
+    "timestamp": "2026-06-17 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates to rise: Bank of England",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "BoE signals rate hike as UK inflation hits 9-year high.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks maintain tight monetary policy",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB and others keep interest rates unchanged amid economic uncertainty.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to rising inflation"
     }
   }
 ]
