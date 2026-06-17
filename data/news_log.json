@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record high amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year yield above 3.5% for first time since 2018.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Government introduces tax increases and spending cuts to control rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks discuss rate hikes amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Central bankers express cautious optimism about future interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns intensify, central banks remain cautious"
-    }
-  },
-  {
     "timestamp": "2026-06-13 07:30",
     "data": {
       "breaking_news": [
@@ -8831,6 +8785,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Russia's aggression intensifies, EU tightens sanctions"
+    }
+  },
+  {
+    "timestamp": "2026-06-17 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see positive outlook despite Brexit uncertainties",
+          "country": "欧洲",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "尽管存在英国脱欧的不确定性，欧洲银行仍持乐观态度。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets rally on positive US economic data",
+          "country": "亚洲",
+          "category": "股市",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受美国积极经济数据的推动，亚洲股市上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎乐观"
     }
   }
 ]
