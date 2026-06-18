@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks to Tighten Monetary Policy",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major US central banks are expected to tighten monetary policy, potentially impacting markets.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Europe's GDP Growth Forecast Revised Downward",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Revised forecast suggests slower economic growth in Europe, affecting financial markets.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's Retail Sales Up 5.8% Year-on-Year",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Moderate increase in retail sales highlights economic resilience.",
-          "affected_sectors": [
-            "Retail",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks to tighten policy, potential market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-14 12:00",
     "data": {
       "breaking_news": [
@@ -8715,6 +8667,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
+    }
+  },
+  {
+    "timestamp": "2026-06-18 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，但未对股市造成显著影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
