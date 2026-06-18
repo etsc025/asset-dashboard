@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new fiscal stimulus package",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "EU leaders have approved a new fiscal stimulus plan to support businesses and individuals.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU stimulus package approved"
-    }
-  },
-  {
     "timestamp": "2026-06-14 15:30",
     "data": {
       "breaking_news": [
@@ -8705,6 +8670,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks signal continued economic growth and stability."
+    }
+  },
+  {
+    "timestamp": "2026-06-19 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济和股市表现。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升可能影响投资者信心和金融市场稳定性。",
+          "affected_sectors": [
+            "债券市场",
+            "股市"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑延长QE计划",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH未知",
+          "summary": "欧洲央行是否延长量化宽松计划的讨论可能影响欧元区经济复苏预期。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国国债收益率上升，需关注市场波动"
     }
   }
 ]
