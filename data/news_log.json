@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场均表现良好。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后小幅下跌，科技股领跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市在科技股领跌下开盘后出现小幅下跌，投资者对全球经济前景表示担忧。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以对抗通胀压力",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH/BEARISH未知",
-          "summary": "欧洲央行可能采取更多紧缩措施，但对市场影响尚不明朗。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-14 22:00",
     "data": {
       "breaking_news": [
@@ -8719,6 +8673,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步调整货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, economists predict",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to continue raising interest rates in 2023 based on recent economic reports.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions against Russia, markets react negatively",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU has imposed additional sanctions on Russian entities in response to the invasion of Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio, boosting liquidity",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio to support economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions against Russia lead to market downturn"
     }
   }
 ]
