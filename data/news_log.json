@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后小幅上涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受科技股反弹影响，美股三大指数开盘后略有回升。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以应对通胀压力",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施来对抗高通胀，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "能源行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市小幅上涨，但风险资产波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-14 11:30",
     "data": {
       "breaking_news": [
@@ -8727,6 +8680,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by USA Federal Reserve"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have decided to impose additional economic penalties against Russian entities.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU sanctions on Russia could lead to further geopolitical instability."
     }
   }
 ]
