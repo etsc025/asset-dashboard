@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a 4-month high amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced additional tax cuts and spending increases to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto exchange for money laundering",
-          "country": "EU",
-          "category": "Regulation",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union authorities are examining a major cryptocurrency exchange for potential money laundering activities.",
-          "affected_sectors": [
-            "Technology",
-            "Financial Services"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-14 18:00",
     "data": {
       "breaking_news": [
@@ -8711,6 +8663,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected this year, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市触及历史新高",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国主要股指连续上涨，但分析师警告称高估值可能带来风险。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平不变，市场反应平淡。",
+          "affected_sectors": [
+            "银行",
+            "保险"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但需警惕高估值风险"
     }
   }
 ]
