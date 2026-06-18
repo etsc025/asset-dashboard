@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市，引发市场乐观情绪。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不及预期和宏观经济压力，美国科技股集体下跌，纳斯达克指数创年内新低。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行表示将在未来讨论加息的可能性，市场反应平淡但存在潜在风险。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-14 16:00",
     "data": {
       "breaking_news": [
@@ -8718,6 +8673,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国国债收益率上升，需关注市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above key psychological level.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals rate hike amid economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices rise on supply concerns",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "OPEC+ fails to reach agreement, sending crude futures soaring.",
+          "affected_sectors": [
+            "Oil and Gas",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global oil prices rise amid supply concerns"
     }
   }
 ]
