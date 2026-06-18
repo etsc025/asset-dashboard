@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time this year, signaling a tightening of monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Political Developments",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth rate slows down slightly",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China reported a slight slowdown in its Gross Domestic Product growth rate for the second quarter of 2023.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行一致加息预期增强"
-    }
-  },
-  {
     "timestamp": "2026-06-14 00:00",
     "data": {
       "breaking_news": [
@@ -8820,6 +8774,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB keeps rates unchanged, no immediate rate hike risk"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has decided to raise interest rates, indicating a potential economic slowdown.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new financial regulation",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU is implementing new regulations aimed at improving financial stability and transparency.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market falls sharply",
+          "country": "中国",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "China's major stock indices have dropped significantly, reflecting investor concerns about economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Federal Reserve interest rate hike signals potential economic slowdown"
     }
   }
 ]
