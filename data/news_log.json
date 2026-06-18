@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new fiscal stimulus package",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has unveiled a substantial economic support plan to boost growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirements ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "China's central bank has reduced the required reserve ratio, potentially easing liquidity conditions.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策变动加大市场波动风险"
-    }
-  },
-  {
     "timestamp": "2026-06-14 09:30",
     "data": {
       "breaking_news": [
@@ -8734,6 +8686,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU announces new sanctions on Russia affecting energy and commodity prices."
+    }
+  },
+  {
+    "timestamp": "2026-06-18 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike next year",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank suggests interest rates may rise in 2024, but markets remain cautious.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks underperform amid regulatory concerns",
+          "country": "Global",
+          "category": "Tech Sector",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Despite mixed earnings reports, tech stocks continue to outperform other sectors.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike next year - consider adjusting portfolio"
     }
   }
 ]
