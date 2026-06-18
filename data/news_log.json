@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将有更多宽松政策出台。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后出现短暂回调",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "受科技股拖累，美股开盘后出现小幅下跌，随后反弹。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在下半年加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "尽管近期市场对加息预期强烈，但欧洲央行表示将在下半年采取行动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市表现平稳，但仍需关注政策变化"
-    }
-  },
-  {
     "timestamp": "2026-06-14 17:00",
     "data": {
       "breaking_news": [
@@ -8721,6 +8675,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行会议临近，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，预计对股市和房地产市场有利。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，美元走强",
+          "country": "美国",
+          "category": "利率与货币",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，可能影响新兴市场的资本流动。",
+          "affected_sectors": [
+            "新兴市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策",
+          "country": "欧盟",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行暗示可能采取更多措施刺激经济增长。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，但新兴市场波动加剧"
     }
   }
 ]
