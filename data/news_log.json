@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者信心增强，利好股市和债券市场。",
-          "affected_sectors": [
-            "金融业",
-            "房地产业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响经济前景"
-    }
-  },
-  {
     "timestamp": "2026-06-14 13:00",
     "data": {
       "breaking_news": [
@@ -8701,6 +8667,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns intensify, ECB may hike rates soon."
+    }
+  },
+  {
+    "timestamp": "2026-06-18 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's central bank has just announced a rate hike, indicating potential economic strength.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement new financial regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU member states are expected to adopt new financial regulations aimed at enhancing market stability.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts interest rates",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The Chinese central bank has cut interest rates, potentially boosting economic growth.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国金融政策变动，市场需关注"
     }
   }
 ]
