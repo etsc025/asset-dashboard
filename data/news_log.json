@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points in December meeting",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备将在12月会议上将利率提高75个基点，对股市和债券市场产生影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) by 0.5 percentage points",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "中国央行将存款准备金率下调0.5个百分点，有助于降低企业的融资成本。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备加息预期增加"
-    }
-  },
-  {
     "timestamp": "2026-06-14 20:30",
     "data": {
       "breaking_news": [
@@ -8690,6 +8657,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces fiscal stimulus package"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济增长放缓的担忧。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率小幅上升，对股市和债市影响有限。",
+          "affected_sectors": [
+            "股市",
+            "债市"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率不变，符合市场预期。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持稳定"
     }
   }
 ]
