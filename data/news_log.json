@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
-          "affected_sectors": [
-            "金融服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪波动",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，影响投资者对长期投资的信心。",
-          "affected_sectors": [
-            "金融机构"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-14 13:30",
     "data": {
       "breaking_news": [
@@ -8712,6 +8679,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国金融政策变动，市场需关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
+          "country": "USA",
+          "category": "Finance",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a new record low of 0.54% as the market weighs the impact of economic reopening plans.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank extends pandemic emergency purchase program",
+          "country": "EU",
+          "category": "Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB has extended its Pandemic Emergency Purchase Program (PEPP) for another year, providing liquidity to the market.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Finance",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio (RRR) for banks by 0.5 percentage points, easing liquidity constraints.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持宽松货币政策"
     }
   }
 ]
