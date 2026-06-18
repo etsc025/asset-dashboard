@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响尚不明朗。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市波动加剧",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率的上升导致股市波动加大，投资者情绪受到提振。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以抑制通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否采取更多措施来对抗高企的通货膨胀，市场反应谨慎。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，股市波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-14 05:00",
     "data": {
       "breaking_news": [
@@ -8779,6 +8734,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting fiscal measures in major economies."
+    }
+  },
+  {
+    "timestamp": "2026-06-18 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, impacting bond markets.",
+          "affected_sectors": [
+            "Bond Markets"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government unveils measures to support economy post-pandemic.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU launches investigation into US tech giants",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "European Commission initiates probe into US tech companies' practices.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package to boost economy"
     }
   }
 ]
