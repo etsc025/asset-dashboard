@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振经济和企业信心。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济放缓的担忧，美股在开盘前出现抛售。",
-          "affected_sectors": [
-            "金融服务业",
-            "零售业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能进一步加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "尽管有迹象显示欧元区经济放缓，但欧洲央行仍可能继续加息。",
-          "affected_sectors": [
-            "银行业",
-            "保险业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-14 18:30",
     "data": {
       "breaking_news": [
@@ -8711,6 +8663,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需警惕高估值风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Signals Rate Hike Ahead",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备暗示即将加息，市场情绪乐观。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Economic Growth Forecast Revised Upward",
+          "country": "EU",
+          "category": "经济数据",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟对经济增长的预测上调，但整体经济环境保持稳定。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备暗示即将加息"
     }
   }
 ]
