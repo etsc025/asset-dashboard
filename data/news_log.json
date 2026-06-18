@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统表示今年将再次加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to cut bond buying next month",
-          "country": "EU",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧洲中央银行宣布下个月减少债券购买计划，对股市造成负面影响。",
-          "affected_sectors": [
-            "金融服务业",
-            "零售业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "中国央行降低了存款准备金率，但市场反应平缓。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统再次加息"
-    }
-  },
-  {
     "timestamp": "2026-06-14 22:30",
     "data": {
       "breaking_news": [
@@ -8722,6 +8675,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions against Russia lead to market downturn"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布将降低部分银行的贷款利率，预计将提振经济增长和企业融资环境。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现小幅下跌，投资者情绪谨慎",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技股拖累，美股今日开盘后出现小幅下跌，投资者对全球经济前景保持警惕。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管近期经济数据强劲，但欧洲央行仍表示将在未来讨论是否加息来应对高企的通货膨胀率。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎态度"
     }
   }
 ]
