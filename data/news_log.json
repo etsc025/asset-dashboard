@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Key Dates Announced",
-          "country": "USA",
-          "category": "Central Banking",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Key dates for major central bank meetings have been announced, potentially impacting monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Stock Market Reacts to US-China Trade Talks",
-          "country": "China",
-          "category": "Trade Relations",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "US and China agree on key trade issues, boosting market sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global Interest Rates Rise: Impact Analysis Required",
-          "country": "Worldwide",
-          "category": "Interest Rates",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Rising interest rates could affect borrowing costs and investment decisions globally.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks' monetary policy changes may impact financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-14 05:30",
     "data": {
       "breaking_news": [
@@ -8779,6 +8731,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal stimulus package to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased, indicating a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has signaled its willingness to raise interest rates, signaling a move towards tighter monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes loom, markets cautious"
     }
   }
 ]
