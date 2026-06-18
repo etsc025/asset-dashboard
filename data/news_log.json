@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 2.98% amid ongoing concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "Europe",
-          "category": "Central Bank Actions",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials suggested a possible interest rate increase in the near future, boosting financial markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on favorable economic data",
-          "country": "China",
-          "category": "Equities",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rose as positive economic indicators were released, signaling a potential recovery in the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks hinting at rate hikes could lead to volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-14 03:00",
     "data": {
       "breaking_news": [
@@ -8795,6 +8747,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.95%, up from 3.7% yesterday, reflecting market's growing concern over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to hike rates next week",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank is expected to raise interest rates by 0.5% at its upcoming meeting, signaling further monetary tightening.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth forecast revised downward",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Chinese authorities have adjusted their GDP growth projection for Q3 to 4.5%, down from earlier estimate of 6%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank rate hike expected next week"
     }
   }
 ]
