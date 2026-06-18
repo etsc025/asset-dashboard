@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Developments",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "New EU sanctions against Russia are expected to impact the Russian economy and could lead to geopolitical tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth exceeds expectations",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China reported a stronger-than-expected GDP growth, indicating robust domestic demand and investment.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could escalate tensions"
-    }
-  },
-  {
     "timestamp": "2026-06-14 00:30",
     "data": {
       "breaking_news": [
@@ -8819,6 +8772,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Federal Reserve interest rate hike signals potential economic slowdown"
+    }
+  },
+  {
+    "timestamp": "2026-06-18 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have imposed additional sanctions on Russian entities in response to the invasion of Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
     }
   }
 ]
