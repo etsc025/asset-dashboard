@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布今年将进一步加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russian energy sector",
-          "country": "EU",
-          "category": "政治经济",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧盟对俄罗斯能源行业实施新制裁，可能影响欧洲能源价格和市场信心。",
-          "affected_sectors": [
-            "石油天然气行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行降低存款准备金率，旨在刺激经济增长，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国加息可能引发全球市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-15 04:30",
     "data": {
       "breaking_news": [
@@ -8726,6 +8680,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation and interest rate hikes."
+    }
+  },
+  {
+    "timestamp": "2026-06-19 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's regulatory environment improves in Europe amid EU blockchain law proposal",
+          "country": "EU",
+          "category": "Financial Regulations",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European regulators are easing restrictions on Bitcoin, potentially boosting the cryptocurrency market.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "US Federal Reserve to raise interest rates by 0.25%",
+          "country": "USA",
+          "category": "Economic Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US central bank's rate hike is expected to strengthen the USD and reduce inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian currencies weaken against the USD amid economic concerns",
+          "country": "Asia",
+          "category": "Currency Movements",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Weak Asian currencies are seen as a response to growing economic uncertainties in the region.",
+          "affected_sectors": [
+            "Trade"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed hikes rates, USD strengthens"
     }
   }
 ]
