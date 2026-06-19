@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax cuts and spending increases aimed at stabilizing the economy amid rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank raises interest rates to combat inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank hikes its main rate by 50 basis points, the largest increase since 2011.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global inflation concerns rise, ECB hikes rates"
-    }
-  },
-  {
     "timestamp": "2026-06-15 11:30",
     "data": {
       "breaking_news": [
@@ -8714,6 +8666,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政策動向に注意が必要です"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains as SEC approves first crypto ETF",
+          "country": "USA",
+          "category": "Financials",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Securities and Exchange Commission (SEC) has approved the first U.S. crypto exchange-traded fund (ETF), boosting Bitcoin's market sentiment.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "As inflation rises, global bond yields are on the rise, indicating a shift towards risk-on markets.",
+          "affected_sectors": [
+            "Bond Market"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Central banks maintain interest rates despite economic concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Major central banks have decided to keep interest rates unchanged in response to ongoing economic uncertainties.",
+          "affected_sectors": [
+            "Finance Sector"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global bond yields rise amid inflation concerns"
     }
   }
 ]
