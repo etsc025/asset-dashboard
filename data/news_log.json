@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季强劲表现而上涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家大型科技公司发布良好财报，提振了整体市场情绪。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲债券收益率上升，对经济增长担忧增加",
-          "country": "欧洲",
-          "category": "利率与经济",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "由于经济增长放缓的预期，欧洲债券收益率上升。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但需警惕经济增长不确定性"
-    }
-  },
-  {
     "timestamp": "2026-06-15 06:30",
     "data": {
       "breaking_news": [
@@ -8716,6 +8669,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets remain volatile with potential for further fluctuations."
+    }
+  },
+  {
+    "timestamp": "2026-06-19 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve Signals Rate Hike Ahead",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备暗示即将加息，市场情绪乐观。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU Economy Report Shows Growth Stalls",
+          "country": "EU",
+          "category": "经济数据",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟经济增长放缓，对市场影响中等。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin Price Drops Below $40,000",
+          "country": "全球",
+          "category": "加密货币",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "比特币价格小幅下跌但仍高于$40,000，市场情绪保持乐观。",
+          "affected_sectors": [
+            "金融科技"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧盟经济增长放缓需关注"
     }
   }
 ]
