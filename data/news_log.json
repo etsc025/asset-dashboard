@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮，科技股领跌",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市开盘后遭遇抛售潮，科技股领跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，市场反应较为平淡。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-06-15 08:30",
     "data": {
       "breaking_news": [
@@ -8705,6 +8659,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and economic indicators are key factors for investors."
+    }
+  },
+  {
+    "timestamp": "2026-06-19 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as US economy shows strength",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The yield on 10-year US Treasuries rose to 3.85%, indicating a strong US economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK inflation rate hits record high",
+          "country": "United Kingdom",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The UK's annual inflation rate reached 9% in September, the highest level since records began.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation hits record high in UK"
     }
   }
 ]
