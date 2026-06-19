@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低存款准备金率，预计将释放大量流动性。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续五日上涨，科技股领涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "受科技股推动，美股连续五日上涨，标普500指数创下新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策以应对通胀压力",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否采取更多措施来对抗通胀，市场反应较为平静。",
-          "affected_sectors": [
-            "银行业",
-            "资本市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国央行动向将影响全球金融市场"
-    }
-  },
-  {
     "timestamp": "2026-06-15 01:00",
     "data": {
       "breaking_news": [
@@ -8710,6 +8663,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns intensify, markets rally"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates, signaling a tightening of monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new tax measures for tech giants",
+          "country": "UK",
+          "category": "Tax Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced new taxes on large technology companies to address income inequality.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU proposes carbon pricing reform",
+          "country": "EU",
+          "category": "Environmental Policies",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The EU is considering reforms to its carbon trading system, potentially boosting green investments.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes could lead to economic slowdown"
     }
   }
 ]
