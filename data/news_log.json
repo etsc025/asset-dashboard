@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The yield on the 10-year US Treasury note hit a fresh high of 3.98%, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB is expected to announce a rate hike, further tightening monetary policy in response to high inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB's interest rate decision could impact global financial markets"
-    }
-  },
-  {
     "timestamp": "2026-06-15 12:00",
     "data": {
       "breaking_news": [
@@ -8711,6 +8678,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global bond yields rise amid inflation concerns"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a three-month high, reflecting concerns over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's Bank of England cuts interest rates, aiming to stimulate the economy amid Brexit uncertainty.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's central bank lowers the reserve requirement ratio, signaling potential for increased lending and economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行联手行动，市场信心提升"
     }
   }
 ]
