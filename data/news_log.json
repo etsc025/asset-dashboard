@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将再次在今年加息，市场反应强烈。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank extends pandemic emergency purchase program",
-          "country": "EU",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行延长了其在疫情期间的紧急购买计划，以支持经济增长。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国人民银行降低了对银行的存款准备金率，旨在刺激信贷增长。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-15 14:30",
     "data": {
       "breaking_news": [
@@ -8729,6 +8682,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank rate hike expected today"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升，但对整体市场影响有限。",
+          "affected_sectors": [
+            "金融",
+            "能源"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多宽松措施，提振欧元区股市。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需谨慎应对"
     }
   }
 ]
