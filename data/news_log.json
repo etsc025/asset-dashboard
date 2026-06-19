@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能引发股市回调。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国10年期国债收益率上升至3%以上",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国10年期国债收益率突破3%，市场情绪乐观，可能刺激股市上行。",
-          "affected_sectors": [
-            "金融业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，警惕股市回调风险"
-    }
-  },
-  {
     "timestamp": "2026-06-15 02:30",
     "data": {
       "breaking_news": [
@@ -8719,6 +8686,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on easing pandemic fears"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year, markets react with volatility.",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH",
+          "summary": "美国联邦储备系统表示今年将再次加息，市场对此反应剧烈。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement carbon tax on coal power plants, reducing emissions.",
+          "country": "EU",
+          "category": "环境政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "欧盟将在燃煤发电厂实施碳税，以减少排放。",
+          "affected_sectors": [
+            "能源"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China to ban single-use plastics nationwide by 2025.",
+          "country": "中国",
+          "category": "环境政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "中国政府宣布将在全国范围内禁止一次性塑料制品，以减少环境污染。",
+          "affected_sectors": [
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国政策变动加大市场波动风险"
     }
   }
 ]
