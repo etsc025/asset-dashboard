@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to increase the federal funds rate by 75 basis points at its upcoming July meeting.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation hits record high of 9% in June",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK's official consumer price index (CPI) reached a new peak at 9.1% in June, pushing the Bank of England closer to raising interest rates.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and inflation concerns dominate global markets."
-    }
-  },
-  {
     "timestamp": "2026-06-15 01:30",
     "data": {
       "breaking_news": [
@@ -8710,6 +8677,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes could lead to economic slowdown"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑在12月加息以对抗通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟委员会正在讨论是否在12月加息，以应对不断上升的通货膨胀率。此举可能提振股市信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "全球科技股遭遇抛售",
+          "country": "Global",
+          "category": "市场情绪",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济放缓的担忧，全球科技股出现抛售潮。这可能影响到整体市场的表现。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球通胀压力加大，需关注货币政策动向"
     }
   }
 ]
