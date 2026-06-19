@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场波动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市触及历史新高",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国主要股指连续上涨，投资者情绪乐观。",
-          "affected_sectors": [
-            "金融业",
-            "科技业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-15 15:00",
     "data": {
       "breaking_news": [
@@ -8730,6 +8696,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧，需谨慎应对"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Liquidity issues threaten European banking sector stability.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets mixed on trade tensions",
+          "country": "Asia",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian equity markets due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Liquidity issues threaten European banking sector stability."
     }
   }
 ]
