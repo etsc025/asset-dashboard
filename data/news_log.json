@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to announce another rate hike in the near future, boosting economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The EU has imposed additional sanctions on Russian entities, potentially leading to further geopolitical tensions.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Fed rate hike expected: US economy growth at risk"
-    }
-  },
-  {
     "timestamp": "2026-06-15 13:30",
     "data": {
       "breaking_news": [
@@ -8719,6 +8684,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球市场波动加剧，需谨慎投资"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a new all-time low, sparking fears of further economic downturn.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package amid inflation worries",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government unveiled a fresh round of fiscal measures to combat rising prices and support the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches investigation into crypto market manipulation",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "The European Commission initiated an inquiry into potential market abuses in cryptocurrencies, with no immediate impact on markets.",
+          "affected_sectors": [
+            "Tech",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Fiscal measures announced to boost economy amid inflation fears."
     }
   }
 ]
