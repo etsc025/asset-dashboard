@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise, Bank of England predicts",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England hints at rate hike as inflation remains stubbornly high.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates to rise, markets cautious"
-    }
-  },
-  {
     "timestamp": "2026-06-15 19:00",
     "data": {
       "breaking_news": [
@@ -8803,6 +8768,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，投资者需谨慎。"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns.",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US Treasury yield on 10-year note fell to a record low, raising worries about the economy's recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged.",
+          "country": "Europe",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB maintained its current interest rate levels, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed as China releases economic data.",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH/BEARISH DEPENDS ON DATA",
+          "summary": "China's recent economic indicators are expected to influence Asian stock markets, with mixed results so far.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions and economic data releases could significantly impact financial markets."
     }
   }
 ]
