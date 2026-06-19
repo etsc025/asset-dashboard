@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils plans to boost public spending and cut taxes to counter rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank hints at rate hike in July",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB suggests interest rates may rise as early as July, amid strong economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-15 07:00",
     "data": {
       "breaking_news": [
@@ -8715,6 +8669,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "欧盟经济增长放缓需关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a 2-month high, raising concerns about inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK's Bank of England cuts interest rates, aiming to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global oil prices stable despite geopolitical tensions",
+          "country": "Global",
+          "category": "Energy Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Oil prices remain steady as supply issues outweigh geopolitical risks.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets cautiously optimistic"
     }
   }
 ]
