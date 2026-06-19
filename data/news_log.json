@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank cuts interest rates in an effort to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU bond yields rise as growth fears persist",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Growth concerns are pushing up EU government bond yields.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions could impact global markets."
-    }
-  },
-  {
     "timestamp": "2026-06-15 13:00",
     "data": {
       "breaking_news": [
@@ -8722,6 +8674,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US GDP growth boosts stock markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以抑制通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧盟央行正在评估是否需要采取更多措施来对抗高通胀，这可能会导致市场波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场股市反弹",
+          "country": "新兴市场",
+          "category": "股票",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "尽管存在全球经济增长担忧，但一些新兴市场的股市在今日有所上涨。",
+          "affected_sectors": [
+            "金融/原材料"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球市场波动加剧，需谨慎投资"
     }
   }
 ]
