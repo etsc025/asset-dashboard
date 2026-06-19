@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed earnings outlook amid economic uncertainty",
-          "country": "EU",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行面临经济不确定性的影响，盈利前景出现分歧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks edge lower as China's PMI data disappoints",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "亚洲股市小幅下跌，因中国PMI数据表现不及预期。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融环境保持谨慎"
-    }
-  },
-  {
     "timestamp": "2026-06-15 08:00",
     "data": {
       "breaking_news": [
@@ -8702,6 +8657,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策提振信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-19 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has signaled a potential interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets mixed after China's PMI data",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "China's manufacturing activity index has shown signs of improvement, but overall Asian stock markets remain cautious.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and economic indicators are key factors for investors."
     }
   }
 ]
