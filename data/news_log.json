@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax hikes and spending cuts aimed at reducing inflation.",
-          "affected_sectors": [
-            "Energy",
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank hints at interest rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "ECB signals potential for further rate increases to combat rising prices.",
-          "affected_sectors": [
-            "Insurance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-16 07:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8722,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates may rise, caution investors."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns grow",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the US, 10-year Treasury yields hit a new high of 2.96%, driven by rising inflation expectations.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a £10 billion ($12.5 billion) stimulus plan to support businesses and households.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economy growth forecast revised downward",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "The EU's economic outlook has been downgraded, with GDP growth expected at 0.5% in Q2 compared to the previous estimate of 1.0%.",
+          "affected_sectors": [
+            "Finance",
+            "Business"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK stimulus package could boost economy but risks persist."
     }
   }
 ]
