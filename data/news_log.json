@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rises to 3.65%, reflecting growing inflation fears.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England cuts the base rate to 1.75%, signaling potential further easing.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks rally on strong earnings reports",
-          "country": "Global",
-          "category": "Tech",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major tech companies report robust Q4 profits, boosting investor confidence.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks may ease monetary policy to combat inflation"
-    }
-  },
-  {
     "timestamp": "2026-06-16 14:30",
     "data": {
       "breaking_news": [
@@ -8745,6 +8697,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持稳定，但需关注通胀和利率变化"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US treasury yields higher, impacting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Lack of funding could lead to reduced lending and increased borrowing costs.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Move aims to boost credit growth and ease liquidity constraints.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
