@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "ECB raises key rate by 0.25%, signaling continued fight against inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation pressures intensify, ECB hikes rates"
-    }
-  },
-  {
     "timestamp": "2026-06-16 06:00",
     "data": {
       "breaking_news": [
@@ -8778,6 +8745,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Trade tensions escalate, global stocks under pressure."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new tax on carbon emissions",
+          "country": "UK",
+          "category": "Environment",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has introduced a new policy to reduce carbon emissions by taxing high-emission vehicles.",
+          "affected_sectors": [
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected this year"
     }
   }
 ]
