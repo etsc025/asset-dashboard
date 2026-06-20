@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布将降低贷款利率，预计将提振经济和股市。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳和监管压力，美国科技巨头股价普遍下跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以刺激经济",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施来应对经济增长放缓。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振经济预期"
-    }
-  },
-  {
     "timestamp": "2026-06-16 10:00",
     "data": {
       "breaking_news": [
@@ -8761,6 +8714,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, prompting yield rise in US"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA Federal Reserve has announced a significant interest rate hike, impacting the global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for money laundering",
+          "country": "EU",
+          "category": "Regulatory Action",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union regulatory bodies are investigating a major cryptocurrency exchange for potential money laundering activities.",
+          "affected_sectors": [
+            "Cryptocurrency Exchanges"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China announces tax cuts for small businesses",
+          "country": "CHINA",
+          "category": "Economic Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The Chinese government has announced tax relief measures for small and medium-sized enterprises, aiming to boost the economy.",
+          "affected_sectors": [
+            "Small Businesses"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
     }
   }
 ]
