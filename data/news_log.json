@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Financials",
-            "Treasury Securities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank is expected to announce rate hike, supporting Euro strength and reducing inflation.",
-          "affected_sectors": [
-            "Eurozone Economy",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's stock market gains on stimulus news",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as government announces new economic stimulus measures.",
-          "affected_sectors": [
-            "Agriculture",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks are tightening monetary policies to curb inflation."
-    }
-  },
-  {
     "timestamp": "2026-06-16 18:00",
     "data": {
       "breaking_news": [
@@ -8752,6 +8704,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK government's fiscal measures could impact financial markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly a decade.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan to support businesses and individuals.",
+          "affected_sectors": [
+            "Retail",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "China",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to ease credit conditions.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets react positively to US rate hike"
     }
   }
 ]
