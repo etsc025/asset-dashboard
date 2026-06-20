@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yields hit a new high, reflecting growing inflation fears.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains its current interest rate levels, signaling no immediate monetary policy changes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains on tech sector rally",
-          "country": "中国",
-          "category": "Stock Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks rise as tech companies outperform expectations.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行保持一致，市场风险偏好上升"
-    }
-  },
-  {
     "timestamp": "2026-06-16 00:00",
     "data": {
       "breaking_news": [
@@ -8796,6 +8750,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国銀行投資拡大表明、株価上昇期待"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields hit a new record low, signaling economic weakness and potential for further monetary easing.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to extend pandemic emergency loans",
+          "country": "EU",
+          "category": "Central Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB is extending its Pandemic Emergency Purchase Programme (PEPP) by another six months, providing liquidity support.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's CB cuts reserve requirement ratio for banks",
+          "country": "中国",
+          "category": "Central Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio (RRR) for banks, easing credit conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行继续支持经济复苏"
     }
   }
 ]
