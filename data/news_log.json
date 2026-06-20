@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Announce Interest Rate Decision",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce a rate hike, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Economic Growth Forecast Revised Downward",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The EU's economic growth forecast for 2023 has been revised downward, affecting financial markets.",
-          "affected_sectors": [
-            "Finance",
-            "Agriculture"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin Price Surges on Positive Crypto Regulations",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Positive regulatory developments in crypto have boosted Bitcoin prices globally.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU economic growth revised down"
-    }
-  },
-  {
     "timestamp": "2026-06-16 15:00",
     "data": {
       "breaking_news": [
@@ -8743,6 +8695,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-06-21 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting investors' concern over rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches new financial regulations",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has announced the launch of new financial regulations aimed at improving market stability.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Japan's central bank maintains interest rates",
+          "country": "日本",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of Japan maintained its current interest rate unchanged, signaling no significant changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable but with rising inflation concerns."
     }
   }
 ]
