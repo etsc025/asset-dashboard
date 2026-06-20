@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The EU's economic growth outlook has been revised downwards by analysts, impacting financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin hits new all-time high amid global crypto rally",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin price reaches a record high as the global cryptocurrency market continues to surge.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU economy growth forecast revised downward, caution advised."
-    }
-  },
-  {
     "timestamp": "2026-06-16 08:30",
     "data": {
       "breaking_news": [
@@ -8785,6 +8740,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU to extend pandemic support measures"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will tighten data privacy rules, potentially impacting tech companies.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank has cut the reserve requirement ratio, signaling a potential increase in lending and investment.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国の金融政策変更に注意が必要"
     }
   }
 ]
