@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前大幅下跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘前大幅下跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行维持利率不变，市场反应平淡。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振信心"
-    }
-  },
-  {
     "timestamp": "2026-06-16 10:30",
     "data": {
       "breaking_news": [
@@ -8759,6 +8713,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.96% as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK Bank cuts rate by 0.25%, aiming for economic stability.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global bond yields edge up as risk appetite wanes",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "Bond yields rise slightly, reflecting cautious investor sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rate cut to boost economy"
     }
   }
 ]
