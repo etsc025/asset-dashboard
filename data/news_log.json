@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials suggest they may raise interest rates soon, amid economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets mixed on trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Markets in Asia open with gains and losses as trade disputes continue.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery faces challenges"
-    }
-  },
-  {
     "timestamp": "2026-06-16 13:00",
     "data": {
       "breaking_news": [
@@ -8740,6 +8692,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Rate hikes expected, global financial markets watch closely."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic uncertainty",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK's central bank has decided to reduce interest rates in an attempt to boost the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge up as ECB keeps rates steady",
+          "country": "EU",
+          "category": "Bond Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Despite market expectations, EU bond yields have only slightly increased after the ECB kept interest rates unchanged.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic outlook remains uncertain"
     }
   }
 ]
