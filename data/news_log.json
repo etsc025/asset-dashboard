@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "US Treasury yields increase as economic indicators raise worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Central Bank suggests potential interest rate increases but no immediate action.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors cautious as economic data mixed"
-    }
-  },
-  {
     "timestamp": "2026-06-16 11:30",
     "data": {
       "breaking_news": [
@@ -8748,6 +8715,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike looming, consider adjusting your portfolio."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激信贷增长和经济活动。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季开始而波动加剧",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "投资者关注公司业绩报告对市场的影响，导致美股波动加大。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "股市波动加剧，请谨慎投资"
     }
   }
 ]
