@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，提振股市信心",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场反应积极，股市有望上涨。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "经济数据",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，对美元汇率产生正面影响。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-16 08:00",
     "data": {
       "breaking_news": [
@@ -8769,6 +8736,55 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK stimulus package could boost economy but risks persist."
+    }
+  },
+  {
+    "timestamp": "2026-06-20 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to extend pandemic support measures",
+          "country": "EU",
+          "category": "Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union announces extension of its economic recovery fund, aiming to boost growth and employment.",
+          "affected_sectors": [
+            "Finance",
+            "Agriculture",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid recession fears",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "BoE cuts key rate by 0.25%, signaling potential for further easing as UK economy struggles.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU to extend pandemic support measures"
     }
   }
 ]
