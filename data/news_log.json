@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this week",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this week, further tightening monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new trade sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The EU has imposed new sanctions on Russia in response to its invasion of Ukraine, potentially impacting energy and financial markets.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "CHINA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, providing liquidity to financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected this week"
-    }
-  },
-  {
     "timestamp": "2026-06-16 22:30",
     "data": {
       "breaking_news": [
@@ -8751,6 +8704,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a two-month high, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces additional spending plans aimed at stabilizing the economy post-COVID-19.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU sets new carbon emission targets for 2030",
+          "country": "EU",
+          "category": "Environmental Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union proposes stricter emissions standards to combat climate change.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to support economy"
     }
   }
 ]
