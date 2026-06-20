@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has introduced new tax and spending plans to boost economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches green bond program",
-          "country": "EU",
-          "category": "Sustainability Initiatives",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has launched a new initiative to issue green bonds, aiming to increase investment in sustainable projects.",
-          "affected_sectors": [
-            "Finance",
-            "Sustainability"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and fiscal measures could impact global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-16 01:30",
     "data": {
       "breaking_news": [
@@ -8798,6 +8752,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets show signs of stability with mixed signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松货币政策",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行正在评估是否采取更多措施来刺激经济，市场反应较为平静。",
+          "affected_sectors": [
+            "银行股",
+            "欧元"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国降息政策提振经济增长预期"
     }
   }
 ]
