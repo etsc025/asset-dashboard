@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals rate hike as inflation hits record high.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK stock market gains on Brexit progress",
-          "country": "UK",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "UK stocks rise after EU and UK agree to phase out fishing restrictions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to raise interest rates, impacting global financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-16 01:00",
     "data": {
       "breaking_news": [
@@ -8795,6 +8750,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行继续支持经济复苏"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut as inflation hits record high",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK's Bank of England cuts key rate by 0.25% to combat rising inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian markets rally on US dollar weakness",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "US dollar's decline lifts Asian stocks, including China and Japan.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets show signs of stability with mixed signals"
     }
   }
 ]
