@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates hike expected next meeting",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England may raise interest rates to curb inflation, according to market expectations.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank maintains status quo on monetary policy",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB keeps key rate unchanged as expected, signaling no immediate changes in monetary conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields higher across major markets."
-    }
-  },
-  {
     "timestamp": "2026-06-16 09:00",
     "data": {
       "breaking_news": [
@@ -8785,6 +8738,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策変更に注意が必要"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face capital shortfall amid economic uncertainty",
+          "country": "EU",
+          "category": "Financial Services",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "European banks could need up to €200 billion in additional capital to meet regulatory requirements.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation and economic uncertainty."
     }
   }
 ]
