@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，提振股市和债市信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳和监管压力，美国科技巨头股价普遍下跌。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲能源危机加剧，天然气价格飙升",
-          "country": "欧洲",
-          "category": "商品市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "受能源供应紧张影响，欧洲天然气期货价格上涨超过20%。",
-          "affected_sectors": [
-            "能源"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧，需谨慎投资"
-    }
-  },
-  {
     "timestamp": "2026-06-16 05:00",
     "data": {
       "breaking_news": [
@@ -8772,6 +8727,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策分化加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-20 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to 4.25%",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Rising UK interest rates aim to curb inflation, but risks remain.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Central Bank of China reduces RRR for liquidity management.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK interest rates rise to 4.25%"
     }
   }
 ]
