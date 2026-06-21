@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB announces no change in interest rates despite market expectations for a cut.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stocks mixed as China data varies",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Stock markets in Asia show mixed performance due to varying economic indicators from China.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors should remain cautious with volatile market conditions."
-    }
-  },
-  {
     "timestamp": "2026-06-17 05:00",
     "data": {
       "breaking_news": [
@@ -8720,6 +8675,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场保持谨慎，但整体风险偏好上升"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，提振股市",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，市场波动加剧",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致投资者情绪谨慎，市场波动加大。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元区经济前景不明朗",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行保持利率不变，对欧元区经济前景持谨慎态度。",
+          "affected_sectors": [
+            "货币"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
