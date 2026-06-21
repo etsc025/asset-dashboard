@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，刺激经济增长预期增强。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲股市开盘前出现波动",
-          "country": "欧洲",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "受地缘政治紧张局势影响，欧洲主要股指小幅波动。",
-          "affected_sectors": [
-            "金融服务业",
-            "原材料"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-06-17 06:00",
     "data": {
       "breaking_news": [
@@ -8723,6 +8688,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能加息以对抗通胀",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧盟央行表示考虑加息来应对通胀压力。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "新兴市场股市遭遇抛售",
+          "country": "新兴市场国家",
+          "category": "股票",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "新兴市场股市出现抛售，受全球经济增长放缓影响。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
