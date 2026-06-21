@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，引发市场波动",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "中国央行宣布上调存款准备金率，导致股市下跌和人民币贬值压力增加。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "利率与货币市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升推动美元汇率上涨，对新兴市场造成冲击。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，股市下跌"
-    }
-  },
-  {
     "timestamp": "2026-06-17 21:30",
     "data": {
       "breaking_news": [
@@ -8708,6 +8675,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の動向が市場に影響を与える可能性が高い。"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation fears, US 10-year Treasury yields have climbed above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hikes in September",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB policymakers expressed a willingness to raise interest rates by 75 basis points in September, signaling a tightening monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Equities",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Strong performances from technology stocks have propelled Asian equity indices higher today.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB hints at September rate hike"
     }
   }
 ]
