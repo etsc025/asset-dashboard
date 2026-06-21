@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England cuts interest rates, aiming to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "EU imposes additional sanctions on Russian entities in response to its invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Russia's aggression intensifies, EU tightens sanctions"
-    }
-  },
-  {
     "timestamp": "2026-06-17 15:30",
     "data": {
       "breaking_news": [
@@ -8701,6 +8653,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks meeting next week"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济和股市。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪谨慎",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率的上升引发了市场的谨慎态度，但并未导致显著波动。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市因经济数据疲软而下跌",
+          "country": "欧洲",
+          "category": "股票市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "由于近期公布的经济数据显示增长放缓，欧洲主要股指普遍下滑。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
