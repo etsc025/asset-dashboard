@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic data release",
-          "country": "USA",
-          "category": "经济数据发布",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因经济数据显示强劲增长前景。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch",
-          "country": "EU",
-          "category": "银行流动性紧张",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧洲主要银行面临资金流动性短缺问题，可能影响信贷市场和消费者信心。",
-          "affected_sectors": [
-            "银行业",
-            "金融市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stock markets rally on positive earnings reports",
-          "country": "亚洲",
-          "category": "企业财报发布",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因强劲的公司业绩报告而上涨，提振市场情绪。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲银行流动性紧张风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-17 07:00",
     "data": {
       "breaking_news": [
@@ -8733,6 +8687,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指开盘走高，科技板块表现尤为突出。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率影响金融市场"
     }
   }
 ]
