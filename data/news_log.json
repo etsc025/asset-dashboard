@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to raise interest rates for the second time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU has imposed additional sanctions on Russian entities and individuals to further pressure the country's economy.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China launches new stimulus package",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China has announced a new economic stimulus package aimed at boosting domestic demand and growth.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場今日風險升高"
-    }
-  },
-  {
     "timestamp": "2026-06-17 10:30",
     "data": {
       "breaking_news": [
@@ -8699,6 +8652,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率影响市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors remain cautious about the economic outlook.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK inflation rate hits 3% in May, hits two-year high",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK's annual inflation rate reached 3.0% in May, marking the highest level since February 2021.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to keep interest rates unchanged for now",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB announced it will maintain its current interest rate levels, signaling no immediate changes in monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "英国通胀率升至两年高点，市场关注经济前景"
     }
   }
 ]
