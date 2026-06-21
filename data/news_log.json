@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府今日宣布降低基准利率，预计将提振股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头财报超预期增长",
-          "country": "美国",
-          "category": "企业财报",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "苹果、微软等科技公司发布强劲的季度业绩，推动纳斯达克指数上涨。",
-          "affected_sectors": [
-            "科技",
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲债券市场出现抛售潮",
-          "country": "欧洲",
-          "category": "金融市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于经济增长放缓和通胀压力上升，投资者对欧洲债券市场的信心减弱。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但需警惕地缘政治风险"
-    }
-  },
-  {
     "timestamp": "2026-06-17 15:00",
     "data": {
       "breaking_news": [
@@ -8704,6 +8656,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好经济"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed performance in Q3",
+          "country": "Europe",
+          "category": "Banking Sector",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed earnings reports from major European banks highlight ongoing challenges.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stock markets rally on tech sector gains",
+          "country": "Asia",
+          "category": "Stock Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Tech stocks lead Asian indices to record highs, boosting overall market sentiment.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks meeting next week"
     }
   }
 ]
