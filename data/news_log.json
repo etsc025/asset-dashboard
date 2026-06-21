@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen, reflecting growing concerns about inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU is set to introduce new regulations aimed at enhancing data privacy and security.",
-          "affected_sectors": [
-            "Tech Companies",
-            "Data Management"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's tech giants face regulatory scrutiny",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major Chinese tech firms are under increased scrutiny from regulators, potentially impacting their market positions.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融市場に影響を与える重要なニュースが続いている"
-    }
-  },
-  {
     "timestamp": "2026-06-17 04:30",
     "data": {
       "breaking_news": [
@@ -8723,6 +8675,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to 4.25%"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持利率不变。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's economic growth slows slightly",
+          "country": "中国",
+          "category": "经济",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "中国经济增长略有放缓。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎，但整体风险偏好上升"
     }
   }
 ]
