@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces measures to support businesses and individuals.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU warns of potential recession if no action is taken",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "EU leaders stress need for coordinated fiscal response to avoid economic downturn.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-06-17 01:00",
     "data": {
       "breaking_news": [
@@ -8752,6 +8705,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場今日風險情緒上升"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced additional economic stimulus measures aimed at stabilizing the market and supporting businesses.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike by US Federal Reserve"
     }
   }
 ]
