@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因科技股反弹而上涨",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "FAANG指数领涨市场，提振了投资者信心。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "尽管保持利率不变，但欧洲央行表示可能会在未来采取进一步宽松措施以支持经济。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-17 21:00",
     "data": {
       "breaking_news": [
@@ -8709,6 +8663,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU is set to enforce new regulations aimed at protecting personal data.",
+          "affected_sectors": [
+            "Tech Companies"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts interest rates",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's central bank lowers interest rates in a bid to boost economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の動向が市場に影響を与える可能性が高い。"
     }
   }
 ]
