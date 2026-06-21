@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK's economic outlook has been revised downwards by analysts, citing Brexit uncertainties.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU central bank to cut interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is expected to announce a rate cut in the coming weeks.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit uncertainties persist, caution advised."
-    }
-  },
-  {
     "timestamp": "2026-06-17 14:30",
     "data": {
       "breaking_news": [
@@ -8715,6 +8670,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持谨慎，关注通胀和利率动态"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "债券与金融市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致股市波动加大，投资者情绪谨慎。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好经济"
     }
   }
 ]
