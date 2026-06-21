@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "In the US, 10-year Treasury yields rose above 3.5%, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to raise interest rates",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank is expected to increase interest rates, signaling a shift towards tighter monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed after China's PMI data",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from China’s manufacturing activity index have led to a range-bound performance in global equity markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks may tighten monetary policy, affecting financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-17 00:30",
     "data": {
       "breaking_news": [
@@ -8749,6 +8704,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global oil prices rise amid geopolitical tensions"
+    }
+  },
+  {
+    "timestamp": "2026-06-21 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year bond yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts the base rate to 0.25% amid growing economic concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank eases lending standards for small businesses",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China lowers reserve requirement ratio to boost credit flow.",
+          "affected_sectors": [
+            "Finance",
+            "Small Businesses"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場今日風險情緒上升"
     }
   }
 ]
