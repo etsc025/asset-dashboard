@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Bond Markets"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils measures to support economy post-pandemic.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU launches investigation into US tech giants",
-          "country": "EU",
-          "category": "Tech",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "European Commission initiates probe into US tech companies' practices.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-18 15:00",
     "data": {
       "breaking_news": [
@@ -8716,6 +8671,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要经济体政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and spending increases to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches investigation into crypto market manipulation",
+          "country": "EU",
+          "category": "Technology & Finance",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "European Union initiates probe into potential crypto market manipulation.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to boost economy"
     }
   }
 ]
