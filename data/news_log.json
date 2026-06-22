@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US 10-year Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank signals rate hikes amid economic recovery",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials hinted at potential interest rate increases to curb inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian equity markets rally on strong earnings reports",
-          "country": "Asia",
-          "category": "Equities Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Markets in Asia have seen significant gains following positive quarterly results.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery remains strong despite inflation pressures"
-    }
-  },
-  {
     "timestamp": "2026-06-18 02:30",
     "data": {
       "breaking_news": [
@@ -8705,6 +8657,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation fears push yields to new highs in USA"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid economic data concerns",
+          "country": "USA",
+          "category": "经济数据",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率因经济数据担忧上升，市场情绪转为悲观。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布将降低利率，但对整体市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally as China unveils stimulus plan",
+          "country": "China",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国推出刺激计划提振全球科技股，市场情绪乐观。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧洲央行宣布将降低利率"
     }
   }
 ]
