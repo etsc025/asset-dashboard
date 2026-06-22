@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in nearly three decades.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new fiscal measures aimed at reducing inflation and stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally on easing trade tensions",
-          "country": "Asia",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Markets in Asia have seen a positive performance following recent developments in trade relations.",
-          "affected_sectors": [
-            "Technology",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets show strong resilience despite economic uncertainties."
-    }
-  },
-  {
     "timestamp": "2026-06-18 08:00",
     "data": {
       "breaking_news": [
@@ -8680,6 +8633,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市普遍上涨"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA Federal Reserve has increased the federal funds rate by 0.75% as expected.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK PM announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK Prime Minister has unveiled a new economic support plan to boost the economy.",
+          "affected_sectors": [
+            "Consumer Goods",
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces carbon tax on imported goods",
+          "country": "EU",
+          "category": "Environmental Policy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "EU countries have agreed to impose a carbon tax on all imported goods starting next year.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU carbon tax plan could lead to global economic downturn."
     }
   }
 ]
