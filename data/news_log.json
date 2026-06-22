@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase amid rising inflation concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3 2023",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed results for European banks in the third quarter of 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates cut to boost economy, experts say",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "UK's central bank cuts interest rates to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate cut could boost economy but risks remain."
-    }
-  },
-  {
     "timestamp": "2026-06-18 09:30",
     "data": {
       "breaking_news": [
@@ -8682,6 +8635,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策が市場に影響を与えている"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin gains $200 in 24 hours, topping $30K",
+          "country": "USA",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major crypto platform reports a significant increase in Bitcoin's value.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise as inflation fears grow",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Central banks' interest rate decisions are under scrutiny amid rising inflation concerns.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European stock markets mixed, tech stocks outperform",
+          "country": "Europe",
+          "category": "Stocks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across European exchanges with technology sectors leading gains.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation fears rise, bond yields climb"
     }
   }
 ]
