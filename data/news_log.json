@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪变化",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，可能影响股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期升温"
-    }
-  },
-  {
     "timestamp": "2026-06-18 11:30",
     "data": {
       "breaking_news": [
@@ -8696,6 +8662,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策即将公布"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, reflecting a hawkish stance.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR for banks, aiming to boost lending and support economic growth.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge on OPEC+ supply cuts",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ announced a reduction in oil production, driving up global crude prices to multi-year highs.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected to impact global financial markets"
     }
   }
 ]
