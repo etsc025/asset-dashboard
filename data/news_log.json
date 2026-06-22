@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国政府采取措施刺激经济增长，提振股市和债市信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在年底前加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "市场对利率变化保持观望态度，预计短期内无明显波动。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市连续两天下跌，科技股领跌",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "投资者担忧经济增长放缓和企业盈利前景不佳。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-18 19:00",
     "data": {
       "breaking_news": [
@@ -8753,6 +8707,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth expected to rebound this year."
+    }
+  },
+  {
+    "timestamp": "2026-06-23 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股市",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家大型科技公司发布良好财报，推动美股继续上扬。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能在短期内加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "尽管近期经济数据表现强劲，但欧洲央行仍可能在短期内采取紧缩政策。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，投资者情绪乐观"
     }
   }
 ]
