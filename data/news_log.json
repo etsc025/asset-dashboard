@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Possible",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce rate hikes, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank Considering Interest Rate Increase",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB may consider increasing interest rates to combat inflation, affecting financial markets.",
-          "affected_sectors": [
-            "Finance",
-            "Insurance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic indicators suggest rate hikes ahead."
-    }
-  },
-  {
     "timestamp": "2026-06-18 18:30",
     "data": {
       "breaking_news": [
@@ -8742,6 +8707,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed hikes interest rates, Chinese central bank cuts RRR"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new economic stimulus package",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "EU leaders have approved a significant economic stimulus plan to support businesses and workers.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Services"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts interest rates",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced interest rates, aiming to stimulate the economy but with limited impact.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth expected to rebound this year."
     }
   }
 ]
