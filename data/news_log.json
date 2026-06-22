@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has announced a significant interest rate hike, indicating an aggressive stance against inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy report shows mixed results",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU's economic report highlights both positive and negative aspects, leaving the market in a cautious stance.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin price surges on FTX crypto exchange hack news",
-          "country": "Global",
-          "category": "Cryptocurrency & Blockchain",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Following the FTX cryptocurrency exchange hack, Bitcoin prices have surged significantly, sparking a bullish sentiment in the market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike by USA Federal Reserve"
-    }
-  },
-  {
     "timestamp": "2026-06-18 21:30",
     "data": {
       "breaking_news": [
@@ -8744,6 +8698,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，对股市产生积极影响",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预期将提振股市和经济活动。",
+          "affected_sectors": [
+            "金融",
+            "工业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，市场波动加剧",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升导致投资者情绪波动，但对整体市场影响有限。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以应对通胀压力",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多宽松措施，提振欧元区股市和经济复苏预期。",
+          "affected_sectors": [
+            "金融",
+            "科技"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要金融市场波动加剧"
     }
   }
 ]
