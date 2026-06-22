@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to announce interest rate decision",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to announce its interest rate decision, potentially impacting the global financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new trade sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU has announced new trade sanctions against Russia, likely to affect energy and commodity prices.",
-          "affected_sectors": [
-            "Energy",
-            "Commodities"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI data shows strong recovery",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "China's Manufacturing Purchasing Managers' Index (PMI) has shown a significant improvement, indicating economic recovery.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU announces new sanctions on Russia affecting energy and commodity prices."
-    }
-  },
-  {
     "timestamp": "2026-06-18 19:30",
     "data": {
       "breaking_news": [
@@ -8753,6 +8707,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates by 0.25%, but warnings from major UK banks suggest the move may not be enough.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank raises reserve requirements to curb inflation",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China increases reserves requirements, seen as a measure to control rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动引发市场波动"
     }
   }
 ]
