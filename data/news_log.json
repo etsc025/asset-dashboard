@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing fears of rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's Bank of England cuts interest rates in an effort to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China central bank announces rate hike",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's central bank raises interest rates, seen as a signal of economic strength.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行行动增加市场波动风险"
-    }
-  },
-  {
     "timestamp": "2026-06-18 12:00",
     "data": {
       "breaking_news": [
@@ -8708,6 +8660,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike expected to impact global financial markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-22 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the third time this year.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new trade sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have decided to impose additional economic penalties against Russia in response to its actions.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, which could lead to more liquidity in the market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU announces new sanctions on Russia: Risk to Geopolitical Events"
     }
   }
 ]
