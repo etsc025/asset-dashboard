@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has decided to raise interest rates, indicating a potential economic slowdown.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches new financial regulation",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU is implementing new regulations aimed at improving financial stability and transparency.",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market falls sharply",
-          "country": "中国",
-          "category": "Market Performance",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "China's major stock indices have dropped significantly, reflecting investor concerns about economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Federal Reserve interest rate hike signals potential economic slowdown"
-    }
-  },
-  {
     "timestamp": "2026-06-18 10:30",
     "data": {
       "breaking_news": [
@@ -8681,6 +8636,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks' rate hikes loom, global growth uncertain."
+    }
+  },
+  {
+    "timestamp": "2026-06-22 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, potentially indicating a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government introduces additional spending cuts and tax increases to address rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank hints at rate hike in December",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European Central Bank suggests a possible interest rate increase next month, boosting financial markets sentiment.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global inflation concerns rise as central banks signal tighter monetary policies."
     }
   }
 ]
