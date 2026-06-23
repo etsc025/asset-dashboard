@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year, markets react with volatility.",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH/BEARISH",
-          "summary": "美国联邦储备系统表示今年将再次加息，市场对此反应剧烈。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement carbon tax on coal power plants, reducing emissions.",
-          "country": "EU",
-          "category": "环境政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH/BEARISH",
-          "summary": "欧盟将在燃煤发电厂实施碳税，以减少排放。",
-          "affected_sectors": [
-            "能源"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China to ban single-use plastics nationwide by 2025.",
-          "country": "中国",
-          "category": "环境政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH/BEARISH",
-          "summary": "中国政府宣布将在全国范围内禁止一次性塑料制品，以减少环境污染。",
-          "affected_sectors": [
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政策变动加大市场波动风险"
-    }
-  },
-  {
     "timestamp": "2026-06-19 13:00",
     "data": {
       "breaking_news": [
@@ -8756,6 +8711,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策变动，市场需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation fears, US 10-year Treasury yields have climbed above 3.25% for the first time since June.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank raises interest rates amid economic uncertainty",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has announced a rate hike, aiming to curb inflation and support the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks surge on strong earnings reports",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major tech companies have reported robust Q4 earnings, boosting investor confidence in the sector.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks and economic data driving financial markets"
     }
   }
 ]
