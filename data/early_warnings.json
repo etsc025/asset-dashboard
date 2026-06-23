@@ -1,207 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05 22:01",
-    "ticker": "AKAM",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.33（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.33,
-      "pc_ratio_oi": 0.63,
-      "total_put_vol": 935,
-      "total_call_vol": 2793
-    }
-  },
-  {
-    "timestamp": "2026-06-05 22:02",
-    "ticker": "CF",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.25（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.25,
-      "pc_ratio_oi": 0.68,
-      "total_put_vol": 448,
-      "total_call_vol": 1811
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "MU",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "MEHROTRA SANJAY  (CIK 0001242654)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "MEHROTRA SANJAY  (CIK 0001242654)",
-            "MICRON TECHNOLOGY INC  (CIK 0000723125)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "MU",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.89（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.89,
-      "pc_ratio_oi": 1.56,
-      "total_put_vol": 337238,
-      "total_call_vol": 178867
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "EXE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に2件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-04",
-          "filer": [
-            "Wichterich Michael  (CIK 0001840845)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-04",
-          "filer": [
-            "Teunissen Marcel  (CIK 0001730935)",
-            "EXPAND ENERGY Corp  (CIK 0000895126)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "EXE",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.34（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.34,
-      "pc_ratio_oi": 2.95,
-      "total_put_vol": 320,
-      "total_call_vol": 936
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "CF",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に3件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-01",
-          "filer": [
-            "CF GROUP MANAGEMENT INC  (CIK 0001251145)",
-            "NEWMARK GROUP, INC.  (CIK 0001690680)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-04",
-          "filer": [
-            "Feuille James  (CIK 0001318214)",
-            "Chime Financial, Inc.  (CIK 0001795586)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-01",
-          "filer": [
-            "Lutnick Brandon  (CIK 0002048880)",
-            "NEWMARK GROUP, INC.  (CIK 0001690680)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:00",
-    "ticker": "EXPE",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Jacobson Craig A  (CIK 0001419485)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Wang Alexandr  (CIK 0001976315)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Clinton Chelsea  (CIK 0001530920)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Menendez-Cambo Patricia  (CIK 0001855187)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Von Furstenberg Alexander  (CIK 0001451171)",
-            "Expedia Group, Inc.  (CIK 0001324424)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-06 22:01",
-    "ticker": "055550.KS",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.5倍（5日平均比2.0倍）",
-    "data": {
-      "vol_ratio": 2.55
-    }
-  },
-  {
     "timestamp": "2026-06-06 22:01",
     "ticker": "STX",
     "type": "インサイダー取引報告",
@@ -4893,6 +4691,164 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:00",
+    "ticker": "DELL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-16",
+          "filer": [
+            "DORMAN DAVID W  (CIK 0001082870)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-17",
+          "filer": [
+            "Rothberg Richard J  (CIK 0001680902)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-18",
+          "filer": [
+            "Saavedra Jennifer D.  (CIK 0001850336)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-18",
+          "filer": [
+            "Tunnell Jane  (CIK 0002016161)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-17",
+          "filer": [
+            "Tunnell Jane  (CIK 0002016161)",
+            "Dell Technologies Inc.  (CIK 0001571996)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:00",
+    "ticker": "AKAM",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に1件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-18",
+          "filer": [
+            "Blumofe Robert  (CIK 0001576905)",
+            "AKAMAI TECHNOLOGIES INC  (CIK 0001086222)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:00",
+    "ticker": "AKAM",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.57（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.57,
+      "pc_ratio_oi": 1.35,
+      "total_put_vol": 991,
+      "total_call_vol": 633
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:00",
+    "ticker": "603288.SS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.2倍（5日平均比2.5倍）",
+    "data": {
+      "vol_ratio": 2.24
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.26（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.26,
+      "pc_ratio_oi": 0.47,
+      "total_put_vol": 287,
+      "total_call_vol": 1106
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:01",
+    "ticker": "CF",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.47（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.47,
+      "pc_ratio_oi": 0.69,
+      "total_put_vol": 933,
+      "total_call_vol": 1979
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:01",
+    "ticker": "EXPE",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.88（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.88,
+      "pc_ratio_oi": 2.94,
+      "total_put_vol": 381,
+      "total_call_vol": 203
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:01",
+    "ticker": "EXE",
+    "type": "Put/Call比率異常（下落警戒）",
+    "level": "HIGH",
+    "message": "P/C比率=2.85（Put優勢・下落ヘッジ増加）",
+    "data": {
+      "pc_ratio_volume": 2.85,
+      "pc_ratio_oi": 1.22,
+      "total_put_vol": 2334,
+      "total_call_vol": 820
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:01",
+    "ticker": "DOW",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.27（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.27,
+      "pc_ratio_oi": 0.3,
+      "total_put_vol": 798,
+      "total_call_vol": 2966
     }
   }
 ]

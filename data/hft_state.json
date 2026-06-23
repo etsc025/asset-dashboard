@@ -1,20 +1,23 @@
 {
-  "alert": false,
-  "level": "NORMAL",
-  "reasons": [],
-  "timestamp": "2026-06-22 22:10",
+  "alert": true,
+  "level": "CRITICAL",
+  "reasons": [
+    "VIX=20.2 (+16.9%) 高ボラティリティ・新規エントリー停止",
+    "先物急落: ES=-1.4% NQ=-3.0%（現物への波及リスク高）"
+  ],
+  "timestamp": "2026-06-23 22:10",
   "vix": {
-    "vix_current": 17.09,
-    "vix_change": 4.21,
-    "level": "NORMAL",
-    "message": "VIX=17.1 (+4.2%) 正常範囲"
+    "vix_current": 20.2,
+    "vix_change": 16.9,
+    "level": "HIGH",
+    "message": "VIX=20.2 (+16.9%) 高ボラティリティ・新規エントリー停止"
   },
   "futures": {
-    "es_change": 0.0,
-    "nq_change": 0.0,
-    "spy_price": 746.74,
-    "es_price": 7571.5,
-    "level": "NORMAL",
-    "message": "先物正常: ES=+0.0% NQ=+0.0%"
+    "es_change": -1.44,
+    "nq_change": -2.99,
+    "spy_price": 744.39,
+    "es_price": 7432.5,
+    "level": "CRITICAL",
+    "message": "先物急落: ES=-1.4% NQ=-3.0%（現物への波及リスク高）"
   }
 }
