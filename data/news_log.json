@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed results in Q3 earnings report",
-          "country": "Europe",
-          "category": "银行业",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行第三季度财报显示结果参差不齐。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets rally as US dollar weakens",
-          "country": "Asia",
-          "category": "股市",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因美元走弱而上涨。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行会议临近，市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-19 03:00",
     "data": {
       "breaking_news": [
@@ -8748,6 +8703,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计对股市和房地产市场产生正面影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售，纳斯达克指数下跌2.5%",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技公司业绩不佳和监管压力影响，纳斯达克指数大幅下滑。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行维持现有利率水平，未采取进一步行动，市场反应较为平静。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
