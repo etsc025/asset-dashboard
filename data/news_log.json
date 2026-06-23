@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市触及历史新高",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国主要股指连续上涨，但分析师警告称高估值可能带来风险。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持当前利率水平不变，市场反应平淡。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，但需警惕高估值风险"
-    }
-  },
-  {
     "timestamp": "2026-06-19 04:30",
     "data": {
       "breaking_news": [
@@ -8747,6 +8699,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国金融政策变动需密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield rose to 3.45% as investors react to rising inflation fears.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB's latest meeting suggests a possible interest rate increase in the near future.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets mixed",
+          "country": "Asia",
+          "category": "Equity Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Japan and South Korea stocks rose while China's market declined.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates may rise, consider adjusting investment strategies."
     }
   }
 ]
