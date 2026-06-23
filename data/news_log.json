@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响中等。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "由于业绩担忧和市场情绪波动，美国科技股大幅下挫。纳斯达克指数跌幅超过1.5%。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能在2023年加息两次以上",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "欧洲央行表示，未来可能会有更多加息举措。市场反应不一。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国科技股遭遇抛售潮"
-    }
-  },
-  {
     "timestamp": "2026-06-19 01:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8720,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns rise, prompting higher US Treasury yields."
+    }
+  },
+  {
+    "timestamp": "2026-06-23 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank's (ECB) remarks suggest interest rates may rise soon, supporting the Euro.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks under pressure",
+          "country": "Global",
+          "category": "Equities",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Tech sector faces sell-off as investors shift focus to growth sectors.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank hints at rate hike"
     }
   }
 ]
