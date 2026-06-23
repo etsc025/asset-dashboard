@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve Signals Rate Hike Ahead",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备暗示即将加息，市场情绪乐观。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU Economy Report Shows Growth Stalls",
-          "country": "EU",
-          "category": "经济数据",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧盟经济增长放缓，对市场影响中等。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin Price Drops Below $40,000",
-          "country": "全球",
-          "category": "加密货币",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "比特币价格小幅下跌但仍高于$40,000，市场情绪保持乐观。",
-          "affected_sectors": [
-            "金融科技"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧盟经济增长放缓需关注"
-    }
-  },
-  {
     "timestamp": "2026-06-19 17:00",
     "data": {
       "breaking_news": [
@@ -8755,6 +8709,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需关注地缘政治风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升至多年高点",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国10年期国债收益率突破3%，对全球投资者情绪产生影响。",
+          "affected_sectors": [
+            "金融/债券"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多措施刺激经济增长，提振市场信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体货币政策分化加剧"
     }
   }
 ]
