@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，利好股市",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心，预计对股市有利。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，股市承压",
-          "country": "美国",
-          "category": "经济数据",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升，投资者担忧经济增长放缓，影响股市表现。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-06-19 06:00",
     "data": {
       "breaking_news": [
@@ -8755,6 +8722,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统再次加息的决定可能提振股市，但增加了全球经济放缓的风险。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国政府降低存款准备金率可能会刺激信贷增长和经济增长，但也可能引发通胀压力。",
+          "affected_sectors": [
+            "金融",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "英国",
+          "category": "经济数据",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "英国经济增速预测下调至2.5%，低于预期的3%。这可能对英镑汇率和消费者信心产生负面影响。",
+          "affected_sectors": [
+            "金融",
+            "旅游"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，需谨慎操作"
     }
   }
 ]
