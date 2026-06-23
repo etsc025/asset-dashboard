@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation worries",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time since March.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government introduces tax hikes and spending cuts aimed at reducing inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields to new highs in US"
-    }
-  },
-  {
     "timestamp": "2026-06-19 16:00",
     "data": {
       "breaking_news": [
@@ -8748,6 +8713,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Bank Meeting Updates",
+          "country": "Multiple",
+          "category": "Financial Policy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Updates on central bank meetings and their potential impact on markets.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Major Stock Market Indices Update",
+          "country": "Multiple",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Recent updates on major stock market indices including S&P 500, FTSE 100, and others.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Central Bank Interest Rate Decision",
+          "country": "Multiple",
+          "category": "Financial Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Decisions on interest rates by major central banks have been announced.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central Bank Interest Rate Decisions Released"
     }
   }
 ]
