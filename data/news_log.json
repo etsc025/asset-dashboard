@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yields hit a 2-month high, raising concerns about inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Bank of England cuts interest rates, aiming to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global oil prices stable despite geopolitical tensions",
-          "country": "Global",
-          "category": "Energy Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices remain steady as supply issues outweigh geopolitical risks.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets cautiously optimistic"
-    }
-  },
-  {
     "timestamp": "2026-06-19 17:30",
     "data": {
       "breaking_news": [
@@ -8754,6 +8708,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要经济体货币政策分化加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来降息将持续。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股表现不佳，美股开盘前出现抛售，道指一度下跌超过100点。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议结束后宣布维持现有利率不变，但表示未来可能会考虑降息。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市波动加剧，投资者需谨慎"
     }
   }
 ]
