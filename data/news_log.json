@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 20:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's Bank of England cuts interest rates, aiming to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global stock markets mixed after US jobs report",
-          "country": "GLOBAL",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "US job numbers are released, leading to a varied response from global stock markets.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rate cut could boost economy but inflation remains a concern."
-    }
-  },
-  {
     "timestamp": "2026-06-19 21:00",
     "data": {
       "breaking_news": [
@@ -8791,6 +8743,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新たな財政措置が経済対策に影響を与える可能性がある。"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.65% as investors brace for higher interest rates to curb inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates by 0.5 pct",
+          "country": "EU",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "ECB raises key rate to 3.25% amid economic growth concerns.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks under pressure as China's new restrictions hit exports",
+          "country": "Global",
+          "category": "Technology Sector",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Tech sector indices in Asia and Europe decline due to China's stringent quarantine measures.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "China's new restrictions weigh on global tech stocks."
     }
   }
 ]
