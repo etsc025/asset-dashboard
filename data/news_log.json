@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time since March.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes amid inflation surge",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank may raise interest rates to curb inflation, according to sources.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise as investors seek safety",
-          "country": "Global",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Bond markets react positively to US Treasury yield increase, but remain cautious about economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields higher across major economies."
-    }
-  },
-  {
     "timestamp": "2026-06-19 09:30",
     "data": {
       "breaking_news": [
@@ -8767,6 +8721,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on interest rate signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid rising interest rates",
+          "country": "欧洲",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于利率上升，欧洲银行面临流动性短缺的问题。这可能对银行业产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally as China's PMI hits record high",
+          "country": "亚洲",
+          "category": "经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于中国制造业采购经理指数创下历史新高，亚洲股市普遍上涨。这可能对相关行业产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动作或影响市场走向"
     }
   }
 ]
