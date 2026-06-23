@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid easing pandemic fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors cheered the easing of pandemic restrictions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK inflation rate rises above Bank of England target",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's annual inflation rate reached 1.5% in October, surpassing the Bank of England's target.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Central Bank maintains stimulus measures amid economic recovery",
-          "country": "Europe",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The ECB kept its quantitative easing program unchanged, signaling no immediate changes in monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on easing pandemic fears"
-    }
-  },
-  {
     "timestamp": "2026-06-19 12:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8723,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要金融市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the RRR for commercial banks by 0.25 percentage points, aiming to ease credit conditions.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策变动，市场需密切关注"
     }
   }
 ]
