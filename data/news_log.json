@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as US economy shows strength",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The yield on 10-year US Treasuries rose to 3.85%, indicating a strong US economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation rate hits record high",
-          "country": "United Kingdom",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK's annual inflation rate reached 9% in September, the highest level since records began.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation hits record high in UK"
-    }
-  },
-  {
     "timestamp": "2026-06-19 19:00",
     "data": {
       "breaking_news": [
@@ -8765,6 +8730,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市表现强劲，但通胀压力持续存在"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields fell to a new record low, indicating economic resilience and potential for further stimulus.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank extends pandemic emergency purchase program",
+          "country": "EU",
+          "category": "Central Banking",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB's extension of its emergency bond-buying program is seen as a supportive measure for the Eurozone economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces additional fiscal support measures",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "UK government introduces new measures to boost economic recovery, including tax cuts and increased public spending.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB extension eases eurozone recession fears"
     }
   }
 ]
