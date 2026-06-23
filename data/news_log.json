@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能对股市产生积极影响。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑在12月加息以对抗通胀",
-          "country": "EU",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧盟委员会正在讨论是否在12月加息，以应对不断上升的通货膨胀率。此举可能提振股市信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "全球科技股遭遇抛售",
-          "country": "Global",
-          "category": "市场情绪",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济放缓的担忧，全球科技股出现抛售潮。这可能影响到整体市场的表现。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球通胀压力加大，需关注货币政策动向"
-    }
-  },
-  {
     "timestamp": "2026-06-19 12:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8723,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場維持在風險偏好模式下"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市承压",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，投资者转向风险较高的资产以寻求收益。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能加息，欧元区股市上涨",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行表示可能在未来调整利率，提振了市场情绪。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要金融市场波动加剧"
     }
   }
 ]
