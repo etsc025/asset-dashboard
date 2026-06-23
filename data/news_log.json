@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济和股市表现。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率动态",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升可能影响投资者信心和金融市场稳定性。",
-          "affected_sectors": [
-            "债券市场",
-            "股市"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑延长QE计划",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH/BEARISH未知",
-          "summary": "欧洲央行是否延长量化宽松计划的讨论可能影响欧元区经济复苏预期。",
-          "affected_sectors": [
-            "银行业",
-            "房地产行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，需关注市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-19 02:00",
     "data": {
       "breaking_news": [
@@ -8752,6 +8704,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-23 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "Europe",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU regulations will impact all member states' data handling practices.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's tech sector faces regulatory scrutiny",
+          "country": "China",
+          "category": "Market Dynamics",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The Chinese government is investigating major tech companies for potential violations.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to regulatory changes."
     }
   }
 ]
