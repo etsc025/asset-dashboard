@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Liquidity issues threaten European banking sector stability.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stock markets mixed on trade tensions",
-          "country": "Asia",
-          "category": "Stocks",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance in Asian equity markets due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Liquidity issues threaten European banking sector stability."
-    }
-  },
-  {
     "timestamp": "2026-06-20 02:00",
     "data": {
       "breaking_news": [
@@ -8791,6 +8744,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府经济刺激措施提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市遭遇连续第四个交易日下跌",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因科技股拖累，标普500指数创下自2023年1月以来的最大单周跌幅。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布将加息至4.25%以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "尽管面临经济放缓风险，欧洲央行仍决定继续收紧政策。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
