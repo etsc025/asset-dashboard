@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns.",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US Treasury yield on 10-year note fell to a record low, raising worries about the economy's recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank keeps interest rates unchanged.",
-          "country": "Europe",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB maintained its current interest rate levels, signaling no immediate changes in monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed as China releases economic data.",
-          "country": "Asia",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH/BEARISH DEPENDS ON DATA",
-          "summary": "China's recent economic indicators are expected to influence Asian stock markets, with mixed results so far.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions and economic data releases could significantly impact financial markets."
-    }
-  },
-  {
     "timestamp": "2026-06-20 05:30",
     "data": {
       "breaking_news": [
@@ -8769,6 +8721,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should remain cautious due to economic uncertainties."
+    }
+  },
+  {
+    "timestamp": "2026-06-24 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US Treasury yields higher, affecting bond markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK has decided to cut interest rates in an attempt to stimulate the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU banking sector faces liquidity issues",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Liquidity problems at EU banks could lead to further market volatility.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU banks face liquidity risks"
     }
   }
 ]
