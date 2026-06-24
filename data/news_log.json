@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国：中国銀行が株式市場への投資拡大を表明",
-          "country": "中国",
-          "category": "金融",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国の主要銀行が株式市場への投資拡大を表明、市場にポジティブな影響を与えます。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "米国：Fed議事録から利上げ期待高まる",
-          "country": "アメリカ",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "最近のFED議事録からは、来年の利上げが予想される可能性が高いことが示されました。市場は落ち着きを取り戻す兆しです。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国銀行投資拡大表明、株価上昇期待"
-    }
-  },
-  {
     "timestamp": "2026-06-20 09:30",
     "data": {
       "breaking_news": [
@@ -8789,6 +8756,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息预期提振市场"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 0.75%",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 0.75%, signaling continued economic tightening.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has introduced new tax and spending policies aimed at mitigating high inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets rally on positive earnings reports",
+          "country": "Asia",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Stock indices in major Asian markets have risen following strong quarterly results from key companies.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks are tightening monetary policy to combat inflation."
     }
   }
 ]
