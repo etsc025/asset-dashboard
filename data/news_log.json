@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has announced a significant interest rate hike, impacting the global financial markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU regulators investigate crypto exchange for money laundering",
-          "country": "EU",
-          "category": "Regulatory Action",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union regulatory bodies are investigating a major cryptocurrency exchange for potential money laundering activities.",
-          "affected_sectors": [
-            "Cryptocurrency Exchanges"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China announces tax cuts for small businesses",
-          "country": "CHINA",
-          "category": "Economic Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese government has announced tax relief measures for small and medium-sized enterprises, aiming to boost the economy.",
-          "affected_sectors": [
-            "Small Businesses"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike in USA could lead to global financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-20 19:30",
     "data": {
       "breaking_news": [
@@ -8753,6 +8708,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步调整货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to curb inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bank of England raises base rate by 0.75%, largest increase in 26 years.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "ECB signals potential rate cuts amid economic slowdown concerns.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate decisions impact global financial markets"
     }
   }
 ]
