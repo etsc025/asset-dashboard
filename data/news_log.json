@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid pandemic recovery efforts",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields hit a new record low, signaling economic weakness and potential for further monetary easing.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to extend pandemic emergency loans",
-          "country": "EU",
-          "category": "Central Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB is extending its Pandemic Emergency Purchase Programme (PEPP) by another six months, providing liquidity support.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's CB cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "Central Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio (RRR) for banks, easing credit conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行继续支持经济复苏"
-    }
-  },
-  {
     "timestamp": "2026-06-20 10:00",
     "data": {
       "breaking_news": [
@@ -8803,6 +8758,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks are tightening monetary policy to combat inflation."
+    }
+  },
+  {
+    "timestamp": "2026-06-24 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Market",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has cut the reserve requirement ratio to boost lending.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "China central bank cuts RR for liquidity support"
     }
   }
 ]
