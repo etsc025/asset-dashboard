@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行暗示可能加息，市场反应平淡。",
-          "affected_sectors": [
-            "货币"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stocks mixed on trade tensions",
-          "country": "亚洲",
-          "category": "股市",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "亚洲股市因贸易紧张局势表现参差不齐。",
-          "affected_sectors": [
-            "股票"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "欧洲央行暗示可能加息"
-    }
-  },
-  {
     "timestamp": "2026-06-20 13:30",
     "data": {
       "breaking_news": [
@@ -8774,6 +8729,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth expected to accelerate"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 00:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid US economic data release",
+          "country": "USA",
+          "category": "经济数据发布",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因经济数据显示强劲增长迹象。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "货币政策调整",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟央行宣布将降低利率，以刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "货币市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK inflation rate hits 10-year high",
+          "country": "英国",
+          "category": "通胀数据发布",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "英国消费者价格指数创下十年新高，推升借贷成本。",
+          "affected_sectors": [
+            "房地产市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "欧盟央行将降低利率以刺激经济增长"
     }
   }
 ]
