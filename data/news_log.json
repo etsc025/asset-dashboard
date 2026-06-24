@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 02:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation fears, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has signaled a potential increase in interest rates but no concrete decision is expected soon.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed as China data varies",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across Asian markets, influenced by varying economic indicators from China.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom as inflation fears persist."
-    }
-  },
-  {
     "timestamp": "2026-06-20 03:00",
     "data": {
       "breaking_news": [
@@ -8788,6 +8742,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持稳定"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges 7% in a day amid positive economic data",
+          "country": "USA",
+          "category": "Economy/Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US markets rallied on strong GDP numbers and inflation prints, boosting Bitcoin's rally.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank hints at rate hike next month",
+          "country": "EU",
+          "category": "Economy/Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB statement suggests a possible interest rate increase in September, but no concrete decision.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets close mixed after US data release",
+          "country": "Asia",
+          "category": "Economy/Finance",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian markets following the release of US economic indicators.",
+          "affected_sectors": [
+            "Financial Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB hints at rate hike next month, watch for market reaction."
     }
   }
 ]
