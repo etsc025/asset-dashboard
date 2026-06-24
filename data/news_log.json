@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松货币政策",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行正在评估是否采取更多措施来刺激经济，市场反应较为平静。",
-          "affected_sectors": [
-            "银行股",
-            "欧元"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国降息政策提振经济增长预期"
-    }
-  },
-  {
     "timestamp": "2026-06-20 11:00",
     "data": {
       "breaking_news": [
@@ -8776,6 +8741,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise despite economic concerns"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将进一步刺激经济增长和企业融资。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "市场表现",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于科技股下跌，美股在开盘前出现抛售现象，投资者情绪低迷。",
+          "affected_sectors": [
+            "科技股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行宣布维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行会议后宣布维持现有利率水平不变，未对金融市场产生显著影响。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息预期升温"
     }
   }
 ]
