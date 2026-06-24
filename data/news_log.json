@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting Schedule Announced",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major central banks have announced their meeting schedules for the upcoming week.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Stock Market Reacts to US GDP Report",
-          "country": "USA",
-          "category": "Markets & Commodities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US GDP growth exceeded expectations, boosting stock markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Economic Growth Forecast Revised Downward",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU economic forecast revised downward due to global trade tensions.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US GDP growth boosts stock markets"
-    }
-  },
-  {
     "timestamp": "2026-06-19 23:00",
     "data": {
       "breaking_news": [
@@ -8788,6 +8743,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should remain vigilant as market conditions can change rapidly."
+    }
+  },
+  {
+    "timestamp": "2026-06-24 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a two-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government introduces tax hikes and spending cuts aimed at stabilizing the economy amid rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike to curb inflation",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank suggests a potential interest rate increase to control inflation, signaling monetary tightening.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat inflation"
     }
   }
 ]
