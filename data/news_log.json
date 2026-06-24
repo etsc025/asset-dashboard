@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 17:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU regulations will tighten data privacy rules, potentially impacting tech companies.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank has cut the reserve requirement ratio, signaling a potential increase in lending and investment.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国の金融政策変更に注意が必要"
-    }
-  },
-  {
     "timestamp": "2026-06-20 18:00",
     "data": {
       "breaking_news": [
@@ -8740,6 +8695,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets react to central bank actions"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a one-month high as investors worry about rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates, aiming to stimulate the UK economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian currencies under pressure amid trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Currencies in Asia are experiencing volatility due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate cuts and yield rises could impact global financial markets."
     }
   }
 ]
