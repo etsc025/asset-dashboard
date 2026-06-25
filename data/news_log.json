@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed raises interest rates again",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has raised the federal funds rate by 0.75% in a move seen as aggressive.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new economic stimulus package",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU has announced a new economic stimulus package aimed at boosting the economy post-pandemic.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio, easing liquidity in the financial system.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery continues with mixed signals from major economies."
-    }
-  },
-  {
     "timestamp": "2026-06-21 09:30",
     "data": {
       "breaking_news": [
@@ -8767,6 +8721,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global central banks' actions could impact financial markets significantly."
+    }
+  },
+  {
+    "timestamp": "2026-06-25 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields climb amid inflation fears",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings report",
+          "country": "EU",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行第三季度财报显示结果参差不齐。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stock markets rally as China's PMI hits 50.1",
+          "country": "亚洲",
+          "category": "股市",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于中国PMI升至50.1，亚洲股市上涨。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境保持谨慎"
     }
   }
 ]
