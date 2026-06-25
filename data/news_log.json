@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "英国",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "英国央行降息以刺激经济增长。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU banking sector under scrutiny amid fraud allegations",
-          "country": "EU",
-          "category": "金融",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧盟银行业因欺诈指控受到审查，但整体表现强劲。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "降息政策可能引发市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-21 06:30",
     "data": {
       "breaking_news": [
@@ -8788,6 +8743,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to hike interest rates for economic support"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US Treasury yields drop to new lows, raising fears of inflation and economic downturn.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government launches a £50 billion economic recovery plan to boost the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "Chinese central bank lowers reserve requirements, easing liquidity but not signaling significant monetary policy shift.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK's fiscal stimulus package could boost global economic recovery"
     }
   }
 ]
