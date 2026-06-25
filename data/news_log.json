@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly a decade.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has unveiled a new fiscal stimulus plan to support businesses and individuals.",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to ease credit conditions.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets react positively to US rate hike"
-    }
-  },
-  {
     "timestamp": "2026-06-21 04:00",
     "data": {
       "breaking_news": [
@@ -8785,6 +8737,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut: UK's Bank of England cuts interest rates, aiming to stimulate the economy."
+    }
+  },
+  {
+    "timestamp": "2026-06-25 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut amid economic uncertainty",
+          "country": "UK",
+          "category": "利率政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK has decided to cut interest rates in an attempt to stabilize the economy.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU central bank maintains status quo on monetary policy",
+          "country": "EU",
+          "category": "利率政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has kept its current stance on monetary policy unchanged.",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策保持一致，市场情绪乐观"
     }
   }
 ]
