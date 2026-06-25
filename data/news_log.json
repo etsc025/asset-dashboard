@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘上涨，科技股领涨",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国主要股指开盘走高，科技板块表现尤为突出。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响金融市场"
-    }
-  },
-  {
     "timestamp": "2026-06-21 19:30",
     "data": {
       "breaking_news": [
@@ -8776,6 +8743,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates unchanged: cautious optimism"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, reflecting worries about inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals potential interest rate increase.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market gains on tech sector rebound",
+          "country": "中国",
+          "category": "Stocks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as technology shares recover from recent declines.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on positive economic signals"
     }
   }
 ]
