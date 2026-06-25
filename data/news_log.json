@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a two-month high, reflecting growing inflation worries.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government introduces additional spending plans aimed at stabilizing the economy post-COVID-19.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU sets new carbon emission targets for 2030",
-          "country": "EU",
-          "category": "Environmental Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union proposes stricter emissions standards to combat climate change.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to support economy"
-    }
-  },
-  {
     "timestamp": "2026-06-21 08:30",
     "data": {
       "breaking_news": [
@@ -8766,6 +8719,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国降息政策提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步放宽政策以刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市因科技股反弹而上涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "由于苹果和微软等科技巨头股价上涨，纳斯达克综合指数创下历史新高。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行将保持宽松货币政策"
     }
   }
 ]
