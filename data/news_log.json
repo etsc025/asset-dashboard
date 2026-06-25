@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息措施",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头裁员计划曝光",
-          "country": "美国",
-          "category": "公司动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "多家科技巨头计划大规模裁员，对市场情绪造成负面影响。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "某科技巨头宣布裁员10%"
-    }
-  },
-  {
     "timestamp": "2026-06-21 15:30",
     "data": {
       "breaking_news": [
@@ -8740,6 +8707,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yields above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and public spending increases to support economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB suggests interest rates may rise in the fourth quarter, amid strong economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on positive economic signals"
     }
   }
 ]
