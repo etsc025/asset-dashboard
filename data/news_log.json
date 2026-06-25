@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK's central bank has decided to reduce interest rates in an attempt to boost the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields edge up as ECB keeps rates steady",
-          "country": "EU",
-          "category": "Bond Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Despite market expectations, EU bond yields have only slightly increased after the ECB kept interest rates unchanged.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic outlook remains uncertain"
-    }
-  },
-  {
     "timestamp": "2026-06-20 22:30",
     "data": {
       "breaking_news": [
@@ -8793,6 +8747,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 11:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，利好股市和房地产市场",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，预计将提振股市和房地产市场表现。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率的上升引发了市场的担忧和波动，但尚未对整体经济产生显著影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取进一步的紧缩措施来抑制通胀，这可能会对股市和债券市场产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息利好股市"
     }
   }
 ]
