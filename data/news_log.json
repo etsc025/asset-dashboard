@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q1 2023",
-          "country": "EU",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲银行业在2023年第一季度表现参差不齐。",
-          "affected_sectors": [
-            "银行行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行下调存款准备金率，提振市场信心。",
-          "affected_sectors": [
-            "货币市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融环境保持稳定，但需关注通胀和利率变化"
-    }
-  },
-  {
     "timestamp": "2026-06-20 23:30",
     "data": {
       "breaking_news": [
@@ -8794,6 +8749,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes expected to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国 regulators ban cryptocurrency trading",
+          "country": "China",
+          "category": "Regulatory Changes",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese regulators have banned cryptocurrency trading.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平静",
+          "country": "Europe",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank kept interest rates unchanged, with no significant market reaction.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国 cryptocurrency trading ban takes effect"
     }
   }
 ]
