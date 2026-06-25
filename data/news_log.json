@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布LPR下调，利好股市和房地产市场。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "利率与货币",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于美国国债收益率上升，投资者转向美元避险资产。",
-          "affected_sectors": [
-            "外汇市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市和房市"
-    }
-  },
-  {
     "timestamp": "2026-06-21 09:00",
     "data": {
       "breaking_news": [
@@ -8753,6 +8719,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行将保持宽松货币政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has increased the federal funds rate by 75 basis points, potentially tightening monetary policy.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR, which could lead to increased lending and investment.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Central Bank (ECB) hints at more rate hikes in Q4",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The ECB has signaled its intention to raise interest rates further this year, indicating a tightening of monetary policy.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks' actions could impact financial markets significantly."
     }
   }
 ]
