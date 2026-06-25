@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks Meeting: Rate Hikes Ahead?",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major central banks are expected to announce rate hikes, potentially impacting the global economy.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank Holds Rates as Expected",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided not to change interest rates, following market expectations.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian Markets React to US Data",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Markets in Asia are reacting positively to recent US economic data.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Rate hikes expected, global financial markets watch closely."
-    }
-  },
-  {
     "timestamp": "2026-06-20 22:00",
     "data": {
       "breaking_news": [
@@ -8795,6 +8747,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美中貿易戦争の影響が中国の株式市場に波及している"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期将推动经济增长和企业融资成本下降。",
+          "affected_sectors": [
+            "银行",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济不确定性的担忧，美股开盘后出现抛售，标普500指数下跌1.5%。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管维持利率不变，欧洲央行表示未来可能会考虑进一步降息以刺激经济增长。市场反应平淡，但存在潜在下行风险。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市波动加剧"
     }
   }
 ]
