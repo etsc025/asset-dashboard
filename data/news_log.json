@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy/Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hit a fresh high, raising fears of higher interest rates.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK inflation rate hits record high",
-          "country": "UK",
-          "category": "Economy/Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK consumer prices index (CPI) rose to 9.4% in June, the highest level since records began.",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push markets higher"
-    }
-  },
-  {
     "timestamp": "2026-06-20 21:30",
     "data": {
       "breaking_news": [
@@ -8782,6 +8747,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Bond Yields Rise as US Economic Growth Concerns Persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, treasury bond yields have risen amid concerns over economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU Central Bank to Keep Interest Rates Steady for Now",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU central bank has decided to keep interest rates unchanged in response to current economic conditions.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's Stock Market Slips as US-China Trade Tensions Rise",
+          "country": "中国",
+          "category": "Trade",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "In China, the stock market has dipped due to rising tensions between the US and China over trade.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美中貿易戦争の影響が中国の株式市場に波及している"
     }
   }
 ]
