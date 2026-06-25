@@ -1,82 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07 22:00",
-    "ticker": "MU",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.89（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.89,
-      "pc_ratio_oi": 1.56,
-      "total_put_vol": 337238,
-      "total_call_vol": 178867
-    }
-  },
-  {
-    "timestamp": "2026-06-07 22:00",
-    "ticker": "MPC",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.41（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.41,
-      "pc_ratio_oi": 0.56,
-      "total_put_vol": 920,
-      "total_call_vol": 2264
-    }
-  },
-  {
-    "timestamp": "2026-06-07 22:01",
-    "ticker": "STX",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-04",
-          "filer": [
-            "Arumugavelu Shankar  (CIK 0001854908)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "Conyers Yolanda Lee  (CIK 0001906375)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "BHATT PRAT  (CIK 0001469167)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "MOSLEY WILLIAM D  (CIK 0001388390)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-02",
-          "filer": [
-            "MOSLEY WILLIAM D  (CIK 0001388390)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
     "timestamp": "2026-06-07 22:01",
     "ticker": "STX",
     "type": "Put/Call比率上昇",
@@ -4802,6 +4725,42 @@
           "form": ""
         }
       ]
+    }
+  },
+  {
+    "timestamp": "2026-06-25 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.14（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.14,
+      "pc_ratio_oi": 1.09,
+      "total_put_vol": 118,
+      "total_call_vol": 868
+    }
+  },
+  {
+    "timestamp": "2026-06-25 22:00",
+    "ticker": "601881.SS",
+    "type": "出来高増加",
+    "level": "MEDIUM",
+    "message": "出来高2.1倍（5日平均比1.4倍）",
+    "data": {
+      "vol_ratio": 2.06
+    }
+  },
+  {
+    "timestamp": "2026-06-25 22:01",
+    "ticker": "MPC",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.69（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.69,
+      "pc_ratio_oi": 0.46,
+      "total_put_vol": 1352,
+      "total_call_vol": 798
     }
   }
 ]
