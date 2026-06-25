@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose above 3.25% for the first time in over a year, reflecting market expectations of higher interest rates to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banking",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank officials hinted at a potential rate hike in the near future, signaling continued support for economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed",
-          "country": "GLOBAL",
-          "category": "Stocks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major global equity indices showed varied performance today, with some gains and losses across different sectors.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery faces challenges"
-    }
-  },
-  {
     "timestamp": "2026-06-21 01:30",
     "data": {
       "breaking_news": [
@@ -8786,6 +8738,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global markets cautiously optimistic with mixed economic signals"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns continue to push US Treasury yields higher, impacting bond markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals potential for interest rate increases in near future.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed after US jobs report",
+          "country": "GLOBAL",
+          "category": "Stock Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "US non-farm payrolls beat expectations, but other regions' reports varied.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
