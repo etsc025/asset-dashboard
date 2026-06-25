@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges on FTX bankruptcy news",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Bitcoin sees significant gains following the bankruptcy of FTX exchange.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Central banks to raise interest rates: IMF report",
-          "country": "GLOBAL",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "IMF suggests central banks may increase interest rates in response to inflation concerns.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "UK's economic outlook is downgraded, reflecting recent data showing slower growth.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks to raise interest rates: IMF report"
-    }
-  },
-  {
     "timestamp": "2026-06-21 14:30",
     "data": {
       "breaking_news": [
@@ -8739,6 +8692,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB's rate hike could impact global financial markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation fears",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates to curb inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Eurozone's ECB raises key rate by 0.5% amid soaring prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global stock markets mixed on US economic data",
+          "country": "Global",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from US GDP and employment reports lead to varied market movements.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns push yields higher in key economies."
     }
   }
 ]
