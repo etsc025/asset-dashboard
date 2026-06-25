@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预示着宽松的货币政策将对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技股遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于业绩不佳，美国科技股普遍遭遇抛售，纳斯达克指数创下新低。",
-          "affected_sectors": [
-            "科技"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，市场对此反应较为平淡，未出现显著波动。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-06-21 19:00",
     "data": {
       "breaking_news": [
@@ -8777,6 +8731,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU sanctions on Russia could escalate tensions"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "USD strengthens against major currencies amid US economic data release",
+          "country": "Global",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US economic indicators have strengthened the USD, impacting global currency markets.",
+          "affected_sectors": [
+            "Currencies"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Central banks keep interest rates unchanged despite inflation concerns",
+          "country": "Global",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Major central banks maintained their interest rate policies without adjusting them in response to rising inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "New tech startup secures $100 million funding round",
+          "country": "Global",
+          "category": "Venture Capital",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "A new tech company has raised significant funds from investors, boosting its market position.",
+          "affected_sectors": [
+            "Tech"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates unchanged: cautious optimism"
     }
   }
 ]
