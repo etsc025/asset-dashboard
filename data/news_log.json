@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European Central Bank raises key rate by 0.5% as inflation hits record high.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices rise amid geopolitical tensions",
-          "country": "GLOBAL",
-          "category": "Energy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "OPEC+ fails to reach agreement on production cuts, sending Brent crude price up 5% in a day.",
-          "affected_sectors": [
-            "Oil and Gas"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global oil prices rise amid geopolitical tensions"
-    }
-  },
-  {
     "timestamp": "2026-06-21 10:30",
     "data": {
       "breaking_news": [
@@ -8766,6 +8719,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境保持谨慎"
+    }
+  },
+  {
+    "timestamp": "2026-06-25 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA's Federal Reserve has decided to increase the interest rates, potentially affecting global markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economy report shows growth slowdown",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU economy report indicates a slower growth rate compared to previous quarters.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Agriculture"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirements ratio",
+          "country": "CHN",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "The Chinese central bank has reduced the reserve requirement ratio, likely to ease credit conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
     }
   }
 ]
