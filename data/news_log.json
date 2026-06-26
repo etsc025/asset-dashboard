@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional spending cuts and tax hikes in response to rising prices.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic growth outlook improves with new fiscal measures"
-    }
-  },
-  {
     "timestamp": "2026-06-22 12:00",
     "data": {
       "breaking_news": [
@@ -8744,6 +8709,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，投资者情绪乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季强劲表现而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指连续多日上涨，得益于强劲的季度财报公布。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲债券市场因避险情绪而下跌",
+          "country": "欧洲",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济增长担忧加剧，欧洲债券市场表现疲软。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行行动可能影响全球经济"
     }
   }
 ]
