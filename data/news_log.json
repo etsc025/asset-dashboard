@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yield hits 3.95%, up from 2.75% last week.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see profit warnings amid economic uncertainty",
-          "country": "Europe",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Several major European banks announce potential earnings cuts, but market reacts positively as they expect further guidance.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "European banks brace for profit warnings"
-    }
-  },
-  {
     "timestamp": "2026-06-22 15:00",
     "data": {
       "breaking_news": [
@@ -8746,6 +8713,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息利好股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields rise as inflation fears grow",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Inflation concerns are driving up borrowing costs across Europe, affecting government and corporate bonds.",
+          "affected_sectors": [
+            "Finance",
+            "Government Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin falls below $30K amid regulatory uncertainty",
+          "country": "Global",
+          "category": "Technology",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Regulatory developments in major crypto markets are causing volatility in Bitcoin prices.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and inflation concerns loom, monitor closely."
     }
   }
 ]
