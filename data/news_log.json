@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA Federal Reserve has increased the federal funds rate by 0.75% as expected.",
-          "affected_sectors": [
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK PM announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK Prime Minister has unveiled a new economic support plan to boost the economy.",
-          "affected_sectors": [
-            "Consumer Goods",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces carbon tax on imported goods",
-          "country": "EU",
-          "category": "Environmental Policy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "EU countries have agreed to impose a carbon tax on all imported goods starting next year.",
-          "affected_sectors": [
-            "Energy",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU carbon tax plan could lead to global economic downturn."
-    }
-  },
-  {
     "timestamp": "2026-06-22 19:00",
     "data": {
       "breaking_news": [
@@ -8771,6 +8724,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks' rate hikes outlook intensifies due to inflation concerns"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike expected next month",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Bank of England may raise interest rates again, following recent hikes.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike expected in UK next month"
     }
   }
 ]
