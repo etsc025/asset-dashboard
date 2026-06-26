@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预期将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后出现小幅下跌，投资者谨慎",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "受科技股拖累，美股开盘后出现轻微下滑，但整体趋势仍保持稳定。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑在下月加息，引发市场波动",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH/BEARISH未知",
-          "summary": "欧洲央行是否会在下月加息的决定引起市场关注，投资者情绪受到冲击。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期提振经济"
-    }
-  },
-  {
     "timestamp": "2026-06-22 01:30",
     "data": {
       "breaking_news": [
@@ -8790,6 +8744,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率，警惕金融市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year yield above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts to address rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns escalate, markets rally."
     }
   }
 ]
