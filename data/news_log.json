@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济和股市。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，投资者情绪谨慎",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率的上升引发了市场的谨慎态度，但并未导致显著波动。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲股市因经济数据疲软而下跌",
-          "country": "欧洲",
-          "category": "股票市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "由于近期公布的经济数据显示增长放缓，欧洲主要股指普遍下滑。",
-          "affected_sectors": [
-            "金融",
-            "制造业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-22 04:00",
     "data": {
       "breaking_news": [
@@ -8785,6 +8738,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation worries.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB decision could impact global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's GDP growth forecast revised downward",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Downgraded outlook for Chinese economy may affect regional and global markets.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
     }
   }
 ]
