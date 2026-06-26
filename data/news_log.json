@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns continue to influence US Treasury yields, rising despite efforts to contain prices.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank signals rate hike in Q4",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "European Central Bank hints at interest rate increase in the fourth quarter, dampening market optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices stabilize after sharp drop",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices have stabilized following a significant decline earlier this week.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "European central bank hints at rate hike in Q4"
-    }
-  },
-  {
     "timestamp": "2026-06-22 17:00",
     "data": {
       "breaking_news": [
@@ -8771,6 +8724,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat recession"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市表现。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下滑",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管担忧，美国科技股遭遇抛售，纳斯达克指数下滑。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在2023年加息以应对通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行表示将密切关注通胀情况，但未明确是否会在2023年加息。市场反应较为平静。",
+          "affected_sectors": [
+            "金融服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
