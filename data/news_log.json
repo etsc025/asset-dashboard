@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，可能引发市场对经济放缓的担忧。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，表明投资者信心增强，但对经济增长的影响有限。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，影响经济和金融市场"
-    }
-  },
-  {
     "timestamp": "2026-06-22 18:00",
     "data": {
       "breaking_news": [
@@ -8769,6 +8736,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场反应强烈，预计对股市和房地产市场产生积极影响。",
+          "affected_sectors": [
+            "金融",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升，可能引发投资者对经济前景的担忧，导致股市波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振市场信心"
     }
   }
 ]
