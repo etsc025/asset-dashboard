@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks' Rate Hike Outlook Sparks Market Concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "Major US central banks are expected to raise interest rates, raising concerns about economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Union's New Trade Tariffs Impact Global Markets",
-          "country": "EU",
-          "category": "Trade Policies",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU has announced new trade tariffs on certain goods, affecting global supply chains.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Logistics"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian Stocks Mixed as US-China Trade Tensions Erupt",
-          "country": "Asia",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Stock markets in Asia have seen mixed performance due to escalating tensions between the US and China.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks' rate hikes loom, global growth uncertain."
-    }
-  },
-  {
     "timestamp": "2026-06-22 20:30",
     "data": {
       "breaking_news": [
@@ -8755,6 +8707,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and regulatory changes loom."
+    }
+  },
+  {
+    "timestamp": "2026-06-27 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和债市信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升，投资者情绪波动",
+          "country": "美国",
+          "category": "债券市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国国债收益率上升导致股票市场承压。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
