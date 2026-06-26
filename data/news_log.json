@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting investors' growing concern over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates at record low",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB is expected to keep its key rate unchanged, supporting the euro and reducing uncertainty in the market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy sees mixed signals amid Brexit negotiations",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic data from UK suggests ongoing challenges with Brexit negotiations, keeping markets cautious.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-06-22 05:00",
     "data": {
       "breaking_news": [
@@ -8773,6 +8728,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push US yields above 3.5% for first time since June."
+    }
+  },
+  {
+    "timestamp": "2026-06-26 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对金融市场影响尚不明朗。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国国债收益率上升，股市波动加剧",
+          "country": "美国",
+          "category": "利率与债券市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升导致股市出现短暂回调后反弹。",
+          "affected_sectors": [
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，欧元区经济前景仍不明朗",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率水平，对欧元区经济增长预期保持谨慎态度。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧，请密切关注"
     }
   }
 ]
