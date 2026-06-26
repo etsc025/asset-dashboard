@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank suggests possible interest rate increase to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Global tech stocks under pressure",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "Tech sector faces sell-off amid regulatory concerns.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation fears push yields to new highs in USA"
-    }
-  },
-  {
     "timestamp": "2026-06-22 13:00",
     "data": {
       "breaking_news": [
@@ -8754,6 +8708,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hike by US Fed could trigger global financial market volatility."
+    }
+  },
+  {
+    "timestamp": "2026-06-27 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "European Central Bank signals potential interest rate increases to combat inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed on trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian equity indices due to ongoing trade disputes.",
+          "affected_sectors": [
+            "Technology",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global central banks may need to tighten monetary policy to control inflation."
     }
   }
 ]
