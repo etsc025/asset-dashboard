@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Stock Market Rally Drives Financial Markets Higher",
-          "country": "USA",
-          "category": "Financials",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US stock markets rallied sharply, pushing major indices to new highs.",
-          "affected_sectors": [
-            "Stocks"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK Interest Rates Hike Signals Economic Strength",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's interest rate hike is seen as a positive signal for economic strength.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates hikes and market rallies indicate risk-on sentiment."
-    }
-  },
-  {
     "timestamp": "2026-06-22 05:30",
     "data": {
       "breaking_news": [
@@ -8773,6 +8739,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市场波动加剧，请密切关注"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 17:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has increased the federal funds rate by 0.75 percentage point, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global oil prices surge amid OPEC+ supply cuts",
+          "country": "GLOBAL",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Oil prices have risen sharply due to OPEC+ countries reducing their crude oil production quotas.",
+          "affected_sectors": [
+            "Petroleum Industry",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed hikes rate, global oil prices surge"
     }
   }
 ]
