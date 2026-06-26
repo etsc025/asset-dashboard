@@ -1,20 +1,22 @@
 {
-  "alert": false,
-  "level": "NORMAL",
-  "reasons": [],
-  "timestamp": "2026-06-25 22:10",
+  "alert": true,
+  "level": "HIGH",
+  "reasons": [
+    "先物下落: ES=-0.5% NQ=-1.4%（注意）"
+  ],
+  "timestamp": "2026-06-26 22:10",
   "vix": {
-    "vix_current": 17.82,
-    "vix_change": -4.35,
-    "level": "NORMAL",
-    "message": "VIX=17.8 (-4.3%) 正常範囲"
+    "vix_current": 20.13,
+    "vix_change": 6.56,
+    "level": "MEDIUM",
+    "message": "VIX=20.1 (+6.6%) やや不安定・慎重にエントリー"
   },
   "futures": {
-    "es_change": 0.8,
-    "nq_change": 2.35,
-    "spy_price": 733.24,
-    "es_price": 7487.5,
-    "level": "MEDIUM",
-    "message": "先物上昇: ES=+0.8% NQ=+2.4%（買いチャンスの可能性）"
+    "es_change": -0.54,
+    "nq_change": -1.39,
+    "spy_price": 734.3,
+    "es_price": 7383.5,
+    "level": "HIGH",
+    "message": "先物下落: ES=-0.5% NQ=-1.4%（注意）"
   }
 }
