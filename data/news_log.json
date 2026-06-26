@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 05:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The US 10-year Treasury yield fell to a record low of 0.54% as investors remain cautious about the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package amid inflation fears",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government unveiled a £10 billion fiscal stimulus plan to combat rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank signals rate hike in near future",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank maintained its current interest rates but signaled a potential rate hike soon.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK fiscal stimulus package could boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-22 06:00",
     "data": {
       "breaking_news": [
@@ -8774,6 +8728,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed hikes rate, global oil prices surge"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，有助于刺激经济增长和股市上涨。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升可能影响市场情绪，但对整体经济影响有限。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策利好股市"
     }
   }
 ]
