@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year Treasury yields hit a new high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3",
-          "country": "Europe",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed earnings reports from major European banks highlight ongoing challenges.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian stock markets rally on tech sector gains",
-          "country": "Asia",
-          "category": "Stock Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Tech stocks lead Asian indices to record highs, boosting overall market sentiment.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Major central banks meeting next week"
-    }
-  },
-  {
     "timestamp": "2026-06-22 03:30",
     "data": {
       "breaking_news": [
@@ -8782,6 +8737,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions and economic indicators will be closely watched for market stability."
+    }
+  },
+  {
+    "timestamp": "2026-06-26 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.89%, up from 3.75% yesterday.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "OBR cuts UK GDP growth projection to 1.2% from 1.4%.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's PMI data misses expectations",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "PMI at 50.3, slightly below market consensus of 50.4.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，风险偏好提升"
     }
   }
 ]
