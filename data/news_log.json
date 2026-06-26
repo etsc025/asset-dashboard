@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin gains $200 in 24 hours, topping $30K",
-          "country": "USA",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major crypto platform reports a significant increase in Bitcoin's value.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise as inflation fears grow",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Central banks' interest rate decisions are under scrutiny amid rising inflation concerns.",
-          "affected_sectors": [
-            "Banking",
-            "Insurance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European stock markets mixed, tech stocks outperform",
-          "country": "Europe",
-          "category": "Stocks",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across European exchanges with technology sectors leading gains.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation fears rise, bond yields climb"
-    }
-  },
-  {
     "timestamp": "2026-06-22 20:00",
     "data": {
       "breaking_news": [
@@ -8756,6 +8710,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain volatile due to inflation concerns."
+    }
+  },
+  {
+    "timestamp": "2026-06-27 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates for the third time in 2023.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new banking regulations",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU banking rules are set to be implemented, potentially affecting financial institutions.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial market.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes and regulatory changes loom."
     }
   }
 ]
