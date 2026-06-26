@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to implement stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The EU is set to enforce new regulations aimed at protecting personal data.",
-          "affected_sectors": [
-            "Tech Companies"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank lowers interest rates in a bid to boost economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の動向が市場に影響を与える可能性が高い。"
-    }
-  },
-  {
     "timestamp": "2026-06-22 08:30",
     "data": {
       "breaking_news": [
@@ -8765,6 +8720,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and inflation concerns dominate markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-26 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, indicating potential economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid market turmoil",
+          "country": "Europe",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Lack of funds forces European banks to seek emergency loans from the ECB.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian equity markets rally on hopes for economic recovery",
+          "country": "Asia",
+          "category": "Stocks",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Positive outlook for economic recovery boosts Asian stock indices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European banks seek emergency loans from ECB"
     }
   }
 ]
