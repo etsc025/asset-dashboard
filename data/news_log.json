@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid economic optimism",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields have risen, reflecting growing economic optimism.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European banks see positive outlook for Q4 earnings",
-          "country": "Europe",
-          "category": "Financials",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Analysts predict a strong fourth quarter for European banks.",
-          "affected_sectors": [
-            "Banking",
-            "Financials"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally on tech sector gains",
-          "country": "Asia",
-          "category": "Technology",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Tech stocks in Asia have led to significant market gains today.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic optimism boosts stock markets"
-    }
-  },
-  {
     "timestamp": "2026-06-21 23:30",
     "data": {
       "breaking_news": [
@@ -8816,6 +8768,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国中央銀行の政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-06-26 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美国股市开盘前遭遇抛售潮，科技股领跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行考虑进一步降息以刺激经济增长。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国股市开盘前遭遇抛售潮，需密切监控"
     }
   }
 ]
