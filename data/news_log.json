@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, reflecting a hawkish stance.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR)",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced the RRR for banks, aiming to boost lending and support economic growth.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices surge on OPEC+ supply cuts",
-          "country": "世界",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "OPEC+ announced a reduction in oil production, driving up global crude prices to multi-year highs.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected to impact global financial markets"
-    }
-  },
-  {
     "timestamp": "2026-06-22 22:00",
     "data": {
       "breaking_news": [
@@ -8739,6 +8693,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市波动加剧，投资者需谨慎应对。"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 09:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU banks face liquidity crunch amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "European banks struggle with reduced cash reserves, raising concerns over financial stability.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian markets rally on US dollar weakness",
+          "country": "Asia",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Weakness in the US dollar boosts Asian currencies and stock indices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
