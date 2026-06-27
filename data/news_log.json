@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 13:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield rose to 3.45% as investors react to rising inflation fears.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank hints at rate hike",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The ECB's latest meeting suggests a possible interest rate increase in the near future.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets mixed",
-          "country": "Asia",
-          "category": "Equity Markets",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Japan and South Korea stocks rose while China's market declined.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates may rise, consider adjusting investment strategies."
-    }
-  },
-  {
     "timestamp": "2026-06-23 14:00",
     "data": {
       "breaking_news": [
@@ -8796,6 +8751,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新規政策が経済に影響を及ぼす可能性がある。"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 02:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise rates by 25bps in July meeting",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to increase interest rates by 25 basis points at its upcoming meeting.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government has unveiled a new economic support plan to boost the economy.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR)",
+          "country": "CHN",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR to support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global markets rally on US rate hike expectations"
     }
   }
 ]
