@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，对股市产生积极影响",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预期将提振股市和经济活动。",
-          "affected_sectors": [
-            "金融",
-            "工业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，市场波动加剧",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升导致投资者情绪波动，但对整体市场影响有限。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步降息以应对通胀压力",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多宽松措施，提振欧元区股市和经济复苏预期。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-23 06:30",
     "data": {
       "breaking_news": [
@@ -8762,6 +8715,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU economic recovery fund approved, boosting markets"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Federal Reserve is expected to announce another rate hike in the coming weeks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new banking regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New rules aimed at improving financial stability and consumer protection are set to be implemented.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market rebounds after decline",
+          "country": "中国",
+          "category": "Market Performance",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "After a recent downturn, Chinese stocks have shown signs of recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to economic uncertainties."
     }
   }
 ]
