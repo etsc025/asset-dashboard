@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期未来将进一步宽松政策。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市因财报季表现强劲而上涨",
-          "country": "美国",
-          "category": "股市",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "多家大型科技公司发布良好财报，推动美股继续上扬。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能在短期内加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "尽管近期经济数据表现强劲，但欧洲央行仍可能在短期内采取紧缩政策。",
-          "affected_sectors": [
-            "银行"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，投资者情绪乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-23 04:30",
     "data": {
       "breaking_news": [
@@ -8758,6 +8712,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市上涨，但欧洲央行政策不确定性增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rates amid economic uncertainty",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank has raised interest rates to combat economic instability.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes could lead to higher borrowing costs."
     }
   }
 ]
