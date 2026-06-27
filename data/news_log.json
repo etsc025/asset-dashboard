@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-22 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，对股市构成利好消息",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，对股市构成利好消息。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，市场情绪谨慎",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国国债收益率上升，市场情绪谨慎。",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布将维持利率不变，股市反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布将维持利率不变，股市反应平淡。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息利好股市"
-    }
-  },
-  {
     "timestamp": "2026-06-23 00:00",
     "data": {
       "breaking_news": [
@@ -8741,6 +8696,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の新 fiscal 措置により経済を支援"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England has cut interest rates in an effort to stimulate the UK economy.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's central bank has reduced its reserve requirement ratio, signaling a potential increase in lending and investment.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步宽松政策"
     }
   }
 ]
