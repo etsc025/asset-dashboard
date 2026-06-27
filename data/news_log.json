@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time since June.",
-          "affected_sectors": [
-            "Bond Market"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates at record low",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "ECB keeps key rate unchanged, signaling no immediate change in monetary policy amid economic recovery.",
-          "affected_sectors": [
-            "Banking Sector"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "RMB liquidity boost could lead to increased lending and investment activity.",
-          "affected_sectors": [
-            "Finance Sector"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行维持宽松政策，市场信心增强"
-    }
-  },
-  {
     "timestamp": "2026-06-23 05:30",
     "data": {
       "breaking_news": [
@@ -8745,6 +8700,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融环境收紧，需警惕市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 17:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款基准利率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府采取措施刺激经济增长，市场反应积极。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因财报季表现强劲而上涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "多家大型公司公布良好业绩报告，提振了投资者信心。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以支持经济复苏",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "为应对通缩压力，欧洲央行可能采取更多宽松措施。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行为支持经济复苏而采取积极行动"
     }
   }
 ]
