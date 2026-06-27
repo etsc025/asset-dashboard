@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax cuts and spending increases to stimulate the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU launches investigation into crypto market manipulation",
-          "country": "EU",
-          "category": "Technology & Finance",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union initiates probe into potential crypto market manipulation.",
-          "affected_sectors": [
-            "Cryptocurrency"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-23 01:30",
     "data": {
       "breaking_news": [
@@ -8755,6 +8709,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns push US Treasury yields higher, impacting bond markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-27 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US 10-year Treasury yield hits record low, adding to worries about economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces additional measures to support economy post-pandemic.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU sets ambitious climate targets for 2050",
+          "country": "EU",
+          "category": "Environment",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "European Union outlines plans to reduce carbon emissions by 55% in next decade.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package for economic recovery"
     }
   }
 ]
