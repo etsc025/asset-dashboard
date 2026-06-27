@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to introduce stricter data protection laws",
-          "country": "EU",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "European Union proposes new regulations for data privacy and security.",
-          "affected_sectors": [
-            "Tech Companies",
-            "Insurance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU introduces stricter data protection laws"
-    }
-  },
-  {
     "timestamp": "2026-06-23 07:30",
     "data": {
       "breaking_news": [
@@ -8759,6 +8724,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行继续宽松政策，市场信心增强"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks to raise interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Central banks in the EU are expected to announce rate hikes, supporting economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global tech stocks drop on profit warnings",
+          "country": "Global",
+          "category": "Tech",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Major tech companies report disappointing earnings, causing a decline in stock prices.",
+          "affected_sectors": [
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks to raise rates: EU"
     }
   }
 ]
