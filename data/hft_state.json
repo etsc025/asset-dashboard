@@ -2,21 +2,22 @@
   "alert": true,
   "level": "HIGH",
   "reasons": [
-    "先物下落: ES=-0.5% NQ=-1.4%（注意）"
+    "先物下落: ES=-0.3% NQ=-1.2%（注意）",
+    "SPY: 価格振動大: 2.4%振れ・7回転換"
   ],
-  "timestamp": "2026-06-26 22:10",
+  "timestamp": "2026-06-27 22:10",
   "vix": {
-    "vix_current": 20.13,
-    "vix_change": 6.56,
-    "level": "MEDIUM",
-    "message": "VIX=20.1 (+6.6%) やや不安定・慎重にエントリー"
+    "vix_current": 18.41,
+    "vix_change": -2.54,
+    "level": "NORMAL",
+    "message": "VIX=18.4 (-2.5%) 正常範囲"
   },
   "futures": {
-    "es_change": -0.54,
-    "nq_change": -1.39,
-    "spy_price": 734.3,
-    "es_price": 7383.5,
+    "es_change": -0.29,
+    "nq_change": -1.2,
+    "spy_price": 728.99,
+    "es_price": 7401.75,
     "level": "HIGH",
-    "message": "先物下落: ES=-0.5% NQ=-1.4%（注意）"
+    "message": "先物下落: ES=-0.3% NQ=-1.2%（注意）"
   }
 }
