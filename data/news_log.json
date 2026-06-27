@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "China's central bank cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "中央銀行政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国の中央銀行が銀行の預金準備率を引き下げる決定により、市場はリスクオフの動きを示唆している。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "US Treasury yields rise amid geopolitical tensions",
-          "country": "アメリカ",
-          "category": "債券市場動向",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "米国債利回りが上昇し、地政学的緊張の影響を受けている。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "リスクオフの動きを示唆する中国の中央銀行の政策決定"
-    }
-  },
-  {
     "timestamp": "2026-06-23 00:30",
     "data": {
       "breaking_news": [
@@ -8743,6 +8710,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将提高利率，引发市场关注。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) to boost lending",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国央行降低存款准备金率以促进贷款，对市场产生积极影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's GDP growth forecast revised downward",
+          "country": "英国",
+          "category": "经济数据",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "英国GDP增长预期下调，可能抑制经济增长预期。",
+          "affected_sectors": [
+            "金融/制造业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国联邦储备系统宣布将提高利率"
     }
   }
 ]
