@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new economic stimulus package",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "EU leaders have approved a significant economic stimulus plan to support businesses and workers.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates",
-          "country": "中国",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has reduced interest rates, aiming to stimulate the economy but with limited impact.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic growth expected to rebound this year."
-    }
-  },
-  {
     "timestamp": "2026-06-23 04:00",
     "data": {
       "breaking_news": [
@@ -8758,6 +8712,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike signals economic growth"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行下调贷款市场报价利率(LPR)0.1个百分点",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低LPR，可能刺激经济增长和投资热情。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市连续第三天上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "标普500指数创下新高，主要得益于科技板块的强劲表现。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑在2023年加息以对抗通胀压力",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH",
+          "summary": "欧洲央行可能采取紧缩政策，但市场反应不一。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市上涨，但欧洲央行政策不确定性增加"
     }
   }
 ]
