@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 02:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns have pushed US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to maintain interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB is expected to keep its key interest rate unchanged, maintaining a cautious stance on the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's PMI hits 50.3 in September",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Purchasing Managers' Index for China shows stable growth, indicating a steady economy.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-06-23 02:30",
     "data": {
       "breaking_news": [
@@ -8755,6 +8710,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国の金融政策動向に注意が必要です。"
+    }
+  },
+  {
+    "timestamp": "2026-06-27 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a fresh high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates, aiming to stimulate economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank eases monetary policy",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's central bank lowers reserve requirement ratio, signaling accommodative monetary stance.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步宽松政策"
     }
   }
 ]
