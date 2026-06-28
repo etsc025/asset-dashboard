@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 0.75%",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 0.75%, signaling continued economic tightening.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced new tax and spending policies aimed at mitigating high inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets rally on positive earnings reports",
-          "country": "Asia",
-          "category": "Market Performance",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Stock indices in major Asian markets have risen following strong quarterly results from key companies.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks are tightening monetary policy to combat inflation."
-    }
-  },
-  {
     "timestamp": "2026-06-24 20:00",
     "data": {
       "breaking_news": [
@@ -8768,6 +8721,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank rate hike expected today"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 08:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank may consider raising interest rates in the near future.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices drop on OPEC+ supply increase",
+          "country": "Global",
+          "category": "Energy Markets",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "OPEC+ has announced an increase in oil production, leading to a decline in oil prices.",
+          "affected_sectors": [
+            "Energy",
+            "Transportation"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Central banks may need to tighten monetary policy to curb inflation."
     }
   }
 ]
