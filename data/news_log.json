@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3 2023",
-          "country": "Europe",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Some European banks report strong earnings, while others face challenges.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The move is expected to boost lending and economic growth in China.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融市場今日風險增加"
-    }
-  },
-  {
     "timestamp": "2026-06-24 11:00",
     "data": {
       "breaking_news": [
@@ -8820,6 +8773,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield rises indicate economic uncertainty."
+    }
+  },
+  {
+    "timestamp": "2026-06-28 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year yield hits a new high, raising fears of higher interest rates.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Eurozone bond yields edge up",
+          "country": "EUROZONE",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Yields on German Bunds remain stable but show slight upward trend.",
+          "affected_sectors": [
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK housing market cooling down",
+          "country": "UK",
+          "category": "Real Estate",
+          "impact": "LOW",
+          "direction": "BEARISH",
+          "summary": "Sales of second homes in London fall, signaling a slowdown.",
+          "affected_sectors": [
+            "Construction"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rates may rise, consider diversifying investments."
     }
   }
 ]
