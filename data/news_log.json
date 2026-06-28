@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 22:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation fears, US 10-year Treasury yields have climbed above 3.25% for the first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank raises interest rates amid economic uncertainty",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has announced a rate hike, aiming to curb inflation and support the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks surge on strong earnings reports",
-          "country": "Global",
-          "category": "Equities",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Major tech companies have reported robust Q4 earnings, boosting investor confidence in the sector.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Central banks and economic data driving financial markets"
-    }
-  },
-  {
     "timestamp": "2026-06-23 23:30",
     "data": {
       "breaking_news": [
@@ -8781,6 +8736,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes could lead to economic slowdown"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Record low US Treasury yields signal potential economic weakness.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces measures to boost economy.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian stocks mixed as China releases economic data",
+          "country": "Asia",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance in Asian markets reflects diverging economic conditions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal stimulus package"
     }
   }
 ]
