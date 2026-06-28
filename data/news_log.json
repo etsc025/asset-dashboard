@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预期将提振经济增长和企业融资环境。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘后出现小幅下跌，投资者情绪谨慎",
-          "country": "美国",
-          "category": "市场表现",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股拖累，美股开盘后出现小幅下跌，投资者对经济前景感到担忧。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，但暗示未来可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持当前利率不变，但表示可能会在未来采取进一步宽松措施。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息预期提振市场"
-    }
-  },
-  {
     "timestamp": "2026-06-24 19:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8722,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central bank to raise interest rates"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 08:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In the USA, US Treasury yields have risen amid concerns over persistent inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to announce rate hike",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The European Central Bank is expected to announce a rate hike, potentially impacting the EU economy.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK inflation hits record high",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Inflation in the UK has reached its highest level in decades, causing concerns among investors.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central bank rate hike expected today"
     }
   }
 ]
