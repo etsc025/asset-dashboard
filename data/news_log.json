@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces tax cuts and infrastructure spending plans.",
-          "affected_sectors": [
-            "Finance",
-            "Construction"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "European Central Bank maintains interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB keeps key rates unchanged, signaling no immediate rate hike.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal measures to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-24 02:00",
     "data": {
       "breaking_news": [
@@ -8818,6 +8772,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95% as investors brace for higher interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hikes interest rate to curb inflation",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB raises rates by 0.5% as expected, signaling continued monetary tightening.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields surge amid risk-off sentiment",
+          "country": "GLOBAL",
+          "category": "Market Movement",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Yields across major asset classes rise sharply in response to geopolitical tensions.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Investors should prepare for a volatile market environment."
     }
   }
 ]
