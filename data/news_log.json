@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, despite recent rate hikes.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank to cut interest rates",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank is expected to reduce interest rates in a bid to boost the economy.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market gains momentum",
-          "country": "中国",
-          "category": "Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Chinese stocks are surging on expectations of economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central bank to cut interest rates: potential for further market volatility"
-    }
-  },
-  {
     "timestamp": "2026-06-24 08:30",
     "data": {
       "breaking_news": [
@@ -8813,6 +8768,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates rise, inflation concerns grow."
+    }
+  },
+  {
+    "timestamp": "2026-06-28 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new banking regulations",
+          "country": "EU",
+          "category": "Regulatory Changes",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "New EU banking rules are set to be implemented in 2023, affecting all member states.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's stock market hits record high",
+          "country": "中国",
+          "category": "Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks reached a new peak today, driven by strong economic growth and government support.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain stable with minor adjustments."
     }
   }
 ]
