@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降息政策",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低基准利率，提振股市和经济信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升至多年高点",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "美国10年期国债收益率突破3%，对全球投资者情绪产生影响。",
-          "affected_sectors": [
-            "金融/债券"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行考虑进一步宽松政策",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能采取更多措施刺激经济增长，提振市场信心。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体货币政策分化加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-24 03:30",
     "data": {
       "breaking_news": [
@@ -8811,6 +8766,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国政府和央行积极应对通胀，经济前景乐观"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks to Raise Interest Rates",
+          "country": "USA",
+          "category": "Economic Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA is considering raising interest rates, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to Implement New Tax on Digital Companies",
+          "country": "EU",
+          "category": "Taxation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU plans to introduce a new tax on digital companies, expected to affect tech and financial sectors.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Surge Due to Supply Concerns",
+          "country": "OIL_MARKET",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Global oil prices have surged due to supply concerns, potentially impacting energy sector investments.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes could lead to economic instability."
     }
   }
 ]
