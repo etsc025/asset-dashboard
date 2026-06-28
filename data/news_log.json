@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23 21:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，股市承压",
-          "country": "美国",
-          "category": "利率与债券市场",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，投资者转向风险较高的资产以寻求收益。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能加息，欧元区股市上涨",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲央行表示可能在未来调整利率，提振了市场情绪。",
-          "affected_sectors": [
-            "股市"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要金融市场波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-23 22:00",
     "data": {
       "breaking_news": [
@@ -8779,6 +8734,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Brexit risks intensify, caution advised."
+    }
+  },
+  {
+    "timestamp": "2026-06-28 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧持续存在。",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank raises interest rates to curb inflation",
+          "country": "EU",
+          "category": "货币与财政政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行加息以抑制通货膨胀。",
+          "affected_sectors": [
+            "货币"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian currencies weaken as China's yuan depreciates",
+          "country": "亚洲",
+          "category": "外汇市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "亚洲货币贬值，因中国人民币贬值。",
+          "affected_sectors": [
+            "外汇"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行行动引发金融市场波动"
     }
   }
 ]
