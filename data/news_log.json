@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields increase as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government introduces economic stimulus packages to support businesses and households.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts interest rates for the second time this year",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "China's central bank lowers interest rates, aiming to stimulate economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府经济刺激措施提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-24 12:00",
     "data": {
       "breaking_news": [
@@ -8816,6 +8768,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rate hike signals tighter monetary policy"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布将下调金融机构的存款准备金率和贷款基准利率，预计将对经济产生积极影响。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济增长",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行正在评估是否采取更多措施来降低利率，以应对当前的经济挑战。",
+          "affected_sectors": [
+            "银行业",
+            "服务业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市因强劲非农就业数据而上涨",
+          "country": "美国",
+          "category": "宏观经济",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国劳工部公布的最新数据显示，12月新增就业人数超过预期，推动美股市场走高。",
+          "affected_sectors": [
+            "银行业",
+            "科技业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振经济信心"
     }
   }
 ]
