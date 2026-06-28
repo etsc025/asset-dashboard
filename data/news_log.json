@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a two-month high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat recession",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government introduces additional spending cuts and tax increases to address economic downturn.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Beijing lowers the RRR for banks, signaling potential monetary easing and increased lending.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の新たな財政措置が経済対策に影響を与える可能性がある。"
-    }
-  },
-  {
     "timestamp": "2026-06-24 07:00",
     "data": {
       "breaking_news": [
@@ -8814,6 +8766,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步宽松，市场信心提升"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record highs amid inflation concerns",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Inflation fears push US 10-year Treasury yield above 3.95% for first time since 2018.",
+          "affected_sectors": [
+            "债券"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central banks to meet on interest rates",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Central banks in Europe are expected to discuss rate hikes at their upcoming meeting.",
+          "affected_sectors": [
+            "銀行業",
+            "証券市場"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
+          "country": "USA",
+          "category": "加密货币",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Despite recent declines, Bitcoin is expected to rebound as regulatory clarity improves.",
+          "affected_sectors": [
+            "デジタル資産"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU central banks meeting for rate decisions"
     }
   }
 ]
