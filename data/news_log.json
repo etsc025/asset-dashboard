@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase the federal funds rate by 75 basis points at its meeting today.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Geopolitical Events",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The European Union has imposed additional economic sanctions on Russia in response to the invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
-    }
-  },
-  {
     "timestamp": "2026-06-24 00:30",
     "data": {
       "breaking_news": [
@@ -8794,6 +8760,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府の財政支援が経済成長を促進する可能性がある"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin price surges as central banks consider interest rate hikes",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US economic data and central bank decisions are causing volatility in the markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields rise amid inflation concerns",
+          "country": "GLOBAL",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Rising interest rates could lead to a slowdown in economic growth.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK government announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "UK government's move is expected to boost domestic demand and employment.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hikes may lead to economic slowdown."
     }
   }
 ]
