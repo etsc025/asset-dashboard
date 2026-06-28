@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns mount",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策的进一步紧缩。",
-          "affected_sectors": [
-            "债券市场",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank to keep interest rates unchanged",
-          "country": "欧洲",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行宣布维持利率不变，暗示未来可能不会采取更多紧缩措施。",
-          "affected_sectors": [
-            "欧元区债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian stocks edge higher as China's PMI improves",
-          "country": "亚洲",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "由于中国采购经理人指数(PMI)上升，亚洲股市小幅上涨。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行将保持谨慎态度"
-    }
-  },
-  {
     "timestamp": "2026-06-24 17:30",
     "data": {
       "breaking_news": [
@@ -8795,6 +8749,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic growth expected to accelerate"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting Schedule Shifts",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Major central banks have announced changes to their meeting schedules, potentially impacting monetary policy decisions.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Stock Market Surge in Asia",
+          "country": "Asia",
+          "category": "Market Performance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Asian stock markets experienced significant gains today, led by China and South Korea.",
+          "affected_sectors": [
+            "Financials",
+            "Technology"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil Prices Rise Amid Supply Concerns",
+          "country": "OPEC+",
+          "category": "Commodity Prices",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Concerns over OPEC+ supply cuts have pushed oil prices higher, affecting energy sectors.",
+          "affected_sectors": [
+            "Energy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Major central banks schedule changes could influence global economic policies."
     }
   }
 ]
