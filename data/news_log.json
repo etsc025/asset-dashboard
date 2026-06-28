@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.65% as investors brace for higher interest rates to curb inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates by 0.5 pct",
-          "country": "EU",
-          "category": "Central Bank Actions",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "ECB raises key rate to 3.25% amid economic growth concerns.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global tech stocks under pressure as China's new restrictions hit exports",
-          "country": "Global",
-          "category": "Technology Sector",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Tech sector indices in Asia and Europe decline due to China's stringent quarantine measures.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "China's new restrictions weigh on global tech stocks."
-    }
-  },
-  {
     "timestamp": "2026-06-24 07:30",
     "data": {
       "breaking_news": [
@@ -8812,6 +8767,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU central banks meeting for rate decisions"
+    }
+  },
+  {
+    "timestamp": "2026-06-28 19:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation worries persist",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time in months.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's GDP growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK economy expected to grow by 1.2% in Q4, down from previous estimate of 1.5%.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank keeps interest rates unchanged",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains current rate at 2%, citing stable inflation outlook.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK economy expected to grow slower than anticipated"
     }
   }
 ]
