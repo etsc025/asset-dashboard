@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24 20:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China has cut the reserve requirement ratio to boost lending.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "China central bank cuts RR for liquidity support"
-    }
-  },
-  {
     "timestamp": "2026-06-24 20:30",
     "data": {
       "breaking_news": [
@@ -8768,6 +8735,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Central banks may need to tighten monetary policy to curb inflation."
+    }
+  },
+  {
+    "timestamp": "2026-06-29 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将再次在今年加息，市场对此反应强烈。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU plans new sanctions on Russia",
+          "country": "EU",
+          "category": "地缘政治",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧盟计划对俄罗斯实施新的制裁措施，可能影响欧洲能源和金融市场。",
+          "affected_sectors": [
+            "能源",
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "美国加息预期升温，全球金融市场波动加剧"
     }
   }
 ]
