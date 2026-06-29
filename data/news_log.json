@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 16:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布下调贷款市场报价利率(LPR)0.1个百分点",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布LPR下调，对股市和房地产市场有积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元指数走强",
-          "country": "美国",
-          "category": "利率与货币",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，可能刺激经济增长预期，对股市有利。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行货币政策调整风险增加"
-    }
-  },
-  {
     "timestamp": "2026-06-25 17:00",
     "data": {
       "breaking_news": [
@@ -8860,6 +8825,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on ECB rate hike hints"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 04:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record low amid economic concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "US 10-year Treasury yield hits record low, adding to recession fears.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to extend pandemic emergency loans",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB extends support for banks amid economic uncertainty.",
+          "affected_sectors": [
+            "Banking",
+            "Financial Services"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's GDP growth slows in Q3, hits 4.9%",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Chinese economy grows at slower pace than expected.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持宽松政策，风险偏好提升"
     }
   }
 ]
