@@ -1,39 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国联邦储备系统宣布将进一步加息，影响市场信心和借贷成本。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "地缘政治",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧盟对俄罗斯实施新制裁，可能引发能源价格波动和市场动荡。",
-          "affected_sectors": [
-            "石油天然气行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国联邦储备系统进一步加息"
-    }
-  },
-  {
     "timestamp": "2026-06-25 01:00",
     "data": {
       "breaking_news": [
@@ -8797,6 +8763,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整风险增加"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 13:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face new capital requirements amid rising interest rates",
+          "country": "EU",
+          "category": "银行业",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行面临新的资本要求，因利率上升。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio to boost lending",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "中国央行降低存款准备金率以促进贷款增长。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，投资者情绪乐观"
     }
   }
 ]
