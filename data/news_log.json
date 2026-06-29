@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 04:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hit a three-month high, reflecting concerns over rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to unveil new economic stimulus package",
-          "country": "EU",
-          "category": "Economy & Finance",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The EU is expected to announce a fresh round of fiscal measures aimed at boosting the economy post-pandemic.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut amid economic downturn",
-          "country": "UK",
-          "category": "Economy & Finance",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank has decided to cut interest rates, signaling a potential stimulus for the economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU to unveil new economic stimulus package"
-    }
-  },
-  {
     "timestamp": "2026-06-25 05:00",
     "data": {
       "breaking_news": [
@@ -8832,6 +8787,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步加息，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 16:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for the first time since June.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to curb inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "UK's Bank of England raises base rate by 0.5% to combat rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global bond yields edge up amid risk-off sentiment",
+          "country": "Global",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from central banks keep global bond yields on a cautious upward trajectory.",
+          "affected_sectors": [
+            "Finance",
+            "Investment"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Inflation concerns push US Treasury yields above 3.5%"
     }
   }
 ]
