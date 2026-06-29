@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury Yields Rise as Fed Signals Rate Hike",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US Treasury yields rise amid expectations of a rate hike by the Federal Reserve.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Central Bank Holds Interest Rates as Expected",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank maintains interest rates unchanged, in line with market expectations.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors should prepare for potential economic changes."
-    }
-  },
-  {
     "timestamp": "2026-06-25 04:30",
     "data": {
       "breaking_news": [
@@ -8822,6 +8787,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions loom large for global markets."
+    }
+  },
+  {
+    "timestamp": "2026-06-29 15:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将基准利率上调75个基点，加剧市场波动。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "中国人民银行下调了商业银行的存款准备金率，有助于缓解市场流动性紧张。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to increase deposit rate by 0.5%",
+          "country": "EU",
+          "category": "经济政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行宣布将存款利率上调0.5%，以对抗通胀。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步加息，市场波动加剧"
     }
   }
 ]
