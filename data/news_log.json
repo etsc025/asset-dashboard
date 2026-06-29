@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield hits a new high, reflecting growing fears of inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts interest rates in response to economic challenges.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank eases monetary policy",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "China's central bank announces easing measures, signaling a shift towards more accommodative monetary policies.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global economic recovery expected to accelerate with supportive policy actions."
-    }
-  },
-  {
     "timestamp": "2026-06-25 17:30",
     "data": {
       "breaking_news": [
@@ -8873,6 +8826,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持宽松政策，风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 05:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Bond Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since March.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax hikes and spending cuts aimed at reducing inflation.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank holds rates, signals further rate hikes ahead",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB maintains interest rates unchanged but hints at more hikes to curb inflation.",
+          "affected_sectors": [
+            "Insurance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat inflation"
     }
   }
 ]
