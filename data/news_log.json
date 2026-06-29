@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 08:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve to raise interest rates by 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in decades.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has reduced the RRR for banks, easing liquidity and potentially boosting lending.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support businesses during economic downturn",
-          "country": "英国",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced new fiscal policies aimed at supporting businesses and households amid the ongoing economic challenges.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国中央銀行の動向に注意が必要です。"
-    }
-  },
-  {
     "timestamp": "2026-06-25 09:00",
     "data": {
       "breaking_news": [
@@ -8849,6 +8804,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "ECB hints at September rate hike amid inflation concerns"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 20:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears persist",
+          "country": "USA",
+          "category": "Bond/Yield",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch amid ECB rate hikes",
+          "country": "EU",
+          "category": "Banking/Liquidity",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "ECB's interest rate hikes are causing European banks to struggle with cash flow issues.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets rally on US economic data release",
+          "country": "Asia",
+          "category": "Stocks/Market Performance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Positive US economic indicators have boosted Asian equity indices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "ECB rate hikes pose liquidity risk to European banks"
     }
   }
 ]
