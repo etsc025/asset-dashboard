@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 10:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场预期将推动经济增长和企业融资成本下降。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "由于对全球经济不确定性的担忧，美股开盘后出现抛售，标普500指数下跌1.5%。",
-          "affected_sectors": [
-            "金融服务业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行维持利率不变但暗示可能降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL/BEARISH",
-          "summary": "尽管维持利率不变，欧洲央行表示未来可能会考虑进一步降息以刺激经济增长。市场反应平淡，但存在潜在下行风险。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市波动加剧"
-    }
-  },
-  {
     "timestamp": "2026-06-25 11:00",
     "data": {
       "breaking_news": [
@@ -8846,6 +8800,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain stable but with potential risks."
+    }
+  },
+  {
+    "timestamp": "2026-06-29 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields hit record high amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率创历史新高，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity squeeze as ECB cuts rates",
+          "country": "EU",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "欧洲银行面临流动性紧缩压力，由于欧洲央行降低利率。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Asian stock markets rally on US dollar weakness",
+          "country": "Asia",
+          "category": "市场",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "亚洲股市因美元疲软而上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融环境不确定性增加"
     }
   }
 ]
