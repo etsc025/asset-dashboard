@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 11:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to Raise Interest Rates Again This Year, Analysts Say",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to raise interest rates again this year as inflation pressures persist.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU Economy Report Shows Mixed Results",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed economic data from the EU, with some positive and negative indicators.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Services"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK Jobless Claims Rise Sharply in June",
-          "country": "UK",
-          "category": "Labor Market",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Jobless claims in the UK have risen sharply in June, indicating a potential economic downturn.",
-          "affected_sectors": [
-            "Employment"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes expected to boost economy"
-    }
-  },
-  {
     "timestamp": "2026-06-25 12:00",
     "data": {
       "breaking_news": [
@@ -8845,6 +8799,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to combat inflation"
+    }
+  },
+  {
+    "timestamp": "2026-06-29 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields have risen, reflecting growing fears over inflation.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks face liquidity crunch",
+          "country": "EU",
+          "category": "Banking",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "Liquidity issues in European banking sector may lead to reduced lending and higher borrowing costs.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "European banks face liquidity crunch, affecting financial stability."
     }
   }
 ]
