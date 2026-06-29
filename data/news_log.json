@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，提振股市信心",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，市场反应积极，股票指数上涨。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "债券与货币市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国国债收益率上升导致资金流向美元资产，对股市构成压力。",
-          "affected_sectors": [
-            "金融/商品"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-25 13:00",
     "data": {
       "breaking_news": [
@@ -8847,6 +8814,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行货币政策调整引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to support economy",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has introduced a series of measures aimed at supporting the economy and reducing unemployment.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Central Bank Actions",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR, aiming to boost lending and support economic growth.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
     }
   }
 ]
