@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 06:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USD strengthens against major currencies amid US economic data release",
-          "country": "Global",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US economic indicators have strengthened the USD, impacting global currency markets.",
-          "affected_sectors": [
-            "Currencies"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Central banks keep interest rates unchanged despite inflation concerns",
-          "country": "Global",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Major central banks maintained their interest rate policies without adjusting them in response to rising inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "New tech startup secures $100 million funding round",
-          "country": "Global",
-          "category": "Venture Capital",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "A new tech company has raised significant funds from investors, boosting its market position.",
-          "affected_sectors": [
-            "Tech"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates unchanged: cautious optimism"
-    }
-  },
-  {
     "timestamp": "2026-06-26 06:30",
     "data": {
       "breaking_news": [
@@ -8889,6 +8844,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，提振市场信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB announces no change to current interest rate levels, amid stable economic growth outlook.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian markets mixed due to trade tensions",
+          "country": "Asia",
+          "category": "Trade",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Mixed performance across Asian stock indices as tensions between major economies continue.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to economic uncertainties."
     }
   }
 ]
