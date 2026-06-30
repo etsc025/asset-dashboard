@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，市场反应强烈，可能影响股市和债市。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国10年期国债收益率突破3%",
-          "country": "美国",
-          "category": "利率变动",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国10年期国债收益率首次突破3%，市场情绪乐观，可能推动股市上行。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率，警惕金融市场波动"
-    }
-  },
-  {
     "timestamp": "2026-06-26 13:30",
     "data": {
       "breaking_news": [
@@ -8877,6 +8844,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and tech sector performance driving market optimism"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces interest rate hike",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The USA Federal Reserve has announced a 0.75% interest rate hike, impacting global financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has announced a new fiscal stimulus package to support businesses and individuals.",
+          "affected_sectors": [
+            "Retail",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank has cut the reserve requirement ratio, affecting liquidity in Chinese financial markets.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets react to USA Federal Reserve announcement"
     }
   }
 ]
