@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year yield above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates to curb inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Eurozone's ECB raises key rate by 0.5% amid soaring prices.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed on US economic data",
-          "country": "Global",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed signals from US GDP and employment reports lead to varied market movements.",
-          "affected_sectors": [
-            "Finance",
-            "Markets"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push yields higher in key economies."
-    }
-  },
-  {
     "timestamp": "2026-06-26 02:00",
     "data": {
       "breaking_news": [
@@ -8905,6 +8857,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "政府新政策提振经济信心"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期未来将进一步宽松政策以刺激经济增长。",
+          "affected_sectors": [
+            "银行",
+            "房地产"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘后迅速反弹，科技股领涨",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受利好财报和降息预期影响，美股三大指数均出现强劲上涨。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持当前利率不变，符合市场预期。",
+          "affected_sectors": [
+            "银行"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市普遍上涨，投资者情绪乐观"
     }
   }
 ]
