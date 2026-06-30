@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 14:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures amid economic uncertainty",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government has announced new fiscal measures aimed at stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirements for banks",
-          "country": "中国",
-          "category": "Banking & Finance",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "To support economic growth, China's central bank has reduced reserve requirements for banks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府新規財政措置に市場が反応"
-    }
-  },
-  {
     "timestamp": "2026-06-26 14:30",
     "data": {
       "breaking_news": [
@@ -8903,6 +8857,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets to be influenced by US Fed's rate hike"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 01:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反应积极",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，市场预期经济将回暖。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘后出现波动，投资者情绪谨慎",
+          "country": "美国",
+          "category": "股市表现",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国三大股指开盘后小幅波动，投资者对全球经济前景持观望态度。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步降息以刺激经济",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多宽松措施，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场保持谨慎态度"
     }
   }
 ]
