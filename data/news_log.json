@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 05:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new sanctions on Russia",
-          "country": "EU",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "EU countries have imposed additional sanctions on Russian entities in response to its invasion of Ukraine.",
-          "affected_sectors": [
-            "Energy",
-            "Defense"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's GDP growth forecast revised downward",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese government has adjusted its economic outlook, expecting a slower growth rate for the year.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU sanctions on Russia could escalate tensions"
-    }
-  },
-  {
     "timestamp": "2026-06-26 06:00",
     "data": {
       "breaking_news": [
@@ -8889,6 +8841,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Major central banks signal dovish monetary policy, cautioning against further rate hikes."
+    }
+  },
+  {
+    "timestamp": "2026-06-30 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year yield hits 3.95%, up from 2.8% last week.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to support economy",
+          "country": "英国",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Bank of England cuts key rate by 0.5 percentage point.",
+          "affected_sectors": [
+            "Finance",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on policy easing",
+          "country": "中国",
+          "category": "Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks rise as central bank eases monetary policies.",
+          "affected_sectors": [
+            "Technology",
+            "Financial Services"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要股市上涨，提振市场信心"
     }
   }
 ]
