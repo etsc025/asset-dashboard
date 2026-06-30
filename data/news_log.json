@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股票市场",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "美国股市开盘前遭遇抛售潮，科技股领跌。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行考虑进一步降息以刺激经济增长。",
-          "affected_sectors": [
-            "制造业",
-            "服务业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮，需密切监控"
-    }
-  },
-  {
     "timestamp": "2026-06-26 12:30",
     "data": {
       "breaking_news": [
@@ -8866,6 +8819,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns escalate, global markets remain volatile."
+    }
+  },
+  {
+    "timestamp": "2026-06-30 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed raises interest rates again",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve raised the federal funds rate by 0.75% in a surprise move.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures",
+          "country": "UK",
+          "category": "Fiscal Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The UK government announced new tax reforms and spending cuts.",
+          "affected_sectors": [
+            "Government Finance",
+            "Business Environment"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "China's People's Bank of China cut the reserve requirement ratio to boost lending.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行货币政策调整，市场波动风险增加"
     }
   }
 ]
