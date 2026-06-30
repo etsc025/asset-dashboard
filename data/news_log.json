@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise, Bank of England signals",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Bank of England hints at rate hike amid strong economy growth.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global stock markets mixed as China's PMI below expectations",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Chinese manufacturing sector expansion index falls short of forecasts, dampening market sentiment.",
-          "affected_sectors": [
-            "Stocks",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK interest rates to rise"
-    }
-  },
-  {
     "timestamp": "2026-06-26 04:00",
     "data": {
       "breaking_news": [
@@ -8903,6 +8855,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Inflation concerns drive financial markets higher"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 16:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury Bond Yields Surge as Fed Hikes Interest Rates Again",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In a significant move, US Treasury bond yields surged following another interest rate hike by the Federal Reserve.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK Pound Weakens Against USD as Brexit Uncertainty Persists",
+          "country": "UK",
+          "category": "Politics/Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK Pound weakened against the US Dollar amid ongoing Brexit uncertainty.",
+          "affected_sectors": [
+            "Finance",
+            "Trade"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Brexit Uncertainty Drives Pound Decline"
     }
   }
 ]
