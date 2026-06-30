@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行暗示可能加息以对抗通膨",
-          "country": "EU",
-          "category": "经济",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "欧洲央行表示考虑加息来应对通膨压力，股市反应不一。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要经济体通胀压力上升"
-    }
-  },
-  {
     "timestamp": "2026-06-26 01:00",
     "data": {
       "breaking_news": [
@@ -8917,6 +8884,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国联邦储备系统加息75个基点"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 13:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国央行宣布上调存款准备金率，可能对股市产生负面影响。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率变动",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，投资者情绪改善，市场风险偏好提升。",
+          "affected_sectors": [
+            "债券/股票"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率可能对股市产生负面影响"
     }
   }
 ]
