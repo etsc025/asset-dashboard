@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US 10-year yield hits 3.89%, up from 3.75% yesterday.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK economy growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "OBR cuts UK GDP growth projection to 1.2% from 1.4%.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's PMI data misses expectations",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "PMI at 50.3, slightly below market consensus of 50.4.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要股市上涨，风险偏好提升"
-    }
-  },
-  {
     "timestamp": "2026-06-26 16:00",
     "data": {
       "breaking_news": [
@@ -8920,6 +8872,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Rate hikes expected, global markets may face volatility."
+    }
+  },
+  {
+    "timestamp": "2026-07-01 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响强烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振股市和经济信心。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国科技股遭遇抛售潮，纳斯达克指数下跌1.5%",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于业绩不佳和监管压力，美国科技股连续两天大幅下挫。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示可能在年底前加息以对抗通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行表示将密切关注经济数据，并评估是否需要调整政策。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息提振股市"
     }
   }
 ]
