@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25 23:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces interest rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA's Federal Reserve has decided to increase the interest rates, potentially affecting global markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economy report shows growth slowdown",
-          "country": "EU",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The EU economy report indicates a slower growth rate compared to previous quarters.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Agriculture"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirements ratio",
-          "country": "CHN",
-          "category": "Economic Indicators",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The Chinese central bank has reduced the reserve requirement ratio, likely to ease credit conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to mixed economic signals."
-    }
-  },
-  {
     "timestamp": "2026-06-25 23:30",
     "data": {
       "breaking_news": [
@@ -8893,6 +8847,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向密切监控"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场反响热烈",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行今日宣布降低贷款利率，预计将提振经济增长和企业信心。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市遭遇抛售潮，科技股领跌",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "因对经济衰退的担忧加剧，美国主要股指下跌，科技板块表现尤为低迷。",
+          "affected_sectors": [
+            "金融服务业",
+            "科技业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行考虑进一步加息以抑制通胀",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH/BEARISH DEPENDENT ON INFLATION DEVELOPMENTS",
+          "summary": "欧洲央行正评估是否采取更多措施来对抗高通胀，可能包括进一步的利率上调。",
+          "affected_sectors": [
+            "银行业",
+            "制造业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国央行动向将影响全球金融市场"
     }
   }
 ]
