@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year Treasury yield reached a new high of 3.92% as investors worry about rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to rise: Bank of England Governor",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK's central bank governor hinted at higher interest rates, signaling a tightening monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU economic growth forecast revised downward",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "LOW",
-          "direction": "BEARISH",
-          "summary": "The EU expects slower economic growth in 2023, citing supply chain disruptions and geopolitical tensions.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Agriculture"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rates to rise: UK central bank governor hints"
-    }
-  },
-  {
     "timestamp": "2026-06-26 10:00",
     "data": {
       "breaking_news": [
@@ -8905,6 +8857,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rates to remain stable as inflation fears persist."
+    }
+  },
+  {
+    "timestamp": "2026-06-30 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation, US Treasury yields have increased.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hike in Q4",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Central Bank has signaled a potential interest rate hike later this year.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK economy growth forecast revised downward",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "UK economic outlook remains positive despite recent data revisions.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation concerns."
     }
   }
 ]
