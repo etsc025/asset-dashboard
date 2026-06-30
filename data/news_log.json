@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 07:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，预计将提振经济增长和企业信心。",
-          "affected_sectors": [
-            "银行",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市开盘后遭遇抛售潮",
-          "country": "美国",
-          "category": "市场动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股重挫影响，美股开盘即出现抛售行情。",
-          "affected_sectors": [
-            "科技股"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行宣布将加息以应对通胀压力",
-          "country": "欧洲",
-          "category": "经济政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行宣布加息，旨在控制高企的通胀率。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-26 07:30",
     "data": {
       "breaking_news": [
@@ -8890,6 +8843,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国科技股面临回调风险"
+    }
+  },
+  {
+    "timestamp": "2026-06-30 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降低基准利率，市场反响强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "由于对全球经济衰退的担忧加剧，美股开盘即遭遇大规模抛售。",
+          "affected_sectors": [
+            "金融股",
+            "科技股"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行暗示未来可能加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL/BEARISH",
+          "summary": "尽管近期降息，但欧洲央行表示未来仍有可能加息以应对通胀压力。市场反应平缓。",
+          "affected_sectors": [
+            "银行业",
+            "能源"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
