@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns have led to an increase in US Treasury yields, potentially signaling a shift towards higher interest rates.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank keeps interest rates unchanged",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The ECB has decided to maintain its current interest rate levels, reflecting a cautious approach towards economic recovery.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed on trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance in Asian stock indices as trade disputes continue to impact sentiment.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate decisions and economic indicators will be closely watched for market stability."
-    }
-  },
-  {
     "timestamp": "2026-06-26 15:30",
     "data": {
       "breaking_news": [
@@ -8920,6 +8872,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "各国央行动向引发市场波动"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Global Central Banks Meeting: Rate Hikes Expected",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Major US central banks are expected to announce rate hikes, potentially impacting global markets.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Union Budget Proposal: Increased Taxes for EU Citizens",
+          "country": "EU",
+          "category": "Government Policies",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The European Union is proposing a budget that includes increased taxes for its citizens, sparking debate.",
+          "affected_sectors": [
+            "Finance",
+            "Society"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's Stock Market: Strong Earnings Boost Index",
+          "country": "CN",
+          "category": "Stock Markets",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "Chinese stocks have rallied on strong earnings reports from major companies.",
+          "affected_sectors": [
+            "Finance",
+            "Technology"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Rate hikes expected, global markets may face volatility."
     }
   }
 ]
