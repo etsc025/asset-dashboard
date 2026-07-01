@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 01:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for the first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank signals potential interest rate increases to combat inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Asian markets mixed on trade tensions",
-          "country": "Asia",
-          "category": "Trade",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Mixed performance across Asian equity indices due to ongoing trade disputes.",
-          "affected_sectors": [
-            "Technology",
-            "Manufacturing"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global central banks may need to tighten monetary policy to control inflation."
-    }
-  },
-  {
     "timestamp": "2026-06-27 02:00",
     "data": {
       "breaking_news": [
@@ -8921,6 +8874,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場緊張度高"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 12:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears grow",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation concerns are driving US treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate potential antitrust violations by tech giants",
+          "country": "EU",
+          "category": "Tech",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The investigation could impact the market's perception of tech sector stability and innovation.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China central bank cuts reserve requirement ratio to boost lending",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "This move is expected to stimulate economic growth by reducing borrowing costs for businesses.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU regulators investigate potential antitrust violations by tech giants"
     }
   }
 ]
