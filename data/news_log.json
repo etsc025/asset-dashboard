@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation fears",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US Treasury yields higher, impacting bond markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks consider rate hikes to curb inflation",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Central banks in the EU are considering interest rate hikes to combat rising inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil prices rise as OPEC+ delays production cuts",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "OPEC+ decision not to cut oil production has led to a rise in global oil prices.",
-          "affected_sectors": [
-            "Energy",
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Inflation concerns push US Treasury yields higher, impacting bond markets."
-    }
-  },
-  {
     "timestamp": "2026-06-27 13:00",
     "data": {
       "breaking_news": [
@@ -8897,6 +8849,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed hints rate hike imminent, global markets rally."
+    }
+  },
+  {
+    "timestamp": "2026-07-02 00:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank to maintain interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "ECB announces no change in interest rates for the fourth quarter.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's GDP growth forecast revised downward",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "Chinese authorities adjust GDP forecasts, citing supply chain disruptions.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行维持利率不变，但中国经济增长预期下调"
     }
   }
 ]
