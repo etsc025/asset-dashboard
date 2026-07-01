@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 04:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率，市场反应不一",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "中国央行宣布上调存款准备金率，对股市和债市影响待观察。",
-          "affected_sectors": [
-            "金融"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "利率与货币",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，美元指数上涨，可能对新兴市场造成压力。",
-          "affected_sectors": [
-            "外汇/新兴市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步加息以对抗通胀",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行暗示可能采取更紧缩的政策立场，提振欧元和债券收益率。",
-          "affected_sectors": [
-            "金融/欧元区"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国国债收益率上升，美元走强"
-    }
-  },
-  {
     "timestamp": "2026-06-27 04:30",
     "data": {
       "breaking_news": [
@@ -8912,6 +8867,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic indicators pointing to potential growth"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 15:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US Treasury yields higher, impacting bond markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto trading platform for anti-money laundering violations",
+          "country": "EU",
+          "category": "Technology & Finance",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Union's financial watchdogs are probing a major crypto exchange for compliance issues.",
+          "affected_sectors": [
+            "Cryptocurrency"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy, banks warn of liquidity risk",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England reduces interest rates in an effort to stimulate the economy, but warns about potential liquidity risks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU regulators investigate major crypto exchange for anti-money laundering violations"
     }
   }
 ]
