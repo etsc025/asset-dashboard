@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 03:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, reflecting investors' growing fears over inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks see mixed performance in Q3",
-          "country": "Europe",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Mixed results from European banks for the third quarter of 2023, with some companies posting strong gains.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK interest rates to be hiked again next week",
-          "country": "英国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Bank of England is expected to raise interest rates further, signaling continued tight monetary policy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes loom, markets cautious"
-    }
-  },
-  {
     "timestamp": "2026-06-27 04:00",
     "data": {
       "breaking_news": [
@@ -8910,6 +8864,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动，市场风险偏好提升"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 14:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year treasury yields hit a new high, reflecting growing fears of inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank hints at rate hikes",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank maintains current interest rates but signals readiness for future increases.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global stock markets mixed today",
+          "country": "GLOBAL",
+          "category": "Markets",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "Stock indices in Asia, Europe and US show varying performances.",
+          "affected_sectors": [
+            "Finance",
+            "Markets"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic indicators pointing to potential growth"
     }
   }
 ]
