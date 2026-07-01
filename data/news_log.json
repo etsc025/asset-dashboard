@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hikes interest rates amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank has raised interest rates to combat economic instability.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to higher borrowing costs."
-    }
-  },
-  {
     "timestamp": "2026-06-27 16:30",
     "data": {
       "breaking_news": [
@@ -8897,6 +8862,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate decisions could impact global financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-07-02 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75bps",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government has unveiled a new fiscal stimulus plan aimed at boosting economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "EU warns of inflation risks",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "The European Union has warned about potential inflation pressures, citing rising energy prices and supply chain disruptions.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike by US Federal Reserve"
     }
   }
 ]
