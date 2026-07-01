@@ -1,38 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has announced a rate hike, indicating continued economic growth.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates to be raised",
-          "country": "UK",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The Bank of England is expected to raise interest rates, supporting the UK economy.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike signals economic growth"
-    }
-  },
-  {
     "timestamp": "2026-06-27 15:30",
     "data": {
       "breaking_news": [
@@ -8882,6 +8849,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US central banks' actions could lead to significant market movements."
+    }
+  },
+  {
+    "timestamp": "2026-07-02 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase interest rates by 75 basis points, the largest hike in nearly 30 years.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU economy growth forecast revised downward",
+          "country": "EU",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The EU's economic outlook has been downgraded due to supply chain disruptions and energy price hikes.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Bitcoin hits all-time high amid bullish market sentiment",
+          "country": "Global",
+          "category": "Cryptocurrency",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Bitcoin reaches an unprecedented $45,000 level as investors rush into the digital asset.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Interest rate hike by US Fed could lead to economic slowdown"
     }
   }
 ]
