@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to announce another rate hike in the coming months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU bond yields rise as inflation fears grow",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Inflation concerns are driving up borrowing costs across Europe, affecting government and corporate bonds.",
-          "affected_sectors": [
-            "Finance",
-            "Government Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $30K amid regulatory uncertainty",
-          "country": "Global",
-          "category": "Technology",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Regulatory developments in major crypto markets are causing volatility in Bitcoin prices.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and inflation concerns loom, monitor closely."
-    }
-  },
-  {
     "timestamp": "2026-06-27 03:30",
     "data": {
       "breaking_news": [
@@ -8922,6 +8875,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK announces new fiscal measures to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统表示今年将再次加息，市场反应强烈。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "中国人民银行降低了存款准备金率，旨在刺激经济增长。",
+          "affected_sectors": [
+            "制造业",
+            "服务业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致行动，市场风险偏好提升"
     }
   }
 ]
