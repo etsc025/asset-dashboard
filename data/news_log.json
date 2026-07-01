@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield rises to 3.95%, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures",
-          "country": "UK",
-          "category": "Politics",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The UK government introduces tax cuts and increased spending to boost the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China reduces the RRR, signaling a potential easing of monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の新 fiscal 措置により経済を支援"
-    }
-  },
-  {
     "timestamp": "2026-06-27 11:30",
     "data": {
       "breaking_news": [
@@ -8912,6 +8864,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global economic indicators suggest continued growth with some sector-specific risks."
+    }
+  },
+  {
+    "timestamp": "2026-07-01 22:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in over a year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to boost economy",
+          "country": "UK",
+          "category": "Government",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK government introduces tax cuts and increased spending to stimulate economic recovery.",
+          "affected_sectors": [
+            "Finance",
+            "Government"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on UK fiscal measures"
     }
   }
 ]
