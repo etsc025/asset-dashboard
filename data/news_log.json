@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 18:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is expected to announce another rate hike in the coming weeks.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new banking regulations",
-          "country": "EU",
-          "category": "Regulatory Changes",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New rules aimed at improving financial stability and consumer protection are set to be implemented.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's stock market rebounds after decline",
-          "country": "中国",
-          "category": "Market Performance",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "After a recent downturn, Chinese stocks have shown signs of recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to economic uncertainties."
-    }
-  },
-  {
     "timestamp": "2026-06-27 18:30",
     "data": {
       "breaking_news": [
@@ -8909,6 +8864,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 06:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布上调存款准备金率，可能影响市场流动性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "美国主要股指开盘上涨，科技板块表现强劲。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行上调存款准备金率，影响市场流动性"
     }
   }
 ]
