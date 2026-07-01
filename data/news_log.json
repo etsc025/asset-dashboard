@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 10:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In the US, 10-year Treasury yields hit a new high of 3.98%, reflecting ongoing concerns about inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central bank hints at rate hikes to curb inflation",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The European Central Bank (ECB) signaled it may raise interest rates, signaling a shift towards tighter monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian currencies weaken amid US dollar strength",
-          "country": "Asia",
-          "category": "Currencies",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The Japanese yen and Korean won depreciated against the US dollar, reflecting global risk-off sentiment.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_OFF",
-      "top_alert": "US yields rise amid inflation fears"
-    }
-  },
-  {
     "timestamp": "2026-06-27 10:30",
     "data": {
       "breaking_news": [
@@ -8927,6 +8881,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets rally on US Treasury yields rise"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 21:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation concerns mount",
+          "country": "USA",
+          "category": "债券市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to raise interest rates",
+          "country": "EU",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "欧洲央行宣布将提高利率以对抗通膨。",
+          "affected_sectors": [
+            "货币市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要经济体政策转向，需密切关注"
     }
   }
 ]
