@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 07:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates again this year",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve is expected to increase interest rates for the third time in 2023.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU announces new banking regulations",
-          "country": "EU",
-          "category": "Regulation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "New EU banking rules are set to be implemented, potentially affecting financial institutions.",
-          "affected_sectors": [
-            "Banking"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has reduced the reserve requirement ratio, easing liquidity in the financial market.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes and regulatory changes loom."
-    }
-  },
-  {
     "timestamp": "2026-06-27 08:00",
     "data": {
       "breaking_news": [
@@ -8923,6 +8878,41 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global stock markets mixed on US earnings reports"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 18:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "经济政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国联邦储备系统宣布将基准利率上调75个基点，加剧市场波动。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU to implement stricter data protection laws",
+          "country": "EU",
+          "category": "法规变化",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧盟将实施更严格的个人数据保护法律，影响金融和科技行业。",
+          "affected_sectors": [
+            "金融科技",
+            "金融服务"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市场波动加剧"
     }
   }
 ]
