@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has increased the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced a series of economic measures aimed at reducing inflation and stabilizing the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets rally on Fed rate hike announcement"
-    }
-  },
-  {
     "timestamp": "2026-06-26 22:30",
     "data": {
       "breaking_news": [
@@ -8916,6 +8881,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息提振股市"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，市场预期将提振经济增长和股市表现。",
+          "affected_sectors": [
+            "银行业",
+            "股市"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升可能影响投资者信心和债券市场的稳定性。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "降息政策利好股市，需关注后续经济数据"
     }
   }
 ]
