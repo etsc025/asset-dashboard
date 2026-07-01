@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 09:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US Treasury yields higher, potentially signaling a shift towards more accommodative monetary policy.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face liquidity crunch amid economic uncertainty",
-          "country": "EU",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "European banks struggle with reduced cash reserves, raising concerns over financial stability.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally on US dollar weakness",
-          "country": "Asia",
-          "category": "Markets",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Weakness in the US dollar boosts Asian currencies and stock indices.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to inflation concerns."
-    }
-  },
-  {
     "timestamp": "2026-06-27 10:00",
     "data": {
       "breaking_news": [
@@ -8928,6 +8881,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "EU financial regulations could impact global banking sector."
+    }
+  },
+  {
+    "timestamp": "2026-07-01 21:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.95%, up from 3.78% yesterday.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates rise to 4.25%",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "UK Bank of England raises rate by 0.5%, bringing total up to 4.25%.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank cuts interest rates",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "ECB reduces rate from 3.25% to 3.00%, no change in quantitative easing.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets rally on US Treasury yields rise"
     }
   }
 ]
