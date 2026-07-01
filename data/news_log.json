@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 14:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face capital requirements increase",
-          "country": "EU",
-          "category": "Banking",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Regulators are considering stricter capital requirements for European banks to mitigate financial risks.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian markets rally on tech sector gains",
-          "country": "Asia",
-          "category": "Tech",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Positive earnings from major tech companies have boosted Asian stock indices.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Regulators consider stricter capital requirements for European banks"
-    }
-  },
-  {
     "timestamp": "2026-06-27 15:00",
     "data": {
       "breaking_news": [
@@ -8885,6 +8837,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes loom as inflation fears persist."
+    }
+  },
+  {
+    "timestamp": "2026-07-02 02:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "Bitcoin's Price Soars as Central Banks Halt QE",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US central banks halt quantitative easing, driving up Bitcoin prices.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Global Stocks Mixed After US Job Data",
+          "country": "GLOBAL",
+          "category": "Markets",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Mixed signals from US job data impact global stock markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "European Central Bank to Cut Rates",
+          "country": "EUROPE",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "ECB's rate cut is expected to boost European economies and stocks.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US central banks' actions could lead to significant market movements."
     }
   }
 ]
