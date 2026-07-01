@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 13:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record low amid economic concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "US 10-year Treasury yield hits record low, adding to worries about economic recovery.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK government introduces additional measures to support economy post-pandemic.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "EU sets ambitious climate targets for 2050",
-          "country": "EU",
-          "category": "Environment",
-          "impact": "HIGH",
-          "direction": "NEUTRAL",
-          "summary": "European Union outlines plans to reduce carbon emissions by 55% in next decade.",
-          "affected_sectors": [
-            "Energy",
-            "Transportation"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK announces new fiscal stimulus package for economic recovery"
-    }
-  },
-  {
     "timestamp": "2026-06-27 13:30",
     "data": {
       "breaking_news": [
@@ -8897,6 +8850,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行维持利率不变，但中国经济增长预期下调"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 01:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year, further tightening monetary policy.",
+          "affected_sectors": [
+            "Finance",
+            "Real Estate"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its invasion of Ukraine, potentially impacting global financial markets.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's GDP growth rate falls below expectations",
+          "country": "中国",
+          "category": "Economic Indicators",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "China's Gross Domestic Product (GDP) for the first quarter of 2023 is expected to grow at a slower pace than previously anticipated, signaling potential economic slowdown.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行一致加息预期增强"
     }
   }
 ]
