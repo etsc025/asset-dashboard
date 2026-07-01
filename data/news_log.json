@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26 23:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time since June.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU banks face capital shortfall amid economic uncertainty",
-          "country": "EU",
-          "category": "Banking Sector",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "European Central Bank (ECB) urges EU banks to raise additional capital by €100 billion.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin hits all-time high amid stimulus news",
-          "country": "Global",
-          "category": "Cryptocurrency",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Bitcoin price surges above $65,000 following US monetary policy announcement.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "ECB urges EU banks to raise €100 billion capital"
-    }
-  },
-  {
     "timestamp": "2026-06-27 00:00",
     "data": {
       "breaking_news": [
@@ -8913,6 +8868,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行继续宽松政策"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 10:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve raises interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised the federal funds rate by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut the RRR for banks, easing liquidity and potentially boosting lending.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "Oil prices surge as OPEC+ fails to reach production agreement",
+          "country": "世界",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "OPEC+ nations failed to agree on a production cut, pushing oil prices sharply higher.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "各国中央銀行の政策変更に市場が反応中"
     }
   }
 ]
