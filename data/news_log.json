@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-27 01:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Fed to raise interest rates by 75 basis points in July meeting",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The Federal Reserve is set to increase interest rates by 75 basis points at its upcoming meeting, a significant move that could impact global financial markets.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support struggling businesses",
-          "country": "UK",
-          "category": "Fiscal Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced additional fiscal measures aimed at supporting small and medium-sized enterprises (SMEs) during the economic downturn.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU warns of potential recession if inflation remains high",
-          "country": "EU",
-          "category": "Inflation",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "The European Union has warned that a prolonged period of high inflation could lead to a recession, prompting calls for urgent action from policymakers.",
-          "affected_sectors": [
-            "Economy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hike by US Fed could trigger global financial market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-27 01:30",
     "data": {
       "breaking_news": [
@@ -8918,6 +8873,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate hikes and economic uncertainties loom"
+    }
+  },
+  {
+    "timestamp": "2026-07-01 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another interest rate hike this year.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Politics",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The European Union has imposed additional economic sanctions on Russia in response to its actions in Ukraine.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "China's central bank has reduced the required reserve ratio, providing more liquidity to banks.",
+          "affected_sectors": [
+            "Finance",
+            "Banking"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球金融市場緊張度高"
     }
   }
 ]
