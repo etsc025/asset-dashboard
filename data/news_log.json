@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 11:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "USA: Fed announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve raised interest rates by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU: ECB to maintain status quo on monetary policy",
-          "country": "EU",
-          "category": "Monetary Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The European Central Bank decided not to change its current monetary policy stance.",
-          "affected_sectors": [
-            "Insurance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to economic slowdown"
-    }
-  },
-  {
     "timestamp": "2026-06-28 11:30",
     "data": {
       "breaking_news": [
@@ -8889,6 +8854,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global financial markets remain sensitive to economic data"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Inflation worries push US 10-year Treasury yields above 3.5% for the first time in months.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates hike to curb inflation",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The Bank of England raises interest rates by 0.5% to combat rising prices.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU bond yields edge up as ECB keeps rates steady",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "Eurozone government bond yields slightly increase despite ECB maintaining interest rates.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets remain volatile due to inflation pressures."
     }
   }
 ]
