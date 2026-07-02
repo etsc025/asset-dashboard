@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 19:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields hit record highs amid inflation concerns",
-          "country": "USA",
-          "category": "债券市场",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "Inflation fears push US 10-year Treasury yield above 3.95% for first time since 2018.",
-          "affected_sectors": [
-            "债券"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU central banks to meet on interest rates",
-          "country": "EU",
-          "category": "货币政策",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "Central banks in Europe are expected to discuss rate hikes at their upcoming meeting.",
-          "affected_sectors": [
-            "銀行業",
-            "証券市場"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin falls below $30,000 amid regulatory concerns",
-          "country": "USA",
-          "category": "加密货币",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Despite recent declines, Bitcoin is expected to rebound as regulatory clarity improves.",
-          "affected_sectors": [
-            "デジタル資産"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "EU central banks meeting for rate decisions"
-    }
-  },
-  {
     "timestamp": "2026-06-28 19:30",
     "data": {
       "breaking_news": [
@@ -8912,6 +8866,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行降息政策可能推动股市上涨"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 07:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行上调存款准备金率，市场反应不一",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "中国央行宣布上调存款准备金率，对市场情绪影响中性。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘上涨，科技股领涨",
+          "country": "美国",
+          "category": "股市动态",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "受良好财报季和经济数据支撑，美股开盘上扬，科技板块表现突出。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行暗示可能在年底前加息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "NEUTRAL",
+          "summary": "尽管市场预期已有所消化，但欧洲央行的言论仍对欧元区债券市场产生影响。",
+          "affected_sectors": [
+            "银行业",
+            "货币市场"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市上涨，但需关注货币政策变化"
     }
   }
 ]
