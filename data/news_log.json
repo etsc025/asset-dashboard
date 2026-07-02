@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 03:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反响强烈",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布降低贷款利率，提振了市场信心，预计对股市和房地产市场产生积极影响。",
-          "affected_sectors": [
-            "金融",
-            "房地产"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国科技巨头发布新财报，业绩超预期",
-          "country": "美国",
-          "category": "公司财报",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国科技巨头发布的最新财报显示营收和利润均超出市场预期，推动了股市上涨。",
-          "affected_sectors": [
-            "金融",
-            "科技"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振市场信心"
-    }
-  },
-  {
     "timestamp": "2026-06-28 03:30",
     "data": {
       "breaking_news": [
@@ -8907,6 +8872,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球金融市場リスク回避警報：注意高インフレと低金利環境"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 14:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates by 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is set to increase the federal funds rate by 75 basis points, signaling a strong stance against inflation.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The People's Bank of China has reduced the RRR for commercial banks, aiming to ease credit conditions and support economic growth.",
+          "affected_sectors": [
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Oil prices rise sharply amid geopolitical tensions in Europe",
+          "country": "EU",
+          "category": "Energy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Geopolitical tensions have led to a significant increase in oil prices, impacting global energy markets.",
+          "affected_sectors": [
+            "Energy",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike signals strong stance against inflation"
     }
   }
 ]
