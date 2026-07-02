@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 17:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation concerns grow",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Eurozone GDP growth forecast revised downward",
-          "country": "EUROZONE",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The Eurozone's economic outlook has been downgraded due to supply chain disruptions and low inflation.",
-          "affected_sectors": [
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "Bitcoin price surges on FTX exchange hack news",
-          "country": "GLOBAL",
-          "category": "Cryptocurrency",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The FTX hack has led to a significant increase in Bitcoin's value.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Investors should prepare for potential market volatility."
-    }
-  },
-  {
     "timestamp": "2026-06-28 17:30",
     "data": {
       "breaking_news": [
@@ -8912,6 +8867,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Treasury yields rise amid inflation concerns - High impact on financial markets."
+    }
+  },
+  {
+    "timestamp": "2026-07-03 05:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Government Bonds",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year Treasury yields hit a new high, reflecting investors' cautious optimism.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU central bank to cut interest rates",
+          "country": "EU",
+          "category": "Central Banks",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Central Bank is expected to announce rate cuts to boost economic growth.",
+          "affected_sectors": [
+            "Manufacturing",
+            "Retail"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's stock market gains on foreign inflows",
+          "country": "中国",
+          "category": "Stock Markets",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Foreign investors' purchases have driven Chinese stocks higher, signaling a positive outlook.",
+          "affected_sectors": [
+            "Technology",
+            "Energy"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global economic growth expected to improve with central bank support"
     }
   }
 ]
