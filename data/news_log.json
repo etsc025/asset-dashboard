@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 00:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行上调存款准备金率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行宣布上调存款准备金率，可能抑制信贷增长和投资活动。",
-          "affected_sectors": [
-            "银行业",
-            "制造业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "美国股市连续上涨，纳指创历史新高",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "尽管面临通胀压力，美国股市仍保持强劲势头，纳斯达克指数创下新高。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行暗示可能在未来加息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BEARISH",
-          "summary": "欧洲央行表示可能在不久的将来采取进一步紧缩措施以对抗通胀，市场反应敏感。",
-          "affected_sectors": [
-            "银行业",
-            "房地产"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行上调存款准备金率影响显著"
-    }
-  },
-  {
     "timestamp": "2026-06-28 01:30",
     "data": {
       "breaking_news": [
@@ -8901,6 +8854,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国の銀行規制懸念で市場不安定"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 12:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to taper QE in September, markets rally",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve hinted at reducing its quantitative easing (QE) program in September, sparking a market rally.",
+          "affected_sectors": [
+            "Financials"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "UK PM announces new fiscal stimulus package",
+          "country": "UK",
+          "category": "Government Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "British Prime Minister announces additional fiscal measures to support the economy amid ongoing pandemic challenges.",
+          "affected_sectors": [
+            "Finance",
+            "Healthcare"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU sets ambitious climate goals for 2050",
+          "country": "EU",
+          "category": "Environmental Policy",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "European Union commits to reducing greenhouse gas emissions by at least 55% below 1990 levels by 2030 and reaching carbon neutrality by 2050.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed action could impact global markets"
     }
   }
 ]
