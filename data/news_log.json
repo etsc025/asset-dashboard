@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 19:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation worries persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns push US 10-year Treasury yields above 3.5% for the first time in months.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK's GDP growth forecast revised downward",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "UK economy expected to grow by 1.2% in Q4, down from previous estimate of 1.5%.",
-          "affected_sectors": [
-            "Finance",
-            "Energy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European Central Bank keeps interest rates unchanged",
-          "country": "EU",
-          "category": "Central Banks",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "ECB maintains current rate at 2%, citing stable inflation outlook.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "UK economy expected to grow slower than anticipated"
-    }
-  },
-  {
     "timestamp": "2026-06-28 20:00",
     "data": {
       "breaking_news": [
@@ -8912,6 +8866,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球股市上涨，但需关注货币政策变化"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 07:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise as inflation fears intensify",
+          "country": "USA",
+          "category": "Economy & Finance",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "In response to rising inflation concerns, US Treasury yields have increased, signaling a potential shift towards higher interest rates.",
+          "affected_sectors": [
+            "Banking",
+            "Insurance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU launches inquiry into Chinese tech giant ByteDance's TikTok presence in Europe",
+          "country": "EU",
+          "category": "Technology & Media",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The EU has initiated a formal investigation into the use of ByteDance’s TikTok app, raising concerns about data privacy and national security.",
+          "affected_sectors": [
+            "Tech Companies"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK's central bank hints at rate hike amid strong economic growth",
+          "country": "UK",
+          "category": "Economy & Finance",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The Bank of England has signaled a possible interest rate increase, reflecting the UK’s robust economic performance.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU investigation into TikTok could impact data privacy and national security."
     }
   }
 ]
