@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 08:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率，市场反应积极",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，市场普遍认为这将刺激经济增长并提振股市。",
-          "affected_sectors": [
-            "银行",
-            "房地产"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国国债收益率上升，美元走强",
-          "country": "美国",
-          "category": "债券市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，表明投资者对经济前景持乐观态度，可能推动美元汇率上涨。",
-          "affected_sectors": [
-            "外汇"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "欧洲央行维持利率不变，市场反应平淡",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "欧洲央行今日宣布维持利率不变，与市场预期一致，对金融市场影响有限。",
-          "affected_sectors": [
-            "银行",
-            "保险"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "中国央行降息提振股市"
-    }
-  },
-  {
     "timestamp": "2026-06-28 08:30",
     "data": {
       "breaking_news": [
@@ -8905,6 +8858,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "美国股市开盘前遭遇抛售潮"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 19:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US 10-year bond yield hits 3.94%, up from 3.75% yesterday, reflecting market's growing concern over inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU regulators investigate crypto exchange for money laundering",
+          "country": "EU",
+          "category": "Regulation",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "European Commission initiates probe into Binance Europe for suspected money laundering activities.",
+          "affected_sectors": [
+            "Crypto"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio",
+          "country": "中国",
+          "category": "Economy",
+          "impact": "LOW",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China reduces the RRR to boost credit growth and support economic recovery.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "EU regulators investigate major crypto exchange for money laundering activities"
     }
   }
 ]
