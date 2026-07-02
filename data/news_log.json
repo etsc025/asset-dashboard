@@ -1,51 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 12:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US 10-year yield hits a new high, reflecting growing fears of higher inflation.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces fiscal stimulus package",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK government unveils £50 billion economic support plan to boost growth.",
-          "affected_sectors": [
-            "Finance",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "The People's Bank of China reduces the RRR for banks, easing liquidity conditions.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "政府の財政支援が経済成長を促進する可能性がある"
-    }
-  },
-  {
     "timestamp": "2026-06-28 12:30",
     "data": {
       "breaking_news": [
@@ -8901,6 +8855,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US Fed rate hike to be closely watched for economic impact"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 23:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "US Treasury yields increase, reflecting growing inflation fears.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK interest rates cut to boost economy",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The Bank of England cuts interest rates in response to economic challenges.",
+          "affected_sectors": [
+            "Finance",
+            "Economy"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Global tech stocks rally as China unveils stimulus measures",
+          "country": "China, USA",
+          "category": "Technology",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "Chinese government's stimulus plans boost global tech markets.",
+          "affected_sectors": [
+            "Technology",
+            "Finance"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global tech stocks rally amid China's economic measures"
     }
   }
 ]
