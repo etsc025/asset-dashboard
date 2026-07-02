@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 15:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Global Central Banks to Raise Interest Rates",
-          "country": "USA",
-          "category": "Economic Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The USA is considering raising interest rates, potentially impacting global markets.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "EU to Implement New Tax on Digital Companies",
-          "country": "EU",
-          "category": "Taxation",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "EU plans to introduce a new tax on digital companies, expected to affect tech and financial sectors.",
-          "affected_sectors": [
-            "Technology",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Oil Prices Surge Due to Supply Concerns",
-          "country": "OIL_MARKET",
-          "category": "Energy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Global oil prices have surged due to supply concerns, potentially impacting energy sector investments.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes could lead to economic instability."
-    }
-  },
-  {
     "timestamp": "2026-06-28 16:00",
     "data": {
       "breaking_news": [
@@ -8919,6 +8872,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行同步调整货币政策，市场波动加剧"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 03:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降低贷款利率，市场乐观情绪高涨",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低贷款利率，提振市场信心，股票和债券市场普遍上涨。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "美国股市开盘下跌，科技股领跌",
+          "country": "美国",
+          "category": "股市行情",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受科技巨头业绩不及预期影响，美股三大指数开盘即现下跌，投资者情绪受到打击。",
+          "affected_sectors": [
+            "科技"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "欧洲央行维持利率不变，市场反应平淡",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "LOW",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率水平不变，对市场影响有限，股市小幅波动后恢复平静。",
+          "affected_sectors": [
+            "金融"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "科技巨头业绩不佳风险加剧"
     }
   }
 ]
