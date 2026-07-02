@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 09:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Economic Indicators",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to support economy",
-          "country": "UK",
-          "category": "Government Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced additional economic stimulus measures aimed at stabilizing the market and supporting businesses.",
-          "affected_sectors": [
-            "Finance",
-            "Business"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Chinese regulators approve new tech companies for IPOs",
-          "country": "China",
-          "category": "Economic Indicators",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The China Securities Regulatory Commission has approved applications from several new technology firms to list on the stock market.",
-          "affected_sectors": [
-            "Finance",
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "US Fed rate hike boosts economic confidence"
-    }
-  },
-  {
     "timestamp": "2026-06-28 09:30",
     "data": {
       "breaking_news": [
@@ -8903,6 +8855,40 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "US central banks' potential interest rate hikes causing concern"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 20:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to raise interest rates again this year",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve is expected to announce another rate hike this year, boosting the economy.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new sanctions on Russia",
+          "country": "EU",
+          "category": "Geopolitical Events",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "EU countries have decided to impose additional sanctions on Russia in response to its actions.",
+          "affected_sectors": [
+            "Energy",
+            "Defense"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "US Fed rate hike expected, EU sanctions on Russia"
     }
   }
 ]
