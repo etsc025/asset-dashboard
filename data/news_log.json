@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 16:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Federal Reserve announces rate hike of 75 basis points",
-          "country": "USA",
-          "category": "Monetary Policy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly 30 years.",
-          "affected_sectors": [
-            "Banking",
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economic Policy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "The UK government has introduced new tax and spending policies aimed at reducing inflation.",
-          "affected_sectors": [
-            "Retail",
-            "Manufacturing"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio for banks",
-          "country": "中国",
-          "category": "Monetary Policy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "China's central bank has reduced the reserve requirement ratio, easing liquidity in the banking system.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Global financial markets remain volatile due to multiple policy announcements."
-    }
-  },
-  {
     "timestamp": "2026-06-28 16:30",
     "data": {
       "breaking_news": [
@@ -8917,6 +8869,51 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "科技巨头业绩不佳风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 04:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "经济",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "美国国债收益率上升，因通胀担忧加剧。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European banks see mixed results in Q3 earnings",
+          "country": "欧洲",
+          "category": "金融",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲银行在第三季度财报中表现参差不齐。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "Asian equity markets rally as China's PMI hits record high",
+          "country": "アジア",
+          "category": "市场",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "亚洲股市因中国PMI创下历史新高而上涨。",
+          "affected_sectors": [
+            "股票市场"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行会议即将召开"
     }
   }
 ]
