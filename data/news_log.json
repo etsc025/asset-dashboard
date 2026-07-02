@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 06:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "中国央行宣布降低贷款利率",
-          "country": "中国",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "中国央行今日宣布降低贷款利率，提振市场信心。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "美国股市开盘前遭遇抛售潮",
-          "country": "美国",
-          "category": "股市动态",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "受科技股下跌影响，美股开盘前遭遇抛售潮。",
-          "affected_sectors": [
-            "科技行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "欧洲央行考虑进一步降息",
-          "country": "欧洲",
-          "category": "货币政策",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "欧洲央行可能进一步降息以刺激经济增长。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "美国股市开盘前遭遇抛售潮，科技股受重创"
-    }
-  },
-  {
     "timestamp": "2026-06-28 07:00",
     "data": {
       "breaking_news": [
@@ -8904,6 +8859,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Interest rate cuts and yield movements keep markets volatile."
+    }
+  },
+  {
+    "timestamp": "2026-07-02 18:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Fed to announce interest rate decision tomorrow",
+          "country": "USA",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The upcoming US Federal Reserve meeting is expected to impact the global financial markets.",
+          "affected_sectors": [
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU announces new economic stimulus package",
+          "country": "EU",
+          "category": "Government Policies",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "EU's latest economic support measures are aimed at stabilizing the market but may not significantly affect prices.",
+          "affected_sectors": [
+            "Energy",
+            "Manufacturing"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "China reports strong Q2 GDP growth",
+          "country": "CHN",
+          "category": "Economic Indicators",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "China's second quarter GDP growth exceeded expectations, boosting global markets.",
+          "affected_sectors": [
+            "Technology",
+            "Consumer Goods"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "Global financial markets to be influenced by upcoming major announcements."
     }
   }
 ]
