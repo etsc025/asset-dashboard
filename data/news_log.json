@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 12:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "Bitcoin price surges as central banks consider interest rate hikes",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "US economic data and central bank decisions are causing volatility in the markets.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global bond yields rise amid inflation concerns",
-          "country": "GLOBAL",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "Rising interest rates could lead to a slowdown in economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Real Estate"
-          ],
-          "action_needed": false
-        },
-        {
-          "title": "UK government announces new fiscal stimulus package",
-          "country": "UK",
-          "category": "Government",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "UK government's move is expected to boost domestic demand and employment.",
-          "affected_sectors": [
-            "Manufacturing",
-            "Retail"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate hikes may lead to economic slowdown."
-    }
-  },
-  {
     "timestamp": "2026-06-28 13:00",
     "data": {
       "breaking_news": [
@@ -8903,6 +8856,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Global tech stocks rally amid China's economic measures"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 23:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国政府今日宣布降息，旨在刺激经济增长。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "市场动态",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "受财报季影响，美股开盘后出现大幅下跌。",
+          "affected_sectors": [
+            "科技股",
+            "金融股"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行考虑进一步宽松货币政策",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "欧洲央行可能采取更多措施来支持经济复苏。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球股市波动加剧，投资者需谨慎。"
     }
   }
 ]
