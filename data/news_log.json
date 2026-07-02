@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 18:30",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year yields above key psychological level.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to boost economy, banks warn of liquidity squeeze",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "UK's Bank cuts rate but warns of potential funding crunch for smaller firms.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts reserve requirement ratio to boost lending",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "Central bank lowers RRR, aiming to ease credit conditions and support economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Banking"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球主要央行同步宽松，市场信心提升"
-    }
-  },
-  {
     "timestamp": "2026-06-28 19:00",
     "data": {
       "breaking_news": [
@@ -8913,6 +8865,53 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "中国央行上调存款准备金率风险加剧"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 06:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降息，可能刺激经济增长和股市上涨。",
+          "affected_sectors": [
+            "银行业",
+            "房地产行业"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国国债收益率上升",
+          "country": "美国",
+          "category": "利率动态",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "美国国债收益率上升反映了市场对经济复苏的乐观预期。",
+          "affected_sectors": [
+            "债券市场"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲股市因疫情担忧而下跌",
+          "country": "欧洲",
+          "category": "市场情绪",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "受新冠病例增加影响，欧洲主要股指普遍下滑。",
+          "affected_sectors": [
+            "银行业",
+            "保险业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策可能推动股市上涨"
     }
   }
 ]
