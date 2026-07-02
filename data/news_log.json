@@ -1,53 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 15:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears mount",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation concerns are driving US Treasury yields higher, indicating a potential shift towards risk-on sentiment.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK announces new fiscal measures to combat inflation",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The UK government has announced new fiscal measures aimed at combating rising inflation, signaling a positive outlook for the economy.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "China's central bank cuts interest rates to boost growth",
-          "country": "中国",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "The People's Bank of China has cut interest rates, indicating a supportive stance towards economic growth.",
-          "affected_sectors": [
-            "Finance",
-            "Government"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "各国政府和央行积极应对通胀，经济前景乐观"
-    }
-  },
-  {
     "timestamp": "2026-06-28 15:30",
     "data": {
       "breaking_news": [
@@ -8919,6 +8871,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "UK interest rates cut to boost economy"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 03:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Federal Reserve announces rate hike of 75 basis points",
+          "country": "USA",
+          "category": "Monetary Policy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US Federal Reserve has raised interest rates by 75 basis points, the largest increase in nearly three decades.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "China's central bank cuts reserve requirement ratio (RRR) for banks",
+          "country": "中国",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The People's Bank of China has cut the RRR for commercial banks, signaling a potential easing in monetary policy.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "European Central Bank (ECB) to announce rate hike decision today",
+          "country": "EU",
+          "category": "Monetary Policy",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "The ECB is expected to make a decision on interest rates, but the outcome remains uncertain.",
+          "affected_sectors": [
+            "Banking",
+            "Finance"
+          ],
+          "action_needed": false
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "全球主要央行同步调整货币政策，市场波动加剧"
     }
   }
 ]
