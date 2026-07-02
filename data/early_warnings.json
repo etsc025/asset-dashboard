@@ -1,188 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12 08:30",
-    "ticker": "ALL",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-05",
-          "filer": [
-            "Rex Anne G  (CIK 0001538751)",
-            "Andersons, Inc.  (CIK 0000821026)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-10",
-          "filer": [
-            "Rauch Douglas Gregory  (CIK 0001724711)",
-            "PAR TECHNOLOGY CORP  (CIK 0000708821)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-08",
-          "filer": [
-            "Kumar Neil  (CIK 0001742485)",
-            "BridgeBio Pharma, Inc.  (CIK 0001743881)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-10",
-          "filer": [
-            "Singh Narinder  (CIK 0001866119)",
-            "PAR TECHNOLOGY CORP  (CIK 0000708821)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-10",
-          "filer": [
-            "RUSSO CYNTHIA A  (CIK 0001246465)",
-            "PAR TECHNOLOGY CORP  (CIK 0000708821)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-12 08:30",
-    "ticker": "ALL",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.41（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.41,
-      "pc_ratio_oi": 1.34,
-      "total_put_vol": 316,
-      "total_call_vol": 776
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:00",
-    "ticker": "STX",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に5件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "Romano Gianluca  (CIK 0001764650)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "Chong Kian Fatt  (CIK 0001987421)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "MOSLEY WILLIAM D  (CIK 0001388390)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "Morris John Christopher  (CIK 0001988271)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        },
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "Teh Ban Seng  (CIK 0001801425)",
-            "Seagate Technology Holdings plc  (CIK 0001137789)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:00",
-    "ticker": "STX",
-    "type": "Put/Call比率上昇",
-    "level": "MEDIUM",
-    "message": "P/C比率=1.94（やや弱気）",
-    "data": {
-      "pc_ratio_volume": 1.94,
-      "pc_ratio_oi": 1.05,
-      "total_put_vol": 7144,
-      "total_call_vol": 3687
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:00",
-    "ticker": "1357.HK",
-    "type": "出来高増加",
-    "level": "MEDIUM",
-    "message": "出来高2.2倍（5日平均比3.3倍）",
-    "data": {
-      "vol_ratio": 2.24
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:00",
-    "ticker": "EXE",
-    "type": "Put/Call比率異常（下落警戒）",
-    "level": "HIGH",
-    "message": "P/C比率=5.31（Put優勢・下落ヘッジ増加）",
-    "data": {
-      "pc_ratio_volume": 5.31,
-      "pc_ratio_oi": 2.13,
-      "total_put_vol": 1683,
-      "total_call_vol": 317
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:00",
-    "ticker": "KLAC",
-    "type": "インサイダー取引報告",
-    "level": "MEDIUM",
-    "message": "直近7日間に1件のForm 4提出",
-    "data": {
-      "trades": [
-        {
-          "date": "2026-06-11",
-          "filer": [
-            "WALLACE RICHARD P  (CIK 0001196898)",
-            "KLA CORP  (CIK 0000319201)"
-          ],
-          "form": ""
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-06-12 22:01",
-    "ticker": "MPC",
-    "type": "Put/Call比率低下（上昇期待）",
-    "level": "LOW",
-    "message": "P/C比率=0.18（強気・Call優勢）",
-    "data": {
-      "pc_ratio_volume": 0.18,
-      "pc_ratio_oi": 0.58,
-      "total_put_vol": 430,
-      "total_call_vol": 2385
-    }
-  },
-  {
     "timestamp": "2026-06-12 22:01",
     "ticker": "DOW",
     "type": "Put/Call比率低下（上昇期待）",
@@ -4547,6 +4364,186 @@
       "pc_ratio_oi": 1.5,
       "total_put_vol": 702,
       "total_call_vol": 359
+    }
+  },
+  {
+    "timestamp": "2026-07-02 08:30",
+    "ticker": "ALL",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-06-25",
+          "filer": [
+            "Heppner David R  (CIK 0002141727)",
+            "Andersons, Inc.  (CIK 0000821026)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-30",
+          "filer": [
+            "Huang Jack Jiajia  (CIK 0002029760)",
+            "51Talk Online Education Group  (CIK 0001659494)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-30",
+          "filer": [
+            "Malone Mary Alice Dorrance JR  (CIK 0002078870)",
+            "CAMPBELL'S Co  (CIK 0000016732)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-30",
+          "filer": [
+            "STOCKMAN JAMES D  (CIK 0001707480)",
+            "DILLARD'S, INC.  (CIK 0000028917)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-06-25",
+          "filer": [
+            "Ryan Aidan  (CIK 0002135681)",
+            "Energy Recovery, Inc.  (CIK 0001421517)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-02 08:30",
+    "ticker": "ALL",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.63（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.63,
+      "pc_ratio_oi": 0.98,
+      "total_put_vol": 474,
+      "total_call_vol": 290
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:01",
+    "ticker": "AKAM",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.61（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.61,
+      "pc_ratio_oi": 0.79,
+      "total_put_vol": 1359,
+      "total_call_vol": 844
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:01",
+    "ticker": "CF",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.18（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.18,
+      "pc_ratio_oi": 0.34,
+      "total_put_vol": 388,
+      "total_call_vol": 2117
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:02",
+    "ticker": "DOW",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.76（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.76,
+      "pc_ratio_oi": 1.79,
+      "total_put_vol": 3320,
+      "total_call_vol": 1883
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:02",
+    "ticker": "EXE",
+    "type": "Put/Call比率低下（上昇期待）",
+    "level": "LOW",
+    "message": "P/C比率=0.18（強気・Call優勢）",
+    "data": {
+      "pc_ratio_volume": 0.18,
+      "pc_ratio_oi": 0.78,
+      "total_put_vol": 739,
+      "total_call_vol": 4106
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:02",
+    "ticker": "EXPE",
+    "type": "インサイダー取引報告",
+    "level": "MEDIUM",
+    "message": "直近7日間に5件のForm 4提出",
+    "data": {
+      "trades": [
+        {
+          "date": "2026-07-01",
+          "filer": [
+            "Menendez-Cambo Patricia  (CIK 0001855187)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-07-01",
+          "filer": [
+            "Von Furstenberg Alexander  (CIK 0001451171)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-07-01",
+          "filer": [
+            "Clinton Chelsea  (CIK 0001530920)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-07-01",
+          "filer": [
+            "KHOSROWSHAHI DARA  (CIK 0001184237)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        },
+        {
+          "date": "2026-07-01",
+          "filer": [
+            "Dubugras Henrique Vasoncelos  (CIK 0001866429)",
+            "Expedia Group, Inc.  (CIK 0001324424)"
+          ],
+          "form": ""
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-07-02 22:02",
+    "ticker": "EXPE",
+    "type": "Put/Call比率上昇",
+    "level": "MEDIUM",
+    "message": "P/C比率=1.88（やや弱気）",
+    "data": {
+      "pc_ratio_volume": 1.88,
+      "pc_ratio_oi": 1.49,
+      "total_put_vol": 840,
+      "total_call_vol": 447
     }
   }
 ]

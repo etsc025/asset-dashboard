@@ -1,20 +1,22 @@
 {
-  "alert": false,
-  "level": "NORMAL",
-  "reasons": [],
-  "timestamp": "2026-07-01 22:10",
+  "alert": true,
+  "level": "HIGH",
+  "reasons": [
+    "先物下落: ES=-0.2% NQ=-1.5%（注意）"
+  ],
+  "timestamp": "2026-07-02 08:30",
   "vix": {
-    "vix_current": 16.86,
-    "vix_change": 2.49,
+    "vix_current": 16.59,
+    "vix_change": 0.85,
     "level": "NORMAL",
-    "message": "VIX=16.9 (+2.5%) 正常範囲"
+    "message": "VIX=16.6 (+0.9%) 正常範囲"
   },
   "futures": {
-    "es_change": -0.25,
-    "nq_change": -0.81,
-    "spy_price": 746.77,
-    "es_price": 7529.25,
-    "level": "NORMAL",
-    "message": "先物正常: ES=-0.2% NQ=-0.8%"
+    "es_change": -0.16,
+    "nq_change": -1.53,
+    "spy_price": 745.76,
+    "es_price": 7536.25,
+    "level": "HIGH",
+    "message": "先物下落: ES=-0.2% NQ=-1.5%（注意）"
   }
 }
