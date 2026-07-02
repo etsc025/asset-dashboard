@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 00:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise as inflation fears persist",
-          "country": "USA",
-          "category": "Bond Markets",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "In response to rising inflation concerns, US Treasury yields have increased.",
-          "affected_sectors": [
-            "Finance"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK's GDP growth forecast revised downwards",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "BEARISH",
-          "summary": "The UK's economic growth outlook has been downgraded due to Brexit uncertainties.",
-          "affected_sectors": [
-            "Financial Services"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Bitcoin falls below $40,000 amid regulatory concerns",
-          "country": "Global",
-          "category": "Cryptocurrencies",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Despite recent declines, Bitcoin remains above key support levels.",
-          "affected_sectors": [
-            "Technology"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Brexit risks escalate as UK GDP growth revised down"
-    }
-  },
-  {
     "timestamp": "2026-06-28 00:30",
     "data": {
       "breaking_news": [
@@ -8913,6 +8868,39 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要股市上涨，但需警惕潜在风险"
+    }
+  },
+  {
+    "timestamp": "2026-07-02 11:30",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国の銀行が新たな規制を受けた",
+          "country": "中国",
+          "category": "金融政策",
+          "impact": "HIGH",
+          "direction": "BEARISH",
+          "summary": "中国の主要 banks が新たな規制を受けると報じられ、市場は不安定な雰囲気を強めている。",
+          "affected_sectors": [
+            "銀行"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "米国債利回りが上昇",
+          "country": "アメリカ",
+          "category": "利率動向",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "米国の10年物国債利回りが上昇し、長期金利の上昇懸念から市場は落ち着く兆しが。",
+          "affected_sectors": [
+            "証券"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国の銀行規制懸念で市場不安定"
     }
   }
 ]
