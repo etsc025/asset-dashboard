@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 21:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "经济",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "美国国债收益率上升，因通胀担忧加剧。这可能预示着货币政策的进一步收紧。",
-          "affected_sectors": [
-            "债券市场"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "European banks face liquidity crunch amid eurozone debt crisis",
-          "country": "欧洲",
-          "category": "金融",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "欧洲银行面临流动性短缺，因为欧元区债务危机仍在持续。这可能影响到整个区域的经济稳定。",
-          "affected_sectors": [
-            "银行业"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Asian equity markets rally on positive earnings reports",
-          "country": "亚洲",
-          "category": "市场",
-          "impact": "MEDIUM",
-          "direction": "BULLISH",
-          "summary": "亚洲股市因积极的盈利报告而上涨。这表明投资者对亚洲企业的前景持乐观态度。",
-          "affected_sectors": [
-            "股票市场"
-          ],
-          "action_needed": true
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "全球金融环境保持警惕"
-    }
-  },
-  {
     "timestamp": "2026-06-28 21:30",
     "data": {
       "breaking_news": [
@@ -8896,6 +8851,54 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "全球主要央行一致行动"
+    }
+  },
+  {
+    "timestamp": "2026-07-03 09:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "US Treasury yields rise amid inflation concerns",
+          "country": "USA",
+          "category": "Economy",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "The US 10-year Treasury yield hits a six-month high, reflecting growing fears of higher inflation.",
+          "affected_sectors": [
+            "Finance",
+            "Energy"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "UK announces new fiscal measures to combat recession",
+          "country": "UK",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BULLISH",
+          "summary": "The UK government outlines plans for additional spending and tax cuts aimed at stabilizing the economy during a projected recession.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "EU warns of potential economic downturn",
+          "country": "EU",
+          "category": "Economy",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "The European Commission issues a warning about possible economic contraction, citing ongoing geopolitical tensions and supply chain disruptions.",
+          "affected_sectors": [
+            "Finance",
+            "Manufacturing"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "UK announces new fiscal measures to combat recession"
     }
   }
 ]
