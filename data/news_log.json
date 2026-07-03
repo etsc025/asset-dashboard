@@ -1,52 +1,5 @@
 [
   {
-    "timestamp": "2026-06-28 22:00",
-    "data": {
-      "breaking_news": [
-        {
-          "title": "US Treasury yields rise amid inflation concerns",
-          "country": "USA",
-          "category": "Economy",
-          "impact": "HIGH",
-          "direction": "BULLISH",
-          "summary": "Inflation fears push US 10-year Treasury yields above 3.5% for first time in months.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "UK interest rates cut to support economy",
-          "country": "UK",
-          "category": "Economy",
-          "impact": "MEDIUM",
-          "direction": "NEUTRAL",
-          "summary": "The Bank of England cuts the base rate to 1.5% in response to economic slowdown.",
-          "affected_sectors": [
-            "Finance",
-            "Economy"
-          ],
-          "action_needed": true
-        },
-        {
-          "title": "Global oil prices edge lower amid supply concerns",
-          "country": "Global",
-          "category": "Energy",
-          "impact": "LOW",
-          "direction": "NEUTRAL",
-          "summary": "Oil prices fall slightly as OPEC+ maintains production quotas.",
-          "affected_sectors": [
-            "Energy"
-          ],
-          "action_needed": false
-        }
-      ],
-      "market_sentiment": "RISK_ON",
-      "top_alert": "Interest rate cuts and yield rises indicate economic uncertainty."
-    }
-  },
-  {
     "timestamp": "2026-06-28 22:30",
     "data": {
       "breaking_news": [
@@ -8899,6 +8852,52 @@
       ],
       "market_sentiment": "RISK_ON",
       "top_alert": "Investors should remain cautious in volatile markets."
+    }
+  },
+  {
+    "timestamp": "2026-07-03 10:00",
+    "data": {
+      "breaking_news": [
+        {
+          "title": "中国央行宣布降息政策",
+          "country": "中国",
+          "category": "货币政策",
+          "impact": "HIGH",
+          "direction": "BULLISH",
+          "summary": "中国央行宣布降低基准利率，提振市场信心。",
+          "affected_sectors": [
+            "银行业",
+            "房地产"
+          ],
+          "action_needed": true
+        },
+        {
+          "title": "美国股市开盘前遭遇抛售潮",
+          "country": "美国",
+          "category": "股票市场",
+          "impact": "MEDIUM",
+          "direction": "BEARISH",
+          "summary": "美股开盘前出现大规模抛售，科技股领跌。",
+          "affected_sectors": [
+            "科技行业"
+          ],
+          "action_needed": false
+        },
+        {
+          "title": "欧洲央行维持利率不变但暗示可能降息",
+          "country": "欧洲",
+          "category": "货币政策",
+          "impact": "MEDIUM",
+          "direction": "NEUTRAL",
+          "summary": "欧洲央行宣布维持现有利率不变，但表示未来可能会进一步降息以刺激经济。",
+          "affected_sectors": [
+            "银行业"
+          ],
+          "action_needed": true
+        }
+      ],
+      "market_sentiment": "RISK_ON",
+      "top_alert": "中国央行降息政策提振市场信心"
     }
   }
 ]
